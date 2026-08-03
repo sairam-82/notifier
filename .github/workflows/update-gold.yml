@@ -1,0 +1,54 @@
+name: Update Gold Price
+
+on:
+  schedule:
+    # 04:00 UTC = 09:30 IST (India Standard Time, UTC+5:30)
+    - cron: "0 4 * * *"
+    # 09:30 UTC = 15:00 IST
+    - cron: "30 9 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: gold-price-update
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run gold price update
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          SEND_DAILY_SUMMARY: ${{ vars.SEND_DAILY_SUMMARY || 'false' }}
+          DAILY_MOVE_ALERT_PERCENT: ${{ vars.DAILY_MOVE_ALERT_PERCENT || '1.0' }}
+          MAX_DAILY_CHANGE_PERCENT: ${{ vars.MAX_DAILY_CHANGE_PERCENT || '10' }}
+        run: python scripts/update.py
+
+      - name: Commit and push data changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/history.json data/alert_state.json site/data/history.json site/data/stats.json
+          if git diff --staged --quiet; then
+            echo "No data changes to commit."
+          else
+            git commit -m "chore: update gold price data"
+            git push
+          fi

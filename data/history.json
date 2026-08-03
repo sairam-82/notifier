@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2026-07-25",
+    "price": 13285.0,
+    "source": "goodreturns",
+    "fetched_at": "2026-07-25T12:00:00+05:30"
+  },
+  {
+    "date": "2026-07-26",
+    "price": 13285.0,
+    "source": "goodreturns",
+    "fetched_at": "2026-07-26T12:00:00+05:30"
+  },
+  {
+    "date": "2026-07-27",
+    "price": 13370.0,
+    "source": "goodreturns",
+    "fetched_at": "2026-07-27T12:00:00+05:30"
+  },
+  {
+    "date": "2026-07-28",
+    "price": 13215.0,
+    "source": "goodreturns",
+    "fetched_at": "2026-07-28T12:00:00+05:30"
+  },
+  {
+    "date": "2026-07-29",
+    "price": 13155.0,
+    "source": "goodreturns",
+    "fetched_at": "2026-07-29T12:00:00+05:30"
+  },
+  {
+    "date": "2026-07-30",
+    "price": 13230.0,
+    "source": "goodreturns",
+    "fetched_at": "2026-07-30T12:00:00+05:30"
+  },
+  {
+    "date": "2026-07-31",
+    "price": 13255.0,
+    "source": "goodreturns",
+    "fetched_at": "2026-07-31T12:00:00+05:30"
+  },
+  {
+    "date": "2026-08-01",
+    "price": 13220.0,
+    "source": "goodreturns",
+    "fetched_at": "2026-08-01T12:00:00+05:30"
+  },
+  {
+    "date": "2026-08-02",
+    "price": 13220.0,
+    "source": "goodreturns",
+    "fetched_at": "2026-08-02T12:00:00+05:30"
+  },
+  {
+    "date": "2026-08-03",
+    "price": 13220.0,
+    "source": "goodreturns",
+    "fetched_at": "2026-08-03T15:01:30.229563+05:30"
+  }
+]
