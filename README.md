@@ -226,7 +226,7 @@ Then push `data/history.json` and `site/data/*` to GitHub.
 
 ## Alerts
 
-By default (`SEND_EVERY_UPDATE=true`), **every successful scrape** sends a Telegram message — same cadence as website data updates (~9:30 AM / 3:00 PM IST, plus manual runs).
+By default (`SEND_EVERY_UPDATE=true`), **every successful scrape** sends a Telegram message — same cadence as website data updates (~9:30 AM / 6:00 PM IST, plus manual runs).
 
 **Important vs routine:**
 
@@ -311,8 +311,8 @@ Schedule (UTC → IST):
 
 | Cron (UTC) | IST |
 | --- | --- |
-| `0 4 * * *` | ~09:30 AM |
-| `30 9 * * *` | ~03:00 PM |
+| `0 4 * * *` | ~09:30 AM (morning / opening) |
+| `30 12 * * *` | ~06:00 PM (after typical ~5:00 PM IBJA close) |
 
 Also supports **Run workflow** (manual).
 
