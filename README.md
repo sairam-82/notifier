@@ -185,6 +185,29 @@ If high == low → position = 50%.
 
 Daily movement (▲/▼) is shown **separately** and is not confused with buyer status.
 
+## One-time history backfill (free IBJA 916)
+
+Goodreturns only exposes ~10 days. To seed more history **for free**:
+
+```powershell
+cd c:\Users\SaiRamMojjada\practice\notifier
+pip install -r requirements.txt
+python scripts/backfill_ibja.py --dry-run
+python scripts/backfill_ibja.py
+```
+
+What it imports:
+- IBJA India **Gold 916** (≈22K) benchmark rates
+- Converted from **₹/10g → ₹/g**
+- Prefer **PM** (closing) session
+- Sources: ibjarates.com 30-day PDF + ibja.co daily report PDFs (best-effort)
+- Gap-fill only (does **not** overwrite existing Goodreturns days)
+- Marked as `"source": "ibja_916"`
+
+**Disclaimer:** IBJA is India-wide bullion benchmark, not Hyderabad Goodreturns retail. Good for trend/range context; live daily updates still come from Goodreturns.
+
+Then push `data/history.json` and `site/data/*` to GitHub.
+
 ## Alerts
 
 By default (`SEND_EVERY_UPDATE=true`), **every successful scrape** sends a Telegram message — same cadence as website data updates (~9:30 AM / 3:00 PM IST, plus manual runs).

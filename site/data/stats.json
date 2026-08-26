@@ -4,7 +4,7 @@
   "daily_change": 0.0,
   "daily_change_percent": 0.0,
   "daily_direction": "flat",
-  "position_30d": 98.93,
+  "position_30d": 98.97,
   "classification": "NEAR_30D_HIGH",
   "classification_label": "NEAR 30D HIGH",
   "period_7d": {
@@ -16,30 +16,30 @@
     "count": 7
   },
   "period_30d": {
-    "low": 13155.0,
+    "low": 13086.5,
     "high": 15030.0,
-    "average": 14096.47,
+    "average": 13969.03,
     "change": 1795.0,
     "change_percent": 13.58,
-    "count": 17
+    "count": 26
   },
   "period_90d": {
-    "low": 13155.0,
+    "low": 12812.4,
     "high": 15030.0,
-    "average": 13979.0,
+    "average": 13632.0,
     "change": null,
     "change_percent": null,
-    "count": 20
+    "count": 66
   },
   "period_365d": {
-    "low": 13155.0,
-    "high": 15030.0,
-    "average": 13979.0,
+    "low": 9241.0,
+    "high": 16061.1,
+    "average": 13061.26,
     "change": null,
     "change_percent": null,
-    "count": 20
+    "count": 215
   },
-  "history_days": 20,
+  "history_days": 215,
   "as_of_date": "2026-08-26",
   "last_updated": "2026-08-26T15:33:53.663373+05:30",
   "city": "Hyderabad",
@@ -48,5 +48,6 @@
   "source_url": "https://www.goodreturns.in/gold-rates/hyderabad.html",
   "timezone": "Asia/Kolkata",
   "currency": "INR",
-  "unit": "gram"
+  "unit": "gram",
+  "history_note": "Some older days may be IBJA India 916 benchmark (per gram), not Hyderabad Goodreturns retail."
 }
