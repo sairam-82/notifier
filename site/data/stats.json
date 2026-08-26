@@ -41,7 +41,7 @@
   },
   "history_days": 215,
   "as_of_date": "2026-08-26",
-  "last_updated": "2026-08-26T19:20:49.067563+05:30",
+  "last_updated": "2026-08-26T19:52:51.528714+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -49,5 +49,66 @@
   "timezone": "Asia/Kolkata",
   "currency": "INR",
   "unit": "gram",
-  "history_note": "Some older days may be IBJA India 916 benchmark (per gram), not Hyderabad Goodreturns retail."
+  "outlook": {
+    "bias": "NEUTRAL",
+    "bias_label": "Neutral / sideways",
+    "confidence": "MEDIUM",
+    "score": -3.9,
+    "band_low": 14889.0,
+    "band_high": 15131.0,
+    "usd_inr_rate": 95.42,
+    "usd_inr_as_of": "2026-08-26",
+    "usd_inr_daily_pct": 0.0,
+    "usd_inr_7d_pct": -0.355,
+    "factors": [
+      "7-day gold trend up (+2.81%)",
+      "Near 30D high (99%) — possible pause/pullback",
+      "USD/INR 95.42 (+0.00% today)",
+      "Rupee stronger ₹ vs USD over 7D (-0.35%)",
+      "Global headlines mixed/neutral · 2 from recognised sources"
+    ],
+    "news": [
+      {
+        "title": "Gold hovers near three-month high on dollar weakness, Treasury bond buyback plans - CNBC",
+        "source": "CNBC",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNel90c3Z4X2JNVEo1TXNWQVNlYVRRaEpqQkJjRFVQRG15TWhkbnNZY2IxeW5DMjZMRm55ZUtqLWREMkw5UnlfMVpvTHlxWFpFUXNKTWFkTUh3Smx1S09iVDZmRm9FdnowbDh1LVlxcmtzTUZpWGNhckVxbGg1Z2h3T29JaF9OYS1zd0x5N2Y3dkkxb1M3UTJaY043cWtHZGYtYTVudTdRUDNXcnR4eEdXN0EyNUVnd9IBuwFBVV95cUxQYmM2VzA2XzQ2Ml83SmFjeHJnUkRZSDRROUw2bDRLRFZ0cktRN2wweXRZZUp5VWVVZG9yX0FYMjFINkxiclpZZlRJOVhyUDQ5eEN1a1hnanRCNzgzeEM2ZGZxUDA2YVVYTkNOXzMtX0FBNnJXUWNkYVpBR2VsaVRWNkN3eVM1Vm56QUxmQkktSmp2eU14X29NOE1ZMmVLNGdwWHpyV1ZsNUVfaU9QVUlSTjBGVnQ0dXJkLThR?oc=5",
+        "published": "Tue, 25 Aug 2026 02:25:00 GMT",
+        "tone": "neutral",
+        "reliable": true
+      },
+      {
+        "title": "Gold price remains under pressure as U.S. new home sales fall 10.5% in July - KITCO",
+        "source": "KITCO",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSDJzY0dONXNCZ19IY0JoMmJCOG1ranF6TUwwbU5BOC05aW5KUDd5bFBUWTVSZ3Y1ZUdOUHdWUlY3cXNobXE3RExHOVlFR25MX01YbFhFeXp3VmJtT3QwN2ctd1l3bzZzaU5tZndxWm1XZDNyeEVRVFR3eXRBODlpOElhNlM5bE50TkZtZDBtSmMtYWRKUktkdkN5Um5fdWh3a2V6TTJLalF4dnpEcEF3OQ?oc=5",
+        "published": "Tue, 25 Aug 2026 14:15:51 GMT",
+        "tone": "bearish",
+        "reliable": true
+      },
+      {
+        "title": "Current price of gold as of August 26, 2026 - Fortune",
+        "source": "Fortune",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XdTlnLS1fdXdwd0lwdDBReFZFckMwTFV0V1A3UUhaNURoazByMDNfTjBRSWNPNXhjMEFtSFlrOWlkYmNjVnlDbTd4cVl4b1RMX3NPeGR0TDliZzdlU0I1Tkl2dlAwYndfTE9xdVBB?oc=5",
+        "published": "Wed, 26 Aug 2026 13:00:00 GMT",
+        "tone": "neutral",
+        "reliable": false
+      },
+      {
+        "title": "Gold Price Pullback Puts $4,500 Support in Focus - FXEmpire",
+        "source": "FXEmpire",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWjdpT2tMLUo0R291TEJ2RG9pX01zZ1ZZcG16T2NQYWVXem5RbzBPWHlKYUE2U3Fja25KT2NrcUNDYi1iUFY5WVU5SU8tTnFNeGpCcGNySl9kMTQ1N3k1eUtYSFUxcEo5N1ctaTRVNE1fckRLUXZmbVRpOXhSNTJwdzV3ektQUmswUWJjNUkwcXRkNWVjWG9sekhOcm12dw?oc=5",
+        "published": "Wed, 26 Aug 2026 14:15:00 GMT",
+        "tone": "neutral",
+        "reliable": false
+      },
+      {
+        "title": "Gold price prediction today: Why gold prices are rising? Check August 26, 2026 outlook - The Times of India",
+        "source": "The Times of India",
+        "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPY0VJb2lNQXpielgwOXIxbG03elBWOTNfNGpNRHBPTUJCcDV2RVctZU9ONGpZMldOcFBsSnhXeVFKXzdJb0ZkOTJJUEZlTXVtZVcyb0xMODlQa3hqeFVlNkR6SENCVVduYWVEOUZueWg0eGtOZGN0NlBBSXpSbkJVREw2TFJod3JOZE42ZHhhUnBjTG5PSDMyYTlFRGhkZ0RPaXdlOWxsckxlNzJHMFlLbm01ZXk0eVZZeThyOEdEb2VucWlVMHBNZ2QwZXB0SmRTbldvMUxlWU5sMHQtSFpsdm5zUGxnYmNwOFRlT3dSX2MwdDNrWkFqQ0d6c2RRaEotYWdyTDdBMW9xSVNVX3R5YnBIN3g2dFM2eThxdlI5WnJISXF2Yy1TWkhDQTc1SGNPNTV1REx5alBIUVJ5UlU0UXEyY2FyUnV3MHA5UtIB0gJBVV95cUxQSE5DNlBRNlpwdE42Vk9vOTVwaEdLUVJCV0JqaThxQWVJTHQtOUNiRm1Rcml6SDhwd0tiQ0ZCdTBGX2JxR3FBWkx0SXpOd1REZ09TOGhVdW0wcTRHTVhUcUlTYTVTZkxkYUxGXzd3d1k2WlE1UmtoYWRNb2tNZVozMGRKU3pQcGJreXJTZWpzQXF1VmJZbndNX0E1RW8yendic0VzQkdVM1hyaEI1dHVpWmtfeHNsc2pOMFdVbTJhZDRZYldPeENMQXlBMVB6akxXOXlrOXdWaWNESVFDUHNxbWdWWjFwc0dCSk50aVlXcEhIbUVXSUdSUEtBbjY5T2l2d19tbThNNHpvTXRvUjBodzZWS3VPNmcxRV9tWkhFU1ZqZFRMYXlNT2ttNUpkRmxtdDdBNWV4NUJvZlNZZ29mQU1PYmdSWkRROVRwMmdBSzdxUQ?oc=5",
+        "published": "Wed, 26 Aug 2026 05:54:00 GMT",
+        "tone": "bullish",
+        "reliable": false
+      }
+    ],
+    "disclaimer": "Indicative outlook only — not financial advice. Gold prices depend on many factors; this can be wrong."
+  }
 }

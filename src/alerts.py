@@ -7,11 +7,14 @@ import logging
 from dataclasses import asdict, dataclass
 from datetime import date
 from pathlib import Path
-from typing import Any, Optional
+from typing import TYPE_CHECKING, Any, Optional
 
 from src import config
 from src.history import HistoryRecord
 from src.statistics import MarketStats, format_daily_movement, format_inr, is_buyer_favorable
+
+if TYPE_CHECKING:
+    from src.outlook import OutlookResult
 
 logger = logging.getLogger(__name__)
 
@@ -141,14 +144,19 @@ def _dashboard_footer() -> str:
     return f"\n\nDashboard: {url}" if url else ""
 
 
-def build_status_update(stats: MarketStats) -> str:
+def build_status_update(
+    stats: MarketStats,
+    outlook: Optional["OutlookResult"] = None,
+) -> str:
     """Routine update sent on every successful scrape when nothing important fires."""
+    from src.outlook import format_outlook_block
+
     price = stats.today_price or 0
     move = format_daily_movement(stats)
     pos = stats.position_30d
     pos_pct = f"{pos:.0f}%" if pos is not None else "n/a"
     favorable = is_buyer_favorable(stats.classification)
-    return (
+    msg = (
         f"📊 PRICE UPDATE\n\n"
         f"22K Gold · {config.CITY}\n"
         f"{format_inr(price)}/g\n\n"
@@ -157,8 +165,11 @@ def build_status_update(stats: MarketStats) -> str:
         f"Position: {pos_pct} of 30-day range\n\n"
         f"30D Low: {format_inr(stats.period_30d.low)}\n"
         f"30D High: {format_inr(stats.period_30d.high)}"
-        f"{_dashboard_footer()}"
     )
+    if outlook is not None:
+        msg += format_outlook_block(outlook)
+    msg += _dashboard_footer()
+    return msg
 
 
 def mark_important(message: str, alert_type: str) -> str:
@@ -265,6 +276,7 @@ def evaluate_alerts(
     stats: MarketStats,
     state: AlertState,
     today: date,
+    outlook: Optional["OutlookResult"] = None,
 ) -> Optional[Alert]:
     """
     Choose a Telegram notification for this run.
@@ -353,7 +365,7 @@ def evaluate_alerts(
         candidates.append(
             Alert(
                 "PRICE_UPDATE",
-                build_status_update(stats),
+                build_status_update(stats, outlook=outlook),
                 price,
                 ALERT_PRIORITY["PRICE_UPDATE"],
             )

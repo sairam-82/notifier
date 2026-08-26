@@ -98,6 +98,96 @@ function renderHero(stats) {
   document.getElementById("last-updated").textContent = stats.last_updated || "—";
 }
 
+function outlookBiasClass(bias) {
+  if (bias === "SLIGHTLY_UP") return "up";
+  if (bias === "SLIGHTLY_DOWN") return "down";
+  if (bias === "NEUTRAL") return "neutral";
+  return "unclear";
+}
+
+function outlookBiasEmoji(bias) {
+  return {
+    SLIGHTLY_UP: "↗",
+    SLIGHTLY_DOWN: "↘",
+    NEUTRAL: "→",
+    UNCLEAR: "?",
+  }[bias] || "?";
+}
+
+function renderOutlook(stats) {
+  const section = document.getElementById("outlook-section");
+  const outlook = stats.outlook;
+  if (!outlook) {
+    section.hidden = true;
+    return;
+  }
+  section.hidden = false;
+
+  const biasEl = document.getElementById("outlook-bias");
+  biasEl.textContent = `${outlookBiasEmoji(outlook.bias)} ${outlook.confidence || ""}`;
+  biasEl.className = `outlook-bias ${outlookBiasClass(outlook.bias)}`;
+
+  document.getElementById("outlook-label").textContent = outlook.bias_label || "—";
+
+  const bandEl = document.getElementById("outlook-band");
+  if (outlook.band_low != null && outlook.band_high != null) {
+    bandEl.textContent = `Possible range: ${formatInr(outlook.band_low)} – ${formatInr(outlook.band_high)}/g`;
+    bandEl.hidden = false;
+  } else {
+    bandEl.hidden = true;
+  }
+
+  const fxEl = document.getElementById("outlook-fx");
+  if (outlook.usd_inr_rate != null) {
+    let fx = `USD/INR ${Number(outlook.usd_inr_rate).toFixed(2)}`;
+    if (outlook.usd_inr_daily_pct != null) {
+      fx += ` (${outlook.usd_inr_daily_pct >= 0 ? "+" : ""}${outlook.usd_inr_daily_pct.toFixed(2)}% today`;
+      if (outlook.usd_inr_7d_pct != null) {
+        fx += `, ${outlook.usd_inr_7d_pct >= 0 ? "+" : ""}${outlook.usd_inr_7d_pct.toFixed(2)}% 7D`;
+      }
+      fx += ")";
+    }
+    fxEl.textContent = fx;
+    fxEl.hidden = false;
+  } else {
+    fxEl.hidden = true;
+  }
+
+  const factorsEl = document.getElementById("outlook-factors");
+  factorsEl.innerHTML = "";
+  (outlook.factors || []).slice(0, 5).forEach((f) => {
+    const li = document.createElement("li");
+    li.textContent = f;
+    factorsEl.appendChild(li);
+  });
+
+  const newsEl = document.getElementById("outlook-news");
+  newsEl.innerHTML = "";
+  (outlook.news || []).slice(0, 3).forEach((n) => {
+    const li = document.createElement("li");
+    if (n.reliable) li.classList.add("reliable");
+    if (n.link) {
+      const a = document.createElement("a");
+      a.href = n.link;
+      a.target = "_blank";
+      a.rel = "noopener noreferrer";
+      a.textContent = n.title || "Headline";
+      li.appendChild(a);
+      if (n.source) {
+        const src = document.createElement("span");
+        src.className = "muted";
+        src.textContent = ` · ${n.source}`;
+        li.appendChild(src);
+      }
+    } else {
+      li.textContent = n.title || "";
+    }
+    newsEl.appendChild(li);
+  });
+
+  document.getElementById("outlook-disclaimer").textContent = outlook.disclaimer || "";
+}
+
 function renderChart(period) {
   const rows = filterHistory(allHistory, period);
   const labels = rows.map((r) => r.date);
@@ -211,6 +301,7 @@ async function init() {
     allHistory = Array.isArray(history) ? history.slice().sort((a, b) => a.date.localeCompare(b.date)) : [];
     currentStats = stats;
     renderHero(stats);
+    renderOutlook(stats);
     renderChart("30");
   } catch (err) {
     console.error(err);

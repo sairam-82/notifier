@@ -153,6 +153,7 @@ body {
 }
 
 .range-card,
+.outlook-card,
 .chart-section,
 .stats-grid {
   margin-top: 1.4rem;
@@ -221,6 +222,92 @@ body {
   justify-content: space-between;
   align-items: baseline;
   margin-top: 0.85rem;
+}
+
+.outlook-card {
+  animation-delay: 0.1s;
+}
+
+.outlook-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 0.35rem;
+}
+
+.outlook-header h2 {
+  margin: 0;
+  font-family: var(--font-display);
+  font-size: 1.15rem;
+  font-weight: 600;
+}
+
+.outlook-bias {
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  padding: 0.25rem 0.55rem;
+  border-radius: 999px;
+  border: 1px solid var(--line);
+  color: var(--muted);
+}
+
+.outlook-bias.up { color: var(--dear); background: var(--dear-dim); }
+.outlook-bias.down { color: var(--cheap); background: var(--cheap-dim); }
+.outlook-bias.neutral { color: var(--mid); }
+.outlook-bias.unclear { color: var(--muted); }
+
+.outlook-label {
+  margin: 0.35rem 0 0.55rem;
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.outlook-band,
+.outlook-fx {
+  margin: 0.25rem 0;
+  font-size: 0.9rem;
+}
+
+.outlook-factors,
+.outlook-news {
+  margin: 0.65rem 0 0;
+  padding-left: 1.1rem;
+  color: var(--ink);
+  font-size: 0.88rem;
+  line-height: 1.45;
+}
+
+.outlook-news {
+  list-style: none;
+  padding-left: 0;
+}
+
+.outlook-news li {
+  margin-bottom: 0.45rem;
+}
+
+.outlook-news a {
+  color: #9ec9ff;
+  text-decoration: none;
+}
+
+.outlook-news a:hover {
+  text-decoration: underline;
+}
+
+.outlook-news .reliable::before {
+  content: "★ ";
+  color: var(--mid);
+}
+
+.outlook-disclaimer {
+  margin: 0.75rem 0 0;
+  font-size: 0.75rem;
+  color: var(--muted);
+  line-height: 1.4;
 }
 
 .period-tabs {

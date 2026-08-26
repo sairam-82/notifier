@@ -185,6 +185,22 @@ If high == low → position = 50%.
 
 Daily movement (▲/▼) is shown **separately** and is not confused with buyer status.
 
+## Indicative outlook (USD/INR + global news)
+
+Each update also computes a **low-confidence indicative bias** for the next session — **not a price prediction**.
+
+Signals combined:
+
+| Input | Source |
+| --- | --- |
+| Local 7-day gold momentum & 30D range position | Your price history |
+| USD/INR daily & 7-day change | [Frankfurter](https://api.frankfurter.dev) (free, ECB rates) |
+| Global gold headline tone | Google News RSS (Reuters, Bloomberg, CNBC, Kitco, ET, etc.) |
+
+Output appears on the **dashboard** (`stats.json → outlook`) and is appended to routine **Telegram** `PRICE UPDATE` messages. Headlines from recognised publishers are marked with ★.
+
+**Disclaimer:** Outlook can be wrong. Jewellery prices still depend on retailer margins, GST, and local demand.
+
 ## One-time history backfill (free IBJA 916)
 
 Goodreturns only exposes ~10 days. To seed more history **for free**:

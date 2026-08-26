@@ -26,6 +26,7 @@ from src.alerts import (  # noqa: E402
     save_alert_state,
 )
 from src.history import HistoryStore  # noqa: E402
+from src.outlook import OutlookResult, compute_outlook  # noqa: E402
 from src.providers.goodreturns import GoodReturnsProvider  # noqa: E402
 from src.scraper import fetch_and_validate  # noqa: E402
 from src.statistics import compute_stats  # noqa: E402
@@ -129,7 +130,7 @@ def run(offline_html: Path | None = None, skip_telegram: bool = False) -> int:
             save_alert_state(state)
         # Still regenerate dashboard from existing data
         stats = compute_stats(existing, as_of=today if existing else None)
-        publish_dashboard([r.to_dict() for r in existing], _stats_dict(stats))
+        _publish(existing, stats, today)
         return 1
 
     if quote is None or not validation.ok:
@@ -144,7 +145,7 @@ def run(offline_html: Path | None = None, skip_telegram: bool = False) -> int:
             )
             save_alert_state(state)
         stats = compute_stats(existing, as_of=today if existing else None)
-        publish_dashboard([r.to_dict() for r in existing], _stats_dict(stats))
+        _publish(existing, stats, today)
         return 2
 
     records, changed, _created = store.upsert(
@@ -168,9 +169,10 @@ def run(offline_html: Path | None = None, skip_telegram: bool = False) -> int:
         stats.daily_change_percent,
     )
 
-    publish_dashboard([r.to_dict() for r in records], _stats_dict(stats))
+    outlook = compute_outlook(records, stats, as_of=today)
+    publish_dashboard([r.to_dict() for r in records], _stats_dict(stats, outlook))
 
-    alert = evaluate_alerts(records, stats, state, today)
+    alert = evaluate_alerts(records, stats, state, today, outlook=outlook)
     if alert and not skip_telegram:
         sent = send_telegram_message(alert.message)
         logger.info("Telegram sent=%s type=%s", sent, alert.alert_type)
@@ -190,7 +192,7 @@ def run(offline_html: Path | None = None, skip_telegram: bool = False) -> int:
     return 0
 
 
-def _stats_dict(stats) -> dict:
+def _stats_dict(stats, outlook: OutlookResult | None = None) -> dict:
     payload = stats.to_dict()
     payload["city"] = config.CITY
     payload["karat"] = config.KARAT
@@ -199,7 +201,14 @@ def _stats_dict(stats) -> dict:
     payload["timezone"] = config.TIMEZONE
     payload["currency"] = config.CURRENCY
     payload["unit"] = config.UNIT
+    if outlook is not None:
+        payload["outlook"] = outlook.to_dict()
     return payload
+
+
+def _publish(records, stats, today: date) -> None:
+    outlook = compute_outlook(records, stats, as_of=today)
+    publish_dashboard([r.to_dict() for r in records], _stats_dict(stats, outlook))
 
 
 def main() -> None:
