@@ -7,6 +7,11 @@ on:
       - "site/**"
       - "data/**"
       - ".github/workflows/deploy-pages.yml"
+  # GITHUB_TOKEN commits from Update Gold Price do not trigger push workflows,
+  # so also deploy after a successful gold update.
+  workflow_run:
+    workflows: ["Update Gold Price"]
+    types: [completed]
   workflow_dispatch:
 
 concurrency:
@@ -20,6 +25,9 @@ permissions:
 
 jobs:
   deploy:
+    if: >
+      github.event_name != 'workflow_run' ||
+      github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
     environment:
       name: github-pages
@@ -27,6 +35,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          # For workflow_run, check out the commit from the completed update workflow
+          ref: ${{ github.event_name == 'workflow_run' && github.event.workflow_run.head_sha || github.sha }}
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
