@@ -58,5 +58,65 @@
     "price": 13220.0,
     "source": "goodreturns",
     "fetched_at": "2026-08-03T15:01:30.229563+05:30"
+  },
+  {
+    "date": "2026-08-17",
+    "price": 14270.0,
+    "source": "goodreturns",
+    "fetched_at": "2026-08-17T12:00:00+05:30"
+  },
+  {
+    "date": "2026-08-18",
+    "price": 14290.0,
+    "source": "goodreturns",
+    "fetched_at": "2026-08-18T12:00:00+05:30"
+  },
+  {
+    "date": "2026-08-19",
+    "price": 14205.0,
+    "source": "goodreturns",
+    "fetched_at": "2026-08-19T12:00:00+05:30"
+  },
+  {
+    "date": "2026-08-20",
+    "price": 14600.0,
+    "source": "goodreturns",
+    "fetched_at": "2026-08-20T12:00:00+05:30"
+  },
+  {
+    "date": "2026-08-21",
+    "price": 14810.0,
+    "source": "goodreturns",
+    "fetched_at": "2026-08-21T12:00:00+05:30"
+  },
+  {
+    "date": "2026-08-22",
+    "price": 14950.0,
+    "source": "goodreturns",
+    "fetched_at": "2026-08-22T12:00:00+05:30"
+  },
+  {
+    "date": "2026-08-23",
+    "price": 14950.0,
+    "source": "goodreturns",
+    "fetched_at": "2026-08-23T12:00:00+05:30"
+  },
+  {
+    "date": "2026-08-24",
+    "price": 15030.0,
+    "source": "goodreturns",
+    "fetched_at": "2026-08-24T12:00:00+05:30"
+  },
+  {
+    "date": "2026-08-25",
+    "price": 15010.0,
+    "source": "goodreturns",
+    "fetched_at": "2026-08-25T12:00:00+05:30"
+  },
+  {
+    "date": "2026-08-26",
+    "price": 15010.0,
+    "source": "goodreturns",
+    "fetched_at": "2026-08-26T15:33:53.663373+05:30"
   }
 ]
