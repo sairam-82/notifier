@@ -37,6 +37,8 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           SEND_DAILY_SUMMARY: ${{ vars.SEND_DAILY_SUMMARY || 'false' }}
+          SEND_EVERY_UPDATE: ${{ vars.SEND_EVERY_UPDATE || 'true' }}
+          DASHBOARD_URL: ${{ vars.DASHBOARD_URL || 'https://sairam-82.github.io/notifier/' }}
           DAILY_MOVE_ALERT_PERCENT: ${{ vars.DAILY_MOVE_ALERT_PERCENT || '1.0' }}
           MAX_DAILY_CHANGE_PERCENT: ${{ vars.MAX_DAILY_CHANGE_PERCENT || '10' }}
         run: python scripts/update.py

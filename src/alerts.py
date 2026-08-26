@@ -25,6 +25,7 @@ ALERT_PRIORITY: dict[str, int] = {
     "FETCH_FAILURE": 50,
     "VALIDATION_FAILED": 50,
     "DAILY_SUMMARY": 10,
+    "PRICE_UPDATE": 5,
 }
 
 
@@ -135,6 +136,47 @@ def should_suppress(state: AlertState, alert: Alert, today: date) -> bool:
     return False
 
 
+def _dashboard_footer() -> str:
+    url = (config.DASHBOARD_URL or "").strip()
+    return f"\n\nDashboard: {url}" if url else ""
+
+
+def build_status_update(stats: MarketStats) -> str:
+    """Routine update sent on every successful scrape when nothing important fires."""
+    price = stats.today_price or 0
+    move = format_daily_movement(stats)
+    pos = stats.position_30d
+    pos_pct = f"{pos:.0f}%" if pos is not None else "n/a"
+    favorable = is_buyer_favorable(stats.classification)
+    return (
+        f"📊 PRICE UPDATE\n\n"
+        f"22K Gold · {config.CITY}\n"
+        f"{format_inr(price)}/g\n\n"
+        f"{move}\n"
+        f"{'🟢' if favorable else '🔴'} {stats.classification_label}\n"
+        f"Position: {pos_pct} of 30-day range\n\n"
+        f"30D Low: {format_inr(stats.period_30d.low)}\n"
+        f"30D High: {format_inr(stats.period_30d.high)}"
+        f"{_dashboard_footer()}"
+    )
+
+
+def mark_important(message: str, alert_type: str) -> str:
+    """Prefix important alerts so they stand out from routine updates."""
+    labels = {
+        "NEW_30D_LOW": "NEW 30-DAY LOW",
+        "NEW_30D_HIGH": "NEW 30-DAY HIGH",
+        "NEAR_30D_LOW": "NEAR 30-DAY LOW",
+        "NEAR_30D_HIGH": "NEAR 30-DAY HIGH",
+        "LARGE_DAILY_MOVE": "LARGE DAILY MOVE",
+    }
+    label = labels.get(alert_type, alert_type.replace("_", " "))
+    header = f"🚨 IMPORTANT · {label}\n" + ("━" * 22) + "\n\n"
+    if message.startswith("🚨"):
+        return message + _dashboard_footer()
+    return header + message + _dashboard_footer()
+
+
 def build_buy_alert(stats: MarketStats, alert_type: str) -> str:
     price = stats.today_price or 0
     move = format_daily_movement(stats)
@@ -224,7 +266,13 @@ def evaluate_alerts(
     state: AlertState,
     today: date,
 ) -> Optional[Alert]:
-    """Pick the highest-priority actionable alert, respecting dedupe."""
+    """
+    Choose a Telegram notification for this run.
+
+    - Important conditions (new/near extremes, large move) are preferred and marked.
+    - When SEND_EVERY_UPDATE is true, every successful scrape still notifies
+      (falls back to a routine PRICE_UPDATE if nothing important is new).
+    """
     if stats.today_price is None:
         return None
 
@@ -238,7 +286,7 @@ def evaluate_alerts(
         candidates.append(
             Alert(
                 "NEW_30D_LOW",
-                build_buy_alert(stats, "NEW_30D_LOW"),
+                mark_important(build_buy_alert(stats, "NEW_30D_LOW"), "NEW_30D_LOW"),
                 price,
                 ALERT_PRIORITY["NEW_30D_LOW"],
             )
@@ -250,7 +298,7 @@ def evaluate_alerts(
         candidates.append(
             Alert(
                 "NEAR_30D_LOW",
-                build_buy_alert(stats, "NEAR_30D_LOW"),
+                mark_important(build_buy_alert(stats, "NEAR_30D_LOW"), "NEAR_30D_LOW"),
                 price,
                 ALERT_PRIORITY["NEAR_30D_LOW"],
             )
@@ -260,7 +308,7 @@ def evaluate_alerts(
         candidates.append(
             Alert(
                 "NEW_30D_HIGH",
-                build_buy_alert(stats, "NEW_30D_HIGH"),
+                mark_important(build_buy_alert(stats, "NEW_30D_HIGH"), "NEW_30D_HIGH"),
                 price,
                 ALERT_PRIORITY["NEW_30D_HIGH"],
             )
@@ -272,7 +320,7 @@ def evaluate_alerts(
         candidates.append(
             Alert(
                 "NEAR_30D_HIGH",
-                build_buy_alert(stats, "NEAR_30D_HIGH"),
+                mark_important(build_buy_alert(stats, "NEAR_30D_HIGH"), "NEAR_30D_HIGH"),
                 price,
                 ALERT_PRIORITY["NEAR_30D_HIGH"],
             )
@@ -285,7 +333,7 @@ def evaluate_alerts(
         candidates.append(
             Alert(
                 "LARGE_DAILY_MOVE",
-                build_buy_alert(stats, "LARGE_DAILY_MOVE"),
+                mark_important(build_buy_alert(stats, "LARGE_DAILY_MOVE"), "LARGE_DAILY_MOVE"),
                 price,
                 ALERT_PRIORITY["LARGE_DAILY_MOVE"],
             )
@@ -295,9 +343,19 @@ def evaluate_alerts(
         candidates.append(
             Alert(
                 "DAILY_SUMMARY",
-                build_buy_alert(stats, "DAILY_SUMMARY"),
+                build_buy_alert(stats, "DAILY_SUMMARY") + _dashboard_footer(),
                 price,
                 ALERT_PRIORITY["DAILY_SUMMARY"],
+            )
+        )
+
+    if config.SEND_EVERY_UPDATE:
+        candidates.append(
+            Alert(
+                "PRICE_UPDATE",
+                build_status_update(stats),
+                price,
+                ALERT_PRIORITY["PRICE_UPDATE"],
             )
         )
 
@@ -306,23 +364,34 @@ def evaluate_alerts(
         return None
 
     candidates.sort(key=lambda a: a.priority, reverse=True)
-    chosen = candidates[0]
-    logger.info(
-        "Alert classification: type=%s priority=%s position=%s",
-        chosen.alert_type,
-        chosen.priority,
-        stats.position_30d,
-    )
 
-    if should_suppress(state, chosen, today):
+    for chosen in candidates:
+        # Always allow routine updates through when enabled (every scrape notifies).
+        if chosen.alert_type == "PRICE_UPDATE" and config.SEND_EVERY_UPDATE:
+            logger.info(
+                "Alert classification: type=%s priority=%s position=%s",
+                chosen.alert_type,
+                chosen.priority,
+                stats.position_30d,
+            )
+            return chosen
+        if should_suppress(state, chosen, today):
+            logger.info(
+                "Alert suppressed (dedupe): type=%s price=%s",
+                chosen.alert_type,
+                chosen.price,
+            )
+            continue
         logger.info(
-            "Alert suppressed (dedupe): type=%s price=%s",
+            "Alert classification: type=%s priority=%s position=%s",
             chosen.alert_type,
-            chosen.price,
+            chosen.priority,
+            stats.position_30d,
         )
-        return None
-    return chosen
+        return chosen
 
+    logger.info("Alert classification: none (all suppressed)")
+    return None
 
 def build_failure_message(last_price: Optional[float], last_updated: Optional[str]) -> str:
     price_line = format_inr(last_price) if last_price is not None else "unavailable"

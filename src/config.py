@@ -39,14 +39,38 @@ EXACT_BOUND_TOLERANCE = float(os.getenv("EXACT_BOUND_TOLERANCE", "0.05"))
 
 # --- Alerts ---
 DAILY_MOVE_ALERT_PERCENT = float(os.getenv("DAILY_MOVE_ALERT_PERCENT", "1.0"))
+# Legacy: one summary per day when nothing important happens.
 SEND_DAILY_SUMMARY = os.getenv("SEND_DAILY_SUMMARY", "false").lower() in {
     "1",
     "true",
     "yes",
 }
+# Send a Telegram message on every successful scrape (matches website updates).
+# Important alerts are still marked clearly inside the message.
+SEND_EVERY_UPDATE = os.getenv("SEND_EVERY_UPDATE", "true").lower() in {
+    "1",
+    "true",
+    "yes",
+}
+DASHBOARD_URL = os.getenv(
+    "DASHBOARD_URL",
+    "https://sairam-82.github.io/notifier/",
+)
+
+# Alert types treated as "important" (highlighted in Telegram).
+IMPORTANT_ALERT_TYPES = frozenset(
+    {
+        "NEW_30D_LOW",
+        "NEW_30D_HIGH",
+        "NEAR_30D_LOW",
+        "NEAR_30D_HIGH",
+        "LARGE_DAILY_MOVE",
+    }
+)
 
 # --- Telegram (from environment / GitHub Secrets) ---
 TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "")
+# Single chat ID, or comma-separated list for multiple people/channels.
 TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID", "")
 TELEGRAM_API_BASE = "https://api.telegram.org"
 

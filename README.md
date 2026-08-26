@@ -187,27 +187,29 @@ Daily movement (▲/▼) is shown **separately** and is not confused with buyer 
 
 ## Alerts
 
-Event-driven only (`SEND_DAILY_SUMMARY` defaults to `false`).
+By default (`SEND_EVERY_UPDATE=true`), **every successful scrape** sends a Telegram message — same cadence as website data updates (~9:30 AM / 3:00 PM IST, plus manual runs).
 
-Important alerts:
+**Important vs routine:**
 
-1. New 30-day low
-2. Near 30-day low (bottom 10%)
-3. New 30-day high
-4. Large daily move (`DAILY_MOVE_ALERT_PERCENT`, default 1.0%)
+| Kind | Looks like | When |
+| --- | --- | --- |
+| Important | `🚨 IMPORTANT · NEW 30-DAY LOW` (etc.) | New/near 30D low or high, or ≥1% daily move |
+| Routine | `📊 PRICE UPDATE` | Every other successful scrape |
+
+Duplicate *important* alerts the same day (same type + price) are still deduped, but you still get a routine `PRICE UPDATE` so you are never left without a Telegram ping for that run.
+
+Optional: set `SEND_EVERY_UPDATE=false` to go back to important-only notifications.
+
+### Sharing with others
+
+**Website (easiest):** your repo is public — anyone can open  
+https://sairam-82.github.io/notifier/
+
+**Telegram to multiple people (recommended):** create a **Telegram Channel**, add your bot as admin, put the channel ID in `TELEGRAM_CHAT_ID`, share the channel invite link. Everyone who joins sees the same updates.
+
+**Or multiple private chats:** set secret `TELEGRAM_CHAT_ID` to a comma-separated list, e.g. `12345,67890` (each person must Start your bot first).
 
 Deduplication state: `data/alert_state.json`
-
-Same alert + same price on the same day is suppressed. **Escalation is allowed**, e.g.:
-
-- morning: `NEAR_30D_LOW`
-- afternoon: `NEW_30D_LOW` ← still sent
-
-Priority (higher wins):
-
-`NEW_30D_LOW / NEW_30D_HIGH` > `NEAR_*` > `LARGE_DAILY_MOVE` > summary
-
-Telegram failures never block history updates.
 
 ## Configuration
 

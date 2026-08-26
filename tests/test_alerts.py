@@ -110,7 +110,8 @@ def test_alert_escalation_same_day() -> None:
     assert should_suppress(state, alert, today) is False
 
 
-def test_evaluate_suppresses_duplicate(monkeypatch) -> None:
+def test_evaluate_suppresses_duplicate_falls_back_to_update() -> None:
+    """Duplicate important alert is skipped; routine update still sends when enabled."""
     today = date(2026, 8, 3)
     prices = [13820] * 28 + [13100, 13150]
     records = _records(today, prices)
@@ -121,4 +122,29 @@ def test_evaluate_suppresses_duplicate(monkeypatch) -> None:
         last_alert_price=13150,
     )
     alert = evaluate_alerts(records, stats, state, today)
-    assert alert is None
+    assert alert is not None
+    assert alert.alert_type == "PRICE_UPDATE"
+    assert "PRICE UPDATE" in alert.message
+
+
+def test_every_scrape_sends_routine_update() -> None:
+    today = date(2026, 8, 3)
+    # Flat mid-range prices → no important alert
+    prices = [13300] * 30
+    records = _records(today, prices)
+    stats = compute_stats(records, as_of=today)
+    alert = evaluate_alerts(records, stats, AlertState(), today)
+    assert alert is not None
+    assert alert.alert_type == "PRICE_UPDATE"
+    assert "🚨 IMPORTANT" not in alert.message
+
+
+def test_important_alert_is_marked() -> None:
+    today = date(2026, 8, 3)
+    prices = [max(13500 - i * 5, 13100) for i in range(29)] + [13000]
+    records = _records(today, prices)
+    stats = compute_stats(records, as_of=today)
+    alert = evaluate_alerts(records, stats, AlertState(), today)
+    assert alert is not None
+    assert alert.alert_type == "NEW_30D_LOW"
+    assert alert.message.startswith("🚨 IMPORTANT")
