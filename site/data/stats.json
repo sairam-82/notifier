@@ -1,16 +1,16 @@
 {
   "today_price": 14770.0,
-  "yesterday_price": 14940.0,
-  "daily_change": -170.0,
-  "daily_change_percent": -1.14,
-  "daily_direction": "down",
+  "yesterday_price": 14770.0,
+  "daily_change": 0.0,
+  "daily_change_percent": 0.0,
+  "daily_direction": "flat",
   "position_30d": 86.62,
   "classification": "HIGH_RANGE",
   "classification_label": "HIGH RANGE",
   "period_7d": {
     "low": 14770.0,
     "high": 15030.0,
-    "average": 14951.43,
+    "average": 14925.71,
     "change": -180.0,
     "change_percent": -1.2,
     "count": 7
@@ -18,30 +18,30 @@
   "period_30d": {
     "low": 13086.5,
     "high": 15030.0,
-    "average": 14097.49,
-    "change": 1540.0,
-    "change_percent": 11.64,
+    "average": 14156.72,
+    "change": 1515.0,
+    "change_percent": 11.43,
     "count": 26
   },
   "period_90d": {
     "low": 12812.4,
     "high": 15030.0,
-    "average": 13658.59,
+    "average": 13674.94,
     "change": null,
     "change_percent": null,
-    "count": 67
+    "count": 68
   },
   "period_365d": {
-    "low": 9298.0,
+    "low": 9704.6,
     "high": 16061.1,
-    "average": 13095.56,
+    "average": 13120.89,
     "change": null,
     "change_percent": null,
     "count": 216
   },
-  "history_days": 217,
-  "as_of_date": "2026-08-28",
-  "last_updated": "2026-08-28T21:22:47.840607+05:30",
+  "history_days": 218,
+  "as_of_date": "2026-08-29",
+  "last_updated": "2026-08-29T04:03:16.025066+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -53,9 +53,9 @@
     "bias": "SLIGHTLY_DOWN",
     "bias_label": "Slightly downward bias",
     "confidence": "MEDIUM",
-    "score": -56.0,
-    "band_low": 14662.0,
-    "band_high": 14878.0,
+    "score": -51.0,
+    "band_low": 14671.0,
+    "band_high": 14869.0,
     "usd_inr_rate": 95.39,
     "usd_inr_as_of": "2026-08-28",
     "usd_inr_daily_pct": -0.157,
@@ -65,22 +65,14 @@
       "Near 30D high (87%) — possible pause/pullback",
       "USD/INR 95.39 (-0.16% today)",
       "Rupee stronger ₹ vs USD over 7D (-0.32%)",
-      "Global headlines mixed/neutral · 2 from recognised sources"
+      "Global headlines lean bullish (1/5) · 1 from recognised sources"
     ],
     "news": [
       {
-        "title": "Gold falls after Warsh speech - CNBC",
-        "source": "CNBC",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMmlaZmhlQldVcHFEci1jR3NFN1d6M1FhU1prdVBXTnhWdjNvRTVEQU0tc0prbGRJc2NoNUhnbDNZTy1jYXN4UlQwaTRJU05YZTNiX0pQUFdsdFJpU2VWTmh3MVdFcEJ6MDNGTUFJOS1yekdqM2p4emxOZC1GOWZpQkxMY3V0MDJmSFNxWHpCZl9ISFEyTG5tMtIBngFBVV95cUxQME41RDdRSWpfTjllbWtJeWE3RE8wQngxZXI0VjlrZWhZUnVjaUdZU0thcUtuSHhPSmxZOHFaVUNMeklxOVh4LXdMMUVybXB3UDhRZFRNSE1NYWVNTEp0QnlVcTdSdGdzSlhpYXpKcnBPNzc5VTUxNWlFYmxuWjgwNVBfQmtPYVhkNldXSDZvNkdVLW52Z0VQMVVKTVJfUQ?oc=5",
-        "published": "Fri, 28 Aug 2026 02:31:00 GMT",
-        "tone": "bearish",
-        "reliable": true
-      },
-      {
-        "title": "Gold prices drop 1% as Warsh says inflation is a bigger concern than a slowing labor market - KITCO",
+        "title": "Gold prices drop 1% as Warsh says inflation a bigger concern than slowing labor market - KITCO",
         "source": "KITCO",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMmkwbkZfWV94X0czUG5VU3JCSTlLbGhVQmZSbHBJMVVhSTMyLWk5UF82X1RSS3Brc1JhWWhPWTFGV1Q3QjN2eENIUnk5LWx2X0YxT3p3eWFMWlJ4UmlEYXptSjFyNkZaaWNKQjgwbzNaRkJfQ2ZQaV9oc2JTa0ZsalROR2NrN2lBaTZMZHZZaW9KMGFEbFNsME1STk1vUkJyMHNsS2lxRnNldFRUMjNkVWY3Z1hYVXFpcUstRF9R?oc=5",
-        "published": "Fri, 28 Aug 2026 11:17:27 GMT",
+        "published": "Fri, 28 Aug 2026 11:17:00 GMT",
         "tone": "neutral",
         "reliable": true
       },
@@ -88,7 +80,7 @@
         "title": "Bessent vs. the Bond Market: The Sleight of Hand That Gold Has Already Figured Out - GoldBroker.com",
         "source": "GoldBroker.com",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPalAwUEtPSkFGeVE1dm9seDc5Q09ma2JzNEl4SEY1aTBrNzY2aWM2OGttekVlMDN3cWdHamdmeWtrUFlXdkJ5Uk16SGxiUUNwN0NVVm5jSmUwcWhnVW5YVVdrRnhOQVBiMmFGcmFvekN4Qnh5UVNFVzQzQU5pc1ZmcEZOS1RaZi1uc2xYZ2o1cmNTaVFNdm8yMkdodGI?oc=5",
-        "published": "Fri, 28 Aug 2026 12:34:22 GMT",
+        "published": "Fri, 28 Aug 2026 12:34:08 GMT",
         "tone": "neutral",
         "reliable": false
       },
@@ -96,7 +88,7 @@
         "title": "Current price of gold: Aug. 28, 2026 - Fortune",
         "source": "Fortune",
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9xWmxzNXVfOXZIdFUyV3pDMGMtb0xLTklMeUEtc3dwektqZV9MM2x4d2szcWwwNDQzMFlyaDNJVVBhejVEb01Qai0yREt2d1UtazdMcUlDTVVBd2hTS2Q1ZmNqaDFYbFN3QTY4QjhB?oc=5",
-        "published": "Fri, 28 Aug 2026 05:37:08 GMT",
+        "published": "Fri, 28 Aug 2026 11:00:00 GMT",
         "tone": "neutral",
         "reliable": false
       },
@@ -106,6 +98,14 @@
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVHk4MTQxNFo1SkNtS1k5ZjVsakMta0xBUjNDTC1GTmpMYnZ0NmdrbkNYWmpSdWZqMTlNN0ZUR3VGTENlcVNmVTY1ODJDUzFyblVlQUp3aDJzZVdJMHZJSTJld21NS3U2aVNPQUVoeG0yWG5oSWxPVGhSS0EwUlZadG1LMUhGVXBFU3Y2V1BoMFQ?oc=5",
         "published": "Fri, 28 Aug 2026 12:00:00 GMT",
         "tone": "bullish",
+        "reliable": false
+      },
+      {
+        "title": "Gold Price Forecast — A Brief Pullback Before Resuming Higher - FXEmpire",
+        "source": "FXEmpire",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcTZRcGZyZnNlcmt4cktmRnItUTFYbnBEZlF3STFsRThsMkNkMUM2ekY5RThWQVJqaFIxOGRSUlZUVkplU0w0T2JzTVI3Q2VqWjdNeDdTOVdaRXl4WWQ1clVEQVFsVDU0S2xUUFlQRjhqSWlxUXVzdlFzeDFMMm1wZGdjanlMUXJpZGMxRXpkYW13VTVQZl9WaTkzQ1E3WUlMYVNGeXhKTVVhODdZTkZz?oc=5",
+        "published": "Fri, 28 Aug 2026 18:45:00 GMT",
+        "tone": "neutral",
         "reliable": false
       }
     ],
