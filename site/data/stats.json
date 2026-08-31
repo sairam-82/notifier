@@ -1,16 +1,16 @@
 {
   "today_price": 14370.0,
-  "yesterday_price": 14505.0,
-  "daily_change": -135.0,
-  "daily_change_percent": -0.93,
-  "daily_direction": "down",
+  "yesterday_price": 14370.0,
+  "daily_change": 0.0,
+  "daily_change_percent": 0.0,
+  "daily_direction": "flat",
   "position_30d": 66.04,
   "classification": "NORMAL_RANGE",
   "classification_label": "NORMAL RANGE",
   "period_7d": {
     "low": 14370.0,
     "high": 15010.0,
-    "average": 14730.0,
+    "average": 14638.57,
     "change": -640.0,
     "change_percent": -4.26,
     "count": 7
@@ -18,7 +18,7 @@
   "period_30d": {
     "low": 13086.5,
     "high": 15030.0,
-    "average": 14238.83,
+    "average": 14283.07,
     "change": 1150.0,
     "change_percent": 8.7,
     "count": 26
@@ -26,7 +26,7 @@
   "period_90d": {
     "low": 12812.4,
     "high": 15030.0,
-    "average": 13675.39,
+    "average": 13676.18,
     "change": null,
     "change_percent": null,
     "count": 68
@@ -34,14 +34,14 @@
   "period_365d": {
     "low": 9704.6,
     "high": 16061.1,
-    "average": 13131.76,
+    "average": 13137.41,
     "change": null,
     "change_percent": null,
-    "count": 218
+    "count": 219
   },
-  "history_days": 220,
-  "as_of_date": "2026-08-31",
-  "last_updated": "2026-08-31T15:57:29.025144+05:30",
+  "history_days": 221,
+  "as_of_date": "2026-09-01",
+  "last_updated": "2026-09-01T00:42:44.748313+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -53,61 +53,19 @@
     "bias": "SLIGHTLY_DOWN",
     "bias_label": "Slightly downward bias",
     "confidence": "MEDIUM",
-    "score": -67.0,
-    "band_low": 14249.0,
-    "band_high": 14491.0,
-    "usd_inr_rate": 95.39,
-    "usd_inr_as_of": "2026-08-28",
-    "usd_inr_daily_pct": -0.157,
-    "usd_inr_7d_pct": -0.324,
+    "score": -70.0,
+    "band_low": 14256.0,
+    "band_high": 14484.0,
+    "usd_inr_rate": 95.17,
+    "usd_inr_as_of": "2026-08-31",
+    "usd_inr_daily_pct": -0.231,
+    "usd_inr_7d_pct": -0.616,
     "factors": [
       "7-day gold trend down (-4.26%)",
-      "USD/INR 95.39 (-0.16% today)",
-      "Rupee stronger ₹ vs USD over 7D (-0.32%)",
-      "Global headlines mixed/neutral · 3 from recognised sources"
+      "USD/INR 95.17 (-0.23% today)",
+      "Rupee stronger ₹ vs USD over 7D (-0.62%)"
     ],
-    "news": [
-      {
-        "title": "Gold slips as hawkish Fed outlook, oil prices pressure bullion - Investing.com",
-        "source": "Investing.com",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORy1NOXhoQm5LS05TZGJCMXZOdnBhS0FHcnNkZmhlTXJldzVRSEs1RWk4RWpGaHp5STlTZVJ0eGtzSFBnanVweEEwLWgwZmJXaURLaGtpSldSM0dmMEtlOGhtZE9iU1NPb0lyQ0d5UjN5dldZdmgxYUFWTG41aHlpOVZoREVXWXlYQ3pmRDVMWTNxSHF3c2J0d3ZrZ29oXzh0NW5vdlhVZjE4MTFEbjZ2NU02YVZFLVBOMXFXSw?oc=5",
-        "published": "Mon, 31 Aug 2026 07:18:20 GMT",
-        "tone": "neutral",
-        "reliable": true
-      },
-      {
-        "title": "Gold, silver prices today, 31 August: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata - Livemint",
-        "source": "Livemint",
-        "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOWU54VENLT2xhQnlUTEhKZEhyTlVQYW5MUE8tYkJqcDREVDN1N1k2eTFOSGdLN0JiZmlPWU5DTDhhT09wTHZWeHhkYUdJYVNvd0xTWW5ucW5Xcm12VnJJa2RyaVdPU0V0cnNXZ0Z6dEw4YVFOOTJYc0J5ek1lY2VpTkNJTEJIdDBiUVhDQUJaNnZDVW5sVF9oeGQtaF9aTjFQM1RIbDNDY290czgzRWtTbGEtQ180RGprSW9LTFNCbGFVWHA5MnVoXzFGYUR4SFhManpPTE9lX3hMRW5tcGVzRkt1RW9GejBWVUVBNnJENFM1SzhkTlV6YXltZTB6UVZaelB6enpId9IBjAJBVV95cUxNb21ERUpXNmc3M1RmVVRuOFJxdVVqU1VPRVlFWk5YOWVYcUNGRmEwMERfSnpjb0tvZDhhQldFUWVfakc0NlRlRnU5WG1TcFBxdVlNZVlQd3hTd2YwLUt0UkdIU0J0bjBQd1ltRVhTNDBvdGZydU00RFBDcW1VRzVpMTlVeFBieFR4Vk5BSWdlejZKemhFc0xhRTNJUVRFdDBnSjd6M1h3c3VEcS1fRXFkMEc2Z1ljMlloTmY5RXRGVjNkS201OEVHS01mdjFrck5CTjFYcHpGZTVES0w1eUNxLTIyOGJSMER5ZWRmQ0g0MmdKNks0ZVdFVGhwclM0RjlWNjVjYzB3OU8tUjVo?oc=5",
-        "published": "Mon, 31 Aug 2026 03:56:43 GMT",
-        "tone": "neutral",
-        "reliable": true
-      },
-      {
-        "title": "Where gold price is headed next as Fed rate hike and inflation odds change direction - CNBC",
-        "source": "CNBC",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcE9EUXZra0w3S0ZDbGRzTHRDc1dyMEc0ZkpWVEFaeElqYVN5eWFFdzhPVE1qTDBPdnJPNHc0UlloNlhQem1KQUhhZTVOVTJWT1JCelRnUkpBLU9BaGs2blVNT2NZaUFlYUJpOVRBeVZndE9TaE5aOWxieHlwRFJsLVhRR3p3d9IBiwFBVV95cUxOV0ZZUWFRWEsyVGtkaFdSTGlYRi1BN290OEdpdFJ4dU8yVXFGbksxQmtZN0hfdTRuT05BUHQyR29Hdm5XdHhmOEhTUTNOSmFHTjB3cDRaVnlMTEtTUjJGa3hadFFmLVQ4SkRmbjdSNFJrVjd5cTVja2Q2OG1ZLTNGSTlrdTBiVmJnWUVJ?oc=5",
-        "published": "Wed, 12 Aug 2026 07:00:00 GMT",
-        "tone": "neutral",
-        "reliable": true
-      },
-      {
-        "title": "ASX Banks Rose, But Gold Miners Dragged The Market - Finimize",
-        "source": "Finimize",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYnMwLW90UEh2TUlwUzlCQk50WDdvLWhTMWw1WVB4SjFhNzhVeUVGUkxQbEV0bWtXbm1Gc3B3aDd5aTRyTFFvTFR4OXFwbTlUOHNJVnE4RkVVbzNkNGZXcl8yQW9QZW5xZ0pTYzYwNnJsVkF4ejI2Q0xBZzF3aUlwU0wyUTk?oc=5",
-        "published": "Mon, 31 Aug 2026 05:47:14 GMT",
-        "tone": "neutral",
-        "reliable": false
-      },
-      {
-        "title": "Although domestic gold prices have risen in the past month, the actual return on investment varies g.. - 매일경제",
-        "source": "매일경제",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBuaWJVYTlmNXktNnJZWkgtZVhrUmw0RXhiLXA2T2s5ekI3b3Z3UUJIbncxRWFrV1FMa0FDZXJ5c3haUTJ0YXpHbGJqWE12VUk?oc=5",
-        "published": "Mon, 31 Aug 2026 06:27:56 GMT",
-        "tone": "neutral",
-        "reliable": false
-      }
-    ],
+    "news": [],
     "disclaimer": "Indicative outlook only — not financial advice. Gold prices depend on many factors; this can be wrong."
   }
 }
