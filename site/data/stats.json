@@ -1,32 +1,32 @@
 {
-  "today_price": 14370.0,
+  "today_price": 14385.0,
   "yesterday_price": 14370.0,
-  "daily_change": 0.0,
-  "daily_change_percent": 0.0,
-  "daily_direction": "flat",
-  "position_30d": 66.04,
+  "daily_change": 15.0,
+  "daily_change_percent": 0.1,
+  "daily_direction": "up",
+  "position_30d": 66.81,
   "classification": "NORMAL_RANGE",
   "classification_label": "NORMAL RANGE",
   "period_7d": {
     "low": 14370.0,
     "high": 15010.0,
-    "average": 14638.57,
-    "change": -640.0,
-    "change_percent": -4.26,
+    "average": 14640.71,
+    "change": -625.0,
+    "change_percent": -4.16,
     "count": 7
   },
   "period_30d": {
     "low": 13086.5,
     "high": 15030.0,
-    "average": 14283.07,
-    "change": 1150.0,
-    "change_percent": 8.7,
+    "average": 14283.64,
+    "change": 1165.0,
+    "change_percent": 8.81,
     "count": 26
   },
   "period_90d": {
     "low": 12812.4,
     "high": 15030.0,
-    "average": 13676.18,
+    "average": 13676.4,
     "change": null,
     "change_percent": null,
     "count": 68
@@ -34,14 +34,14 @@
   "period_365d": {
     "low": 9704.6,
     "high": 16061.1,
-    "average": 13137.41,
+    "average": 13137.48,
     "change": null,
     "change_percent": null,
     "count": 219
   },
   "history_days": 221,
   "as_of_date": "2026-09-01",
-  "last_updated": "2026-09-01T00:42:44.748313+05:30",
+  "last_updated": "2026-09-01T14:38:03.769780+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -53,19 +53,61 @@
     "bias": "SLIGHTLY_DOWN",
     "bias_label": "Slightly downward bias",
     "confidence": "MEDIUM",
-    "score": -70.0,
-    "band_low": 14256.0,
-    "band_high": 14484.0,
+    "score": -60.0,
+    "band_low": 14270.0,
+    "band_high": 14500.0,
     "usd_inr_rate": 95.17,
     "usd_inr_as_of": "2026-08-31",
     "usd_inr_daily_pct": -0.231,
     "usd_inr_7d_pct": -0.616,
     "factors": [
-      "7-day gold trend down (-4.26%)",
+      "7-day gold trend down (-4.16%)",
       "USD/INR 95.17 (-0.23% today)",
-      "Rupee stronger ₹ vs USD over 7D (-0.62%)"
+      "Rupee stronger ₹ vs USD over 7D (-0.62%)",
+      "Global headlines lean bullish (2/5) · 1 from recognised sources"
     ],
-    "news": [],
+    "news": [
+      {
+        "title": "Gold price is going to $20,000 as the Fed is ‘powerless’ to fight inflation, miners offer greatest upside - Crescat’s Kevin Smith - KITCO",
+        "source": "KITCO",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNT3RaU1RYeERlaFJkRU5ZVjBkSFlYV2xJVmtCV09NS1g2d185bFNNcy1nR1NDM25HX2djcEU3RHFxZFk4U0twMnZXZ0NNbmhkV1pVZnRMMWYxdExZa0RFRXpCUzd1Y0MzaUFsbWxGNkE4Y2dOaFo2NUkwQ2ZhczE2UThaMUltZHR1b0ptTG9wWmZ6NW1pRGFKQjY2RGYwODdNSUc3d1ExWUR3WmVJQW16Q2VlNkJCYXY1UFhMLQ?oc=5",
+        "published": "Mon, 31 Aug 2026 21:36:00 GMT",
+        "tone": "bullish",
+        "reliable": true
+      },
+      {
+        "title": "Current price of gold as of August 31, 2026 - Fortune",
+        "source": "Fortune",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBlR3MxRjVoV2IyTlVFUS1EU0lPQjJnckZ5ZnhOeHpVelJ2RG1zdmQwZVozVkswWUxSX2RTMUNHUVdEWURWQjBoOW1qV2ZzaTZUSTdtdHNvdlNwUzNsbkY4bjlUSFFmd1hncF9na2hR?oc=5",
+        "published": "Mon, 31 Aug 2026 13:09:00 GMT",
+        "tone": "neutral",
+        "reliable": false
+      },
+      {
+        "title": "Expert sets gold price for 2030 - Finbold",
+        "source": "Finbold",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9NXzZkUDFWbjNVcC1GQkIxbUZZWnV4LXRKWnBaY0oxM1pNRkVRTmhrb3czRl9xb1ZlMnpXS0Z4bGpUMU5vdzBjZFZ3MTRvd09zbTNTQ1RqczRtb01zRXRsaVJ3?oc=5",
+        "published": "Mon, 31 Aug 2026 14:51:00 GMT",
+        "tone": "neutral",
+        "reliable": false
+      },
+      {
+        "title": "Gold Price Forecast: $4,510 Support Faces a Critical Test - FXEmpire",
+        "source": "FXEmpire",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdmhYaUo3UUFaWVBSN25aNE56b09nQVFvbDJUZ2JMbm90bFlDN1VtTDh5M3hPN2ZYRHBvQ3NrREl4ek9XM3RXclVrSVdUNl9qZk9NSHBXYXZmcXpOU3pMa3E1amJ0VkxCREYyQmNZMUljQjk0aGVGenFhQ3UtXzVFdmtNVzV2VDlJaVZJRklfTGZjM2ZfMGdsTnM2bXdGeTFWT3pwZktvdjk?oc=5",
+        "published": "Mon, 31 Aug 2026 13:33:00 GMT",
+        "tone": "neutral",
+        "reliable": false
+      },
+      {
+        "title": "Gold Price Forecast: Global Bond Yields Surge — Can XAU/USD Hold Above $4,400? - Mitrade",
+        "source": "Mitrade",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaTZiXzd3SHUzaWFNVXRCYWgzUVd2UXl0aUtuaHRTTk9sSmRVanRuUWFWTXJLMExXbVVnWGlkMFZCajIwamsxWFJtemw5YXhHNGYtVjZIUkFycUNvWlg3OWZaSjZienA4blZHWG55eGdSeVB2Y1Nud1Rlc2c3N1AwZTNUbTN3REpjMEV2SEI0aGF5Y2dEVkFjekVLNUY?oc=5",
+        "published": "Tue, 01 Sep 2026 08:29:04 GMT",
+        "tone": "bullish",
+        "reliable": false
+      }
+    ],
     "disclaimer": "Indicative outlook only — not financial advice. Gold prices depend on many factors; this can be wrong."
   }
 }
