@@ -1,32 +1,32 @@
 {
-  "today_price": 14125.0,
-  "yesterday_price": 14370.0,
-  "daily_change": -245.0,
-  "daily_change_percent": -1.7,
+  "today_price": 13935.0,
+  "yesterday_price": 14125.0,
+  "daily_change": -190.0,
+  "daily_change_percent": -1.35,
   "daily_direction": "down",
-  "position_30d": 53.43,
+  "position_30d": 43.66,
   "classification": "NORMAL_RANGE",
   "classification_label": "NORMAL RANGE",
   "period_7d": {
-    "low": 14125.0,
-    "high": 15010.0,
-    "average": 14603.57,
-    "change": -885.0,
-    "change_percent": -5.9,
+    "low": 13935.0,
+    "high": 14940.0,
+    "average": 14450.0,
+    "change": -1005.0,
+    "change_percent": -6.73,
     "count": 7
   },
   "period_30d": {
     "low": 13086.5,
     "high": 15030.0,
-    "average": 14273.64,
-    "change": 905.0,
-    "change_percent": 6.85,
+    "average": 14301.14,
+    "change": 848.5,
+    "change_percent": 6.48,
     "count": 26
   },
   "period_90d": {
     "low": 12812.4,
     "high": 15030.0,
-    "average": 13672.58,
+    "average": 13668.66,
     "change": null,
     "change_percent": null,
     "count": 68
@@ -34,14 +34,14 @@
   "period_365d": {
     "low": 9704.6,
     "high": 16061.1,
-    "average": 13136.29,
+    "average": 13139.92,
     "change": null,
     "change_percent": null,
-    "count": 219
+    "count": 220
   },
-  "history_days": 221,
-  "as_of_date": "2026-09-01",
-  "last_updated": "2026-09-01T22:20:43.984421+05:30",
+  "history_days": 222,
+  "as_of_date": "2026-09-02",
+  "last_updated": "2026-09-02T13:51:27.381661+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -54,32 +54,48 @@
     "bias_label": "Slightly downward bias",
     "confidence": "MEDIUM",
     "score": -60.0,
-    "band_low": 13992.0,
-    "band_high": 14258.0,
+    "band_low": 13818.0,
+    "band_high": 14052.0,
     "usd_inr_rate": 94.95,
     "usd_inr_as_of": "2026-09-01",
     "usd_inr_daily_pct": -0.231,
     "usd_inr_7d_pct": -0.493,
     "factors": [
-      "7-day gold trend down (-5.90%)",
+      "7-day gold trend down (-6.73%)",
       "USD/INR 94.95 (-0.23% today)",
       "Rupee stronger ₹ vs USD over 7D (-0.49%)",
-      "Global headlines lean bullish (2/5) · 1 from recognised sources"
+      "Global headlines lean bullish (2/5) · 3 from recognised sources"
     ],
     "news": [
       {
-        "title": "Gold price hits two-week low as Warsh repricing, oil shock lift yields - Kitco AM Report - KITCO",
-        "source": "KITCO",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVVR6X280VnpuenZhdjFDMFhFYU5GZVlfRUlfSUZFUTUyQ2pZZzBnUjE2cm9JaWl0TnFLYk1fWjZKRXFaRml1RnE2MDFDdWY2SmlucGNldm1wcG1nY1UwTmdUZG82TDV1LVd3Zm9VcWJET2o1WHpST2x0WGNBSm13MFN1ZDNsUVhuMmZCSDB6WDhxMjVhOS1EeTZ6TDhsVTRlbnYzMXNHVVdvaUtWQk9HZWlVbFkwaUtQSlJQamFR?oc=5",
-        "published": "Tue, 01 Sep 2026 12:53:57 GMT",
+        "title": "Gold Price Analysis: XAU/USD Holds $4,400 After Hawkish Warsh - Investing.com",
+        "source": "Investing.com",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUHh6SWloTTUtYVVLNUd4V2FzanNkd2t2X3NlUGVEWFZoamk3STA3cmJXdC1CcldvR085QlQzOVN2dHhQZk4waWc0YVV1MmZOVEZVU0xZaXJmR1ppTWVZT0ZhbEpmOV94R21DYV9WTWdwX01iRWhEV0g5MkZDN3VVaGJKR1Q0NE1oU0J6eFVpaWpDMWhmd0dRRVpCbG55SUZfTHhEcw?oc=5",
+        "published": "Tue, 01 Sep 2026 10:18:07 GMT",
         "tone": "neutral",
         "reliable": true
       },
       {
-        "title": "Current price of gold as of September 1, 2026 - fortune.com",
-        "source": "fortune.com",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9CTllFRlNuTUNqYUxWVHA2UFRxZ0QyNmFZaEpfUFhCS19TVVhSZHZOb0NTaWVYYVRvb21QWFg4R0xhQnBOSjAxLXBtSjJFWmxmY2V1U1FVc1VJc0xpRnlURXhhcVY1bExsZUJXX0hn?oc=5",
-        "published": "Tue, 01 Sep 2026 13:14:00 GMT",
+        "title": "Gold price is going to $20,000 as the Fed is ‘powerless’ to fight inflation, miners offer greatest upside - Crescat’s Kevin Smith - KITCO",
+        "source": "KITCO",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNT3RaU1RYeERlaFJkRU5ZVjBkSFlYV2xJVmtCV09NS1g2d185bFNNcy1nR1NDM25HX2djcEU3RHFxZFk4U0twMnZXZ0NNbmhkV1pVZnRMMWYxdExZa0RFRXpCUzd1Y0MzaUFsbWxGNkE4Y2dOaFo2NUkwQ2ZhczE2UThaMUltZHR1b0ptTG9wWmZ6NW1pRGFKQjY2RGYwODdNSUc3d1ExWUR3WmVJQW16Q2VlNkJCYXY1UFhMLQ?oc=5",
+        "published": "Mon, 31 Aug 2026 14:36:00 GMT",
+        "tone": "bullish",
+        "reliable": true
+      },
+      {
+        "title": "Gold, silver prices today, 2 September: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata - Livemint",
+        "source": "Livemint",
+        "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPc29UYVh3T1lFNjBHS0JsenJ2WnNONmY1VC0tZ0J0ZFVNRTFDMW5NMUQwc3pEY0JLYWh1Y29NbHpFR19hemx1X0RmX0VFM0JkTng5M3BoRXpwSW9CQTdKelliWWwwTDVWaXdoU3RlcTVpdTJrdDhpdmNYWVdxUXlObmFnRDBlQkRIZWhUcy1vcGVXeDRjZ0doREI5WjNlT3RNQlJXakM2NS0wYVQ0MUprUXBkRGxEdWNZMHhnU3BHdXh4d09iNzQ0eG1xNXh2UWNNLTNyUGZXT245REpkcjUyT0tJSGFlOUFrNUdteFprdEFpcHhwOWl6X2ZkSmtqdU5YQkRGTFEzVjFTZ9IBjwJBVV95cUxQNU45Vy1zWUs0OFh6UGRwMUs5VVVyS1VPemlaZ3ZkNzh6a1NCaWk1eUp6WExnd0RXLXAzQVVURGlsWC1MRW5pNHlZTFJMUlBQRjRHSDltMVh2ZFNLODM2MWFodjJBSXhnRnhHZVgtYXVfSTRSSGlTUWMzSFJZVTFOVUhJZGU0NnhzX0pxazB0ZklwVkZFYXpvdjRJVnFZYjJRXzVERHhrZjZVQjV6aXNuNTduZFJhTU5MY01MY1NncnczUXVaRVh1MVd4aV9oeUxZM2JRakFJOUdBdms4UVFwM3R4Njd4b0VNTll6b1ptM3dnMXBhZ0RCN0Q5VzNCQUd0Sk1UbGo4d1diNHF6Tjc4?oc=5",
+        "published": "Wed, 02 Sep 2026 04:04:54 GMT",
+        "tone": "neutral",
+        "reliable": true
+      },
+      {
+        "title": "A forever Gold bull market? - FXStreet",
+        "source": "FXStreet",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9PRDV0NkFHS3RiTk9WVHQzbjdrTm9PMGpXdk9OQUVreHRESHk5bHF1d0hEb2JYWFdGdzlNeXE4d3NKdklneXo2Z0pkUUFLN192LTVRY21TaDdkWTNQVTFqWFhYekVqWUpUNFlUd01aZWJmOHh2Sy0xemdGZjRkZw?oc=5",
+        "published": "Tue, 01 Sep 2026 19:59:05 GMT",
         "tone": "neutral",
         "reliable": false
       },
@@ -88,22 +104,6 @@
         "source": "BullionVault",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMk1GbTdKZGFzUHlxWkljbXNid0lIZldoZmU5R3l4bm8yTGIxNVJJeVNuNGNCZ1BzNTM3VU1PLW9vRml3bzlsNjMwVGhpMjNJQlJ6RzY0UVQzcGtja0t0NVNKTnh0Vkw2ek9RTWRmWVo4dlp1THFoX0dGNXQ1X0VocU9MOGRLUjQ0SmhaRGR3?oc=5",
         "published": "Tue, 01 Sep 2026 14:01:22 GMT",
-        "tone": "bullish",
-        "reliable": false
-      },
-      {
-        "title": "Gold Price Forecast: XAU/USD Holds Key Support at $4,400 – What’s Next for Buyers? - CryptoRank",
-        "source": "CryptoRank",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVDBIa19BUUtQOGFua1Q1b1NwSkgzNEJMYlRuRWxYMHR6a05qckFlblJDQXl1NEZxYkxHLUo1QnNLVFRtOTdFbENfMWRSUW1GaWc2djRIWnpmZmZBMkc2VVFWaDNKQS00UW9OY3A1UXdyUllSUDFHTWFScnFLcENySzdnR2g?oc=5",
-        "published": "Tue, 01 Sep 2026 05:49:54 GMT",
-        "tone": "neutral",
-        "reliable": false
-      },
-      {
-        "title": "Gold Price Hits 10-Day Low as Rising Yields Test Support - FXEmpire",
-        "source": "FXEmpire",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTDhLUVY4TVFVUmhSQklTTmZqb3V2YnRhMHJSMjBqTmRqQ2NuTGVzc0I5Z055ZEdRZzcyMVdyMGFwbGlmX2cyZU5DMFhpMjc0M0xSVlM5MVpzZGtOdDIyWHB3bHlfLWNCdFNwdnNwWnBvcDJtajFNV1VmamJOQlRjSy1rRVBhSkJ3VjFtVjhuRnJRZGpZYlNodTQ4Q1EtVTc4akRpaHFMT1NYcjg?oc=5",
-        "published": "Tue, 01 Sep 2026 13:27:00 GMT",
         "tone": "bullish",
         "reliable": false
       }
