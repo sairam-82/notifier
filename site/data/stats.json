@@ -1,47 +1,47 @@
 {
-  "today_price": 13935.0,
-  "yesterday_price": 14125.0,
-  "daily_change": -190.0,
-  "daily_change_percent": -1.35,
-  "daily_direction": "down",
-  "position_30d": 43.66,
+  "today_price": 14240.0,
+  "yesterday_price": 13935.0,
+  "daily_change": 305.0,
+  "daily_change_percent": 2.19,
+  "daily_direction": "up",
+  "position_30d": 53.27,
   "classification": "NORMAL_RANGE",
   "classification_label": "NORMAL RANGE",
   "period_7d": {
     "low": 13935.0,
-    "high": 14940.0,
-    "average": 14450.0,
-    "change": -1005.0,
-    "change_percent": -6.73,
+    "high": 14770.0,
+    "average": 14350.0,
+    "change": -530.0,
+    "change_percent": -3.59,
     "count": 7
   },
   "period_30d": {
-    "low": 13086.5,
+    "low": 13339.3,
     "high": 15030.0,
-    "average": 14301.14,
-    "change": 848.5,
-    "change_percent": 6.48,
+    "average": 14345.51,
+    "change": 900.7000000000007,
+    "change_percent": 6.75,
     "count": 26
   },
   "period_90d": {
     "low": 12812.4,
     "high": 15030.0,
-    "average": 13668.66,
+    "average": 13676.94,
     "change": null,
     "change_percent": null,
-    "count": 68
+    "count": 69
   },
   "period_365d": {
     "low": 9704.6,
     "high": 16061.1,
-    "average": 13139.92,
+    "average": 13144.9,
     "change": null,
     "change_percent": null,
-    "count": 220
+    "count": 221
   },
-  "history_days": 222,
-  "as_of_date": "2026-09-02",
-  "last_updated": "2026-09-02T22:18:08.642222+05:30",
+  "history_days": 223,
+  "as_of_date": "2026-09-03",
+  "last_updated": "2026-09-03T14:01:00.256352+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -54,57 +54,57 @@
     "bias_label": "Slightly downward bias",
     "confidence": "MEDIUM",
     "score": -43.3,
-    "band_low": 13818.0,
-    "band_high": 14052.0,
+    "band_low": 14115.0,
+    "band_high": 14365.0,
     "usd_inr_rate": 94.97,
     "usd_inr_as_of": "2026-09-02",
     "usd_inr_daily_pct": 0.021,
     "usd_inr_7d_pct": -0.472,
     "factors": [
-      "7-day gold trend down (-6.73%)",
+      "7-day gold trend down (-3.59%)",
       "USD/INR 94.97 (+0.02% today)",
       "Rupee stronger ₹ vs USD over 7D (-0.47%)",
-      "Global headlines lean bullish (2/5) · 2 from recognised sources"
+      "Global headlines lean bullish (2/5) · 3 from recognised sources"
     ],
     "news": [
       {
-        "title": "Gold falls to two-week low as rising Treasury yields, dollar weigh - Reuters",
-        "source": "Reuters",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV2Jmek11RFVUTTRvVFR1dmQ0cUVicVZGM2pxS3FzME8zN0pJUmpGMGtPcU1DeHp1aHUxaU1VeDEtMy00anM2WUthdjRrTHl0aWR6V3ZKSVVLM3M2Q09IVk1kV1JEMXl0YWE3ZWt4VDdya1BQMFlTVTlxUHhEdFdPSTM3NURaVmlLYktsSkdBWERjYkJMbnlaM0oweFZ5ZUZNaDFmT2tLOHliZUNKaHhZ?oc=5",
-        "published": "Tue, 01 Sep 2026 02:56:00 GMT",
+        "title": "Gold climbs above $4,400 as weaker dollar, yields revive bullion demand - Investing.com",
+        "source": "Investing.com",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQnpyajUtMVd0aElpQUNNTDJXN1JfV1BnS3pvWEpZUWVPR3FCb2FDY3A2OENEMC1zR2lmcXVKV1hUbmJKLVJ3emhJLVFMTHRjUGFsdTY2eDFJUmg4RzFEZl80WkUwbktKa2NDQnNEa1Z0M1lXal9zdm95T0gxb3Q0MDZGYkhxM0VBN1Qxai1xejRmdElyZDlXMHVZM1RCWTEzZ0dXTlB3NTFpekRBNmU5YzBOamNxTklKQUhHalJaOHRMaGJuMkxGUXBTdm8?oc=5",
+        "published": "Thu, 03 Sep 2026 06:41:48 GMT",
+        "tone": "bullish",
+        "reliable": true
+      },
+      {
+        "title": "Gold falls to two-week low as rising Treasury yields, dollar weigh - CNBC",
+        "source": "CNBC",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVXc3R3BkelVyQTYtM1JWdEJsMklYRlFTejhEX1JzTEg0aDA1MmNkTHZyMU1CR0M1TDN0bXVIdWliUlVNai0wSXdRSWd4d3BlY1g0SzVrMURmSnBOOXhtSzNqWWp5c2dYc0Z3aVRGS2d4cmxTSDJzeWM3bjdXM0psdXhwSHpjX3lRYm5HLUtJRHVVU3RnNUMzYk5tMTgxazNrSTY3dNIBqgFBVV95cUxNSnhkV0xaNGJoMG14RVIyRVhGUFhrT2RQTHVsQUR0YV9VZWlYcjdRRnByZmk3OHNTZUp1eGROamNHa2xnWmc2MlBhSHZmTzdVTzdNRWt1UmxpZVpieXoyRDZUdVFvY00wRUtJSjM5YmY3RnZYMHFvQm1sdG52MDl6dFhrR2lEU21SRDdFNTYybnFuVDhBVTQ1Nm9KZUE5bHdGUEptWkozdFlyUQ?oc=5",
+        "published": "Tue, 01 Sep 2026 03:18:00 GMT",
         "tone": "neutral",
         "reliable": true
       },
       {
-        "title": "Gold price is going to $20,000 as the Fed is ‘powerless’ to fight inflation, miners offer greatest upside - Crescat’s Kevin Smith - kitco.com",
+        "title": "Gold price will approach $5,000/oz in 2026, $5,300/oz in 2027 on ‘uncertainty, de-dollarization, and debasement concern’ – RBC - kitco.com",
         "source": "kitco.com",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNT3RaU1RYeERlaFJkRU5ZVjBkSFlYV2xJVmtCV09NS1g2d185bFNNcy1nR1NDM25HX2djcEU3RHFxZFk4U0twMnZXZ0NNbmhkV1pVZnRMMWYxdExZa0RFRXpCUzd1Y0MzaUFsbWxGNkE4Y2dOaFo2NUkwQ2ZhczE2UThaMUltZHR1b0ptTG9wWmZ6NW1pRGFKQjY2RGYwODdNSUc3d1ExWUR3WmVJQW16Q2VlNkJCYXY1UFhMLQ?oc=5",
-        "published": "Mon, 31 Aug 2026 14:36:00 GMT",
-        "tone": "bullish",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYl8tdFEyU25MRzhjMjFrME16cG1hZGZZd005aFN1V19JMHdXTDdGcUxfOE11YTFWamNZdlNQMVd1UW5nYldNUTVfUkRaY0V0NWl1cVpES3hxR0R6REZEbzU4emVrMzBicTNtOG1YUVZPRFpxQk9QN3FORFlhb0RfWlRQNExvck4yblNhZ2NLRDZlcXlRdk1sdDIyaF9vWDNjUVN4WDJJcUlQbU53WUE?oc=5",
+        "published": "Wed, 02 Sep 2026 16:23:08 GMT",
+        "tone": "neutral",
         "reliable": true
       },
       {
-        "title": "Current price of gold: Aug. 28, 2026 - Fortune",
+        "title": "Current price of gold as of September 2, 2026 - Fortune",
         "source": "Fortune",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9xWmxzNXVfOXZIdFUyV3pDMGMtb0xLTklMeUEtc3dwektqZV9MM2x4d2szcWwwNDQzMFlyaDNJVVBhejVEb01Qai0yREt2d1UtazdMcUlDTVVBd2hTS2Q1ZmNqaDFYbFN3QTY4QjhB?oc=5",
-        "published": "Fri, 28 Aug 2026 11:00:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1NQ0kxdGV5SmNDRC1uTU04bGFPMzZQU2dsaHluU3RQb1FMd0s3dHNISFNEZ0JDTGRPSE9nLWFvMGJ5a2thX1IzcFBEamN1VlJTc2VTbVZKa2hTblRtVmhON3ZkUC00RUREeEZzeTRB?oc=5",
+        "published": "Wed, 02 Sep 2026 13:05:00 GMT",
         "tone": "neutral",
         "reliable": false
       },
       {
-        "title": "Gold Halves August Jump on War-Fuelled Oil, Food Price Inflation - BullionVault",
-        "source": "BullionVault",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMk1GbTdKZGFzUHlxWkljbXNid0lIZldoZmU5R3l4bm8yTGIxNVJJeVNuNGNCZ1BzNTM3VU1PLW9vRml3bzlsNjMwVGhpMjNJQlJ6RzY0UVQzcGtja0t0NVNKTnh0Vkw2ek9RTWRmWVo4dlp1THFoX0dGNXQ1X0VocU9MOGRLUjQ0SmhaRGR3?oc=5",
-        "published": "Tue, 01 Sep 2026 14:01:22 GMT",
+        "title": "Gold price erases 2026 gains as Fed hike bets climb to 70%, silver slides - Mining.com",
+        "source": "Mining.com",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQczFsTlpFWTRYWGZBV1o5dnpHLXFjRlBTTzBnM292el9VaGtkTXlYZXBVT0dnQ3Y2TDI1Z2xvNTVsVjF3MGdvdTMtMkRyT1NjWjBWNmU3LTVYSk9saDduVmZyWklkc0FRbU5ReVhpMHVRRVV2dzUyNGFoVnRUMXh6bGs2YWRRZmlyT3hpVnNlYkNHYjVMRVNmUS11SQ?oc=5",
+        "published": "Tue, 01 Sep 2026 17:29:21 GMT",
         "tone": "bullish",
-        "reliable": false
-      },
-      {
-        "title": "Gold futures are down more than 8%: Is the next dip-buying opportunity approaching? - investingLive",
-        "source": "investingLive",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYUJNMFhsTVo1TktxWmR4dVJqcDhaSm1MZFd2bmV4Ykc0eHR0a09vbEVyS3NKSFBDajdxeU03ME5zQUFqZC00M1BxMk9OaXRKSHlWNlhKRkVOMDYzd3g5eUs3TEp6SHZyMHY0SWJGc0h0THp4MTlpOXNDVDA3QjFRMndBa0JhbGtfSU5fTXZ1R1RZYzBraVFNVGRZdHFzcHdpOHktMHpxUHVKQmxFQ1ZMc2VEOE9saHZzYzhF?oc=5",
-        "published": "Wed, 02 Sep 2026 10:35:39 GMT",
-        "tone": "neutral",
         "reliable": false
       }
     ],
