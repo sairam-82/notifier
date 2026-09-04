@@ -41,7 +41,7 @@
   },
   "history_days": 224,
   "as_of_date": "2026-09-04",
-  "last_updated": "2026-09-04T13:56:38.489425+05:30",
+  "last_updated": "2026-09-04T22:03:04.727380+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -53,57 +53,57 @@
     "bias": "SLIGHTLY_DOWN",
     "bias_label": "Slightly downward bias",
     "confidence": "MEDIUM",
-    "score": -45.0,
+    "score": -30.0,
     "band_low": 14237.0,
     "band_high": 14483.0,
     "usd_inr_rate": 94.49,
-    "usd_inr_as_of": "2026-09-03",
-    "usd_inr_daily_pct": -0.505,
-    "usd_inr_7d_pct": -1.099,
+    "usd_inr_as_of": "2026-09-04",
+    "usd_inr_daily_pct": 0.0,
+    "usd_inr_7d_pct": -0.943,
     "factors": [
       "7-day gold trend down (-1.00%)",
-      "USD/INR 94.49 (-0.51% today)",
-      "Rupee stronger ₹ vs USD over 7D (-1.10%)",
+      "USD/INR 94.49 (+0.00% today)",
+      "Rupee stronger ₹ vs USD over 7D (-0.94%)",
       "Global headlines mixed/neutral · 1 from recognised sources"
     ],
     "news": [
       {
-        "title": "Gold price nears $4,500 as jobs data, Waller ease yield pressure - Kitco AM Report - KITCO",
+        "title": "Gold price hit with major selling as U.S. economy creates 162K jobs in August - KITCO",
         "source": "KITCO",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcnFGSzhmd3BoNjF5SDMxMlVIYlBXdWxleDc0bWs5ZTVGenF0UlpaX0ppb0xMaVBFSHV6WWVHa3NDcmV3QlNhRWlqZDhWS1BsZEo5Z21VMmI0WENPeXIxZjlUVWZheTdPZm1GeUktNXRDTk0zdlJuX1RPeFdEaF96cWVFNzRRbnJMcmpIUHpNWXZldVNTZC1iazdVWVpVZl8wanQyNm1oMklsdmMyQVlSSHExUHRMWTF2cXdEVw?oc=5",
-        "published": "Thu, 03 Sep 2026 13:23:08 GMT",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ1ZmRTJQM2lJY3VFemZBTUJoZk1LRmk2TFVScDhFU0lWcXI0dk5pQ1BhS1pnUTNPV3pJY3k1UDVZZENpRW1jcWhzOGxvNngzTnJYNVc0dGdWNVJvTTNyaExhMXJVVGRjTUFnbmdGQURsRzFoank4Wng4N2wzU0JLRGtUVWNxM0JlUkFFVklIWVZxbFVFLTVLVE0weXZnWEhEb0ZKLU4wc01kWGhmZlRZ?oc=5",
+        "published": "Fri, 04 Sep 2026 09:30:00 GMT",
         "tone": "neutral",
         "reliable": true
       },
       {
-        "title": "Gold Futures Surge Amid US-Iran Tensions in Hormuz - Investing News Network",
-        "source": "Investing News Network",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wdWpCVWdrTTM5dWFDbWRKUXhmM29Od2g5TFNOek5xVUF3d1NkTEhQVk1LS2NvZ0JoeUhmZ3NmanRYbEZmeEp3Ry1qVzUwV1VrWk5Pak1jRXdZTXpBVHE1QXhXbVFSU1U?oc=5",
-        "published": "Thu, 03 Sep 2026 21:20:00 GMT",
-        "tone": "bullish",
-        "reliable": false
-      },
-      {
-        "title": "Gold Price Drops 106 Yuan/Week: Physical Gold Store Prices Finally Follow Market Downtrend – How to Calculate Your Exact Actual Cost When Buying Gold - 36 Kr",
-        "source": "36 Kr",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYMWRzcWFNdHBwdXJzMzItR0o3Z3VmdW9QcDBpcjB6b0VSUTg1dXpIMjdpLWVod01qeHBCWXdsMlFNdTIxNm9CeHlHYkhKcnpmaDhn?oc=5",
-        "published": "Fri, 04 Sep 2026 03:53:07 GMT",
-        "tone": "bearish",
-        "reliable": false
-      },
-      {
-        "title": "Gold Price Forecast: $4,500 Test Sets Stage for NFP - FXEmpire",
-        "source": "FXEmpire",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSndJY2M3U1ZaUXQ2eGJwZDdSY3lIWHFBZFNYMjRmakRKaFAwaWFHZS1NS0Jndl9ndHNuajA4WnJjVEdBLS1XYXlfYjdDZDFqVHg2WkJRWHBmS0Y3QnVyWTdSWXVjVkZZV1ltWjNXa3Q4QkpBeUh6YVRQaGo1Y2ZFS2hfOEZGWlRkSnpvUTZya1pwVlJ0SmNmVlZCTkMxdlp5?oc=5",
-        "published": "Thu, 03 Sep 2026 12:03:00 GMT",
+        "title": "Current price of gold: Month Day, Year - Fortune",
+        "source": "Fortune",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NVkpTSTRjVmNlRVpCTEdQX2hycWRDcW8yWWJYX1dGbDhiNEJ0WFM5RzVBTUh6Zy1nemZaaXo0ekoyUjlETXNFd0h3TGtVeXd2NE5NS3BsbFNNTGtyX0Rjd2x2bFR2cEpxTkJLcHpR?oc=5",
+        "published": "Fri, 04 Sep 2026 13:08:00 GMT",
         "tone": "neutral",
         "reliable": false
       },
       {
-        "title": "Gold Price Forecast: Gold Under Pressure Below $4,200 as Market Awaits Fed Minutes - TradingKey",
-        "source": "TradingKey",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMnRVcENZVVJWbGVRTThSc0VTQkJNLUtDQWtjWWNtaUJwNVNkWkhFU2FPaDBtRVluaDZ1bWVlblV2NkxQM3JMcmIxaDJnTFlyeTJYeV8zOU9oTnVLRWtNbzNESlBrSHBqVFExTU0ySGNwMU56WTNPa1ZqdXFFMGpPY25lcTd3R2xOWWpxSUlnc05LRTJqeE5MWkZ1LUFMMWd0Y0I5dDRRaHhyT08xTWR0bQ?oc=5",
-        "published": "Thu, 03 Sep 2026 22:30:08 GMT",
+        "title": "Dutch bank moves $11.6B of gold bullion out of the US, Canada to London — and it's not the first time. Are you ready? - Yahoo Finance",
+        "source": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQlRFd0g0RW9kbmZ3QzN2TlpmdE54X1BRU0pVN2s3S3BMLW1Dbm0tTGRuRzlyZ2ttZjlObWNFdDlsbVJuR2Rnc3l2c2lhLWxLNHBVNW9qa0NiXzJwRHM2cTRTelFidExxMENDcUd0YUR4OHM5UG12em95RzJuQ3pKeExENWJ6c0lyU0ZYVl9XOC0zbl8yNFdV?oc=5",
+        "published": "Fri, 04 Sep 2026 10:15:00 GMT",
+        "tone": "neutral",
+        "reliable": false
+      },
+      {
+        "title": "Gold Price Drops as Fed Rate Rise Looms on US Jobs Surprise - bullionvault.com",
+        "source": "bullionvault.com",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTk9uRlZxODFJRUNwQlVFNk1CWmkxV3U5Um5MVlBFdXBWdUxpcklOcmhVTlN4WkYteWp4NDY4UG1XaUJpYWtmZjA0aDdmMkN3WnhFbmgyUFk3UFY3S2thOXZkSUR5UVluSU1GUnktNk10R2RrckxsaTZPYXBzbkZfTFhvdF9IUnpBQWdqdGRxUFBoaExI?oc=5",
+        "published": "Fri, 04 Sep 2026 13:56:20 GMT",
+        "tone": "neutral",
+        "reliable": false
+      },
+      {
+        "title": "Gold Price Forecast – Pullback Continues into Mid-September - FXEmpire",
+        "source": "FXEmpire",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbVFPSmVNeTk2andGdlhwYnpFd0s2dXQzS1p1RTdmbGxrMzBNdzdVWWZvd2VHMThRVjNKN1M5R2xreGNhQVF6eVlLeWZYNDhPYUowNWJhOGJ6aUpScWttTW5TUGUwLXVhc2RMZlQ1dzV6cWo0RGdBWjd6WDY3ckdOOEIyU3d1dlo5LXNzNG51V0RqY1A0QnVMLVFKVnBOb1lPR1VZeXlJS196RTc2?oc=5",
+        "published": "Fri, 04 Sep 2026 14:28:00 GMT",
         "tone": "neutral",
         "reliable": false
       }
