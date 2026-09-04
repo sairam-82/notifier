@@ -1,47 +1,47 @@
 {
-  "today_price": 14240.0,
-  "yesterday_price": 13935.0,
-  "daily_change": 305.0,
-  "daily_change_percent": 2.19,
+  "today_price": 14360.0,
+  "yesterday_price": 14240.0,
+  "daily_change": 120.0,
+  "daily_change_percent": 0.84,
   "daily_direction": "up",
-  "position_30d": 53.27,
+  "position_30d": 53.24,
   "classification": "NORMAL_RANGE",
   "classification_label": "NORMAL RANGE",
   "period_7d": {
     "low": 13935.0,
-    "high": 14770.0,
-    "average": 14350.0,
-    "change": -530.0,
-    "change_percent": -3.59,
+    "high": 14505.0,
+    "average": 14291.43,
+    "change": -145.0,
+    "change_percent": -1.0,
     "count": 7
   },
   "period_30d": {
-    "low": 13339.3,
+    "low": 13597.1,
     "high": 15030.0,
-    "average": 14345.51,
-    "change": 900.7000000000007,
-    "change_percent": 6.75,
+    "average": 14384.77,
+    "change": 762.8999999999996,
+    "change_percent": 5.61,
     "count": 26
   },
   "period_90d": {
     "low": 12812.4,
     "high": 15030.0,
-    "average": 13676.94,
+    "average": 13686.7,
     "change": null,
     "change_percent": null,
-    "count": 69
+    "count": 70
   },
   "period_365d": {
     "low": 9704.6,
     "high": 16061.1,
-    "average": 13144.9,
+    "average": 13150.37,
     "change": null,
     "change_percent": null,
-    "count": 221
+    "count": 222
   },
-  "history_days": 223,
-  "as_of_date": "2026-09-03",
-  "last_updated": "2026-09-03T22:08:00.769691+05:30",
+  "history_days": 224,
+  "as_of_date": "2026-09-04",
+  "last_updated": "2026-09-04T13:56:38.489425+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -53,57 +53,57 @@
     "bias": "SLIGHTLY_DOWN",
     "bias_label": "Slightly downward bias",
     "confidence": "MEDIUM",
-    "score": -70.0,
-    "band_low": 14115.0,
-    "band_high": 14365.0,
+    "score": -45.0,
+    "band_low": 14237.0,
+    "band_high": 14483.0,
     "usd_inr_rate": 94.49,
     "usd_inr_as_of": "2026-09-03",
     "usd_inr_daily_pct": -0.505,
     "usd_inr_7d_pct": -1.099,
     "factors": [
-      "7-day gold trend down (-3.59%)",
+      "7-day gold trend down (-1.00%)",
       "USD/INR 94.49 (-0.51% today)",
       "Rupee stronger ₹ vs USD over 7D (-1.10%)",
-      "Global headlines mixed/neutral · 3 from recognised sources"
+      "Global headlines mixed/neutral · 1 from recognised sources"
     ],
     "news": [
-      {
-        "title": "Gold gains over 1% as softer dollar, lower yields ease Fed rate hike pressure - Investing.com",
-        "source": "Investing.com",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQnpyajUtMVd0aElpQUNNTDJXN1JfV1BnS3pvWEpZUWVPR3FCb2FDY3A2OENEMC1zR2lmcXVKV1hUbmJKLVJ3emhJLVFMTHRjUGFsdTY2eDFJUmg4RzFEZl80WkUwbktKa2NDQnNEa1Z0M1lXal9zdm95T0gxb3Q0MDZGYkhxM0VBN1Qxai1xejRmdElyZDlXMHVZM1RCWTEzZ0dXTlB3NTFpekRBNmU5YzBOamNxTklKQUhHalJaOHRMaGJuMkxGUXBTdm8?oc=5",
-        "published": "Thu, 03 Sep 2026 10:22:09 GMT",
-        "tone": "bearish",
-        "reliable": true
-      },
       {
         "title": "Gold price nears $4,500 as jobs data, Waller ease yield pressure - Kitco AM Report - KITCO",
         "source": "KITCO",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcnFGSzhmd3BoNjF5SDMxMlVIYlBXdWxleDc0bWs5ZTVGenF0UlpaX0ppb0xMaVBFSHV6WWVHa3NDcmV3QlNhRWlqZDhWS1BsZEo5Z21VMmI0WENPeXIxZjlUVWZheTdPZm1GeUktNXRDTk0zdlJuX1RPeFdEaF96cWVFNzRRbnJMcmpIUHpNWXZldVNTZC1iazdVWVpVZl8wanQyNm1oMklsdmMyQVlSSHExUHRMWTF2cXdEVw?oc=5",
-        "published": "Thu, 03 Sep 2026 10:10:00 GMT",
+        "published": "Thu, 03 Sep 2026 13:23:08 GMT",
         "tone": "neutral",
         "reliable": true
       },
       {
-        "title": "Gold price rally looks beyond stable U.S. weekly jobless claims - KITCO",
-        "source": "KITCO",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZjFzVEdDTVJpUlRuclIyXzR0VmpnTjFaYVdxdDZyLVg4UXBGbm5rSVlPWFlSOHZ4YUtHODFYaWRZVWRqazVvUkU4T1hhVU5NS056NUpER29lc1MwN1E4TTBWQVVvdXcyUEhZY3BncTNPWFFYbVRNaGJVWTBEeFFMRlBLQWNSdUpVZ2NzbDUtNmg5NmN0TzVJMHROTkhuUjN3cmVEcllkUnN4SEk?oc=5",
-        "published": "Thu, 03 Sep 2026 16:14:53 GMT",
+        "title": "Gold Futures Surge Amid US-Iran Tensions in Hormuz - Investing News Network",
+        "source": "Investing News Network",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wdWpCVWdrTTM5dWFDbWRKUXhmM29Od2g5TFNOek5xVUF3d1NkTEhQVk1LS2NvZ0JoeUhmZ3NmanRYbEZmeEp3Ry1qVzUwV1VrWk5Pak1jRXdZTXpBVHE1QXhXbVFSU1U?oc=5",
+        "published": "Thu, 03 Sep 2026 21:20:00 GMT",
         "tone": "bullish",
-        "reliable": true
+        "reliable": false
       },
       {
-        "title": "'Not normal behaviour': De Nederlandsche Bank reallocates gold from US - Fortune",
-        "source": "Fortune",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZTlJNktFdWY5RFRQRGtMUG9PN1d3dExzTHBRTWRReGRlaTdzOFNJazU4NUctNWNIcjNVTUppcWthTWFTNWRqaUw5OFdEbFN6Z3FHMGlOQk9PNk4ySy1lNmxLbGdYeW5ZNzVmMExSaXB3NE8wR2N6US1CcTFZSUtfdEJSc05obVNHQlpxUg?oc=5",
-        "published": "Thu, 03 Sep 2026 11:29:00 GMT",
+        "title": "Gold Price Drops 106 Yuan/Week: Physical Gold Store Prices Finally Follow Market Downtrend – How to Calculate Your Exact Actual Cost When Buying Gold - 36 Kr",
+        "source": "36 Kr",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYMWRzcWFNdHBwdXJzMzItR0o3Z3VmdW9QcDBpcjB6b0VSUTg1dXpIMjdpLWVod01qeHBCWXdsMlFNdTIxNm9CeHlHYkhKcnpmaDhn?oc=5",
+        "published": "Fri, 04 Sep 2026 03:53:07 GMT",
+        "tone": "bearish",
+        "reliable": false
+      },
+      {
+        "title": "Gold Price Forecast: $4,500 Test Sets Stage for NFP - FXEmpire",
+        "source": "FXEmpire",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSndJY2M3U1ZaUXQ2eGJwZDdSY3lIWHFBZFNYMjRmakRKaFAwaWFHZS1NS0Jndl9ndHNuajA4WnJjVEdBLS1XYXlfYjdDZDFqVHg2WkJRWHBmS0Y3QnVyWTdSWXVjVkZZV1ltWjNXa3Q4QkpBeUh6YVRQaGo1Y2ZFS2hfOEZGWlRkSnpvUTZya1pwVlJ0SmNmVlZCTkMxdlp5?oc=5",
+        "published": "Thu, 03 Sep 2026 12:03:00 GMT",
         "tone": "neutral",
         "reliable": false
       },
       {
-        "title": "BARRICK GOLD ($GOLD) Releases Q4 2026 Earnings - Quiver Quantitative",
-        "source": "Quiver Quantitative",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbmVVcEl4ckRtaEpMSm5US1UwU1R0U1dfUUdkelFJb0d0VDR2NFBLQVJBZUFMSzRxREdIaTVYVXdtNnpoeXlmSWJHNUdkVGJwSDNlWTc5cl9TbFVqZTNVemFNT1F5T0tWdUdHZ2YtUTR3MV9CbXdacUxLNktvM2FOUVQxWVg4UmEyS0FNbGl3?oc=5",
-        "published": "Wed, 02 Sep 2026 22:50:00 GMT",
+        "title": "Gold Price Forecast: Gold Under Pressure Below $4,200 as Market Awaits Fed Minutes - TradingKey",
+        "source": "TradingKey",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMnRVcENZVVJWbGVRTThSc0VTQkJNLUtDQWtjWWNtaUJwNVNkWkhFU2FPaDBtRVluaDZ1bWVlblV2NkxQM3JMcmIxaDJnTFlyeTJYeV8zOU9oTnVLRWtNbzNESlBrSHBqVFExTU0ySGNwMU56WTNPa1ZqdXFFMGpPY25lcTd3R2xOWWpxSUlnc05LRTJqeE5MWkZ1LUFMMWd0Y0I5dDRRaHhyT08xTWR0bQ?oc=5",
+        "published": "Thu, 03 Sep 2026 22:30:08 GMT",
         "tone": "neutral",
         "reliable": false
       }
