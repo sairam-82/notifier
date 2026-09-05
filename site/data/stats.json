@@ -41,7 +41,7 @@
   },
   "history_days": 225,
   "as_of_date": "2026-09-05",
-  "last_updated": "2026-09-05T13:31:09.982544+05:30",
+  "last_updated": "2026-09-05T20:58:13.739076+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -53,7 +53,7 @@
     "bias": "SLIGHTLY_DOWN",
     "bias_label": "Slightly downward bias",
     "confidence": "MEDIUM",
-    "score": -41.7,
+    "score": -36.7,
     "band_low": 14054.0,
     "band_high": 14326.0,
     "usd_inr_rate": 94.49,
@@ -64,7 +64,7 @@
       "7-day gold trend down (-2.17%)",
       "USD/INR 94.49 (+0.00% today)",
       "Rupee stronger ₹ vs USD over 7D (-0.94%)",
-      "Global headlines mixed/neutral · 1 from recognised sources"
+      "Global headlines lean bullish (1/5) · 1 from recognised sources"
     ],
     "news": [
       {
@@ -84,26 +84,26 @@
         "reliable": false
       },
       {
+        "title": "De-Dollarization, Deficits, And War: Gold's Rally Just Sent A Major Signal (NYSEARCA:GLD) - Seeking Alpha",
+        "source": "Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeFM2ME8zaF9fTjh5NUdtMGVKMi12a09McTNZUmhfaHdwM1k5SmQ0QlhodDE5b0hWcjBLdmRRZGZvZzBwRzdJZFJlU3ZyOXJXQW9MNmowd04yVzNEc1JhOUpKSU9rYzFpeGxaQ0NQUTM1UmpZNk1saDJjeHJyT2FrWUZwMHhfN1RJVkU1QTNaVFhoNU1lSTJjeUU3QTNENGFiMWZhbktfZjdpNFRGZUhsdQ?oc=5",
+        "published": "Sat, 05 Sep 2026 11:05:13 GMT",
+        "tone": "bullish",
+        "reliable": false
+      },
+      {
+        "title": "Gold Futures Overview - CME Group",
+        "source": "CME Group",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WeDc1RGtZSl9sWTFkQXE5RFZpdVo3VkRJT08zLU5TSUVSQWpLTUNOR3RjZEwxY2hYNUdLUzdrV2xsdDY1OTlkcGJxM1pyaUNOSndxdDNuY2N0NXROM1psWERyeVVRZko1ZGc?oc=5",
+        "published": "Thu, 03 Sep 2026 20:44:45 GMT",
+        "tone": "neutral",
+        "reliable": false
+      },
+      {
         "title": "Gold Price Drops as Fed Rate Rise Looms on US Jobs Surprise - BullionVault",
         "source": "BullionVault",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTk9uRlZxODFJRUNwQlVFNk1CWmkxV3U5Um5MVlBFdXBWdUxpcklOcmhVTlN4WkYteWp4NDY4UG1XaUJpYWtmZjA0aDdmMkN3WnhFbmgyUFk3UFY3S2thOXZkSUR5UVluSU1GUnktNk10R2RrckxsaTZPYXBzbkZfTFhvdF9IUnpBQWdqdGRxUFBoaExI?oc=5",
         "published": "Fri, 04 Sep 2026 13:56:20 GMT",
-        "tone": "neutral",
-        "reliable": false
-      },
-      {
-        "title": "Gold Price Forecast – Pullback Continues into Mid-September - FXEmpire",
-        "source": "FXEmpire",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbVFPSmVNeTk2andGdlhwYnpFd0s2dXQzS1p1RTdmbGxrMzBNdzdVWWZvd2VHMThRVjNKN1M5R2xreGNhQVF6eVlLeWZYNDhPYUowNWJhOGJ6aUpScWttTW5TUGUwLXVhc2RMZlQ1dzV6cWo0RGdBWjd6WDY3ckdOOEIyU3d1dlo5LXNzNG51V0RqY1A0QnVMLVFKVnBOb1lPR1VZeXlJS196RTc2?oc=5",
-        "published": "Fri, 04 Sep 2026 14:28:00 GMT",
-        "tone": "neutral",
-        "reliable": false
-      },
-      {
-        "title": "Gold Price Outlook: Dead Cat Bounce Risk as Bearish Signals Build - stonex.com",
-        "source": "stonex.com",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNFFmWmJLWkxsX1NIVFExeVNrcjNBQzcxcWQya1lwWmFaRHAxM3JDM3A1VXRLR1ZNWWFycFZzUHJHSm1GOU96QTR0VmE2MGdUd3BTZW1nSTBVUXkyTU0yZzBUN0ZEcGo5UkdTLXg5Y28tTjlXRWpGcFhSQUFoSUx4ZHZQVVp6cTBScjltNXJFY3lRUkE0d01qRDVqLTlSZlpkY0JSZHZyeTROcjU2U1IwYWN3?oc=5",
-        "published": "Fri, 04 Sep 2026 10:08:46 GMT",
         "tone": "neutral",
         "reliable": false
       }
