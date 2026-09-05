@@ -1,47 +1,47 @@
 {
-  "today_price": 14360.0,
-  "yesterday_price": 14240.0,
-  "daily_change": 120.0,
-  "daily_change_percent": 0.84,
-  "daily_direction": "up",
-  "position_30d": 53.24,
+  "today_price": 14190.0,
+  "yesterday_price": 14360.0,
+  "daily_change": -170.0,
+  "daily_change_percent": -1.18,
+  "daily_direction": "down",
+  "position_30d": 36.59,
   "classification": "NORMAL_RANGE",
   "classification_label": "NORMAL RANGE",
   "period_7d": {
     "low": 13935.0,
     "high": 14505.0,
-    "average": 14291.43,
-    "change": -145.0,
-    "change_percent": -1.0,
+    "average": 14246.43,
+    "change": -315.0,
+    "change_percent": -2.17,
     "count": 7
   },
   "period_30d": {
-    "low": 13597.1,
+    "low": 13705.3,
     "high": 15030.0,
-    "average": 14384.77,
-    "change": 762.8999999999996,
-    "change_percent": 5.61,
+    "average": 14407.57,
+    "change": 484.7000000000007,
+    "change_percent": 3.54,
     "count": 26
   },
   "period_90d": {
     "low": 12812.4,
     "high": 15030.0,
-    "average": 13686.7,
+    "average": 13693.79,
     "change": null,
     "change_percent": null,
-    "count": 70
+    "count": 71
   },
   "period_365d": {
-    "low": 9704.6,
+    "low": 9740.6,
     "high": 16061.1,
-    "average": 13150.37,
+    "average": 13170.58,
     "change": null,
     "change_percent": null,
     "count": 222
   },
-  "history_days": 224,
-  "as_of_date": "2026-09-04",
-  "last_updated": "2026-09-04T22:03:04.727380+05:30",
+  "history_days": 225,
+  "as_of_date": "2026-09-05",
+  "last_updated": "2026-09-05T13:31:09.982544+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -53,15 +53,15 @@
     "bias": "SLIGHTLY_DOWN",
     "bias_label": "Slightly downward bias",
     "confidence": "MEDIUM",
-    "score": -30.0,
-    "band_low": 14237.0,
-    "band_high": 14483.0,
+    "score": -41.7,
+    "band_low": 14054.0,
+    "band_high": 14326.0,
     "usd_inr_rate": 94.49,
     "usd_inr_as_of": "2026-09-04",
     "usd_inr_daily_pct": 0.0,
     "usd_inr_7d_pct": -0.943,
     "factors": [
-      "7-day gold trend down (-1.00%)",
+      "7-day gold trend down (-2.17%)",
       "USD/INR 94.49 (+0.00% today)",
       "Rupee stronger ₹ vs USD over 7D (-0.94%)",
       "Global headlines mixed/neutral · 1 from recognised sources"
@@ -71,7 +71,7 @@
         "title": "Gold price hit with major selling as U.S. economy creates 162K jobs in August - KITCO",
         "source": "KITCO",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ1ZmRTJQM2lJY3VFemZBTUJoZk1LRmk2TFVScDhFU0lWcXI0dk5pQ1BhS1pnUTNPV3pJY3k1UDVZZENpRW1jcWhzOGxvNngzTnJYNVc0dGdWNVJvTTNyaExhMXJVVGRjTUFnbmdGQURsRzFoank4Wng4N2wzU0JLRGtUVWNxM0JlUkFFVklIWVZxbFVFLTVLVE0weXZnWEhEb0ZKLU4wc01kWGhmZlRZ?oc=5",
-        "published": "Fri, 04 Sep 2026 09:30:00 GMT",
+        "published": "Fri, 04 Sep 2026 14:15:16 GMT",
         "tone": "neutral",
         "reliable": true
       },
@@ -84,16 +84,8 @@
         "reliable": false
       },
       {
-        "title": "Dutch bank moves $11.6B of gold bullion out of the US, Canada to London — and it's not the first time. Are you ready? - Yahoo Finance",
-        "source": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQlRFd0g0RW9kbmZ3QzN2TlpmdE54X1BRU0pVN2s3S3BMLW1Dbm0tTGRuRzlyZ2ttZjlObWNFdDlsbVJuR2Rnc3l2c2lhLWxLNHBVNW9qa0NiXzJwRHM2cTRTelFidExxMENDcUd0YUR4OHM5UG12em95RzJuQ3pKeExENWJ6c0lyU0ZYVl9XOC0zbl8yNFdV?oc=5",
-        "published": "Fri, 04 Sep 2026 10:15:00 GMT",
-        "tone": "neutral",
-        "reliable": false
-      },
-      {
-        "title": "Gold Price Drops as Fed Rate Rise Looms on US Jobs Surprise - bullionvault.com",
-        "source": "bullionvault.com",
+        "title": "Gold Price Drops as Fed Rate Rise Looms on US Jobs Surprise - BullionVault",
+        "source": "BullionVault",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTk9uRlZxODFJRUNwQlVFNk1CWmkxV3U5Um5MVlBFdXBWdUxpcklOcmhVTlN4WkYteWp4NDY4UG1XaUJpYWtmZjA0aDdmMkN3WnhFbmgyUFk3UFY3S2thOXZkSUR5UVluSU1GUnktNk10R2RrckxsaTZPYXBzbkZfTFhvdF9IUnpBQWdqdGRxUFBoaExI?oc=5",
         "published": "Fri, 04 Sep 2026 13:56:20 GMT",
         "tone": "neutral",
@@ -104,6 +96,14 @@
         "source": "FXEmpire",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbVFPSmVNeTk2andGdlhwYnpFd0s2dXQzS1p1RTdmbGxrMzBNdzdVWWZvd2VHMThRVjNKN1M5R2xreGNhQVF6eVlLeWZYNDhPYUowNWJhOGJ6aUpScWttTW5TUGUwLXVhc2RMZlQ1dzV6cWo0RGdBWjd6WDY3ckdOOEIyU3d1dlo5LXNzNG51V0RqY1A0QnVMLVFKVnBOb1lPR1VZeXlJS196RTc2?oc=5",
         "published": "Fri, 04 Sep 2026 14:28:00 GMT",
+        "tone": "neutral",
+        "reliable": false
+      },
+      {
+        "title": "Gold Price Outlook: Dead Cat Bounce Risk as Bearish Signals Build - stonex.com",
+        "source": "stonex.com",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNFFmWmJLWkxsX1NIVFExeVNrcjNBQzcxcWQya1lwWmFaRHAxM3JDM3A1VXRLR1ZNWWFycFZzUHJHSm1GOU96QTR0VmE2MGdUd3BTZW1nSTBVUXkyTU0yZzBUN0ZEcGo5UkdTLXg5Y28tTjlXRWpGcFhSQUFoSUx4ZHZQVVp6cTBScjltNXJFY3lRUkE0d01qRDVqLTlSZlpkY0JSZHZyeTROcjU2U1IwYWN3?oc=5",
+        "published": "Fri, 04 Sep 2026 10:08:46 GMT",
         "tone": "neutral",
         "reliable": false
       }
