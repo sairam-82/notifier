@@ -1,32 +1,32 @@
 {
   "today_price": 14190.0,
-  "yesterday_price": 14360.0,
-  "daily_change": -170.0,
-  "daily_change_percent": -1.18,
-  "daily_direction": "down",
-  "position_30d": 36.59,
+  "yesterday_price": 14190.0,
+  "daily_change": 0.0,
+  "daily_change_percent": 0.0,
+  "daily_direction": "flat",
+  "position_30d": 31.78,
   "classification": "NORMAL_RANGE",
   "classification_label": "NORMAL RANGE",
   "period_7d": {
     "low": 13935.0,
-    "high": 14505.0,
-    "average": 14246.43,
-    "change": -315.0,
-    "change_percent": -2.17,
+    "high": 14370.0,
+    "average": 14201.43,
+    "change": -180.0,
+    "change_percent": -1.25,
     "count": 7
   },
   "period_30d": {
-    "low": 13705.3,
+    "low": 13798.7,
     "high": 15030.0,
-    "average": 14407.57,
-    "change": 484.7000000000007,
-    "change_percent": 3.54,
+    "average": 14426.21,
+    "change": 391.2999999999993,
+    "change_percent": 2.84,
     "count": 26
   },
   "period_90d": {
     "low": 12812.4,
     "high": 15030.0,
-    "average": 13693.79,
+    "average": 13694.66,
     "change": null,
     "change_percent": null,
     "count": 71
@@ -34,14 +34,14 @@
   "period_365d": {
     "low": 9740.6,
     "high": 16061.1,
-    "average": 13170.58,
+    "average": 13175.15,
     "change": null,
     "change_percent": null,
-    "count": 222
+    "count": 223
   },
-  "history_days": 225,
-  "as_of_date": "2026-09-05",
-  "last_updated": "2026-09-05T20:58:13.739076+05:30",
+  "history_days": 226,
+  "as_of_date": "2026-09-06",
+  "last_updated": "2026-09-06T13:49:58.018336+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -53,61 +53,19 @@
     "bias": "SLIGHTLY_DOWN",
     "bias_label": "Slightly downward bias",
     "confidence": "MEDIUM",
-    "score": -36.7,
-    "band_low": 14054.0,
-    "band_high": 14326.0,
+    "score": -32.5,
+    "band_low": 14060.0,
+    "band_high": 14320.0,
     "usd_inr_rate": 94.49,
     "usd_inr_as_of": "2026-09-04",
     "usd_inr_daily_pct": 0.0,
     "usd_inr_7d_pct": -0.943,
     "factors": [
-      "7-day gold trend down (-2.17%)",
+      "7-day gold trend down (-1.25%)",
       "USD/INR 94.49 (+0.00% today)",
-      "Rupee stronger ₹ vs USD over 7D (-0.94%)",
-      "Global headlines lean bullish (1/5) · 1 from recognised sources"
+      "Rupee stronger ₹ vs USD over 7D (-0.94%)"
     ],
-    "news": [
-      {
-        "title": "Gold price hit with major selling as U.S. economy creates 162K jobs in August - KITCO",
-        "source": "KITCO",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ1ZmRTJQM2lJY3VFemZBTUJoZk1LRmk2TFVScDhFU0lWcXI0dk5pQ1BhS1pnUTNPV3pJY3k1UDVZZENpRW1jcWhzOGxvNngzTnJYNVc0dGdWNVJvTTNyaExhMXJVVGRjTUFnbmdGQURsRzFoank4Wng4N2wzU0JLRGtUVWNxM0JlUkFFVklIWVZxbFVFLTVLVE0weXZnWEhEb0ZKLU4wc01kWGhmZlRZ?oc=5",
-        "published": "Fri, 04 Sep 2026 14:15:16 GMT",
-        "tone": "neutral",
-        "reliable": true
-      },
-      {
-        "title": "Current price of gold: Month Day, Year - Fortune",
-        "source": "Fortune",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NVkpTSTRjVmNlRVpCTEdQX2hycWRDcW8yWWJYX1dGbDhiNEJ0WFM5RzVBTUh6Zy1nemZaaXo0ekoyUjlETXNFd0h3TGtVeXd2NE5NS3BsbFNNTGtyX0Rjd2x2bFR2cEpxTkJLcHpR?oc=5",
-        "published": "Fri, 04 Sep 2026 13:08:00 GMT",
-        "tone": "neutral",
-        "reliable": false
-      },
-      {
-        "title": "De-Dollarization, Deficits, And War: Gold's Rally Just Sent A Major Signal (NYSEARCA:GLD) - Seeking Alpha",
-        "source": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeFM2ME8zaF9fTjh5NUdtMGVKMi12a09McTNZUmhfaHdwM1k5SmQ0QlhodDE5b0hWcjBLdmRRZGZvZzBwRzdJZFJlU3ZyOXJXQW9MNmowd04yVzNEc1JhOUpKSU9rYzFpeGxaQ0NQUTM1UmpZNk1saDJjeHJyT2FrWUZwMHhfN1RJVkU1QTNaVFhoNU1lSTJjeUU3QTNENGFiMWZhbktfZjdpNFRGZUhsdQ?oc=5",
-        "published": "Sat, 05 Sep 2026 11:05:13 GMT",
-        "tone": "bullish",
-        "reliable": false
-      },
-      {
-        "title": "Gold Futures Overview - CME Group",
-        "source": "CME Group",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WeDc1RGtZSl9sWTFkQXE5RFZpdVo3VkRJT08zLU5TSUVSQWpLTUNOR3RjZEwxY2hYNUdLUzdrV2xsdDY1OTlkcGJxM1pyaUNOSndxdDNuY2N0NXROM1psWERyeVVRZko1ZGc?oc=5",
-        "published": "Thu, 03 Sep 2026 20:44:45 GMT",
-        "tone": "neutral",
-        "reliable": false
-      },
-      {
-        "title": "Gold Price Drops as Fed Rate Rise Looms on US Jobs Surprise - BullionVault",
-        "source": "BullionVault",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTk9uRlZxODFJRUNwQlVFNk1CWmkxV3U5Um5MVlBFdXBWdUxpcklOcmhVTlN4WkYteWp4NDY4UG1XaUJpYWtmZjA0aDdmMkN3WnhFbmgyUFk3UFY3S2thOXZkSUR5UVluSU1GUnktNk10R2RrckxsaTZPYXBzbkZfTFhvdF9IUnpBQWdqdGRxUFBoaExI?oc=5",
-        "published": "Fri, 04 Sep 2026 13:56:20 GMT",
-        "tone": "neutral",
-        "reliable": false
-      }
-    ],
+    "news": [],
     "disclaimer": "Indicative outlook only — not financial advice. Gold prices depend on many factors; this can be wrong."
   }
 }
