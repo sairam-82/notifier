@@ -41,7 +41,7 @@
   },
   "history_days": 226,
   "as_of_date": "2026-09-06",
-  "last_updated": "2026-09-06T13:49:58.018336+05:30",
+  "last_updated": "2026-09-06T21:11:30.700780+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -63,9 +63,51 @@
     "factors": [
       "7-day gold trend down (-1.25%)",
       "USD/INR 94.49 (+0.00% today)",
-      "Rupee stronger ₹ vs USD over 7D (-0.94%)"
+      "Rupee stronger ₹ vs USD over 7D (-0.94%)",
+      "Global headlines mixed/neutral · 2 from recognised sources"
     ],
-    "news": [],
+    "news": [
+      {
+        "title": "Gold price hit with major selling as U.S. economy creates 162K jobs in August - KITCO",
+        "source": "KITCO",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ1ZmRTJQM2lJY3VFemZBTUJoZk1LRmk2TFVScDhFU0lWcXI0dk5pQ1BhS1pnUTNPV3pJY3k1UDVZZENpRW1jcWhzOGxvNngzTnJYNVc0dGdWNVJvTTNyaExhMXJVVGRjTUFnbmdGQURsRzFoank4Wng4N2wzU0JLRGtUVWNxM0JlUkFFVklIWVZxbFVFLTVLVE0weXZnWEhEb0ZKLU4wc01kWGhmZlRZ?oc=5",
+        "published": "Fri, 04 Sep 2026 14:15:16 GMT",
+        "tone": "neutral",
+        "reliable": true
+      },
+      {
+        "title": "Gold price outlook: What lies ahead for the yellow metal? Here's what Goldman Sachs says on bull run prediction - Livemint",
+        "source": "Livemint",
+        "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQRnU2U1I0bi14Ym80ZGlGTjJxZ1FUMHd5WUVKMTNhc3pXQjhfS2N6Q2U3NlF3aHdrOHNGQ1pjVGwzdEcxU3lCa0wwYmRwV2hhQVNlZ1l5ekZ2dUlGb1ItVkR5ZzVGcGNYVVB0VFZkNEx5dFB1dGg4M0JTVkw2QVFTcjdPSmJZOXFBQjUyMThjU19pdkZHemE2anFlRXFLdi0wRVczcGpDeVVkYmNybF91a0dPTmp6S3dpR282TGhwQ3EyaGx6V2hHUE1PTmVCTHFQZUFpeWJGRkwweks2Qy1kZlM3ZzBzZ3R5T3liUW9RSE05bjFDTms1a0Izd3RzMEc4T2VjbWh4UdIBjAJBVV95cUxNY3NCVHRZMlhHeGVzTUlMU3VSbzhzOF96QS15T0JiZDBZUHB6Ql84WFl0ZmdPUTc0YS1FVjB4LVFfWEZmeEh5WmlEQUlfOFNPWWxsOExqTXV2ZThQLTBBcUE4NGhmWDhXR3k0ZUZLT21sbkM2RmRSN3liUFhtMW5zSFhFX1c5NFlMODZjc3l6RGFHX2t0NFNBU0tFZnNmN21mMVNDWXFLbVl1OGRMRWhCQ0ZkNU15SEhMN0FWTFRINi1UZ0xWbmlldUdBQi10ZTFocGdsN05kOUFpSnlUTmNveUZXYk53aFV2c0VHS1dEd0VWa1hlVTJ4SzlJaFNoYXpibnhVVVdZZWVoWGhj?oc=5",
+        "published": "Sat, 05 Sep 2026 17:06:57 GMT",
+        "tone": "neutral",
+        "reliable": true
+      },
+      {
+        "title": "Bitcoin vs Gold: Correlation Hits 6-Year High – Here’s Why It Matters - CryptoRank",
+        "source": "CryptoRank",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQV9FVXFKOEs4Z1I0eGpkNlFURld6UzJtd2ZvRTdRVmRIVXlOdGtkd2sycFgyQmh2OVE4MU0ydk04VjNEVEhKZU9VRWFDMWFKVVVDTmFGM0R6UmNETEZrRjY2Ry1wU0lGYjMxa19GbzJ3QlNOMC1NTTNLNlNRTEl5YVFaLXlzZmFXaG1EdVpDYjhEQ2NxdFhkSWFvUGcyT1pZT0RDVTJB?oc=5",
+        "published": "Sun, 06 Sep 2026 09:46:48 GMT",
+        "tone": "neutral",
+        "reliable": false
+      },
+      {
+        "title": "Current price of gold: Month Day, Year - Fortune",
+        "source": "Fortune",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NVkpTSTRjVmNlRVpCTEdQX2hycWRDcW8yWWJYX1dGbDhiNEJ0WFM5RzVBTUh6Zy1nemZaaXo0ekoyUjlETXNFd0h3TGtVeXd2NE5NS3BsbFNNTGtyX0Rjd2x2bFR2cEpxTkJLcHpR?oc=5",
+        "published": "Fri, 04 Sep 2026 13:08:00 GMT",
+        "tone": "neutral",
+        "reliable": false
+      },
+      {
+        "title": "Gold Price Drops as Fed Rate Rise Looms on US Jobs Surprise - BullionVault",
+        "source": "BullionVault",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTk9uRlZxODFJRUNwQlVFNk1CWmkxV3U5Um5MVlBFdXBWdUxpcklOcmhVTlN4WkYteWp4NDY4UG1XaUJpYWtmZjA0aDdmMkN3WnhFbmgyUFk3UFY3S2thOXZkSUR5UVluSU1GUnktNk10R2RrckxsaTZPYXBzbkZfTFhvdF9IUnpBQWdqdGRxUFBoaExI?oc=5",
+        "published": "Fri, 04 Sep 2026 13:56:20 GMT",
+        "tone": "neutral",
+        "reliable": false
+      }
+    ],
     "disclaimer": "Indicative outlook only — not financial advice. Gold prices depend on many factors; this can be wrong."
   }
 }
