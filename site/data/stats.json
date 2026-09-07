@@ -1,32 +1,32 @@
 {
-  "today_price": 14190.0,
+  "today_price": 14130.0,
   "yesterday_price": 14190.0,
-  "daily_change": 0.0,
-  "daily_change_percent": 0.0,
-  "daily_direction": "flat",
-  "position_30d": 31.78,
+  "daily_change": -60.0,
+  "daily_change_percent": -0.42,
+  "daily_direction": "down",
+  "position_30d": 26.91,
   "classification": "NORMAL_RANGE",
   "classification_label": "NORMAL RANGE",
   "period_7d": {
     "low": 13935.0,
-    "high": 14370.0,
-    "average": 14201.43,
-    "change": -180.0,
-    "change_percent": -1.25,
+    "high": 14360.0,
+    "average": 14167.14,
+    "change": 5.0,
+    "change_percent": 0.04,
     "count": 7
   },
   "period_30d": {
     "low": 13798.7,
     "high": 15030.0,
-    "average": 14426.21,
-    "change": 391.2999999999993,
-    "change_percent": 2.84,
-    "count": 26
+    "average": 14415.24,
+    "change": 331.2999999999993,
+    "change_percent": 2.4,
+    "count": 27
   },
   "period_90d": {
     "low": 12812.4,
     "high": 15030.0,
-    "average": 13694.66,
+    "average": 13698.23,
     "change": null,
     "change_percent": null,
     "count": 71
@@ -34,14 +34,14 @@
   "period_365d": {
     "low": 9740.6,
     "high": 16061.1,
-    "average": 13175.15,
+    "average": 13179.41,
     "change": null,
     "change_percent": null,
-    "count": 223
+    "count": 224
   },
-  "history_days": 226,
-  "as_of_date": "2026-09-06",
-  "last_updated": "2026-09-06T21:11:30.700780+05:30",
+  "history_days": 227,
+  "as_of_date": "2026-09-07",
+  "last_updated": "2026-09-07T14:23:06.040303+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -53,49 +53,41 @@
     "bias": "SLIGHTLY_DOWN",
     "bias_label": "Slightly downward bias",
     "confidence": "MEDIUM",
-    "score": -32.5,
-    "band_low": 14060.0,
-    "band_high": 14320.0,
+    "score": -19.6,
+    "band_low": 13997.0,
+    "band_high": 14263.0,
     "usd_inr_rate": 94.49,
     "usd_inr_as_of": "2026-09-04",
     "usd_inr_daily_pct": 0.0,
     "usd_inr_7d_pct": -0.943,
     "factors": [
-      "7-day gold trend down (-1.25%)",
+      "7-day gold trend flat (+0.04%)",
       "USD/INR 94.49 (+0.00% today)",
       "Rupee stronger ₹ vs USD over 7D (-0.94%)",
       "Global headlines mixed/neutral · 2 from recognised sources"
     ],
     "news": [
       {
-        "title": "Gold price hit with major selling as U.S. economy creates 162K jobs in August - KITCO",
-        "source": "KITCO",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ1ZmRTJQM2lJY3VFemZBTUJoZk1LRmk2TFVScDhFU0lWcXI0dk5pQ1BhS1pnUTNPV3pJY3k1UDVZZENpRW1jcWhzOGxvNngzTnJYNVc0dGdWNVJvTTNyaExhMXJVVGRjTUFnbmdGQURsRzFoank4Wng4N2wzU0JLRGtUVWNxM0JlUkFFVklIWVZxbFVFLTVLVE0weXZnWEhEb0ZKLU4wc01kWGhmZlRZ?oc=5",
-        "published": "Fri, 04 Sep 2026 14:15:16 GMT",
-        "tone": "neutral",
-        "reliable": true
-      },
-      {
-        "title": "Gold price outlook: What lies ahead for the yellow metal? Here's what Goldman Sachs says on bull run prediction - Livemint",
+        "title": "Gold, silver prices today, 7 September: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata - Livemint",
         "source": "Livemint",
-        "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQRnU2U1I0bi14Ym80ZGlGTjJxZ1FUMHd5WUVKMTNhc3pXQjhfS2N6Q2U3NlF3aHdrOHNGQ1pjVGwzdEcxU3lCa0wwYmRwV2hhQVNlZ1l5ekZ2dUlGb1ItVkR5ZzVGcGNYVVB0VFZkNEx5dFB1dGg4M0JTVkw2QVFTcjdPSmJZOXFBQjUyMThjU19pdkZHemE2anFlRXFLdi0wRVczcGpDeVVkYmNybF91a0dPTmp6S3dpR282TGhwQ3EyaGx6V2hHUE1PTmVCTHFQZUFpeWJGRkwweks2Qy1kZlM3ZzBzZ3R5T3liUW9RSE05bjFDTms1a0Izd3RzMEc4T2VjbWh4UdIBjAJBVV95cUxNY3NCVHRZMlhHeGVzTUlMU3VSbzhzOF96QS15T0JiZDBZUHB6Ql84WFl0ZmdPUTc0YS1FVjB4LVFfWEZmeEh5WmlEQUlfOFNPWWxsOExqTXV2ZThQLTBBcUE4NGhmWDhXR3k0ZUZLT21sbkM2RmRSN3liUFhtMW5zSFhFX1c5NFlMODZjc3l6RGFHX2t0NFNBU0tFZnNmN21mMVNDWXFLbVl1OGRMRWhCQ0ZkNU15SEhMN0FWTFRINi1UZ0xWbmlldUdBQi10ZTFocGdsN05kOUFpSnlUTmNveUZXYk53aFV2c0VHS1dEd0VWa1hlVTJ4SzlJaFNoYXpibnhVVVdZZWVoWGhj?oc=5",
-        "published": "Sat, 05 Sep 2026 17:06:57 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNcDVBZV80WU5oTUhFU2ZwWDNGMzNIak9yd2s3ZEh5bm9hMXhHQjNtZjRDMFJ6bE1GRXFCMy1OOVpnbVhlbkRVbkxINHVYcHkybUVTUEhZcERaQzNsTk1ScnhGY3BxSksyX2U2ODJmdEk4VUZORXlyV1p0SllEWGRRN1U3VGtlb0gyOHNFcV91UmNDWUwwcWZuNFNIS2k5WkxjWFVReG03eFdRLS1PSWtSa0F5UjJ3eE5UWjgzSWY5V2xIYjV5YUZBVzBDN0hreW1RYVkxa29qd1pTczdWbGhoZ19HdmprZlJoa3VTU2tBUmFGaWtxRW9rb1I5TXJfZjN4eDA2NFhUdVpGUdIBjwJBVV95cUxNeUw4VThJN3dXM18zaTQ4TnEwekV3Uk51U0xXQW9IcjlVa0xCWmtGeF9kZlNwQnNBY3o0MW95a1M1UDBOM2JRZGI1dzJFU2h3M0JNUDRqYXVqclNDV1IxdlltZmxSa1Z0OE1JZXRBUjhNMHZ6WUtMX3RwTHVLZzhmNVFILVFlVXhTb3gzVjJwOGI3S0cxUnQxMDdqeDg1VTBzSDFYMnBScVN1NXRnbTF3cHdMWUJVd09GU254d1NSeW1oZS1UR1h2WWpHZE9hZVJSVjRFY21rYk96MUc1R2pYZlZSM3lTUDN5TXh0eFBTdUdDaU5hQUpiWEdJSzJsZGdZeS1DcGU3Z2wyNFBJLVlB?oc=5",
+        "published": "Mon, 07 Sep 2026 03:52:40 GMT",
         "tone": "neutral",
         "reliable": true
       },
       {
-        "title": "Bitcoin vs Gold: Correlation Hits 6-Year High – Here’s Why It Matters - CryptoRank",
-        "source": "CryptoRank",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQV9FVXFKOEs4Z1I0eGpkNlFURld6UzJtd2ZvRTdRVmRIVXlOdGtkd2sycFgyQmh2OVE4MU0ydk04VjNEVEhKZU9VRWFDMWFKVVVDTmFGM0R6UmNETEZrRjY2Ry1wU0lGYjMxa19GbzJ3QlNOMC1NTTNLNlNRTEl5YVFaLXlzZmFXaG1EdVpDYjhEQ2NxdFhkSWFvUGcyT1pZT0RDVTJB?oc=5",
-        "published": "Sun, 06 Sep 2026 09:46:48 GMT",
+        "title": "Narendra Modi fails to dull gold’s lustre in India - Financial Times",
+        "source": "Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdlF1eUw3QUNwN0tKVjBSVVlBVEJCZmpPNkM1X2dWOG0wWXBuMEd1YW1McTV3NldDdmg0YjUtWEx5TE9CT0dZUl9iQmlzeW1tcjhxVDViMmxfczUxTjkzR2dKWk8zNWUtNFNuVkJTdHBKX0ptel9QZjFPX1dZUWtza2RwTjA?oc=5",
+        "published": "Mon, 07 Sep 2026 04:02:28 GMT",
         "tone": "neutral",
-        "reliable": false
+        "reliable": true
       },
       {
-        "title": "Current price of gold: Month Day, Year - Fortune",
-        "source": "Fortune",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NVkpTSTRjVmNlRVpCTEdQX2hycWRDcW8yWWJYX1dGbDhiNEJ0WFM5RzVBTUh6Zy1nemZaaXo0ekoyUjlETXNFd0h3TGtVeXd2NE5NS3BsbFNNTGtyX0Rjd2x2bFR2cEpxTkJLcHpR?oc=5",
-        "published": "Fri, 04 Sep 2026 13:08:00 GMT",
+        "title": "A Better Trade Than Bitcoin or Gold in 2026 Is Sitting in Your Kitchen - BeInCrypto",
+        "source": "BeInCrypto",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1jXy12Ty1iSzlCVG5tSUs0N3I4RDFRUTA3R0liV1NoZ1RtWTBPS19SQl9pT3pMYS1yVU8wTzBZOERDSlktWExYTi1uY2dXVGpOZ0g0UGhWVEhfcVU0cC1nTUFCRGxyYmpZeFd1U1RR?oc=5",
+        "published": "Mon, 07 Sep 2026 08:30:00 GMT",
         "tone": "neutral",
         "reliable": false
       },
@@ -104,6 +96,14 @@
         "source": "BullionVault",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTk9uRlZxODFJRUNwQlVFNk1CWmkxV3U5Um5MVlBFdXBWdUxpcklOcmhVTlN4WkYteWp4NDY4UG1XaUJpYWtmZjA0aDdmMkN3WnhFbmgyUFk3UFY3S2thOXZkSUR5UVluSU1GUnktNk10R2RrckxsaTZPYXBzbkZfTFhvdF9IUnpBQWdqdGRxUFBoaExI?oc=5",
         "published": "Fri, 04 Sep 2026 13:56:20 GMT",
+        "tone": "neutral",
+        "reliable": false
+      },
+      {
+        "title": "Gold Price Forecast: Can Gold Keep Rising as Stronger-Than-Expected Nonfarm Payrolls Boost Fed Rate Hike Expectations? - TradingKey",
+        "source": "TradingKey",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNenJIaGs0QzY0TmtsbXAxby1TNnF1SUk0aUYzR1JYcWdSdkkzTW8yeVNfS2xmYWhKTFU5VkxUNWxYZjA4T0pRNVdMTmxpZW5LRFVjMFNia2hQSkpoelUxRlFlbVFIU0hBcmVtR1JEUUJ0LUI5MzZZVHoyVjZsYTZhazltMlhZY3A4RGptV29BRHZHQmRfNnlVQ1ZzOHA3dElhSUc2NlpBNkoyOUpUczI0cHJBVnNFRHFPdVlnOEFXeW03ejV2SUp0NlprNFcySUg4UklRRVpONElTQQ?oc=5",
+        "published": "Mon, 07 Sep 2026 07:16:06 GMT",
         "tone": "neutral",
         "reliable": false
       }
