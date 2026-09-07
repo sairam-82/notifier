@@ -41,7 +41,7 @@
   },
   "history_days": 227,
   "as_of_date": "2026-09-07",
-  "last_updated": "2026-09-07T14:23:06.040303+05:30",
+  "last_updated": "2026-09-07T23:22:21.876985+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -57,53 +57,53 @@
     "band_low": 13997.0,
     "band_high": 14263.0,
     "usd_inr_rate": 94.49,
-    "usd_inr_as_of": "2026-09-04",
+    "usd_inr_as_of": "2026-09-07",
     "usd_inr_daily_pct": 0.0,
-    "usd_inr_7d_pct": -0.943,
+    "usd_inr_7d_pct": -0.715,
     "factors": [
       "7-day gold trend flat (+0.04%)",
       "USD/INR 94.49 (+0.00% today)",
-      "Rupee stronger ₹ vs USD over 7D (-0.94%)",
-      "Global headlines mixed/neutral · 2 from recognised sources"
+      "Rupee stronger ₹ vs USD over 7D (-0.71%)",
+      "Global headlines mixed/neutral · 1 from recognised sources"
     ],
     "news": [
       {
-        "title": "Gold, silver prices today, 7 September: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata - Livemint",
-        "source": "Livemint",
-        "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNcDVBZV80WU5oTUhFU2ZwWDNGMzNIak9yd2s3ZEh5bm9hMXhHQjNtZjRDMFJ6bE1GRXFCMy1OOVpnbVhlbkRVbkxINHVYcHkybUVTUEhZcERaQzNsTk1ScnhGY3BxSksyX2U2ODJmdEk4VUZORXlyV1p0SllEWGRRN1U3VGtlb0gyOHNFcV91UmNDWUwwcWZuNFNIS2k5WkxjWFVReG03eFdRLS1PSWtSa0F5UjJ3eE5UWjgzSWY5V2xIYjV5YUZBVzBDN0hreW1RYVkxa29qd1pTczdWbGhoZ19HdmprZlJoa3VTU2tBUmFGaWtxRW9rb1I5TXJfZjN4eDA2NFhUdVpGUdIBjwJBVV95cUxNeUw4VThJN3dXM18zaTQ4TnEwekV3Uk51U0xXQW9IcjlVa0xCWmtGeF9kZlNwQnNBY3o0MW95a1M1UDBOM2JRZGI1dzJFU2h3M0JNUDRqYXVqclNDV1IxdlltZmxSa1Z0OE1JZXRBUjhNMHZ6WUtMX3RwTHVLZzhmNVFILVFlVXhTb3gzVjJwOGI3S0cxUnQxMDdqeDg1VTBzSDFYMnBScVN1NXRnbTF3cHdMWUJVd09GU254d1NSeW1oZS1UR1h2WWpHZE9hZVJSVjRFY21rYk96MUc1R2pYZlZSM3lTUDN5TXh0eFBTdUdDaU5hQUpiWEdJSzJsZGdZeS1DcGU3Z2wyNFBJLVlB?oc=5",
-        "published": "Mon, 07 Sep 2026 03:52:40 GMT",
-        "tone": "neutral",
+        "title": "Gold eases as robust U.S. payrolls boost rate-hike bets; inflation data in focus - CNBC",
+        "source": "CNBC",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdVROOXdPU1hianBwNE01dkk3SGVGVTVPei10VlpGTXl6a3VTcnVfUGJBUS1TUG9tRXlaXzVsUWhhWVpST2wtOVNaY0laTFdIVlloRTN6ZU1hanZZRmk5TVc4bkE0d2xkZW5mbGc0MHYxay1wSEFiR3U1dzR0QnNBYUhWb25rdjc2SDZoM0FIRVBDMnM40gGaAUFVX3lxTE82UTNaUTZrOWl0UXhUTmRSWDJCaUNleWtsMVBYOFJpMWh1RTZ1RUZzSnJWNU9yNDhxTElicHBaNmN3MzFaMDhlRzJUMjktXzVLc2R4ZFc3Y25CUXMyaXdsTi1vM21ySzRaZjZPY0Z1OFJnNTc1TzV3U2tkemVWODVSM1dFYWFLUlJ0b2w5VkVPNTJiNnlGRG5hZnc?oc=5",
+        "published": "Mon, 07 Sep 2026 02:51:00 GMT",
+        "tone": "bullish",
         "reliable": true
       },
       {
-        "title": "Narendra Modi fails to dull gold’s lustre in India - Financial Times",
-        "source": "Financial Times",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdlF1eUw3QUNwN0tKVjBSVVlBVEJCZmpPNkM1X2dWOG0wWXBuMEd1YW1McTV3NldDdmg0YjUtWEx5TE9CT0dZUl9iQmlzeW1tcjhxVDViMmxfczUxTjkzR2dKWk8zNWUtNFNuVkJTdHBKX0ptel9QZjFPX1dZUWtza2RwTjA?oc=5",
-        "published": "Mon, 07 Sep 2026 04:02:28 GMT",
-        "tone": "neutral",
-        "reliable": true
-      },
-      {
-        "title": "A Better Trade Than Bitcoin or Gold in 2026 Is Sitting in Your Kitchen - BeInCrypto",
-        "source": "BeInCrypto",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1jXy12Ty1iSzlCVG5tSUs0N3I4RDFRUTA3R0liV1NoZ1RtWTBPS19SQl9pT3pMYS1yVU8wTzBZOERDSlktWExYTi1uY2dXVGpOZ0g0UGhWVEhfcVU0cC1nTUFCRGxyYmpZeFd1U1RR?oc=5",
-        "published": "Mon, 07 Sep 2026 08:30:00 GMT",
+        "title": "China Just Broke Its Own Gold-Buying Record. Then Broke It Again. - goldsilver.com",
+        "source": "goldsilver.com",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVVZXRFJkZEQta2RXU1NsRVJBNFR6NDB5SF90SXZCQm16YlkwdG90d3U0VFRuQXVta2lQU0l6X3ZGdmtteUdqdDBiQTdZbGp4dWdGZG5tcnNsSU1MbG1XT3dxa3dUdERvaWNIRGFVNlR3T2VhbEtwMVFOdmd2Ny1xampHUHhPQi1fTGVDSkJicXZVMjhleDNWblp3?oc=5",
+        "published": "Mon, 07 Sep 2026 14:44:12 GMT",
         "tone": "neutral",
         "reliable": false
       },
       {
-        "title": "Gold Price Drops as Fed Rate Rise Looms on US Jobs Surprise - BullionVault",
-        "source": "BullionVault",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTk9uRlZxODFJRUNwQlVFNk1CWmkxV3U5Um5MVlBFdXBWdUxpcklOcmhVTlN4WkYteWp4NDY4UG1XaUJpYWtmZjA0aDdmMkN3WnhFbmgyUFk3UFY3S2thOXZkSUR5UVluSU1GUnktNk10R2RrckxsaTZPYXBzbkZfTFhvdF9IUnpBQWdqdGRxUFBoaExI?oc=5",
-        "published": "Fri, 04 Sep 2026 13:56:20 GMT",
+        "title": "Gold And Its Miners: Stronger Balance Sheets, Higher Margins, More Upside - Seeking Alpha",
+        "source": "Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNjQySlFjdVlDc1R1OFA5NFA3UUQ5N19MNi1IZXRKem5pUkF6YXNlLXAyYkxjZS05Sm4tYXdDaFlaQ29laWlUM0hzeDloTXoxNDJJV05EWE03ZDkzdTdfNE9nYk9Dam1Hcm1lOExMYVFLLUx3WjJpa0lkdHRhQUQ3bXVsYUhjRjF1dEFvcmYwQXV4aXU2NEpjQzlWekRlNjFHbXpENUoxV2VmNk1vYUp4dg?oc=5",
+        "published": "Mon, 07 Sep 2026 15:44:27 GMT",
         "tone": "neutral",
         "reliable": false
       },
       {
-        "title": "Gold Price Forecast: Can Gold Keep Rising as Stronger-Than-Expected Nonfarm Payrolls Boost Fed Rate Hike Expectations? - TradingKey",
-        "source": "TradingKey",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNenJIaGs0QzY0TmtsbXAxby1TNnF1SUk0aUYzR1JYcWdSdkkzTW8yeVNfS2xmYWhKTFU5VkxUNWxYZjA4T0pRNVdMTmxpZW5LRFVjMFNia2hQSkpoelUxRlFlbVFIU0hBcmVtR1JEUUJ0LUI5MzZZVHoyVjZsYTZhazltMlhZY3A4RGptV29BRHZHQmRfNnlVQ1ZzOHA3dElhSUc2NlpBNkoyOUpUczI0cHJBVnNFRHFPdVlnOEFXeW03ejV2SUp0NlprNFcySUg4UklRRVpONElTQQ?oc=5",
-        "published": "Mon, 07 Sep 2026 07:16:06 GMT",
+        "title": "Gold Price Forecast: Rate Hike Risk Builds Ahead of US CPI - FXEmpire",
+        "source": "FXEmpire",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeDlXTWhGM2Z2WlR1ZDY4bWNyeDZSMDh1RFk1YTJMc1dtLU5yR0xVcTlhbTdYYXhNNW5mNFFJa1RpazM2LWF6UkdrbHF1d090T1p4ckRNa0RNQzZMZ0NtVS1pZWJBTVRodURvbzZuN2FtcDdIUGgwQ2ZCcEdSYU9OZ1FvZFNNRjhfeUdLSld4UHB4REVfZ25aV2FEM01xNFhDTUtmOEM3Qk9FMWlD?oc=5",
+        "published": "Mon, 07 Sep 2026 13:30:00 GMT",
+        "tone": "bearish",
+        "reliable": false
+      },
+      {
+        "title": "Gold Price Today In The UK - Forbes",
+        "source": "Forbes",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4wMW1PejZjZzZlR2QwWlFWQ3JzNHpoUjg2X1NhX2t0LUhIdEJjUHktanJZVHVYekttd1ZjRlFBTlFsbWZvalMxbjR5TnhpRGZTSTZ1SjRLcEJuTVNXbURSTkNwMTMzUQ?oc=5",
+        "published": "Fri, 04 Sep 2026 14:17:00 GMT",
         "tone": "neutral",
         "reliable": false
       }
