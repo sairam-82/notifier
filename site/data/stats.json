@@ -1,47 +1,47 @@
 {
-  "today_price": 14130.0,
-  "yesterday_price": 14190.0,
-  "daily_change": -60.0,
-  "daily_change_percent": -0.42,
-  "daily_direction": "down",
-  "position_30d": 26.91,
+  "today_price": 14240.0,
+  "yesterday_price": 14130.0,
+  "daily_change": 110.0,
+  "daily_change_percent": 0.78,
+  "daily_direction": "up",
+  "position_30d": 35.84,
   "classification": "NORMAL_RANGE",
   "classification_label": "NORMAL RANGE",
   "period_7d": {
     "low": 13935.0,
     "high": 14360.0,
-    "average": 14167.14,
-    "change": 5.0,
-    "change_percent": 0.04,
+    "average": 14183.57,
+    "change": 305.0,
+    "change_percent": 2.19,
     "count": 7
   },
   "period_30d": {
     "low": 13798.7,
     "high": 15030.0,
-    "average": 14415.24,
-    "change": 331.2999999999993,
-    "change_percent": 2.4,
-    "count": 27
+    "average": 14408.98,
+    "change": 441.2999999999993,
+    "change_percent": 3.2,
+    "count": 28
   },
   "period_90d": {
     "low": 12812.4,
     "high": 15030.0,
-    "average": 13698.23,
+    "average": 13702.02,
     "change": null,
     "change_percent": null,
     "count": 71
   },
   "period_365d": {
-    "low": 9740.6,
+    "low": 9896.2,
     "high": 16061.1,
-    "average": 13179.41,
+    "average": 13199.5,
     "change": null,
     "change_percent": null,
     "count": 224
   },
-  "history_days": 227,
-  "as_of_date": "2026-09-07",
-  "last_updated": "2026-09-07T23:22:21.876985+05:30",
+  "history_days": 228,
+  "as_of_date": "2026-09-08",
+  "last_updated": "2026-09-08T14:03:33.912079+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -50,38 +50,38 @@
   "currency": "INR",
   "unit": "gram",
   "outlook": {
-    "bias": "SLIGHTLY_DOWN",
-    "bias_label": "Slightly downward bias",
+    "bias": "NEUTRAL",
+    "bias_label": "Neutral / sideways",
     "confidence": "MEDIUM",
-    "score": -19.6,
-    "band_low": 13997.0,
-    "band_high": 14263.0,
+    "score": -3.1,
+    "band_low": 14098.0,
+    "band_high": 14382.0,
     "usd_inr_rate": 94.49,
     "usd_inr_as_of": "2026-09-07",
     "usd_inr_daily_pct": 0.0,
     "usd_inr_7d_pct": -0.715,
     "factors": [
-      "7-day gold trend flat (+0.04%)",
+      "7-day gold trend up (+2.19%)",
       "USD/INR 94.49 (+0.00% today)",
       "Rupee stronger ₹ vs USD over 7D (-0.71%)",
-      "Global headlines mixed/neutral · 1 from recognised sources"
+      "Global headlines lean bearish (1/5) · 2 from recognised sources"
     ],
     "news": [
       {
-        "title": "Gold eases as robust U.S. payrolls boost rate-hike bets; inflation data in focus - CNBC",
-        "source": "CNBC",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdVROOXdPU1hianBwNE01dkk3SGVGVTVPei10VlpGTXl6a3VTcnVfUGJBUS1TUG9tRXlaXzVsUWhhWVpST2wtOVNaY0laTFdIVlloRTN6ZU1hanZZRmk5TVc4bkE0d2xkZW5mbGc0MHYxay1wSEFiR3U1dzR0QnNBYUhWb25rdjc2SDZoM0FIRVBDMnM40gGaAUFVX3lxTE82UTNaUTZrOWl0UXhUTmRSWDJCaUNleWtsMVBYOFJpMWh1RTZ1RUZzSnJWNU9yNDhxTElicHBaNmN3MzFaMDhlRzJUMjktXzVLc2R4ZFc3Y25CUXMyaXdsTi1vM21ySzRaZjZPY0Z1OFJnNTc1TzV3U2tkemVWODVSM1dFYWFLUlJ0b2w5VkVPNTJiNnlGRG5hZnc?oc=5",
-        "published": "Mon, 07 Sep 2026 02:51:00 GMT",
-        "tone": "bullish",
+        "title": "Gold, silver prices today, 8 September: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata - Livemint",
+        "source": "Livemint",
+        "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQQWdOR1l1am5yWGZET2ptbzl5NjZCVnBSb0tIaDczZmoyUTdEU2U3bi1lZVlaS29zUHlEVFd2d1ZLUU5jUUxwNXZ6MVd1R3RjY2Frc3JYV0xLSEpWb2pBaTJUSGVoUWlGTXdZUjR1ckxGMjZRU2JqOVpOQ2ZtY3dfdkZ4YjZ5TGM4NDhGSGRtLWdQVmlhSk8wRXh1dXpGdXY4c2lJNDMxZ3JJaDBQa3N1ZmZKYlhfam4tc2Y5WHI5MWV0U0xfNmE3V0lvZUZDY0hranVHZW8zbHlyT3ZKQ2tkOHFvVjhQMFBWY2ttdTBZUzk3WUlSWWRFRzRsd2UtV19MYkJ0RUFFdWhfd9IBjwJBVV95cUxOdlhVNUY3Q19ZR0R4TEhXamVGdDlXeWFuMzRmVWN1d3haVHp0b0JTWHo1MjF4RmtJWHpDTE1aZzhuU0xITUZ1TW4yOUl6bDNWSFZ0RzZfWnRNVlBndUN0YUFsM0hNeHpWbm5YY2hKU2IzS09JbTZlUUtJTmFrbDZ6Y3NJei1wdFllZEJfZkMwZml1T3AtdXg5Z0ZodzdjT2otQVdKNFROOXU4QWMyNndMcF8tdE1qZWNRZXhsMmpWNGx3Mkp6b19GTFhuM083NjRwYUJ6WGNidWtfVlpseWpDWER4bDRESllQRzJ1QktRUTFFeFRReUlUS2ZoczhkZVJFOHl4Nl9iRG1BbHY4MDBR?oc=5",
+        "published": "Tue, 08 Sep 2026 03:52:09 GMT",
+        "tone": "neutral",
         "reliable": true
       },
       {
-        "title": "China Just Broke Its Own Gold-Buying Record. Then Broke It Again. - goldsilver.com",
-        "source": "goldsilver.com",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVVZXRFJkZEQta2RXU1NsRVJBNFR6NDB5SF90SXZCQm16YlkwdG90d3U0VFRuQXVta2lQU0l6X3ZGdmtteUdqdDBiQTdZbGp4dWdGZG5tcnNsSU1MbG1XT3dxa3dUdERvaWNIRGFVNlR3T2VhbEtwMVFOdmd2Ny1xampHUHhPQi1fTGVDSkJicXZVMjhleDNWblp3?oc=5",
-        "published": "Mon, 07 Sep 2026 14:44:12 GMT",
+        "title": "Where gold price is headed next as Fed rate hike and inflation odds change direction - cnbc.com",
+        "source": "cnbc.com",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcE9EUXZra0w3S0ZDbGRzTHRDc1dyMEc0ZkpWVEFaeElqYVN5eWFFdzhPVE1qTDBPdnJPNHc0UlloNlhQem1KQUhhZTVOVTJWT1JCelRnUkpBLU9BaGs2blVNT2NZaUFlYUJpOVRBeVZndE9TaE5aOWxieHlwRFJsLVhRR3p3d9IBiwFBVV95cUxOV0ZZUWFRWEsyVGtkaFdSTGlYRi1BN290OEdpdFJ4dU8yVXFGbksxQmtZN0hfdTRuT05BUHQyR29Hdm5XdHhmOEhTUTNOSmFHTjB3cDRaVnlMTEtTUjJGa3hadFFmLVQ4SkRmbjdSNFJrVjd5cTVja2Q2OG1ZLTNGSTlrdTBiVmJnWUVJ?oc=5",
+        "published": "Wed, 12 Aug 2026 07:00:00 GMT",
         "tone": "neutral",
-        "reliable": false
+        "reliable": true
       },
       {
         "title": "Gold And Its Miners: Stronger Balance Sheets, Higher Margins, More Upside - Seeking Alpha",
@@ -92,19 +92,19 @@
         "reliable": false
       },
       {
+        "title": "Gold Price Drops as Fed Rate Rise Looms on US Jobs Surprise - BullionVault",
+        "source": "BullionVault",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTk9uRlZxODFJRUNwQlVFNk1CWmkxV3U5Um5MVlBFdXBWdUxpcklOcmhVTlN4WkYteWp4NDY4UG1XaUJpYWtmZjA0aDdmMkN3WnhFbmgyUFk3UFY3S2thOXZkSUR5UVluSU1GUnktNk10R2RrckxsaTZPYXBzbkZfTFhvdF9IUnpBQWdqdGRxUFBoaExI?oc=5",
+        "published": "Fri, 04 Sep 2026 13:56:20 GMT",
+        "tone": "neutral",
+        "reliable": false
+      },
+      {
         "title": "Gold Price Forecast: Rate Hike Risk Builds Ahead of US CPI - FXEmpire",
         "source": "FXEmpire",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeDlXTWhGM2Z2WlR1ZDY4bWNyeDZSMDh1RFk1YTJMc1dtLU5yR0xVcTlhbTdYYXhNNW5mNFFJa1RpazM2LWF6UkdrbHF1d090T1p4ckRNa0RNQzZMZ0NtVS1pZWJBTVRodURvbzZuN2FtcDdIUGgwQ2ZCcEdSYU9OZ1FvZFNNRjhfeUdLSld4UHB4REVfZ25aV2FEM01xNFhDTUtmOEM3Qk9FMWlD?oc=5",
         "published": "Mon, 07 Sep 2026 13:30:00 GMT",
         "tone": "bearish",
-        "reliable": false
-      },
-      {
-        "title": "Gold Price Today In The UK - Forbes",
-        "source": "Forbes",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4wMW1PejZjZzZlR2QwWlFWQ3JzNHpoUjg2X1NhX2t0LUhIdEJjUHktanJZVHVYekttd1ZjRlFBTlFsbWZvalMxbjR5TnhpRGZTSTZ1SjRLcEJuTVNXbURSTkNwMTMzUQ?oc=5",
-        "published": "Fri, 04 Sep 2026 14:17:00 GMT",
-        "tone": "neutral",
         "reliable": false
       }
     ],
