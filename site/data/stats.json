@@ -41,7 +41,7 @@
   },
   "history_days": 228,
   "as_of_date": "2026-09-08",
-  "last_updated": "2026-09-08T14:03:33.912079+05:30",
+  "last_updated": "2026-09-08T22:18:09.265268+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -50,44 +50,52 @@
   "currency": "INR",
   "unit": "gram",
   "outlook": {
-    "bias": "NEUTRAL",
-    "bias_label": "Neutral / sideways",
+    "bias": "SLIGHTLY_UP",
+    "bias_label": "Slightly upward bias",
     "confidence": "MEDIUM",
-    "score": -3.1,
+    "score": 34.3,
     "band_low": 14098.0,
     "band_high": 14382.0,
-    "usd_inr_rate": 94.49,
-    "usd_inr_as_of": "2026-09-07",
-    "usd_inr_daily_pct": 0.0,
-    "usd_inr_7d_pct": -0.715,
+    "usd_inr_rate": 94.83,
+    "usd_inr_as_of": "2026-09-08",
+    "usd_inr_daily_pct": 0.36,
+    "usd_inr_7d_pct": -0.126,
     "factors": [
       "7-day gold trend up (+2.19%)",
-      "USD/INR 94.49 (+0.00% today)",
-      "Rupee stronger ₹ vs USD over 7D (-0.71%)",
-      "Global headlines lean bearish (1/5) · 2 from recognised sources"
+      "USD/INR 94.83 (+0.36% today)",
+      "Rupee stronger ₹ vs USD over 7D (-0.13%)",
+      "Global headlines lean bullish (1/5) · 2 from recognised sources"
     ],
     "news": [
       {
-        "title": "Gold, silver prices today, 8 September: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata - Livemint",
-        "source": "Livemint",
-        "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQQWdOR1l1am5yWGZET2ptbzl5NjZCVnBSb0tIaDczZmoyUTdEU2U3bi1lZVlaS29zUHlEVFd2d1ZLUU5jUUxwNXZ6MVd1R3RjY2Frc3JYV0xLSEpWb2pBaTJUSGVoUWlGTXdZUjR1ckxGMjZRU2JqOVpOQ2ZtY3dfdkZ4YjZ5TGM4NDhGSGRtLWdQVmlhSk8wRXh1dXpGdXY4c2lJNDMxZ3JJaDBQa3N1ZmZKYlhfam4tc2Y5WHI5MWV0U0xfNmE3V0lvZUZDY0hranVHZW8zbHlyT3ZKQ2tkOHFvVjhQMFBWY2ttdTBZUzk3WUlSWWRFRzRsd2UtV19MYkJ0RUFFdWhfd9IBjwJBVV95cUxOdlhVNUY3Q19ZR0R4TEhXamVGdDlXeWFuMzRmVWN1d3haVHp0b0JTWHo1MjF4RmtJWHpDTE1aZzhuU0xITUZ1TW4yOUl6bDNWSFZ0RzZfWnRNVlBndUN0YUFsM0hNeHpWbm5YY2hKU2IzS09JbTZlUUtJTmFrbDZ6Y3NJei1wdFllZEJfZkMwZml1T3AtdXg5Z0ZodzdjT2otQVdKNFROOXU4QWMyNndMcF8tdE1qZWNRZXhsMmpWNGx3Mkp6b19GTFhuM083NjRwYUJ6WGNidWtfVlpseWpDWER4bDRESllQRzJ1QktRUTFFeFRReUlUS2ZoczhkZVJFOHl4Nl9iRG1BbHY4MDBR?oc=5",
-        "published": "Tue, 08 Sep 2026 03:52:09 GMT",
+        "title": "Gold Price Canada Today | Live Gold Price in CAD - KITCO",
+        "source": "KITCO",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVMHM0YXN3UkRUdlVZXzdrUjJmSHh5eFZ6Q0pSOVhYV1pLU0VzSXNhWGRVREpJbm9uX3pvSkZsMDNVRmg4a3JPYXlTY2N3OEF5Wm00MA?oc=5",
+        "published": "Tue, 08 Sep 2026 00:00:00 GMT",
         "tone": "neutral",
         "reliable": true
       },
       {
-        "title": "Where gold price is headed next as Fed rate hike and inflation odds change direction - cnbc.com",
-        "source": "cnbc.com",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcE9EUXZra0w3S0ZDbGRzTHRDc1dyMEc0ZkpWVEFaeElqYVN5eWFFdzhPVE1qTDBPdnJPNHc0UlloNlhQem1KQUhhZTVOVTJWT1JCelRnUkpBLU9BaGs2blVNT2NZaUFlYUJpOVRBeVZndE9TaE5aOWxieHlwRFJsLVhRR3p3d9IBiwFBVV95cUxOV0ZZUWFRWEsyVGtkaFdSTGlYRi1BN290OEdpdFJ4dU8yVXFGbksxQmtZN0hfdTRuT05BUHQyR29Hdm5XdHhmOEhTUTNOSmFHTjB3cDRaVnlMTEtTUjJGa3hadFFmLVQ4SkRmbjdSNFJrVjd5cTVja2Q2OG1ZLTNGSTlrdTBiVmJnWUVJ?oc=5",
-        "published": "Wed, 12 Aug 2026 07:00:00 GMT",
-        "tone": "neutral",
+        "title": "Gold lackluster ahead of inflation data as oil prices climb - Reuters",
+        "source": "Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZVFOMG93MEp4ZjJ0VUtRcWQxVTRKYTJOb3RwbTZpMnNyZlJ5eFdCRGhNTXF4b2MyRGpXWTh0T1N1d28tUGRfSW80bmFNT1RNelFYMTlLU2ctZEZpYmsyNjZRb2ROTnVqMkVuX2Z3UU12UDlCV2cxSmd1MzR2dktuNUtOR3ZXdjR2YnAyUlJDYjFtWmwybURmNEdLMHk3SFBQNVE?oc=5",
+        "published": "Tue, 08 Sep 2026 02:28:00 GMT",
+        "tone": "bullish",
         "reliable": true
       },
       {
-        "title": "Gold And Its Miners: Stronger Balance Sheets, Higher Margins, More Upside - Seeking Alpha",
-        "source": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNjQySlFjdVlDc1R1OFA5NFA3UUQ5N19MNi1IZXRKem5pUkF6YXNlLXAyYkxjZS05Sm4tYXdDaFlaQ29laWlUM0hzeDloTXoxNDJJV05EWE03ZDkzdTdfNE9nYk9Dam1Hcm1lOExMYVFLLUx3WjJpa0lkdHRhQUQ3bXVsYUhjRjF1dEFvcmYwQXV4aXU2NEpjQzlWekRlNjFHbXpENUoxV2VmNk1vYUp4dg?oc=5",
-        "published": "Mon, 07 Sep 2026 15:44:27 GMT",
+        "title": "Control of the Gold Market Is Moving - Investorideas.com",
+        "source": "Investorideas.com",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX0prWnh4WE9Uc0JFdVByXzVDMVp0R3doLUlZSDh5dVhxbVY1enZiY0w1UkpHY21iU005Q0l5aGlZampIbnF2eG1oWmkyRHRNeTRQQ1hJOU56b19sUWo3cHNDWU1WSHRSUzZPdzVGSnJWRWZCdk1OMDB3N3VLXzdhX1piMWRoN3RBcy1VTTZzV28zTVpnQTRtcnQtMUZvZ1VreC0tWVFsaVBEbW8?oc=5",
+        "published": "Tue, 08 Sep 2026 15:13:00 GMT",
+        "tone": "neutral",
+        "reliable": false
+      },
+      {
+        "title": "Current price of gold as of September 8, 2026 - Fortune",
+        "source": "Fortune",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9JaXNuR1J6YU1hWlNVbHBPUm5qaWE1b2JMQ1FqZTlvd3hzTEtRZGcya0xDY3BqN1ZpekVvNlJaS01lc3ZlUkx5V1BRbTJvUTFrOXhtRV9aalcwdExDLTgwX05hYnNtVnZZeTl0ZXln?oc=5",
+        "published": "Tue, 08 Sep 2026 13:08:00 GMT",
         "tone": "neutral",
         "reliable": false
       },
@@ -97,14 +105,6 @@
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTk9uRlZxODFJRUNwQlVFNk1CWmkxV3U5Um5MVlBFdXBWdUxpcklOcmhVTlN4WkYteWp4NDY4UG1XaUJpYWtmZjA0aDdmMkN3WnhFbmgyUFk3UFY3S2thOXZkSUR5UVluSU1GUnktNk10R2RrckxsaTZPYXBzbkZfTFhvdF9IUnpBQWdqdGRxUFBoaExI?oc=5",
         "published": "Fri, 04 Sep 2026 13:56:20 GMT",
         "tone": "neutral",
-        "reliable": false
-      },
-      {
-        "title": "Gold Price Forecast: Rate Hike Risk Builds Ahead of US CPI - FXEmpire",
-        "source": "FXEmpire",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeDlXTWhGM2Z2WlR1ZDY4bWNyeDZSMDh1RFk1YTJMc1dtLU5yR0xVcTlhbTdYYXhNNW5mNFFJa1RpazM2LWF6UkdrbHF1d090T1p4ckRNa0RNQzZMZ0NtVS1pZWJBTVRodURvbzZuN2FtcDdIUGgwQ2ZCcEdSYU9OZ1FvZFNNRjhfeUdLSld4UHB4REVfZ25aV2FEM01xNFhDTUtmOEM3Qk9FMWlD?oc=5",
-        "published": "Mon, 07 Sep 2026 13:30:00 GMT",
-        "tone": "bearish",
         "reliable": false
       }
     ],
