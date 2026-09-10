@@ -41,7 +41,7 @@
   },
   "history_days": 230,
   "as_of_date": "2026-09-10",
-  "last_updated": "2026-09-10T14:07:15.986038+05:30",
+  "last_updated": "2026-09-10T22:07:04.562182+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -53,58 +53,58 @@
     "bias": "SLIGHTLY_UP",
     "bias_label": "Slightly upward bias",
     "confidence": "MEDIUM",
-    "score": 21.5,
+    "score": 27.7,
     "band_low": 14116.0,
     "band_high": 14394.0,
-    "usd_inr_rate": 95.11,
-    "usd_inr_as_of": "2026-09-09",
-    "usd_inr_daily_pct": 0.295,
-    "usd_inr_7d_pct": 0.147,
+    "usd_inr_rate": 95.44,
+    "usd_inr_as_of": "2026-09-10",
+    "usd_inr_daily_pct": 0.347,
+    "usd_inr_7d_pct": 1.005,
     "factors": [
       "7-day gold trend down (-0.73%)",
-      "USD/INR 95.11 (+0.29% today)",
-      "Rupee weaker ₹ vs USD over 7D (+0.15%)",
-      "Global headlines lean bullish (1/5) · 2 from recognised sources"
+      "USD/INR 95.44 (+0.35% today)",
+      "Rupee weaker ₹ vs USD over 7D (+1.00%)",
+      "Global headlines mixed/neutral · 2 from recognised sources"
     ],
     "news": [
       {
-        "title": "Gold firms on weaker dollar as markets await US inflation data - Reuters",
-        "source": "Reuters",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU00zRjlwdjRLNzNsRDluVS1Rc0hCVmhNSTc0TThXMVUtMVgyYU1Mc3FVY1p4YlVIX0p2NzhYbEFCSkVUMEhHR2MtTlFRUHZlbXVGNkxINUVSc1FZNVB5S2hGOXdIUzMydEhHSllEcVVqbWM0VHlOajEzeHBQMlY4UW5nUnRNMm5NS1lvR3RYN2E5M1dIV3NMd3VuZDJOZDg2U0cxa1JR?oc=5",
-        "published": "Thu, 10 Sep 2026 02:56:00 GMT",
-        "tone": "bullish",
+        "title": "Gold falls over 1% as U.S. inflation data boosts Fed hike bets - CNBC",
+        "source": "CNBC",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUlVHNWZsR1A2bWVBM0E3LWtNQklza1d1UmI1Ni1VeFBaSnNjOW1NNE90RTdiWE1sRWt1MFBlLWxKZzZyYkdjQzJmYkZ4RzhUaGd0TGdTZERHaG9RYXJEUGpmTy1UTUxHZFowZV96djNqMFRRWFg5RGFRRHUzWFI5TlpGRWx2dWdVY25wRWxaU2dDaUZpWEdsYlNpcHFXQjTSAaQBQVVfeXFMUEluaVd4MXpTb1Z1bllyYndkNGY5cHZkS1hkcG9sNkh1cmJrcEI0Wm9EYUlKWVAyWkM2aGxnMXZ5WDJydVhmUHlaN2l3UFNwNzRxTGNSUlVEM1lLVy04NDJZcW94enZlMGg3dHltS2FDNVgzSHJCNmM1emZBVDlaZE5hNVRwNmdETGtKX3NPV3MySFc1UHc5RVZyajA2UUYwNkhVSk0?oc=5",
+        "published": "Thu, 10 Sep 2026 04:50:49 GMT",
+        "tone": "neutral",
         "reliable": true
       },
       {
-        "title": "‘The bull trend will resume’ and ‘you want to scale into a long position’ as gold price nears $4,000 pre-FOMC – Goldman Sachs’ Kim - KITCO",
+        "title": "Gold price down but weathering ECB's 25 basis point rate hike - KITCO",
         "source": "KITCO",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOXNJb1h3bVpiSzR2OHpOMURhdW52RVE4Y1ZWbHg1aVlaV1BJZkptTWxqamxNcENnXzNwbGhkcnlvMzRxb3lKTGo2TTFCUXNKZFgxdTI5NWhkVDJ6aDZTR21IcExxNVJjSVZXVXJLRlBHTENhVmR2RjdpVmxfeDVKcXFwbHRNeE5TTG93QjJLd3ZMQ2tuTzAzVUg1UG9BSGI1Tm1KV1ItSzRhN1E0anNRTnlydXVNYXV3ZWc?oc=5",
-        "published": "Tue, 08 Sep 2026 17:11:00 GMT",
-        "tone": "neutral",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZjFqYVkwZS1VMzVvWGlmcVpkUUpHNFFHdUd4OXd5WHZtZHFCMVQydzh2amFZeTRobkNyRFRVQU1lYWpHampKUTR5aWdrMXQzS3hsWWFjdXlEMHdxdmhXVGluYUE4dlVhUDVXT3Bpdm9LUHdseVIwWmNrOGZHYlRJdko0Z1lqMjRCV3VycEtmc1pJQ0dIdGdPV2FmanBqeG9jS3dVbg?oc=5",
+        "published": "Thu, 10 Sep 2026 09:17:00 GMT",
+        "tone": "bearish",
         "reliable": true
       },
       {
-        "title": "AngloGold, Liquid Gold Dominate Market, Lead 20 Onto Best Growth Stock Lists - Investor's Business Daily",
-        "source": "Investor's Business Daily",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWW5SZ2ZCbWVVS2xrU1RMcjBNcEpzcVZSZ0EyY3RWcF9lS3d0d0xjWHdOSmRnRjZ3V1N3VTByWU9OYmZjaElhdGc4Ty1nZlJYdEpyYmtVRC14cWhwZjVLdS1hX2JtRUwybThHX0xaWF9XSXBXSUVTS3RNbHlXcE1JNXp1TQ?oc=5",
-        "published": "Wed, 09 Sep 2026 23:12:00 GMT",
-        "tone": "neutral",
-        "reliable": false
-      },
-      {
-        "title": "Bullion Gold Returns 22.2 g/t Au + 24.5 g/t Ag over 1 metre in Channel R21 at Terragold - Yahoo Finance",
-        "source": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLU1XZHZjWjNvTDdfNWlfSU1xakZWZzdzN3dUTEhsS01PS21rLUNPaFQ1UzJwOEhYWXpuQU5oX0Z6UjdMTWw4b2dUSlV4dWFmNDBSbEx0UVU2VVFXWjV4YUFpUE0yODNSZVFLMkY1Rnh1WHVQTXpINUtEQS0yOEV0emdEb1RDS1hCdWpFdW1WZ2s3cDZKOVZMZ2tVNA?oc=5",
-        "published": "Wed, 09 Sep 2026 18:30:00 GMT",
-        "tone": "neutral",
-        "reliable": false
-      },
-      {
-        "title": "Current price of gold as of September 8, 2026 - Fortune",
+        "title": "Current price of gold as of September 10, 2026 - Fortune",
         "source": "Fortune",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9JaXNuR1J6YU1hWlNVbHBPUm5qaWE1b2JMQ1FqZTlvd3hzTEtRZGcya0xDY3BqN1ZpekVvNlJaS01lc3ZlUkx5V1BRbTJvUTFrOXhtRV9aalcwdExDLTgwX05hYnNtVnZZeTl0ZXln?oc=5",
-        "published": "Tue, 08 Sep 2026 13:08:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5maHRaUUhqOUNza2Qtb1BORGJnVGtCbDBTRk8tX0N1Z09TRVRNdHYtUHdCcXNGa2xfZnB4NTRJWVo5RkZNZjdoV1hqWkFUZ212WHBscm5RemgzMEp4RVc0S1U5OVVsWWthMmdMYi1B?oc=5",
+        "published": "Thu, 10 Sep 2026 12:50:00 GMT",
         "tone": "neutral",
+        "reliable": false
+      },
+      {
+        "title": "Gold Price Forecast: $4,500 Resistance in Focus Ahead of CPI - FXEmpire",
+        "source": "FXEmpire",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPb3FqajlQcmE5eTdSRXYxek5OeF9nQnYtN3RES1dmeVFMRWQwQmdrZ3o5WnFqTEhKT2J1ZWhKRThON1QxMldya2ktRTVTUTZtYVloNjhRZHlaU3psNUU1MmRYRE5KcVhZSzUxamxxenRmSGV5Q2szcFZPRnBmUVU0Z1JkaHNURXVfU1VGV1pSdGstYkVEemdDYUlqZk9JUHpYSVVHbHZud3N5ZTBr?oc=5",
+        "published": "Thu, 10 Sep 2026 12:43:00 GMT",
+        "tone": "neutral",
+        "reliable": false
+      },
+      {
+        "title": "Gold Price Rally: RBC Forecasts Gold at Just Under $5,000 in 2026! - Shanghai Metals Market",
+        "source": "Shanghai Metals Market",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWHA3NXZuYXctdnpGVVM3YjZlZjRaV3JTYzJacEt3TktlOWczZGc3YnJTcDI0amlxdkxtZHZqSXhUcGxtSV9LZkZHaUVLdUtSRFN1MllRYWZhTmxSNWt4eG9zLTg1OFBBQVJIZUN0N29oMjQ4S3lKR0RYOXB0UDRNblNQTzdsS1hkSnVBQ0RYdnZrWXc1S3Vpdm5ibVViMXlJTHZHNkFvZURlSnc4MlRR?oc=5",
+        "published": "Thu, 10 Sep 2026 08:01:45 GMT",
+        "tone": "bullish",
         "reliable": false
       }
     ],
