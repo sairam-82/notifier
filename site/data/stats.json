@@ -41,7 +41,7 @@
   },
   "history_days": 232,
   "as_of_date": "2026-09-12",
-  "last_updated": "2026-09-12T13:49:56.281049+05:30",
+  "last_updated": "2026-09-12T21:15:41.529185+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -53,7 +53,7 @@
     "bias": "SLIGHTLY_UP",
     "bias_label": "Slightly upward bias",
     "confidence": "MEDIUM",
-    "score": 28.7,
+    "score": 23.7,
     "band_low": 14043.0,
     "band_high": 14297.0,
     "usd_inr_rate": 95.56,
@@ -64,7 +64,7 @@
       "7-day gold trend flat (-0.14%)",
       "USD/INR 95.56 (+0.13% today)",
       "Rupee weaker ₹ vs USD over 7D (+1.13%)",
-      "Global headlines mixed/neutral · 2 from recognised sources"
+      "Global headlines lean bearish (1/5) · 2 from recognised sources"
     ],
     "news": [
       {
@@ -76,34 +76,34 @@
         "reliable": true
       },
       {
-        "title": "Gold’s Next Leg Higher? ETF Inflows Signal Investors Are Back - Investing.com",
-        "source": "Investing.com",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNN3E4WUJwMTZjSk81MEN6UW5tMC03T3FLOXpRcWQ2RXhJYjl6ckM2RENyUURjbzBYamFfSFdRc05VTnB1b1gtQnR1LW82eUU3OFpWZk9VY2Zoc2x3ajRnZlA1bVpaTHZvUl8ta3NwRVpsSF9YOUNtQnBGMEtPN3A0MzB2cExkcUtrX2tjam8zcXpRdDgtUFhPVkdkV3VkdXMxX2x2SkJjOA?oc=5",
-        "published": "Fri, 11 Sep 2026 19:01:08 GMT",
-        "tone": "neutral",
+        "title": "Wall Street turns bullish on gold price ahead of the Fed, Main Street clings to slim bullish majority despite weekly slide - KITCO",
+        "source": "KITCO",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM0hVdUNrZEZxdm8xb0RMbzVWdm5wTjkxYW1UR2FjSE42Si1XTEk0Q3Q1eU1BeW00NlF5aWVZc3Zsclk2OWY2V2dlUHNzeC05UWZZTldXdEhHNjN0Y0V6d2RKMUR2elNab0F6WWhFbzNPZGotQk4xeGhOeHJhcU84Z2dnc1BNUVZZY1dQWHBpOU1EeS00ZHZTTFZxMWxfbktzZjliSTRlbm1LQlVDT3dvLUJYMXg4SHc?oc=5",
+        "published": "Fri, 11 Sep 2026 18:48:00 GMT",
+        "tone": "bearish",
         "reliable": true
       },
       {
-        "title": "Current price of gold as of September 11, 2026 - fortune.com",
-        "source": "fortune.com",
+        "title": "Current price of gold as of September 11, 2026 - Fortune",
+        "source": "Fortune",
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ZNUdPbVZ6OHNTclNtY2psUEtIZGhhcGxCdGJZaGZ5TUZVNTFKNXhac1FxNlhiOUJtMzlBLWVuMTN6Z1hYVlZhQnFPczlZRkw3b0FobEdVZnVvYUJKOUY2dnQ0ZjdfVUE5am5OdGRn?oc=5",
         "published": "Fri, 11 Sep 2026 13:26:00 GMT",
         "tone": "neutral",
         "reliable": false
       },
       {
-        "title": "Gold Price Forecast: Bulls Defend 200-Day EMA After Hot CPI - FXEmpire",
-        "source": "FXEmpire",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeHdJSTJXMzdjWVI1aENVWmhaOU5Pd291OHJCOEtacmxsaFdMNWtKUnk1bXhZNmlZQzZsUk1fSVIyc083Q1dfLXY0RkNmX2c1NGNKa3c2azhpTlRjbkhWUU5QckdIRHMzdHQ3c0UteU5WRklTSV91SHJKdjdlVUppQTkwZlZqVUVEU2V3TDhjbHp5VVJsb2pwaWYyMHdldFdMTDlDSHIwYWhuQndMWFE?oc=5",
-        "published": "Fri, 11 Sep 2026 14:35:00 GMT",
+        "title": "Gold Market Commentary: Paved With Good Interventions - Seeking Alpha",
+        "source": "Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTVRZVmhzc1dzRHlTT0Q4cVBGVTd4Q185S2lWaXlkendEZUp5MXRZUE9DLV9ZT2JqTVAxdGpwcTlOeDY3eFVST1pJZ09pam1Da1NjZWZlNGhnSWcxZ2VoNk9GTXZ1WWxNOHM5SDlZaGRENUx5Y2x0QnY2OFRrMHZrZm1LV1lIYW5hTUxYaDZteEszMzN3SHktWA?oc=5",
+        "published": "Wed, 09 Sep 2026 14:20:00 GMT",
         "tone": "neutral",
         "reliable": false
       },
       {
-        "title": "Gold Price September 14 2026 - Robinhood",
-        "source": "Robinhood",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbmIxWDBtVDhOZUFwNXBEZFU0aEJZSXJ5ZGxBRW9VenhSMjF2UjBzN2hWcGVrQldDNDZnRGxIakFENkNZbGhXZGdQb1JBVmJtRm10Y0k4Wnlza3VLelVLWEtGdDdVR3hjUENYeEZZcDZ0YTFDU29TWXcwa25hU05TUEQ5bTY1ejQwbUM2WmFibXFpWGJMVlpaelBpZ1FDWE1kNWY1Tg?oc=5",
-        "published": "Fri, 11 Sep 2026 17:49:13 GMT",
+        "title": "Gold Market Weekly: The Buyers Who Don’t Need a Price Target - The Dark Side Of The Boom",
+        "source": "The Dark Side Of The Boom",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQlloSmhjTG13OUlNcENDRzlvOFlLQnY4RFB0dU9FRWFWcEY5WUxTbGxxLW1pSk9IX3ZCNFRfdjdrNFY3S0FRbHZ3dVdnZUQyUHYyR1hvZ1lMLUNDNTNmUWJ6QVUxWUhseTBrRUdYdkt0U250WFA3aERCek5KM3dDT1RJTQ?oc=5",
+        "published": "Sat, 12 Sep 2026 10:30:58 GMT",
         "tone": "neutral",
         "reliable": false
       }
