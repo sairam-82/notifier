@@ -1,47 +1,47 @@
 {
-  "today_price": 14155.0,
-  "yesterday_price": 14255.0,
-  "daily_change": -100.0,
-  "daily_change_percent": -0.7,
-  "daily_direction": "down",
-  "position_30d": 20.09,
+  "today_price": 14170.0,
+  "yesterday_price": 14155.0,
+  "daily_change": 15.0,
+  "daily_change_percent": 0.11,
+  "daily_direction": "up",
+  "position_30d": 21.46,
   "classification": "LOW_RANGE",
   "classification_label": "LOW RANGE",
   "period_7d": {
     "low": 14130.0,
     "high": 14255.0,
-    "average": 14186.43,
-    "change": -35.0,
-    "change_percent": -0.25,
+    "average": 14183.57,
+    "change": -20.0,
+    "change_percent": -0.14,
     "count": 7
   },
   "period_30d": {
     "low": 13935.0,
     "high": 15030.0,
-    "average": 14434.21,
-    "change": 133.70000000000073,
-    "change_percent": 0.95,
+    "average": 14439.52,
+    "change": 213.5,
+    "change_percent": 1.53,
     "count": 28
   },
   "period_90d": {
     "low": 12812.4,
     "high": 15030.0,
-    "average": 13731.36,
+    "average": 13737.37,
     "change": null,
     "change_percent": null,
-    "count": 72
+    "count": 73
   },
   "period_365d": {
-    "low": 9993.3,
+    "low": 10031.2,
     "high": 16061.1,
-    "average": 13255.7,
+    "average": 13274.34,
     "change": null,
     "change_percent": null,
     "count": 224
   },
-  "history_days": 231,
-  "as_of_date": "2026-09-11",
-  "last_updated": "2026-09-11T22:12:00.713929+05:30",
+  "history_days": 232,
+  "as_of_date": "2026-09-12",
+  "last_updated": "2026-09-12T13:49:56.281049+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -53,50 +53,42 @@
     "bias": "SLIGHTLY_UP",
     "bias_label": "Slightly upward bias",
     "confidence": "MEDIUM",
-    "score": 22.6,
-    "band_low": 14029.0,
-    "band_high": 14281.0,
+    "score": 28.7,
+    "band_low": 14043.0,
+    "band_high": 14297.0,
     "usd_inr_rate": 95.56,
     "usd_inr_as_of": "2026-09-11",
     "usd_inr_daily_pct": 0.126,
     "usd_inr_7d_pct": 1.132,
     "factors": [
-      "7-day gold trend flat (-0.25%)",
+      "7-day gold trend flat (-0.14%)",
       "USD/INR 95.56 (+0.13% today)",
       "Rupee weaker ₹ vs USD over 7D (+1.13%)",
-      "Global headlines lean bearish (1/5) · 2 from recognised sources"
+      "Global headlines mixed/neutral · 2 from recognised sources"
     ],
     "news": [
       {
-        "title": "Gold price holds near high after preliminary Consumer Sentiment falls to 47.8, inflation expectations spike - KITCO",
+        "title": "Gold Price Canada Today | Live Gold Price in CAD - KITCO",
         "source": "KITCO",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQUhKUDBrcnJKSEEyUGpqMmt4akpYZEdMYzdXSHBHanNvNW5LeURhQlpGUkFsZXlndW1iZWswelJ3RTV5WWtWRVJ0YzdYbWs4MFRvZTBSSDR5VklPUnRjVnVfTnoxNDNhNTdBc1YtTG5NS19zVnBQNmpSSHRCMnJ6ZDFTcm9YcDZiTXNrWE1nQnhPY2t4dm85YXN4emNXVmpqMmFBOVN3bHluVGlVU0wyTF9rdHl2T0FFUGxn?oc=5",
-        "published": "Fri, 11 Sep 2026 11:00:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVMHM0YXN3UkRUdlVZXzdrUjJmSHh5eFZ6Q0pSOVhYV1pLU0VzSXNhWGRVREpJbm9uX3pvSkZsMDNVRmg4a3JPYXlTY2N3OEF5Wm00MA?oc=5",
+        "published": "Sat, 12 Sep 2026 00:00:00 GMT",
         "tone": "neutral",
         "reliable": true
       },
       {
-        "title": "If these key gold price levels fail, expect accelerated near-term selling – TD Securities - KITCO",
-        "source": "KITCO",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNnUyTTVKdE9mYnN1N0xlSjBOazJ6QXd3cGo1ZWU3bmQtaHptMkxFaXAzTXlCVHd3UFdKRmF4MVBObGNtWFd1MWxENTNGbV9aV19namZYMlItcllpc2NtMWk4Wld5ZUhyd0wxaFJseW9GOEtQc2psREkzdHBvblVyRjJGSWxqX0dycC12VWRzVWZuMUt0eWZOeWhqQlM3ZmlWdmFSMG85VnEwWmpqWTF2d3hrenZrZHVuSmtzZHFn?oc=5",
-        "published": "Fri, 11 Sep 2026 10:14:25 GMT",
+        "title": "Gold’s Next Leg Higher? ETF Inflows Signal Investors Are Back - Investing.com",
+        "source": "Investing.com",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNN3E4WUJwMTZjSk81MEN6UW5tMC03T3FLOXpRcWQ2RXhJYjl6ckM2RENyUURjbzBYamFfSFdRc05VTnB1b1gtQnR1LW82eUU3OFpWZk9VY2Zoc2x3ajRnZlA1bVpaTHZvUl8ta3NwRVpsSF9YOUNtQnBGMEtPN3A0MzB2cExkcUtrX2tjam8zcXpRdDgtUFhPVkdkV3VkdXMxX2x2SkJjOA?oc=5",
+        "published": "Fri, 11 Sep 2026 19:01:08 GMT",
         "tone": "neutral",
         "reliable": true
       },
       {
-        "title": "Current price of gold as of September 11, 2026 - Fortune",
-        "source": "Fortune",
+        "title": "Current price of gold as of September 11, 2026 - fortune.com",
+        "source": "fortune.com",
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ZNUdPbVZ6OHNTclNtY2psUEtIZGhhcGxCdGJZaGZ5TUZVNTFKNXhac1FxNlhiOUJtMzlBLWVuMTN6Z1hYVlZhQnFPczlZRkw3b0FobEdVZnVvYUJKOUY2dnQ0ZjdfVUE5am5OdGRn?oc=5",
         "published": "Fri, 11 Sep 2026 13:26:00 GMT",
         "tone": "neutral",
-        "reliable": false
-      },
-      {
-        "title": "Gold Price Falls to US$4,320: Is This a Buying Opportunity in Australia? (Sep 2026 Outlook) - Mitrade",
-        "source": "Mitrade",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5kOWlER0hKMlZEcWZUaC1SYWpiYVU4dzBxb01lZnQtYXk5TFdhUDJwcGd5ZGlQMi1BYllaRHprQnFGTW15RnpnTjIxM3lJYkdSY2xNNUhsb0ZRaWlsdEZpQ3QweUF0V0ZVOXJycnRpMlE5Zm82MGNN?oc=5",
-        "published": "Fri, 11 Sep 2026 05:33:45 GMT",
-        "tone": "bearish",
         "reliable": false
       },
       {
@@ -104,6 +96,14 @@
         "source": "FXEmpire",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeHdJSTJXMzdjWVI1aENVWmhaOU5Pd291OHJCOEtacmxsaFdMNWtKUnk1bXhZNmlZQzZsUk1fSVIyc083Q1dfLXY0RkNmX2c1NGNKa3c2azhpTlRjbkhWUU5QckdIRHMzdHQ3c0UteU5WRklTSV91SHJKdjdlVUppQTkwZlZqVUVEU2V3TDhjbHp5VVJsb2pwaWYyMHdldFdMTDlDSHIwYWhuQndMWFE?oc=5",
         "published": "Fri, 11 Sep 2026 14:35:00 GMT",
+        "tone": "neutral",
+        "reliable": false
+      },
+      {
+        "title": "Gold Price September 14 2026 - Robinhood",
+        "source": "Robinhood",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbmIxWDBtVDhOZUFwNXBEZFU0aEJZSXJ5ZGxBRW9VenhSMjF2UjBzN2hWcGVrQldDNDZnRGxIakFENkNZbGhXZGdQb1JBVmJtRm10Y0k4Wnlza3VLelVLWEtGdDdVR3hjUENYeEZZcDZ0YTFDU29TWXcwa25hU05TUEQ5bTY1ejQwbUM2WmFibXFpWGJMVlpaelBpZ1FDWE1kNWY1Tg?oc=5",
+        "published": "Fri, 11 Sep 2026 17:49:13 GMT",
         "tone": "neutral",
         "reliable": false
       }
