@@ -1,32 +1,32 @@
 {
   "today_price": 14170.0,
-  "yesterday_price": 14155.0,
-  "daily_change": 15.0,
-  "daily_change_percent": 0.11,
-  "daily_direction": "up",
+  "yesterday_price": 14170.0,
+  "daily_change": 0.0,
+  "daily_change_percent": 0.0,
+  "daily_direction": "flat",
   "position_30d": 21.46,
   "classification": "LOW_RANGE",
   "classification_label": "LOW RANGE",
   "period_7d": {
     "low": 14130.0,
     "high": 14255.0,
-    "average": 14183.57,
-    "change": -20.0,
-    "change_percent": -0.14,
+    "average": 14180.71,
+    "change": 40.0,
+    "change_percent": 0.28,
     "count": 7
   },
   "period_30d": {
     "low": 13935.0,
     "high": 15030.0,
-    "average": 14439.52,
-    "change": 213.5,
-    "change_percent": 1.53,
+    "average": 14447.14,
+    "change": -100.0,
+    "change_percent": -0.7,
     "count": 28
   },
   "period_90d": {
     "low": 12812.4,
     "high": 15030.0,
-    "average": 13737.37,
+    "average": 13746.02,
     "change": null,
     "change_percent": null,
     "count": 73
@@ -34,14 +34,14 @@
   "period_365d": {
     "low": 10031.2,
     "high": 16061.1,
-    "average": 13274.34,
+    "average": 13278.32,
     "change": null,
     "change_percent": null,
-    "count": 224
+    "count": 225
   },
-  "history_days": 232,
-  "as_of_date": "2026-09-12",
-  "last_updated": "2026-09-12T21:15:41.529185+05:30",
+  "history_days": 233,
+  "as_of_date": "2026-09-13",
+  "last_updated": "2026-09-13T22:04:36.099887+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -53,28 +53,20 @@
     "bias": "SLIGHTLY_UP",
     "bias_label": "Slightly upward bias",
     "confidence": "MEDIUM",
-    "score": 23.7,
-    "band_low": 14043.0,
-    "band_high": 14297.0,
+    "score": 27.9,
+    "band_low": 14053.0,
+    "band_high": 14287.0,
     "usd_inr_rate": 95.56,
     "usd_inr_as_of": "2026-09-11",
     "usd_inr_daily_pct": 0.126,
     "usd_inr_7d_pct": 1.132,
     "factors": [
-      "7-day gold trend flat (-0.14%)",
+      "7-day gold trend flat (+0.28%)",
       "USD/INR 95.56 (+0.13% today)",
       "Rupee weaker ₹ vs USD over 7D (+1.13%)",
-      "Global headlines lean bearish (1/5) · 2 from recognised sources"
+      "Global headlines lean bearish (1/5) · 1 from recognised sources"
     ],
     "news": [
-      {
-        "title": "Gold Price Canada Today | Live Gold Price in CAD - KITCO",
-        "source": "KITCO",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVMHM0YXN3UkRUdlVZXzdrUjJmSHh5eFZ6Q0pSOVhYV1pLU0VzSXNhWGRVREpJbm9uX3pvSkZsMDNVRmg4a3JPYXlTY2N3OEF5Wm00MA?oc=5",
-        "published": "Sat, 12 Sep 2026 00:00:00 GMT",
-        "tone": "neutral",
-        "reliable": true
-      },
       {
         "title": "Wall Street turns bullish on gold price ahead of the Fed, Main Street clings to slim bullish majority despite weekly slide - KITCO",
         "source": "KITCO",
@@ -92,18 +84,26 @@
         "reliable": false
       },
       {
-        "title": "Gold Market Commentary: Paved With Good Interventions - Seeking Alpha",
-        "source": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTVRZVmhzc1dzRHlTT0Q4cVBGVTd4Q185S2lWaXlkendEZUp5MXRZUE9DLV9ZT2JqTVAxdGpwcTlOeDY3eFVST1pJZ09pam1Da1NjZWZlNGhnSWcxZ2VoNk9GTXZ1WWxNOHM5SDlZaGRENUx5Y2x0QnY2OFRrMHZrZm1LV1lIYW5hTUxYaDZteEszMzN3SHktWA?oc=5",
-        "published": "Wed, 09 Sep 2026 14:20:00 GMT",
+        "title": "Gold (XAU/USD) Price Forecast for Today, Tomorrow, Next Week, and the Next 30 Days - LiteFinance",
+        "source": "LiteFinance",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ1BXeVdPR08tTmQ4MHdZMkloUzlsNjRjSE5VVmxyeVRrdDZqbDI3Tm5VVUdfYTdZM0dOYjkzVFBuMGhJUzZEM3E0RDBkc0RTUXd2VFdMdm5uenpPXzJobUNvRklvRkt0S0pfYkZ0UWRXaWRDc09MR1pBUkVDRXN2Y2FINkVmUDBlRkZHNGhzZkNyNk5LUzZrM2VUV1pVOV9N?oc=5",
+        "published": "Fri, 11 Sep 2026 07:00:00 GMT",
         "tone": "neutral",
         "reliable": false
       },
       {
-        "title": "Gold Market Weekly: The Buyers Who Don’t Need a Price Target - The Dark Side Of The Boom",
-        "source": "The Dark Side Of The Boom",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQlloSmhjTG13OUlNcENDRzlvOFlLQnY4RFB0dU9FRWFWcEY5WUxTbGxxLW1pSk9IX3ZCNFRfdjdrNFY3S0FRbHZ3dVdnZUQyUHYyR1hvZ1lMLUNDNTNmUWJ6QVUxWUhseTBrRUdYdkt0U250WFA3aERCek5KM3dDT1RJTQ?oc=5",
-        "published": "Sat, 12 Sep 2026 10:30:58 GMT",
+        "title": "Gold Price Forecast: Bulls Defend 200-Day EMA After Hot CPI - FXEmpire",
+        "source": "FXEmpire",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeHdJSTJXMzdjWVI1aENVWmhaOU5Pd291OHJCOEtacmxsaFdMNWtKUnk1bXhZNmlZQzZsUk1fSVIyc083Q1dfLXY0RkNmX2c1NGNKa3c2azhpTlRjbkhWUU5QckdIRHMzdHQ3c0UteU5WRklTSV91SHJKdjdlVUppQTkwZlZqVUVEU2V3TDhjbHp5VVJsb2pwaWYyMHdldFdMTDlDSHIwYWhuQndMWFE?oc=5",
+        "published": "Fri, 11 Sep 2026 14:35:00 GMT",
+        "tone": "neutral",
+        "reliable": false
+      },
+      {
+        "title": "Gold Price Today In The UK - Forbes",
+        "source": "Forbes",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4wMW1PejZjZzZlR2QwWlFWQ3JzNHpoUjg2X1NhX2t0LUhIdEJjUHktanJZVHVYekttd1ZjRlFBTlFsbWZvalMxbjR5TnhpRGZTSTZ1SjRLcEJuTVNXbURSTkNwMTMzUQ?oc=5",
+        "published": "Fri, 11 Sep 2026 13:33:00 GMT",
         "tone": "neutral",
         "reliable": false
       }
