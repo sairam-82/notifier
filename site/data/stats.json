@@ -1,32 +1,32 @@
 {
-  "today_price": 14170.0,
+  "today_price": 14125.0,
   "yesterday_price": 14170.0,
-  "daily_change": 0.0,
-  "daily_change_percent": 0.0,
-  "daily_direction": "flat",
-  "position_30d": 21.46,
+  "daily_change": -45.0,
+  "daily_change_percent": -0.32,
+  "daily_direction": "down",
+  "position_30d": 17.35,
   "classification": "LOW_RANGE",
   "classification_label": "LOW RANGE",
   "period_7d": {
-    "low": 14130.0,
+    "low": 14125.0,
     "high": 14255.0,
-    "average": 14180.71,
-    "change": 40.0,
-    "change_percent": 0.28,
+    "average": 14180.0,
+    "change": -115.0,
+    "change_percent": -0.81,
     "count": 7
   },
   "period_30d": {
     "low": 13935.0,
     "high": 15030.0,
-    "average": 14447.14,
-    "change": -100.0,
-    "change_percent": -0.7,
-    "count": 28
+    "average": 14436.03,
+    "change": -145.0,
+    "change_percent": -1.02,
+    "count": 29
   },
   "period_90d": {
     "low": 12812.4,
     "high": 15030.0,
-    "average": 13746.02,
+    "average": 13754.05,
     "change": null,
     "change_percent": null,
     "count": 73
@@ -34,14 +34,14 @@
   "period_365d": {
     "low": 10031.2,
     "high": 16061.1,
-    "average": 13278.32,
+    "average": 13282.07,
     "change": null,
     "change_percent": null,
-    "count": 225
+    "count": 226
   },
-  "history_days": 233,
-  "as_of_date": "2026-09-13",
-  "last_updated": "2026-09-13T22:04:36.099887+05:30",
+  "history_days": 234,
+  "as_of_date": "2026-09-14",
+  "last_updated": "2026-09-14T15:01:33.559052+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -50,23 +50,31 @@
   "currency": "INR",
   "unit": "gram",
   "outlook": {
-    "bias": "SLIGHTLY_UP",
-    "bias_label": "Slightly upward bias",
+    "bias": "NEUTRAL",
+    "bias_label": "Neutral / sideways",
     "confidence": "MEDIUM",
-    "score": 27.9,
-    "band_low": 14053.0,
-    "band_high": 14287.0,
+    "score": 17.0,
+    "band_low": 14023.0,
+    "band_high": 14227.0,
     "usd_inr_rate": 95.56,
     "usd_inr_as_of": "2026-09-11",
     "usd_inr_daily_pct": 0.126,
     "usd_inr_7d_pct": 1.132,
     "factors": [
-      "7-day gold trend flat (+0.28%)",
+      "7-day gold trend down (-0.81%)",
       "USD/INR 95.56 (+0.13% today)",
       "Rupee weaker ₹ vs USD over 7D (+1.13%)",
-      "Global headlines lean bearish (1/5) · 1 from recognised sources"
+      "Global headlines lean bearish (1/5) · 2 from recognised sources"
     ],
     "news": [
+      {
+        "title": "Tokenised gold could be exempt from fund regulations under FCA proposal - Financial Times",
+        "source": "Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV3I0Tm55ZWhjeWlLQk9kZjU5RUt1ZWNuSG5UQXNidUNtSE5yVWxWMkhmaUxwZGhTRkhoTUNmYkhCbGZEeENhQm8zUkUwc1RjMF9PdGZMV28zbGVTNGRCWHdReGpIS3VoUnJic1RoX05xdy1PYVdnLU83UjlnemlCSTd6ZmQ?oc=5",
+        "published": "Mon, 14 Sep 2026 04:00:45 GMT",
+        "tone": "neutral",
+        "reliable": true
+      },
       {
         "title": "Wall Street turns bullish on gold price ahead of the Fed, Main Street clings to slim bullish majority despite weekly slide - KITCO",
         "source": "KITCO",
@@ -76,10 +84,18 @@
         "reliable": true
       },
       {
-        "title": "Current price of gold as of September 11, 2026 - Fortune",
-        "source": "Fortune",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ZNUdPbVZ6OHNTclNtY2psUEtIZGhhcGxCdGJZaGZ5TUZVNTFKNXhac1FxNlhiOUJtMzlBLWVuMTN6Z1hYVlZhQnFPczlZRkw3b0FobEdVZnVvYUJKOUY2dnQ0ZjdfVUE5am5OdGRn?oc=5",
-        "published": "Fri, 11 Sep 2026 13:26:00 GMT",
+        "title": "DOREX WEEKLY GOLD MARKET UPDATE – w/e 11.09.26: Gold Holds US$4,300 Support as Markets Brace for Fed Decision - Press Release Distribution Australia",
+        "source": "Press Release Distribution Australia",
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPeWdaZnh3U2wtM1M1OXhicTg0M01GdzcwMms2UDdMR2hmMFdzTlNjV2xaME1jNFN6RWVQRENxM1cxZFNRYk5fbktlaGF1OERDUlFaQ3gwVWU5Yk1zUU5aSTRPR1RCQkRENlJraGJCSEo4RmZJS2ppME90Vl9OUlJodG5HVzdhZU1GbmxsdmVJNjg5N3pqYTBQNTVlQ0UtaGt2VWduSXVFQmY2SElwNXY4ZEZxSHg4SVNERjRVNzV6WE9QQVZfZEZuY0ZxU2Vsc3BrOERYSTEwTWF2RFhNSmRuNlRNMk5aN05SNVlMOVV0Zzkwa1FC?oc=5",
+        "published": "Mon, 14 Sep 2026 00:00:56 GMT",
+        "tone": "neutral",
+        "reliable": false
+      },
+      {
+        "title": "Fed Rate Hike Gold Impact: Market Reaction to Inflation Data - The Cryptonomist",
+        "source": "The Cryptonomist",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zQm9VUE82eFFqUTBwaWZZb2pBYWxmaUJCWmRFdm5sdUlteWRLakhJUV9NS0RlbWdQN04wMXR0NmdoNjBwY0piaTRuR0NmeTIxdkd2RmwzNl9rR0xqS014YW1pZS1SSjlO?oc=5",
+        "published": "Mon, 14 Sep 2026 08:26:20 GMT",
         "tone": "neutral",
         "reliable": false
       },
@@ -88,22 +104,6 @@
         "source": "LiteFinance",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ1BXeVdPR08tTmQ4MHdZMkloUzlsNjRjSE5VVmxyeVRrdDZqbDI3Tm5VVUdfYTdZM0dOYjkzVFBuMGhJUzZEM3E0RDBkc0RTUXd2VFdMdm5uenpPXzJobUNvRklvRkt0S0pfYkZ0UWRXaWRDc09MR1pBUkVDRXN2Y2FINkVmUDBlRkZHNGhzZkNyNk5LUzZrM2VUV1pVOV9N?oc=5",
         "published": "Fri, 11 Sep 2026 07:00:00 GMT",
-        "tone": "neutral",
-        "reliable": false
-      },
-      {
-        "title": "Gold Price Forecast: Bulls Defend 200-Day EMA After Hot CPI - FXEmpire",
-        "source": "FXEmpire",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeHdJSTJXMzdjWVI1aENVWmhaOU5Pd291OHJCOEtacmxsaFdMNWtKUnk1bXhZNmlZQzZsUk1fSVIyc083Q1dfLXY0RkNmX2c1NGNKa3c2azhpTlRjbkhWUU5QckdIRHMzdHQ3c0UteU5WRklTSV91SHJKdjdlVUppQTkwZlZqVUVEU2V3TDhjbHp5VVJsb2pwaWYyMHdldFdMTDlDSHIwYWhuQndMWFE?oc=5",
-        "published": "Fri, 11 Sep 2026 14:35:00 GMT",
-        "tone": "neutral",
-        "reliable": false
-      },
-      {
-        "title": "Gold Price Today In The UK - Forbes",
-        "source": "Forbes",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4wMW1PejZjZzZlR2QwWlFWQ3JzNHpoUjg2X1NhX2t0LUhIdEJjUHktanJZVHVYekttd1ZjRlFBTlFsbWZvalMxbjR5TnhpRGZTSTZ1SjRLcEJuTVNXbURSTkNwMTMzUQ?oc=5",
-        "published": "Fri, 11 Sep 2026 13:33:00 GMT",
         "tone": "neutral",
         "reliable": false
       }
