@@ -41,7 +41,7 @@
   },
   "history_days": 234,
   "as_of_date": "2026-09-14",
-  "last_updated": "2026-09-14T15:01:33.559052+05:30",
+  "last_updated": "2026-09-14T23:38:47.807936+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -53,20 +53,28 @@
     "bias": "NEUTRAL",
     "bias_label": "Neutral / sideways",
     "confidence": "MEDIUM",
-    "score": 17.0,
+    "score": 11.9,
     "band_low": 14023.0,
     "band_high": 14227.0,
     "usd_inr_rate": 95.56,
-    "usd_inr_as_of": "2026-09-11",
-    "usd_inr_daily_pct": 0.126,
+    "usd_inr_as_of": "2026-09-14",
+    "usd_inr_daily_pct": 0.0,
     "usd_inr_7d_pct": 1.132,
     "factors": [
       "7-day gold trend down (-0.81%)",
-      "USD/INR 95.56 (+0.13% today)",
+      "USD/INR 95.56 (+0.00% today)",
       "Rupee weaker ₹ vs USD over 7D (+1.13%)",
-      "Global headlines lean bearish (1/5) · 2 from recognised sources"
+      "Global headlines mixed/neutral · 2 from recognised sources"
     ],
     "news": [
+      {
+        "title": "Gold is the 'North Star' in a world drowning in debt - Sprott’s Ryan McIntyre - KITCO",
+        "source": "KITCO",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVDhrNkQxYVJCd2x0TWx0UU5KRWNDdjYzeVY5MTJjdDA3bUs3d1hiZjNzWF9qbGRBOFZrZGlxaVQ1b2Y2RUw4RmNYM3FsU3ZDMWI0RGg5aDl4NkluMTV3SjFNNF9DSjBMRzFwZnMxcHN4VElrVlI4OXZfclY1UFlHRkF1STg4Um91MExqbFZzV3BRYk5ET3FYN2VfT29YMjlOcmg5dmp3?oc=5",
+        "published": "Mon, 14 Sep 2026 12:28:00 GMT",
+        "tone": "neutral",
+        "reliable": true
+      },
       {
         "title": "Tokenised gold could be exempt from fund regulations under FCA proposal - Financial Times",
         "source": "Financial Times",
@@ -76,26 +84,18 @@
         "reliable": true
       },
       {
-        "title": "Wall Street turns bullish on gold price ahead of the Fed, Main Street clings to slim bullish majority despite weekly slide - KITCO",
-        "source": "KITCO",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM0hVdUNrZEZxdm8xb0RMbzVWdm5wTjkxYW1UR2FjSE42Si1XTEk0Q3Q1eU1BeW00NlF5aWVZc3Zsclk2OWY2V2dlUHNzeC05UWZZTldXdEhHNjN0Y0V6d2RKMUR2elNab0F6WWhFbzNPZGotQk4xeGhOeHJhcU84Z2dnc1BNUVZZY1dQWHBpOU1EeS00ZHZTTFZxMWxfbktzZjliSTRlbm1LQlVDT3dvLUJYMXg4SHc?oc=5",
-        "published": "Fri, 11 Sep 2026 18:48:00 GMT",
-        "tone": "bearish",
-        "reliable": true
-      },
-      {
-        "title": "DOREX WEEKLY GOLD MARKET UPDATE – w/e 11.09.26: Gold Holds US$4,300 Support as Markets Brace for Fed Decision - Press Release Distribution Australia",
-        "source": "Press Release Distribution Australia",
-        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPeWdaZnh3U2wtM1M1OXhicTg0M01GdzcwMms2UDdMR2hmMFdzTlNjV2xaME1jNFN6RWVQRENxM1cxZFNRYk5fbktlaGF1OERDUlFaQ3gwVWU5Yk1zUU5aSTRPR1RCQkRENlJraGJCSEo4RmZJS2ppME90Vl9OUlJodG5HVzdhZU1GbmxsdmVJNjg5N3pqYTBQNTVlQ0UtaGt2VWduSXVFQmY2SElwNXY4ZEZxSHg4SVNERjRVNzV6WE9QQVZfZEZuY0ZxU2Vsc3BrOERYSTEwTWF2RFhNSmRuNlRNMk5aN05SNVlMOVV0Zzkwa1FC?oc=5",
-        "published": "Mon, 14 Sep 2026 00:00:56 GMT",
+        "title": "China gold market update: Official buying accelerated in August | Post by Ray Jia | Insights - World Gold Council",
+        "source": "World Gold Council",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS1JCZDJXbmYyNk5mSkU4QjdUNGFHZEl0MzBmcDVXNjNBeGhFUHlHRWo2d2pZSTVtbWZXeUlRLWQyOTA0eTRzQlJmdjFtNVMzYjZJaVlrWGhDbDNCcVNVbTVQR25xV3N3MjZNVXBKaFFRUExveHpYdVY3cWQyTGxLdnNhMEtzZkV4VVZoS2g1akVMcksxaU1pUHgwSVE3RVJSd0p0TFZZNmZoQ2M?oc=5",
+        "published": "Mon, 14 Sep 2026 10:03:04 GMT",
         "tone": "neutral",
         "reliable": false
       },
       {
-        "title": "Fed Rate Hike Gold Impact: Market Reaction to Inflation Data - The Cryptonomist",
-        "source": "The Cryptonomist",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zQm9VUE82eFFqUTBwaWZZb2pBYWxmaUJCWmRFdm5sdUlteWRLakhJUV9NS0RlbWdQN04wMXR0NmdoNjBwY0piaTRuR0NmeTIxdkd2RmwzNl9rR0xqS014YW1pZS1SSjlO?oc=5",
-        "published": "Mon, 14 Sep 2026 08:26:20 GMT",
+        "title": "Current price of gold as of September 14, 2026 - Fortune",
+        "source": "Fortune",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5GSmZpQm4ya1AwVFJSZ243aGIxVWR6TkQ4TXZ6T2dOR2FnYkZsUmJUVm4wcC1aOG9mR19FMWFfLWZKQkh0Q1ZJOVpqX0tmb2NOSDkzaHlBQ2c1UHZBOWtOSk5xOXJ5UE9PLWpZQUhR?oc=5",
+        "published": "Mon, 14 Sep 2026 12:56:00 GMT",
         "tone": "neutral",
         "reliable": false
       },
