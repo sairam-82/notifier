@@ -41,7 +41,7 @@
   },
   "history_days": 235,
   "as_of_date": "2026-09-15",
-  "last_updated": "2026-09-15T14:39:52.060349+05:30",
+  "last_updated": "2026-09-15T22:43:08.489997+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -53,35 +53,27 @@
     "bias": "SLIGHTLY_UP",
     "bias_label": "Slightly upward bias",
     "confidence": "MEDIUM",
-    "score": 24.6,
+    "score": 34.6,
     "band_low": 13947.0,
     "band_high": 14133.0,
-    "usd_inr_rate": 95.56,
-    "usd_inr_as_of": "2026-09-14",
-    "usd_inr_daily_pct": 0.0,
-    "usd_inr_7d_pct": 1.132,
+    "usd_inr_rate": 95.96,
+    "usd_inr_as_of": "2026-09-15",
+    "usd_inr_daily_pct": 0.419,
+    "usd_inr_7d_pct": 1.192,
     "factors": [
       "7-day gold trend down (-0.74%)",
       "Near 30D low (10%) — possible stabilisation/bounce",
-      "USD/INR 95.56 (+0.00% today)",
-      "Rupee weaker ₹ vs USD over 7D (+1.13%)",
-      "Global headlines mixed/neutral · 2 from recognised sources"
+      "USD/INR 95.96 (+0.42% today)",
+      "Rupee weaker ₹ vs USD over 7D (+1.19%)",
+      "Global headlines lean bearish (1/5) · 1 from recognised sources"
     ],
     "news": [
       {
-        "title": "Gold holds near $4,300 as oil disruption lifts Fed hike bets - Investing.com",
-        "source": "Investing.com",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRDN4UEhJUTVkZE1ybExGTjdBS3ZnSzRnR0JWTnZGTXgxWkI3YjcwZUotSDJ2Wm9lVUg0TzdKcmtoc2Y2S1VxUGg1VXY2UVl1Y0JaME9PdkR2N1czU2hWYlZ6Vkh3Ty13d3k0bmd3Z3BWa3l3ODdOaTdrVjlQY0o2VDNUSnM4M2ZGUV9MaGxJQWFscVJWQU1yWEVlaUFyM2Y0RzBTVHpNb3lzQkQ3NERGdllMaU8?oc=5",
-        "published": "Tue, 15 Sep 2026 02:27:27 GMT",
-        "tone": "neutral",
-        "reliable": true
-      },
-      {
-        "title": "Gold price fall nearly 2% as oil surge and near-5% Treasury yields bolster Fed rate-hike expectations - Kitco AM Report - KITCO",
+        "title": "Gold price struggling to catch a bid as New York Fed's Empire State survey drops to 7.6 - KITCO",
         "source": "KITCO",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdHhTNWdPX1Y1X1FSLUVIU0d3NHNCYmpXMG9jZ1NDWmdUVERDeGhuM21rSTJRMDVHaHozeW4xZ3lfLU9oRU9UMVZzNDh2R1FyVE9oRFhuX2lERnllYXlnWFlmWHdQSFdNUjh1MXAzbkQ3al8yMHVWZzBkZGRnbHZJTUhkd2Y3Mm5qbk1yc1R5VjdmSU9jRG9ibFlJc2gyQXgwdkE0ODZma012WHJ3eEpNQW1palhzRHhkM05N?oc=5",
-        "published": "Mon, 14 Sep 2026 10:10:00 GMT",
-        "tone": "neutral",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbUFhZ0N3N0ZBRkpLVlJSdVhyeFMyQWFka05zQUNRM0R3Y2h0T1JZWnVWWElPbW92c29iWm9fYm93NFZRMHpDbmlSU3ltd2ZKaERFbWNwWU5lSTc5S0tWWUdWbUNIcUdLM3o3b25LOUxtbUlkdnVUZmJ2aUhCWGx5blByNllna3N2TXBGS0ZsSVo3UXFtbFFPcnp4ZGxtWkh1YkJaWThwdE9XOUFrSjFEMVpnd3BJTHBCa2N4Qg?oc=5",
+        "published": "Tue, 15 Sep 2026 16:07:30 GMT",
+        "tone": "bearish",
         "reliable": true
       },
       {
@@ -93,18 +85,26 @@
         "reliable": false
       },
       {
-        "title": "Current price of gold as of September 14, 2026 - Fortune",
+        "title": "Current price of gold as of September 15, 2026 - Fortune",
         "source": "Fortune",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5GSmZpQm4ya1AwVFJSZ243aGIxVWR6TkQ4TXZ6T2dOR2FnYkZsUmJUVm4wcC1aOG9mR19FMWFfLWZKQkh0Q1ZJOVpqX0tmb2NOSDkzaHlBQ2c1UHZBOWtOSk5xOXJ5UE9PLWpZQUhR?oc=5",
-        "published": "Mon, 14 Sep 2026 12:56:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15Q2tfZW02NmFqMy1oWTVyajh2bkdSMmdHUko4Uk5jU05HWUtEZkFOeV90eUdjWjdKZlZHSWtxZ0FWMFhVZnRpVmpzRGNSWUh6TGZQbGpIRWJmSFNIaDNWQVhRZHhfNnUxM2NjTHpB?oc=5",
+        "published": "Tue, 15 Sep 2026 12:53:00 GMT",
         "tone": "neutral",
         "reliable": false
       },
       {
-        "title": "Gold (XAU/USD) Price Forecast for Today, Tomorrow, Next Week, and the Next 30 Days - LiteFinance",
-        "source": "LiteFinance",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ1BXeVdPR08tTmQ4MHdZMkloUzlsNjRjSE5VVmxyeVRrdDZqbDI3Tm5VVUdfYTdZM0dOYjkzVFBuMGhJUzZEM3E0RDBkc0RTUXd2VFdMdm5uenpPXzJobUNvRklvRkt0S0pfYkZ0UWRXaWRDc09MR1pBUkVDRXN2Y2FINkVmUDBlRkZHNGhzZkNyNk5LUzZrM2VUV1pVOV9N?oc=5",
-        "published": "Fri, 11 Sep 2026 07:00:00 GMT",
+        "title": "Glitter Bug Gold Buyers Launches Orange County Precious Metals Market Data Initiative - markets.businessinsider.com",
+        "source": "markets.businessinsider.com",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTjZzRi12MkdVU0trSmNtZ1Noa1Y3bjlXeWxBWF8zZkpfT1FIdGFMa1pTelFmTVU1NFZMUGRsTHlUVGtaVnBFaTlDNWFWMjZTSW1LOVJ0UmwzenJNdWxQbndiaHRNQnlJa0RTNVYwSFhTc1QwSFhvTnd4TDdVbzlSOGtwRDR2OHFMQmFULWcwT04zMGZwN2F5ZFdTUWd2ZVJ1WGxMdUFyV0UyY0JEQjJidV93ZlBjaTNXTFFKbEdHR3BHQ0JGTWZVSG1PWUdtN1BlUnY0VkxfX2hCR1dm?oc=5",
+        "published": "Tue, 15 Sep 2026 15:10:10 GMT",
+        "tone": "neutral",
+        "reliable": false
+      },
+      {
+        "title": "Gold Is Falling With Stocks and Bonds Are the Reason - stonex.com",
+        "source": "stonex.com",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcFJJekltcWJBUzgxZV9UU21XbFU4VWVsZjU5ZXBTOU5aUVNRcDFfRGpUV2tLdTNtT0R4Z1F6Wmc5NWIyTU91d0Npc3pPZHNNWnhMaXA5eWxRUFZta2Y4Q2JZLU1pdV80dGoycjMtczRzNDU1M3BhRml5eXBHZ1d4SWZlTFF3c2pFREd4V2NLb3RCVmhJOFFXeWxad2ZfY1ZOWEE?oc=5",
+        "published": "Tue, 15 Sep 2026 09:56:37 GMT",
         "tone": "neutral",
         "reliable": false
       }
