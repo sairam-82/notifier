@@ -1,47 +1,47 @@
 {
-  "today_price": 14040.0,
-  "yesterday_price": 14125.0,
-  "daily_change": -85.0,
-  "daily_change_percent": -0.6,
-  "daily_direction": "down",
-  "position_30d": 9.59,
-  "classification": "NEAR_30D_LOW",
-  "classification_label": "NEAR 30D LOW",
+  "today_price": 14065.0,
+  "yesterday_price": 14040.0,
+  "daily_change": 25.0,
+  "daily_change_percent": 0.18,
+  "daily_direction": "up",
+  "position_30d": 11.87,
+  "classification": "LOW_RANGE",
+  "classification_label": "LOW RANGE",
   "period_7d": {
     "low": 14040.0,
     "high": 14255.0,
-    "average": 14151.43,
-    "change": -105.0,
-    "change_percent": -0.74,
+    "average": 14140.0,
+    "change": -190.0,
+    "change_percent": -1.33,
     "count": 7
   },
   "period_30d": {
     "low": 13935.0,
     "high": 15030.0,
-    "average": 14422.83,
-    "change": -230.0,
-    "change_percent": -1.61,
+    "average": 14416.0,
+    "change": -225.0,
+    "change_percent": -1.57,
     "count": 30
   },
   "period_90d": {
     "low": 12812.4,
     "high": 15030.0,
-    "average": 13757.33,
+    "average": 13761.6,
     "change": null,
     "change_percent": null,
     "count": 73
   },
   "period_365d": {
-    "low": 10031.2,
+    "low": 10051.5,
     "high": 16061.1,
-    "average": 13299.73,
+    "average": 13317.58,
     "change": null,
     "change_percent": null,
     "count": 226
   },
-  "history_days": 235,
-  "as_of_date": "2026-09-15",
-  "last_updated": "2026-09-15T22:43:08.489997+05:30",
+  "history_days": 236,
+  "as_of_date": "2026-09-16",
+  "last_updated": "2026-09-16T14:32:11.530293+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -53,26 +53,34 @@
     "bias": "SLIGHTLY_UP",
     "bias_label": "Slightly upward bias",
     "confidence": "MEDIUM",
-    "score": 34.6,
-    "band_low": 13947.0,
-    "band_high": 14133.0,
+    "score": 33.7,
+    "band_low": 13993.0,
+    "band_high": 14137.0,
     "usd_inr_rate": 95.96,
     "usd_inr_as_of": "2026-09-15",
     "usd_inr_daily_pct": 0.419,
     "usd_inr_7d_pct": 1.192,
     "factors": [
-      "7-day gold trend down (-0.74%)",
-      "Near 30D low (10%) — possible stabilisation/bounce",
+      "7-day gold trend down (-1.33%)",
+      "Near 30D low (12%) — possible stabilisation/bounce",
       "USD/INR 95.96 (+0.42% today)",
       "Rupee weaker ₹ vs USD over 7D (+1.19%)",
-      "Global headlines lean bearish (1/5) · 1 from recognised sources"
+      "Global headlines mixed/neutral · 2 from recognised sources"
     ],
     "news": [
+      {
+        "title": "Gold gains with Fed rate decision in spotlight - Reuters",
+        "source": "Reuters",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdEVwMWpILUF1dnhqajU0di1FMVRLWGNScTJKdTR2NUl2VWZSUXpWNF9UQ3h2M0ZuMUYxZzJab09IcUMwN0RQSlRtcC1HSGdQM2poNXptR1BCeklERXdjcmE5N2tzNmdHczY1SkdnSXE0Q3dJNV9TYkNjVDdNUFZjLUhDMkRWcHlsNVF5V19sS1MwX3lnNG13?oc=5",
+        "published": "Wed, 16 Sep 2026 02:07:00 GMT",
+        "tone": "bullish",
+        "reliable": true
+      },
       {
         "title": "Gold price struggling to catch a bid as New York Fed's Empire State survey drops to 7.6 - KITCO",
         "source": "KITCO",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbUFhZ0N3N0ZBRkpLVlJSdVhyeFMyQWFka05zQUNRM0R3Y2h0T1JZWnVWWElPbW92c29iWm9fYm93NFZRMHpDbmlSU3ltd2ZKaERFbWNwWU5lSTc5S0tWWUdWbUNIcUdLM3o3b25LOUxtbUlkdnVUZmJ2aUhCWGx5blByNllna3N2TXBGS0ZsSVo3UXFtbFFPcnp4ZGxtWkh1YkJaWThwdE9XOUFrSjFEMVpnd3BJTHBCa2N4Qg?oc=5",
-        "published": "Tue, 15 Sep 2026 16:07:30 GMT",
+        "published": "Tue, 15 Sep 2026 16:11:26 GMT",
         "tone": "bearish",
         "reliable": true
       },
@@ -85,10 +93,10 @@
         "reliable": false
       },
       {
-        "title": "Current price of gold as of September 15, 2026 - Fortune",
+        "title": "Current price of gold as of September 14, 2026 - Fortune",
         "source": "Fortune",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15Q2tfZW02NmFqMy1oWTVyajh2bkdSMmdHUko4Uk5jU05HWUtEZkFOeV90eUdjWjdKZlZHSWtxZ0FWMFhVZnRpVmpzRGNSWUh6TGZQbGpIRWJmSFNIaDNWQVhRZHhfNnUxM2NjTHpB?oc=5",
-        "published": "Tue, 15 Sep 2026 12:53:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5GSmZpQm4ya1AwVFJSZ243aGIxVWR6TkQ4TXZ6T2dOR2FnYkZsUmJUVm4wcC1aOG9mR19FMWFfLWZKQkh0Q1ZJOVpqX0tmb2NOSDkzaHlBQ2c1UHZBOWtOSk5xOXJ5UE9PLWpZQUhR?oc=5",
+        "published": "Mon, 14 Sep 2026 12:56:00 GMT",
         "tone": "neutral",
         "reliable": false
       },
@@ -97,14 +105,6 @@
         "source": "markets.businessinsider.com",
         "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTjZzRi12MkdVU0trSmNtZ1Noa1Y3bjlXeWxBWF8zZkpfT1FIdGFMa1pTelFmTVU1NFZMUGRsTHlUVGtaVnBFaTlDNWFWMjZTSW1LOVJ0UmwzenJNdWxQbndiaHRNQnlJa0RTNVYwSFhTc1QwSFhvTnd4TDdVbzlSOGtwRDR2OHFMQmFULWcwT04zMGZwN2F5ZFdTUWd2ZVJ1WGxMdUFyV0UyY0JEQjJidV93ZlBjaTNXTFFKbEdHR3BHQ0JGTWZVSG1PWUdtN1BlUnY0VkxfX2hCR1dm?oc=5",
         "published": "Tue, 15 Sep 2026 15:10:10 GMT",
-        "tone": "neutral",
-        "reliable": false
-      },
-      {
-        "title": "Gold Is Falling With Stocks and Bonds Are the Reason - stonex.com",
-        "source": "stonex.com",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcFJJekltcWJBUzgxZV9UU21XbFU4VWVsZjU5ZXBTOU5aUVNRcDFfRGpUV2tLdTNtT0R4Z1F6Wmc5NWIyTU91d0Npc3pPZHNNWnhMaXA5eWxRUFZta2Y4Q2JZLU1pdV80dGoycjMtczRzNDU1M3BhRml5eXBHZ1d4SWZlTFF3c2pFREd4V2NLb3RCVmhJOFFXeWxad2ZfY1ZOWEE?oc=5",
-        "published": "Tue, 15 Sep 2026 09:56:37 GMT",
         "tone": "neutral",
         "reliable": false
       }
