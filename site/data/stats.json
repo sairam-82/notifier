@@ -41,7 +41,7 @@
   },
   "history_days": 236,
   "as_of_date": "2026-09-16",
-  "last_updated": "2026-09-16T14:32:11.530293+05:30",
+  "last_updated": "2026-09-16T22:44:00.154985+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -53,35 +53,51 @@
     "bias": "SLIGHTLY_UP",
     "bias_label": "Slightly upward bias",
     "confidence": "MEDIUM",
-    "score": 33.7,
+    "score": 23.7,
     "band_low": 13993.0,
     "band_high": 14137.0,
     "usd_inr_rate": 95.96,
-    "usd_inr_as_of": "2026-09-15",
-    "usd_inr_daily_pct": 0.419,
-    "usd_inr_7d_pct": 1.192,
+    "usd_inr_as_of": "2026-09-16",
+    "usd_inr_daily_pct": 0.0,
+    "usd_inr_7d_pct": 0.894,
     "factors": [
       "7-day gold trend down (-1.33%)",
       "Near 30D low (12%) — possible stabilisation/bounce",
-      "USD/INR 95.96 (+0.42% today)",
-      "Rupee weaker ₹ vs USD over 7D (+1.19%)",
-      "Global headlines mixed/neutral · 2 from recognised sources"
+      "USD/INR 95.96 (+0.00% today)",
+      "Rupee weaker ₹ vs USD over 7D (+0.89%)",
+      "Global headlines lean bullish (1/5) · 4 from recognised sources"
     ],
     "news": [
       {
-        "title": "Gold gains with Fed rate decision in spotlight - Reuters",
-        "source": "Reuters",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdEVwMWpILUF1dnhqajU0di1FMVRLWGNScTJKdTR2NUl2VWZSUXpWNF9UQ3h2M0ZuMUYxZzJab09IcUMwN0RQSlRtcC1HSGdQM2poNXptR1BCeklERXdjcmE5N2tzNmdHczY1SkdnSXE0Q3dJNV9TYkNjVDdNUFZjLUhDMkRWcHlsNVF5V19sS1MwX3lnNG13?oc=5",
-        "published": "Wed, 16 Sep 2026 02:07:00 GMT",
+        "title": "A hawkish Fed won't keep gold price down for long - FxPro's Kuptsikevich - KITCO",
+        "source": "KITCO",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWVBYRkhKOUcyeGthYlExdmpnb0xhQnM3RXBtNHNFbXN0dlJjRWlKdHowb1VEdFBqZnNBMUhObHF2NVlPVExac3dRS2pRRXJ6QXhzUUNQRjBxbW9Vc0g4dlUwWWtWM0o1bFNmbDdxbkxGdXFUS1BOZXhWS0NDN1JQSWdmS2c0TVQxUWtfV1lzZVJsakRGREppRzVMTldoelUxMkxLbHJmX1h3cUhz?oc=5",
+        "published": "Wed, 16 Sep 2026 15:14:08 GMT",
+        "tone": "neutral",
+        "reliable": true
+      },
+      {
+        "title": "Gold price trades at $4,340/oz after retail sales rise 1.2% in August - KITCO",
+        "source": "KITCO",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNV0t4Sk1JZ0Zlbm5hVlN5T2RubzZaeEtaaXRtNUxqSHRubmFxSUhJVk1oU1ZyaHBVZnVPY3ZLczNNRzFhN3ItY1VhRTFfODZZTmU0WE45OHBFRUJValcwT2lzTi1zVnM1cXRpYWJpaU1qZFpoVnI2RDJ5SkpDeTNUQnRZU3FpREhTb2Q1dHFyeWFHU2lBRnhsdS1XRXQ4d3daSmswcnJxVQ?oc=5",
+        "published": "Wed, 16 Sep 2026 15:53:59 GMT",
         "tone": "bullish",
         "reliable": true
       },
       {
-        "title": "Gold price struggling to catch a bid as New York Fed's Empire State survey drops to 7.6 - KITCO",
-        "source": "KITCO",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbUFhZ0N3N0ZBRkpLVlJSdVhyeFMyQWFka05zQUNRM0R3Y2h0T1JZWnVWWElPbW92c29iWm9fYm93NFZRMHpDbmlSU3ltd2ZKaERFbWNwWU5lSTc5S0tWWUdWbUNIcUdLM3o3b25LOUxtbUlkdnVUZmJ2aUhCWGx5blByNllna3N2TXBGS0ZsSVo3UXFtbFFPcnp4ZGxtWkh1YkJaWThwdE9XOUFrSjFEMVpnd3BJTHBCa2N4Qg?oc=5",
-        "published": "Tue, 15 Sep 2026 16:11:26 GMT",
-        "tone": "bearish",
+        "title": "Gold rises on easing dollar, oil as Fed rate verdict looms - CNBC",
+        "source": "CNBC",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQkFmRG5GNkNrRm11UzZBUFZWbl9RZFlGMlV5VVY2bXZobTI1al93WEhZaG81eDR3U3pkdF9xMDJvQnBTVF94V1JyOXpuXzVhNnpLSmEyM3h5c1IxM1ZPd1JDck01QkZ2Zng0UkJ1UWhjcEgtaEc4QlpqMWdzZkdOZGwzYjlZZDJEcExR0gGQAUFVX3lxTE5fOUhZVUY2SW5hX2xFQXdnNzA1V3RlY2tsNjFIWmJZRnpfVnVtaTBVQnNvTTBpeGJicUZTTDV1bUlrWG9jSE5sY2JLQURwNi1iOFcybTNnYUJndEpucjlUamZZVnU3Q3hlazZQakNTaWRzTk9ORU4tMWE2Y0JuRUdwbUZxdDFZa2I3TGFWZmM3ZQ?oc=5",
+        "published": "Wed, 16 Sep 2026 04:15:15 GMT",
+        "tone": "neutral",
+        "reliable": true
+      },
+      {
+        "title": "Tether Gold Loans Swell With $1.5 Billion for US Bullion Dealer - Bloomberg.com",
+        "source": "Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQi15cHBmSnFVMjQ4aElIQVBUZDY1di04M3VPd3huOHc0VEJDOUZXZ0RJZngxTDZiaEJyY0VqN2hORld4Q0hWLWxlTW11dTZDUUp3dlo5LVNpUmVoYnBpQ2JhUmlTbzdMQnM1V1BTZGJzNktpWFBjZEFuU1pLdGRFLURjV29ta1A0dW9DV250anZfRXdhTFllYm9QTVYwQlAwSjFLamVfcDgtWHMwbUlrSkwtYw?oc=5",
+        "published": "Wed, 16 Sep 2026 16:21:20 GMT",
+        "tone": "neutral",
         "reliable": true
       },
       {
@@ -89,22 +105,6 @@
         "source": "World Gold Council",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS1JCZDJXbmYyNk5mSkU4QjdUNGFHZEl0MzBmcDVXNjNBeGhFUHlHRWo2d2pZSTVtbWZXeUlRLWQyOTA0eTRzQlJmdjFtNVMzYjZJaVlrWGhDbDNCcVNVbTVQR25xV3N3MjZNVXBKaFFRUExveHpYdVY3cWQyTGxLdnNhMEtzZkV4VVZoS2g1akVMcksxaU1pUHgwSVE3RVJSd0p0TFZZNmZoQ2M?oc=5",
         "published": "Mon, 14 Sep 2026 10:03:04 GMT",
-        "tone": "neutral",
-        "reliable": false
-      },
-      {
-        "title": "Current price of gold as of September 14, 2026 - Fortune",
-        "source": "Fortune",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5GSmZpQm4ya1AwVFJSZ243aGIxVWR6TkQ4TXZ6T2dOR2FnYkZsUmJUVm4wcC1aOG9mR19FMWFfLWZKQkh0Q1ZJOVpqX0tmb2NOSDkzaHlBQ2c1UHZBOWtOSk5xOXJ5UE9PLWpZQUhR?oc=5",
-        "published": "Mon, 14 Sep 2026 12:56:00 GMT",
-        "tone": "neutral",
-        "reliable": false
-      },
-      {
-        "title": "Glitter Bug Gold Buyers Launches Orange County Precious Metals Market Data Initiative - markets.businessinsider.com",
-        "source": "markets.businessinsider.com",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTjZzRi12MkdVU0trSmNtZ1Noa1Y3bjlXeWxBWF8zZkpfT1FIdGFMa1pTelFmTVU1NFZMUGRsTHlUVGtaVnBFaTlDNWFWMjZTSW1LOVJ0UmwzenJNdWxQbndiaHRNQnlJa0RTNVYwSFhTc1QwSFhvTnd4TDdVbzlSOGtwRDR2OHFMQmFULWcwT04zMGZwN2F5ZFdTUWd2ZVJ1WGxMdUFyV0UyY0JEQjJidV93ZlBjaTNXTFFKbEdHR3BHQ0JGTWZVSG1PWUdtN1BlUnY0VkxfX2hCR1dm?oc=5",
-        "published": "Tue, 15 Sep 2026 15:10:10 GMT",
         "tone": "neutral",
         "reliable": false
       }
