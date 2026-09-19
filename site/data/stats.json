@@ -41,7 +41,7 @@
   },
   "history_days": 239,
   "as_of_date": "2026-09-19",
-  "last_updated": "2026-09-19T13:59:38.991237+05:30",
+  "last_updated": "2026-09-19T21:30:49.460542+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -64,24 +64,24 @@
       "7-day gold trend up (+0.81%)",
       "USD/INR 95.88 (-0.06% today)",
       "Rupee weaker ₹ vs USD over 7D (+0.34%)",
-      "Global headlines lean bullish (1/5) · 2 from recognised sources"
+      "Global headlines lean bullish (1/5) · 1 from recognised sources"
     ],
     "news": [
       {
-        "title": "A hawkish Fed won't keep gold price down for long - FxPro's Kuptsikevich - KITCO",
-        "source": "KITCO",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWVBYRkhKOUcyeGthYlExdmpnb0xhQnM3RXBtNHNFbXN0dlJjRWlKdHowb1VEdFBqZnNBMUhObHF2NVlPVExac3dRS2pRRXJ6QXhzUUNQRjBxbW9Vc0g4dlUwWWtWM0o1bFNmbDdxbkxGdXFUS1BOZXhWS0NDN1JQSWdmS2c0TVQxUWtfV1lzZVJsakRGREppRzVMTldoelUxMkxLbHJmX1h3cUhz?oc=5",
-        "published": "Wed, 16 Sep 2026 18:42:00 GMT",
-        "tone": "neutral",
+        "title": "Wall Street goes full bull on gold price after post-hike gains, Main Street bolsters bullish majority as gold holds $4,300 - kitco.com",
+        "source": "kitco.com",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQXdQN0pGdlkwYWZGeF8wNlE0UEpjNi13R0NjQWJHdFdWUzNXMHkzOGl5WGNKNk1yaXBLV3NZVWpPU0Y5bW1hMF9lUXZIdHZXUy10V3ZDNVpDV3V0c1hYb181QkRpcFh1cWhPRXVZel9neDRLTXQ3YzdaTEFtVC14RjdmdjZiRFpkSE9jbXZqaXlYYjlDTDkyQzRQV19neXlpN3pZbklic0Y5LVdIQ2l0c0JfRmRFcUI5?oc=5",
+        "published": "Sat, 19 Sep 2026 01:48:00 GMT",
+        "tone": "bullish",
         "reliable": true
       },
       {
-        "title": "Gold rises to one-week high, heads for weekly gain on easing oil prices - CNBC",
-        "source": "CNBC",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWWs4MWFWRlNadUhOVWkyMFJsZkdXWk1tRmMwXy11MU5KVUt2MWZuMmVvRmpFTHYxZ01FZUszanRTZUJqNkFEcVAtdWhlblE1bDZIVlo4YjU0Vk1RUGJGaUtqWFFfR1FEOW1MMmF4MGE5eHJmRlN6MU5lUmRzOVN2TzBZeEtMbmRoQk4yeFFZSmNYd2vSAZgBQVVfeXFMUDlNV3FqOFFjZFA0dmphY3pxcXl6elJqQTRuMFV5QjFWTFVvR1llOFdKTTh2YVE2ZUJoTWota3ZQTUFqeGtESm1IWEtpZjREVUZsWm1sbjVyXzI5WFBJMDVoVEZnRzFacTRQcUx1SzdKOWdOam5uUGl4YkJMZEFUZFNLUHljX2gyN010OHRTWTl6M3k1cFAtdGw?oc=5",
-        "published": "Fri, 18 Sep 2026 02:31:00 GMT",
-        "tone": "bullish",
-        "reliable": true
+        "title": "Aura Minerals: Strong Gold Prices Lift The Outlook, But Execution Keeps The Shares At Hold - Seeking Alpha",
+        "source": "Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObVJXekduVGV4WXNPdEVMaWRCQmlSWHdsSzFzak13RTZLMUxMZXF2VVE0NGZXSDVDbURwSXJZYVJTV29ja1FPLUN1b3pKMHlhSDNNSi1CcFpFYUVVTzdwRjktMUlNeDBwSWh1Ty1wUm4wTE82RGNBdU02ejdnY2k0WEk0TEtiTUphMHRQWXhRQW9vYkh1TjEtbGRCQnh5a2N1YlRmd2FOdDd2Ynl3bUtLT0ZMTlh6STBIbGlMUndsQ282M3Q5Vkw1eA?oc=5",
+        "published": "Sat, 19 Sep 2026 13:09:15 GMT",
+        "tone": "neutral",
+        "reliable": false
       },
       {
         "title": "Best gold coins to buy in 2026: American Eagle, Maple Leaf and more - USA Today",
@@ -92,18 +92,18 @@
         "reliable": false
       },
       {
-        "title": "Bullion Report: Gold and Silver Roar Back as Fed Shock Fades and Hormuz Risk Builds - CoinWeek",
-        "source": "CoinWeek",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYWpySy1mUVYxS1ZvbGVhUVhiR0V6Y3ktd2JWTWhrbU1uWlRKRFJ6UmtMdlA4RzNRd3ROWnU3ekVlZ1hRZmRXeEY3R3B2RDdIME0zQUdmUFIwNG9mUG8wYUdhY2VoNWgyazFVRnVCVjloNkQxNl9IcFpjSThhMU1Ic1FSbEFhUWlxSGdVbnIxS3ZvZXFhUWw2TFp2NFg0Q3J5Vk5JM1pTOA?oc=5",
-        "published": "Fri, 18 Sep 2026 15:45:11 GMT",
+        "title": "Current price of gold as of September 18, 2026 - fortune.com",
+        "source": "fortune.com",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1OQ05IeDBvVWw1X2FIWXNIV01mcThFWWlOWS0xTGlUa2Y3Yk4xbG90dDVPQ0d6QTMtN2ZEd2RNNTlHY0RnNnlDWF9IV0VTTmlzRUpCV2dTRW9ILTMzZXJIa1duT2p6LTdLSmlhUENB?oc=5",
+        "published": "Fri, 18 Sep 2026 21:29:16 GMT",
         "tone": "neutral",
         "reliable": false
       },
       {
-        "title": "Current price of gold as of September 18, 2026 - Fortune",
-        "source": "Fortune",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1OQ05IeDBvVWw1X2FIWXNIV01mcThFWWlOWS0xTGlUa2Y3Yk4xbG90dDVPQ0d6QTMtN2ZEd2RNNTlHY0RnNnlDWF9IV0VTTmlzRUpCV2dTRW9ILTMzZXJIa1duT2p6LTdLSmlhUENB?oc=5",
-        "published": "Fri, 18 Sep 2026 13:00:00 GMT",
+        "title": "Either Gold or the Market 'Wrong' About Fed Rate Forecasts - BullionVault",
+        "source": "BullionVault",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONjRrSENXdFJRNDdFTzVjdUJkeWZLNnMydzBPX1RjM1VHSG83RXcwNHJDVVVOdW9sVnk0a0wxWVFBUkRkSkJBNlV0QXRfUDNZakRFVTUySGd5Znp5VmFqbjRtR1RnZWlwV3M3bGRDd3E4Nmh6WTNiV0lBcXNCUk80bkl2VEVNWVk5OGxaM0ZDX29mOTZXZDB3MA?oc=5",
+        "published": "Wed, 16 Sep 2026 14:22:29 GMT",
         "tone": "neutral",
         "reliable": false
       }
