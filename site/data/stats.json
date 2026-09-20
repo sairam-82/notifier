@@ -1,32 +1,32 @@
 {
   "today_price": 14285.0,
-  "yesterday_price": 14155.0,
-  "daily_change": 130.0,
-  "daily_change_percent": 0.92,
-  "daily_direction": "up",
+  "yesterday_price": 14285.0,
+  "daily_change": 0.0,
+  "daily_change_percent": 0.0,
+  "daily_direction": "flat",
   "position_30d": 31.96,
   "classification": "NORMAL_RANGE",
   "classification_label": "NORMAL RANGE",
   "period_7d": {
     "low": 14010.0,
     "high": 14285.0,
-    "average": 14121.43,
-    "change": 115.0,
-    "change_percent": 0.81,
+    "average": 14137.86,
+    "change": 160.0,
+    "change_percent": 1.13,
     "count": 7
   },
   "period_30d": {
     "low": 13935.0,
     "high": 15030.0,
-    "average": 14394.5,
-    "change": -525.0,
-    "change_percent": -3.54,
+    "average": 14377.0,
+    "change": -665.0,
+    "change_percent": -4.45,
     "count": 30
   },
   "period_90d": {
     "low": 12812.4,
     "high": 15030.0,
-    "average": 13779.75,
+    "average": 13793.16,
     "change": null,
     "change_percent": null,
     "count": 75
@@ -34,14 +34,14 @@
   "period_365d": {
     "low": 10055.4,
     "high": 16061.1,
-    "average": 13371.34,
+    "average": 13375.37,
     "change": null,
     "change_percent": null,
-    "count": 226
+    "count": 227
   },
-  "history_days": 239,
-  "as_of_date": "2026-09-19",
-  "last_updated": "2026-09-19T21:30:49.460542+05:30",
+  "history_days": 240,
+  "as_of_date": "2026-09-20",
+  "last_updated": "2026-09-20T14:31:17.370600+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -53,35 +53,27 @@
     "bias": "SLIGHTLY_UP",
     "bias_label": "Slightly upward bias",
     "confidence": "MEDIUM",
-    "score": 28.1,
-    "band_low": 14210.0,
-    "band_high": 14360.0,
+    "score": 21.3,
+    "band_low": 14215.0,
+    "band_high": 14355.0,
     "usd_inr_rate": 95.88,
     "usd_inr_as_of": "2026-09-18",
     "usd_inr_daily_pct": -0.063,
     "usd_inr_7d_pct": 0.335,
     "factors": [
-      "7-day gold trend up (+0.81%)",
+      "7-day gold trend up (+1.13%)",
       "USD/INR 95.88 (-0.06% today)",
       "Rupee weaker ₹ vs USD over 7D (+0.34%)",
-      "Global headlines lean bullish (1/5) · 1 from recognised sources"
+      "Global headlines lean bearish (1/5) · 1 from recognised sources"
     ],
     "news": [
       {
-        "title": "Wall Street goes full bull on gold price after post-hike gains, Main Street bolsters bullish majority as gold holds $4,300 - kitco.com",
-        "source": "kitco.com",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQXdQN0pGdlkwYWZGeF8wNlE0UEpjNi13R0NjQWJHdFdWUzNXMHkzOGl5WGNKNk1yaXBLV3NZVWpPU0Y5bW1hMF9lUXZIdHZXUy10V3ZDNVpDV3V0c1hYb181QkRpcFh1cWhPRXVZel9neDRLTXQ3YzdaTEFtVC14RjdmdjZiRFpkSE9jbXZqaXlYYjlDTDkyQzRQV19neXlpN3pZbklic0Y5LVdIQ2l0c0JfRmRFcUI5?oc=5",
-        "published": "Sat, 19 Sep 2026 01:48:00 GMT",
-        "tone": "bullish",
+        "title": "Gold price rebounds above $4,340 as lower oil eases rate pressure - Kitco PM Report - KITCO",
+        "source": "KITCO",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQl96RGszVjVpMWNORGdsUGk0S1o5S2d5S3pRdGNrcTdpZW01Zm1UODJMa1lOdXhOYmVZa0lyRkFQUWVQak0tOVItSWxpLUFuMEZkNGZiYTdCLVNPc2tmY0hVSWxRM3FDaU5kLTkweXlnMXZxSmNLZU1qMEY3ZGJtazA0LUI3dHMwNWwyM0ZDeTU2dHhwelBHRTlxNnNqcUxtSzB2ZnZON0RDQTYxZndSOHBJOXVyZw?oc=5",
+        "published": "Thu, 17 Sep 2026 21:04:34 GMT",
+        "tone": "bearish",
         "reliable": true
-      },
-      {
-        "title": "Aura Minerals: Strong Gold Prices Lift The Outlook, But Execution Keeps The Shares At Hold - Seeking Alpha",
-        "source": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObVJXekduVGV4WXNPdEVMaWRCQmlSWHdsSzFzak13RTZLMUxMZXF2VVE0NGZXSDVDbURwSXJZYVJTV29ja1FPLUN1b3pKMHlhSDNNSi1CcFpFYUVVTzdwRjktMUlNeDBwSWh1Ty1wUm4wTE82RGNBdU02ejdnY2k0WEk0TEtiTUphMHRQWXhRQW9vYkh1TjEtbGRCQnh5a2N1YlRmd2FOdDd2Ynl3bUtLT0ZMTlh6STBIbGlMUndsQ282M3Q5Vkw1eA?oc=5",
-        "published": "Sat, 19 Sep 2026 13:09:15 GMT",
-        "tone": "neutral",
-        "reliable": false
       },
       {
         "title": "Best gold coins to buy in 2026: American Eagle, Maple Leaf and more - USA Today",
@@ -95,7 +87,7 @@
         "title": "Current price of gold as of September 18, 2026 - fortune.com",
         "source": "fortune.com",
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1OQ05IeDBvVWw1X2FIWXNIV01mcThFWWlOWS0xTGlUa2Y3Yk4xbG90dDVPQ0d6QTMtN2ZEd2RNNTlHY0RnNnlDWF9IV0VTTmlzRUpCV2dTRW9ILTMzZXJIa1duT2p6LTdLSmlhUENB?oc=5",
-        "published": "Fri, 18 Sep 2026 21:29:16 GMT",
+        "published": "Fri, 18 Sep 2026 13:00:00 GMT",
         "tone": "neutral",
         "reliable": false
       },
@@ -104,6 +96,14 @@
         "source": "BullionVault",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONjRrSENXdFJRNDdFTzVjdUJkeWZLNnMydzBPX1RjM1VHSG83RXcwNHJDVVVOdW9sVnk0a0wxWVFBUkRkSkJBNlV0QXRfUDNZakRFVTUySGd5Znp5VmFqbjRtR1RnZWlwV3M3bGRDd3E4Nmh6WTNiV0lBcXNCUk80bkl2VEVNWVk5OGxaM0ZDX29mOTZXZDB3MA?oc=5",
         "published": "Wed, 16 Sep 2026 14:22:29 GMT",
+        "tone": "neutral",
+        "reliable": false
+      },
+      {
+        "title": "Gold Market Manipulation and the Paper System - LinkedIn",
+        "source": "LinkedIn",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOUFYSXpjMldOSWNHTktNaVZlY2RRYzBJZ0wzaVZMbXJ5RDhNLWpQSnpIUHlZNHI4T2JjNWkzRVd0OVpQTk5VQ3BrTkwwa2tKUnpaMkZPa1QzenF6NmZycnFnY3VBWTVLdkpFMGNwdjMtMGx1bm9zcVlodE8xZHkwc21XNDRyTTc5azZuYkZFMVE?oc=5",
+        "published": "Sat, 19 Sep 2026 10:30:11 GMT",
         "tone": "neutral",
         "reliable": false
       }
