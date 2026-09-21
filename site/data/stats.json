@@ -1,32 +1,32 @@
 {
-  "today_price": 14285.0,
+  "today_price": 14270.0,
   "yesterday_price": 14285.0,
-  "daily_change": 0.0,
-  "daily_change_percent": 0.0,
-  "daily_direction": "flat",
-  "position_30d": 31.96,
+  "daily_change": -15.0,
+  "daily_change_percent": -0.11,
+  "daily_direction": "down",
+  "position_30d": 30.59,
   "classification": "NORMAL_RANGE",
   "classification_label": "NORMAL RANGE",
   "period_7d": {
     "low": 14010.0,
     "high": 14285.0,
-    "average": 14137.86,
-    "change": 160.0,
-    "change_percent": 1.13,
+    "average": 14158.57,
+    "change": 230.0,
+    "change_percent": 1.64,
     "count": 7
   },
   "period_30d": {
     "low": 13935.0,
     "high": 15030.0,
-    "average": 14377.0,
-    "change": -665.0,
-    "change_percent": -4.45,
+    "average": 14354.33,
+    "change": -680.0,
+    "change_percent": -4.55,
     "count": 30
   },
   "period_90d": {
     "low": 12812.4,
     "high": 15030.0,
-    "average": 13793.16,
+    "average": 13803.51,
     "change": null,
     "change_percent": null,
     "count": 75
@@ -34,14 +34,14 @@
   "period_365d": {
     "low": 10055.4,
     "high": 16061.1,
-    "average": 13375.37,
+    "average": 13379.29,
     "change": null,
     "change_percent": null,
-    "count": 227
+    "count": 228
   },
-  "history_days": 240,
-  "as_of_date": "2026-09-20",
-  "last_updated": "2026-09-20T21:55:06.117125+05:30",
+  "history_days": 241,
+  "as_of_date": "2026-09-21",
+  "last_updated": "2026-09-21T15:03:46.871379+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -53,33 +53,33 @@
     "bias": "SLIGHTLY_UP",
     "bias_label": "Slightly upward bias",
     "confidence": "MEDIUM",
-    "score": 21.3,
-    "band_low": 14215.0,
-    "band_high": 14355.0,
+    "score": 36.4,
+    "band_low": 14207.0,
+    "band_high": 14333.0,
     "usd_inr_rate": 95.88,
     "usd_inr_as_of": "2026-09-18",
     "usd_inr_daily_pct": -0.063,
     "usd_inr_7d_pct": 0.335,
     "factors": [
-      "7-day gold trend up (+1.13%)",
+      "7-day gold trend up (+1.64%)",
       "USD/INR 95.88 (-0.06% today)",
       "Rupee weaker ₹ vs USD over 7D (+0.34%)",
-      "Global headlines lean bearish (1/5) · 1 from recognised sources"
+      "Global headlines lean bullish (1/5) · 1 from recognised sources"
     ],
     "news": [
       {
-        "title": "Gold price rebounds above $4,340 as lower oil eases rate pressure - Kitco PM Report - KITCO",
+        "title": "Gold price trades at $4,340/oz after retail sales rise 1.2% in August - KITCO",
         "source": "KITCO",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQl96RGszVjVpMWNORGdsUGk0S1o5S2d5S3pRdGNrcTdpZW01Zm1UODJMa1lOdXhOYmVZa0lyRkFQUWVQak0tOVItSWxpLUFuMEZkNGZiYTdCLVNPc2tmY0hVSWxRM3FDaU5kLTkweXlnMXZxSmNLZU1qMEY3ZGJtazA0LUI3dHMwNWwyM0ZDeTU2dHhwelBHRTlxNnNqcUxtSzB2ZnZON0RDQTYxZndSOHBJOXVyZw?oc=5",
-        "published": "Thu, 17 Sep 2026 21:04:34 GMT",
-        "tone": "bearish",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNV0t4Sk1JZ0Zlbm5hVlN5T2RubzZaeEtaaXRtNUxqSHRubmFxSUhJVk1oU1ZyaHBVZnVPY3ZLczNNRzFhN3ItY1VhRTFfODZZTmU0WE45OHBFRUJValcwT2lzTi1zVnM1cXRpYWJpaU1qZFpoVnI2RDJ5SkpDeTNUQnRZU3FpREhTb2Q1dHFyeWFHU2lBRnhsdS1XRXQ4d3daSmswcnJxVQ?oc=5",
+        "published": "Wed, 16 Sep 2026 18:24:00 GMT",
+        "tone": "bullish",
         "reliable": true
       },
       {
-        "title": "Best gold coins to buy in 2026: American Eagle, Maple Leaf and more - USA Today",
-        "source": "USA Today",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTWpybW1xUTVrWXlyY25BVWhfOFBGcHp2Rm9Jbi0wR19PMUF5c3phVUV3aUdpTWIyaGZyYXVFRVpCblhsTUxaajdneTVBZlFkdWQyU1RQd0tQRG14TEpvTEZ1MVdlVlRlTl9YMXFlcUpDNjMwX190SFdFa2x2RXhtb3ZyMEU2RTQ0eGtDcEk4UWNDdEI0azJHdjI0cks?oc=5",
-        "published": "Sat, 19 Sep 2026 04:41:32 GMT",
+        "title": "China gold market update: Official buying accelerated in August | Post by Ray Jia | Insights - World Gold Council",
+        "source": "World Gold Council",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS1JCZDJXbmYyNk5mSkU4QjdUNGFHZEl0MzBmcDVXNjNBeGhFUHlHRWo2d2pZSTVtbWZXeUlRLWQyOTA0eTRzQlJmdjFtNVMzYjZJaVlrWGhDbDNCcVNVbTVQR25xV3N3MjZNVXBKaFFRUExveHpYdVY3cWQyTGxLdnNhMEtzZkV4VVZoS2g1akVMcksxaU1pUHgwSVE3RVJSd0p0TFZZNmZoQ2M?oc=5",
+        "published": "Mon, 14 Sep 2026 10:03:04 GMT",
         "tone": "neutral",
         "reliable": false
       },
@@ -92,10 +92,10 @@
         "reliable": false
       },
       {
-        "title": "Either Gold or the Market 'Wrong' About Fed Rate Forecasts - BullionVault",
-        "source": "BullionVault",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONjRrSENXdFJRNDdFTzVjdUJkeWZLNnMydzBPX1RjM1VHSG83RXcwNHJDVVVOdW9sVnk0a0wxWVFBUkRkSkJBNlV0QXRfUDNZakRFVTUySGd5Znp5VmFqbjRtR1RnZWlwV3M3bGRDd3E4Nmh6WTNiV0lBcXNCUk80bkl2VEVNWVk5OGxaM0ZDX29mOTZXZDB3MA?oc=5",
-        "published": "Wed, 16 Sep 2026 14:22:29 GMT",
+        "title": "DOREX WEEKLY GOLD MARKET UPDATE – w/e 18.09.26 – Get The Word Out - Press Release Distribution Australia",
+        "source": "Press Release Distribution Australia",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVVhUTWR6NGRubEttTHRURFk5cXhKUV9rY2hXYjJMaERUOEFlNmpaZG1xM0ZSb1ppYVNURHV0WmdfUjdOQzQwVjZGSWctc29xdU1zUlp6OXFpYVNicGxOQ181TWRma205TVVoY0Voc1RvcFFFN1diWEtpSnNnVkxOV0NNRTFlQXdyTnBjc1B5Q3kzUnlNc0JXNDJORnM1d2NhMms5VA?oc=5",
+        "published": "Mon, 21 Sep 2026 03:05:41 GMT",
         "tone": "neutral",
         "reliable": false
       },
