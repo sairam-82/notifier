@@ -1,47 +1,47 @@
 {
-  "today_price": 14170.0,
-  "yesterday_price": 14285.0,
-  "daily_change": -115.0,
-  "daily_change_percent": -0.81,
-  "daily_direction": "down",
-  "position_30d": 21.46,
+  "today_price": 14185.0,
+  "yesterday_price": 14170.0,
+  "daily_change": 15.0,
+  "daily_change_percent": 0.11,
+  "daily_direction": "up",
+  "position_30d": 22.83,
   "classification": "LOW_RANGE",
   "classification_label": "LOW RANGE",
   "period_7d": {
     "low": 14010.0,
     "high": 14285.0,
-    "average": 14144.29,
-    "change": 130.0,
-    "change_percent": 0.93,
+    "average": 14165.0,
+    "change": 120.0,
+    "change_percent": 0.85,
     "count": 7
   },
   "period_30d": {
     "low": 13935.0,
     "high": 15030.0,
-    "average": 14351.0,
-    "change": -780.0,
-    "change_percent": -5.22,
+    "average": 14325.5,
+    "change": -845.0,
+    "change_percent": -5.62,
     "count": 30
   },
   "period_90d": {
     "low": 12812.4,
     "high": 15030.0,
-    "average": 13802.18,
+    "average": 13814.23,
     "change": null,
     "change_percent": null,
     "count": 75
   },
   "period_365d": {
-    "low": 10055.4,
+    "low": 10273.4,
     "high": 16061.1,
-    "average": 13378.85,
+    "average": 13396.97,
     "change": null,
     "change_percent": null,
     "count": 228
   },
-  "history_days": 241,
-  "as_of_date": "2026-09-21",
-  "last_updated": "2026-09-21T23:47:27.519473+05:30",
+  "history_days": 242,
+  "as_of_date": "2026-09-22",
+  "last_updated": "2026-09-22T14:29:14.065174+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -50,38 +50,38 @@
   "currency": "INR",
   "unit": "gram",
   "outlook": {
-    "bias": "SLIGHTLY_UP",
-    "bias_label": "Slightly upward bias",
+    "bias": "NEUTRAL",
+    "bias_label": "Neutral / sideways",
     "confidence": "MEDIUM",
-    "score": 20.6,
-    "band_low": 14099.0,
-    "band_high": 14241.0,
+    "score": 9.8,
+    "band_low": 14120.0,
+    "band_high": 14250.0,
     "usd_inr_rate": 95.82,
     "usd_inr_as_of": "2026-09-21",
     "usd_inr_daily_pct": -0.063,
     "usd_inr_7d_pct": 0.272,
     "factors": [
-      "7-day gold trend up (+0.93%)",
+      "7-day gold trend up (+0.85%)",
       "USD/INR 95.82 (-0.06% today)",
       "Rupee weaker ₹ vs USD over 7D (+0.27%)",
-      "Global headlines mixed/neutral · 1 from recognised sources"
+      "Global headlines lean bearish (2/5) · 2 from recognised sources"
     ],
     "news": [
       {
         "title": "Gold falls on rising odds of Fed rate hike, stronger dollar - Reuters",
         "source": "Reuters",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQUtKdjloRHZCamhPWmFUa00yUkQwRWZJNFVpbUFiRl9KQmNWbmViLTJQN1hvUmphTzVuMm9ubU5VaXNoQ2NPdVgzM3JPd0t6Qk5XOHQ4ZG96bDRkMlhEMG1kN09OaElGdGxsOEpYdzA2eE53aXBsZm1ZaWhXR1JJY0FSN2NPdzFaX2d6UjY4VU5aWTJOcDNRZC1kTURhRWFPUVNoeU9NTEVUcFRuQmc?oc=5",
-        "published": "Mon, 21 Sep 2026 16:11:25 GMT",
+        "published": "Mon, 21 Sep 2026 18:45:41 GMT",
         "tone": "bearish",
         "reliable": true
       },
       {
-        "title": "China gold market update: Official buying accelerated in August | Post by Ray Jia | Insights - World Gold Council",
-        "source": "World Gold Council",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS1JCZDJXbmYyNk5mSkU4QjdUNGFHZEl0MzBmcDVXNjNBeGhFUHlHRWo2d2pZSTVtbWZXeUlRLWQyOTA0eTRzQlJmdjFtNVMzYjZJaVlrWGhDbDNCcVNVbTVQR25xV3N3MjZNVXBKaFFRUExveHpYdVY3cWQyTGxLdnNhMEtzZkV4VVZoS2g1akVMcksxaU1pUHgwSVE3RVJSd0p0TFZZNmZoQ2M?oc=5",
-        "published": "Mon, 14 Sep 2026 10:03:04 GMT",
-        "tone": "neutral",
-        "reliable": false
+        "title": "Gold price today: Why gold fell to $4,350 as stronger dollar and 88% Fed rate hike odds weigh on bullion - The Economic Times",
+        "source": "The Economic Times",
+        "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQS2wzZkJ1cjBqODV0VkpXd0RoMm81UXM5LXAyMVd6Nnd2QXdWNlJ0UElSYjlFd0NkU2M3ZE5QaWg2VDZTQUdGN21yQ0FEdjBNb1BweUFZQzd4bEF3MWhaZnNiXzhzM1I4WVMzTThDNl9hSHJPMmdrMkhic2c5VVhlc2hackFlc09PNGl6aDR3MG9oZ1lzZ1dPOVVQNzFPWFM0S1E3QjNOWXV2aDg3TWxGRUY5WUZLZmNzT1paOFh3NVREeDBLVERTbUQ1cHJQRHk3MnE5Y0NmNE5wZjRtRGpIRW1RTEJmeTdVQWFCNjU3Mk1wU0NmSzFLSzVyc0t4MkVuQTRpS3FqWUpiTDh0SE5CQjRCU1lDRnZP0gGeAkFVX3lxTE50S2pWYUpaUnFEQTY2dEhpMTdUVjZORWY4dGVlcnVjbjV2VHNNbmlGNU1NM0xmYjIwdnd0VVY0X0lpMUFySTc1VXdrdy1BbVRoMFVvOHc5T2hmTXFGQzJiODgtQUp1OEw2R2dWdDVkcTJaNm1YdC1GYml0VWpIN2o2dXdJdGRyUVRnekhSRER2bktFVnJRRlQtX0JydEJyaFB5aDRZVUJxeUhVaEZsbTFsVXhuODlEZEZMTDJTLXNNQWs2M2lwSXlncFBRbndjN1ZJemVCZXhMT1hvRUZxVUhNbDB4X0FRNkt5YzBhX05SZTVxNG9uTko0Nm11OFp3VVdFQzFVWW9HVjd0RzdWNDdxdWpfOWZ1SjR6U2dZWFE?oc=5",
+        "published": "Mon, 21 Sep 2026 18:46:01 GMT",
+        "tone": "bearish",
+        "reliable": true
       },
       {
         "title": "Current price of gold as of September 21, 2026 - Fortune",
@@ -92,19 +92,19 @@
         "reliable": false
       },
       {
-        "title": "Entire California ‘town’ goes on sale for $4.75M — and it’s sitting on an actual gold mine - New York Post",
-        "source": "New York Post",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaE5oSUx1Yy1LUVNwVzZxMGVHdVRvS3k4ZGZkTHN5cnZrdlBNeTRGQl9acWVuWm5YNlB0UDdOZmEwWkxvS0ptdFVneWNRRDhwTFRrRVhJcGxzakpObGZ0aHpERmhZZWNEcEU1UGxiSV9YMmp6NXdob0FkQlNpMm5ubXB4ZjEwalhyM3ZWZXRIT1NuM1V4QTVycHFRTUlsWTlscmVJakZpaWl4Nkk?oc=5",
-        "published": "Mon, 21 Sep 2026 16:37:00 GMT",
+        "title": "Either Gold or the Market 'Wrong' About Fed Rate Forecasts - BullionVault",
+        "source": "BullionVault",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONjRrSENXdFJRNDdFTzVjdUJkeWZLNnMydzBPX1RjM1VHSG83RXcwNHJDVVVOdW9sVnk0a0wxWVFBUkRkSkJBNlV0QXRfUDNZakRFVTUySGd5Znp5VmFqbjRtR1RnZWlwV3M3bGRDd3E4Nmh6WTNiV0lBcXNCUk80bkl2VEVNWVk5OGxaM0ZDX29mOTZXZDB3MA?oc=5",
+        "published": "Wed, 16 Sep 2026 14:22:29 GMT",
         "tone": "neutral",
         "reliable": false
       },
       {
-        "title": "Gold Price Forecast: Global Debt Risks Raise Questions About the Next Gold Rally - Mitrade",
-        "source": "Mitrade",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdDBOLUVid1F3RmxxRUJaOEE1SEU2dUtyaE9VdUtNd1hTQWpjaVhqcUJXcFR4eGZFbHMyUTExZG9pM1hKdklDd0ZYZ0l3QUhUQmhPN2Fid3AxVFJRSG1xSEdaLVpzZlBVd0hUTzhtNzJ0U2otRllYY3IzRTQ4WkFDYXFuYlJEV09VeHJnQUg1SlU?oc=5",
-        "published": "Mon, 21 Sep 2026 06:50:54 GMT",
-        "tone": "bullish",
+        "title": "Gold Price Pushes Toward $4,370 as XAUUSD Faces Key Liquidity Test - Brave New Coin",
+        "source": "Brave New Coin",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdlpwVjgzdjhUajUxZ0lyNUU0SEJlM2NTQXJUa2ZJalk1QWlXbjlZVEszbV9oSkx2MVNuc1k0anNLLVZ5WjNCakwySm91SVdmcEx0OW5pLW9DbEpXS0czLTkySEJzVS04X3kwYXVCUnJEUXhsYUV1eHktRXNHV2ZPOWpQdWkweG5KZ3VEWk5DMlV3elB2U0ZxT19EdkttMzQ?oc=5",
+        "published": "Mon, 21 Sep 2026 20:22:32 GMT",
+        "tone": "neutral",
         "reliable": false
       }
     ],
