@@ -1,32 +1,32 @@
 {
-  "today_price": 14185.0,
+  "today_price": 14055.0,
   "yesterday_price": 14170.0,
-  "daily_change": 15.0,
-  "daily_change_percent": 0.11,
-  "daily_direction": "up",
-  "position_30d": 22.83,
+  "daily_change": -115.0,
+  "daily_change_percent": -0.81,
+  "daily_direction": "down",
+  "position_30d": 10.96,
   "classification": "LOW_RANGE",
   "classification_label": "LOW RANGE",
   "period_7d": {
     "low": 14010.0,
     "high": 14285.0,
-    "average": 14165.0,
-    "change": 120.0,
-    "change_percent": 0.85,
+    "average": 14146.43,
+    "change": -10.0,
+    "change_percent": -0.07,
     "count": 7
   },
   "period_30d": {
     "low": 13935.0,
     "high": 15030.0,
-    "average": 14325.5,
-    "change": -845.0,
-    "change_percent": -5.62,
+    "average": 14321.17,
+    "change": -975.0,
+    "change_percent": -6.49,
     "count": 30
   },
   "period_90d": {
     "low": 12812.4,
     "high": 15030.0,
-    "average": 13814.23,
+    "average": 13812.49,
     "change": null,
     "change_percent": null,
     "count": 75
@@ -34,14 +34,14 @@
   "period_365d": {
     "low": 10273.4,
     "high": 16061.1,
-    "average": 13396.97,
+    "average": 13396.4,
     "change": null,
     "change_percent": null,
     "count": 228
   },
   "history_days": 242,
   "as_of_date": "2026-09-22",
-  "last_updated": "2026-09-22T14:29:14.065174+05:30",
+  "last_updated": "2026-09-22T22:41:23.336638+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -50,21 +50,22 @@
   "currency": "INR",
   "unit": "gram",
   "outlook": {
-    "bias": "NEUTRAL",
-    "bias_label": "Neutral / sideways",
+    "bias": "SLIGHTLY_DOWN",
+    "bias_label": "Slightly downward bias",
     "confidence": "MEDIUM",
-    "score": 9.8,
-    "band_low": 14120.0,
-    "band_high": 14250.0,
-    "usd_inr_rate": 95.82,
-    "usd_inr_as_of": "2026-09-21",
-    "usd_inr_daily_pct": -0.063,
-    "usd_inr_7d_pct": 0.272,
+    "score": -28.7,
+    "band_low": 13983.0,
+    "band_high": 14127.0,
+    "usd_inr_rate": 95.59,
+    "usd_inr_as_of": "2026-09-22",
+    "usd_inr_daily_pct": -0.24,
+    "usd_inr_7d_pct": -0.386,
     "factors": [
-      "7-day gold trend up (+0.85%)",
-      "USD/INR 95.82 (-0.06% today)",
-      "Rupee weaker ₹ vs USD over 7D (+0.27%)",
-      "Global headlines lean bearish (2/5) · 2 from recognised sources"
+      "7-day gold trend flat (-0.07%)",
+      "Near 30D low (11%) — possible stabilisation/bounce",
+      "USD/INR 95.59 (-0.24% today)",
+      "Rupee stronger ₹ vs USD over 7D (-0.39%)",
+      "Global headlines lean bearish (1/5) · 2 from recognised sources"
     ],
     "news": [
       {
@@ -76,11 +77,11 @@
         "reliable": true
       },
       {
-        "title": "Gold price today: Why gold fell to $4,350 as stronger dollar and 88% Fed rate hike odds weigh on bullion - The Economic Times",
-        "source": "The Economic Times",
-        "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQS2wzZkJ1cjBqODV0VkpXd0RoMm81UXM5LXAyMVd6Nnd2QXdWNlJ0UElSYjlFd0NkU2M3ZE5QaWg2VDZTQUdGN21yQ0FEdjBNb1BweUFZQzd4bEF3MWhaZnNiXzhzM1I4WVMzTThDNl9hSHJPMmdrMkhic2c5VVhlc2hackFlc09PNGl6aDR3MG9oZ1lzZ1dPOVVQNzFPWFM0S1E3QjNOWXV2aDg3TWxGRUY5WUZLZmNzT1paOFh3NVREeDBLVERTbUQ1cHJQRHk3MnE5Y0NmNE5wZjRtRGpIRW1RTEJmeTdVQWFCNjU3Mk1wU0NmSzFLSzVyc0t4MkVuQTRpS3FqWUpiTDh0SE5CQjRCU1lDRnZP0gGeAkFVX3lxTE50S2pWYUpaUnFEQTY2dEhpMTdUVjZORWY4dGVlcnVjbjV2VHNNbmlGNU1NM0xmYjIwdnd0VVY0X0lpMUFySTc1VXdrdy1BbVRoMFVvOHc5T2hmTXFGQzJiODgtQUp1OEw2R2dWdDVkcTJaNm1YdC1GYml0VWpIN2o2dXdJdGRyUVRnekhSRER2bktFVnJRRlQtX0JydEJyaFB5aDRZVUJxeUhVaEZsbTFsVXhuODlEZEZMTDJTLXNNQWs2M2lwSXlncFBRbndjN1ZJemVCZXhMT1hvRUZxVUhNbDB4X0FRNkt5YzBhX05SZTVxNG9uTko0Nm11OFp3VVdFQzFVWW9HVjd0RzdWNDdxdWpfOWZ1SjR6U2dZWFE?oc=5",
-        "published": "Mon, 21 Sep 2026 18:46:01 GMT",
-        "tone": "bearish",
+        "title": "Gold price holds above $4,330 as Hormuz diplomacy pressures oil - Kitco AM Report - Kitco",
+        "source": "Kitco",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOXzFMakowYlZJQ1ZPWDloUUI1d1IyM0tHM3JMME1iV0pwdF9SaTNsMjJpTHhmQm11NmVyY3hYR2xudkltNXdsTlJFd1E1RVIxbElmUi1rdTNSci1ocXBBNlVNUlhLVGdOZXA1SXlSVHhlRGhCQkhYSzlYa1BvNEJtQXhoY0FMUHUyZmlvMzdCNHZFb25iTHZDVE13Q09Kd0hLZTVvRThXTWpZSF9ZUzIxajdfVURMQjBZRkszTg?oc=5",
+        "published": "Tue, 22 Sep 2026 10:00:00 GMT",
+        "tone": "neutral",
         "reliable": true
       },
       {
@@ -92,10 +93,10 @@
         "reliable": false
       },
       {
-        "title": "Either Gold or the Market 'Wrong' About Fed Rate Forecasts - BullionVault",
-        "source": "BullionVault",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONjRrSENXdFJRNDdFTzVjdUJkeWZLNnMydzBPX1RjM1VHSG83RXcwNHJDVVVOdW9sVnk0a0wxWVFBUkRkSkJBNlV0QXRfUDNZakRFVTUySGd5Znp5VmFqbjRtR1RnZWlwV3M3bGRDd3E4Nmh6WTNiV0lBcXNCUk80bkl2VEVNWVk5OGxaM0ZDX29mOTZXZDB3MA?oc=5",
-        "published": "Wed, 16 Sep 2026 14:22:29 GMT",
+        "title": "Gold Price Forecast: $4,300–$4,500 Range Keeps Bulls Waiting - FXEmpire",
+        "source": "FXEmpire",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOWRpNVJrbER6bnNEaXZCV0l4NGt3cG5xU2lpeWRCZXB3UTBfS1BSZkZpNjNwVVV3TEl5UlM1NE00VXF3WFBaZ1lyUVZHdnd4U0FrbUtlcHdCSno1VXpzVlF5TFQ4akMxNzc2dlVOejBHZVVNaWNUMFY0Z2ZPaEFodFp1X3Y0LVZFUzB2eDY0d0FENGRCckN5dWxXajBCbkdPamkxcU9OdjlmQQ?oc=5",
+        "published": "Tue, 22 Sep 2026 14:14:03 GMT",
         "tone": "neutral",
         "reliable": false
       },
