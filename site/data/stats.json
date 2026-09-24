@@ -41,7 +41,7 @@
   },
   "history_days": 244,
   "as_of_date": "2026-09-24",
-  "last_updated": "2026-09-24T14:28:20.932583+05:30",
+  "last_updated": "2026-09-24T22:58:55.602953+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -53,24 +53,23 @@
     "bias": "NEUTRAL",
     "bias_label": "Neutral / sideways",
     "confidence": "MEDIUM",
-    "score": -15.5,
+    "score": 17.0,
     "band_low": 13922.0,
     "band_high": 14068.0,
-    "usd_inr_rate": 95.74,
-    "usd_inr_as_of": "2026-09-23",
-    "usd_inr_daily_pct": 0.157,
-    "usd_inr_7d_pct": -0.229,
+    "usd_inr_rate": 95.96,
+    "usd_inr_as_of": "2026-09-24",
+    "usd_inr_daily_pct": 0.23,
+    "usd_inr_7d_pct": 0.021,
     "factors": [
       "7-day gold trend down (-1.13%)",
       "Near 30D low (6%) — possible stabilisation/bounce",
-      "USD/INR 95.74 (+0.16% today)",
-      "Rupee stronger ₹ vs USD over 7D (-0.23%)",
-      "Global headlines lean bearish (3/5) · 3 from recognised sources"
+      "USD/INR 95.96 (+0.23% today)",
+      "Global headlines mixed/neutral · 2 from recognised sources"
     ],
     "news": [
       {
-        "title": "Gold loses shine as rate hike bets foster a stronger dollar - Reuters",
-        "source": "Reuters",
+        "title": "Gold loses shine as rate hike bets foster a stronger dollar - reuters.com",
+        "source": "reuters.com",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVGROaTNUbzBNRWdvU1J1SVRKaURrN0FDVHMteG50VExEUUhKN3UyQ0pMZ3F0ZUtXRHoyc2c2aDgzRkFrTFhHR01OdVROSVBWVnRLWmhqSjNDdW5FVjdHeEptYW5fUFg1VFVnX0xXZURtemZqOVNqNmRqc19yVjdYX3BwM1I1T0M4VUIwdDNqdmxFcnlXX2pKS3VCNllNbEJTQkZxZTJkd1NpNDZwOGpBSw?oc=5",
         "published": "Wed, 23 Sep 2026 17:53:49 GMT",
         "tone": "bearish",
@@ -80,32 +79,32 @@
         "title": "Gold price will hit $4,900/oz in 2026 on strong sovereign demand as China buys 75% more than reported in July – Goldman Sachs - Kitco",
         "source": "Kitco",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdmIweWNUQkhQS0N4SVhSTjEzWjBlUU9IX2Vxa2c4cGVvM1RQN3BqRkVRWFBYSHAzdFNqcmdYSFhVWUViVWV5Wmp6cHhERHVOSHNnbTcxYnlaaFZ1Y3lsOWpWRDdxbUR4ZDNlRVlQWEZERkhuLWZaT0VxRkhEamE3QmRGMDNvX3Z1VlVPNnczTFBWbEhlbEZqMkZJYTRsM2FKSXpkWUJIbkVUcGtwaXdwRUUxbDBHTFJ1ZmpjZQ?oc=5",
-        "published": "Wed, 23 Sep 2026 21:13:00 GMT",
+        "published": "Thu, 24 Sep 2026 07:39:52 GMT",
         "tone": "neutral",
         "reliable": true
       },
       {
-        "title": "Gold prices edge lower as higher oil, yields keep pressure on bullion - Investing.com",
-        "source": "Investing.com",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc0x3YjNGZHpYYWJhcHNtOWJ1Vm55SnoycUhDTG9NNVpkaFhzZzVtbl9UTlc5Qjk0ekxhWTAyM18zNi1YcjNIaFU1dWtFR3NGWnA1VHgybG9EM3l4NXhtUjU1aEttVV9lYlhtWGdoYXozZk5UQWVnTjlmMTFZMlNBRjVBb1AxbTVhMFBfdFJhVUpRaHU5X1RSS1RyOFpGeHBRQVFXSWJaSnlUaFZsVVdlM3Z2TGFsbDNjQXROdFlZWXM1UQ?oc=5",
-        "published": "Thu, 24 Sep 2026 06:31:56 GMT",
-        "tone": "bearish",
-        "reliable": true
-      },
-      {
-        "title": "Current price of gold as of September 23, 2026 - Fortune",
-        "source": "Fortune",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1wX2J0UnIxQXVaUnJvb2dST1F0NnJVUTFySlNycDlJejlkX0c5V0RIM1dYSV9NOXp0VVNnenpEQk9ld0JBRlpZZUtoUXEwbGNqZXhlQ003TGg3RmxWaV9uUmxZRnFpTUZrN3B0Nm1R?oc=5",
-        "published": "Wed, 23 Sep 2026 14:29:00 GMT",
+        "title": "Can the gold price recover? - Yahoo Finance",
+        "source": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPajBnUHFjRDktY05kYWFLYUpNNG1YVHZtZjdoeWM0RnVtekNPbTNZOVduaEdBRGxHZmJrSWRMY1hpQ096ckU0ZVFLTVpBV0xZOW9zNGNURDE3elAzcTdhcWVwR1ZyZWNvN2o3b1c1VXZ4b3VEYVRVN2tWQ1BmTDZhS0FPQ2FnNFBVYXhvQnN5QVhKTUxGb0E?oc=5",
+        "published": "Thu, 24 Sep 2026 09:53:45 GMT",
         "tone": "neutral",
         "reliable": false
       },
       {
-        "title": "Gold Drops Below $4,300; TD Securities and BMO Still See Return to $5,000 by 2027 - finance.biggo.com",
-        "source": "finance.biggo.com",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5NYjU3TG1Gd256YkhTVERyU2E0MDNrN1BxNmNqUVB6X1E1NFVKRGdvWlI3bUZDbzZLdWhHUzRyajRad051TXgwLUFjY01wR1haLWZoUHVubmVEQXY2ZURMWS13Q201Wm50N1VWVFAzd1h2TjhIcVE?oc=5",
-        "published": "Thu, 24 Sep 2026 02:55:00 GMT",
-        "tone": "bearish",
+        "title": "Current price of gold as of September 24, 2026 - Fortune",
+        "source": "Fortune",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LWUduNFI1RUNCcTRZODBMS2hOZ3NrTHdzNU9Id2w5TldfYWZRanZ1Y0Jvbk1fRGI2Uk4wVnFwQmtHdmdLMFBlZHJuSlJKM2x1cDdwYS1ZRXdnU3dnOFF4VDlEd21JdVNxOXRoeFpR?oc=5",
+        "published": "Thu, 24 Sep 2026 13:18:00 GMT",
+        "tone": "neutral",
+        "reliable": false
+      },
+      {
+        "title": "Gold Price Forecast: $4,300 Support at Risk as Rates Rise - FXEmpire",
+        "source": "FXEmpire",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTFBTaWJkS3FpQW5aa2ZJSjF1WmttU3M3TDhKWS1WbUpKOVpnOTVBNXRoeHZjOUxKcXpQMGtsVzZXRmVVYkpvemxxOWIzLW9vV2kwb2swZkgzby1BQkZHcnhEQmM4ajJIeklxQlJQY2haVHNWWlU5YXhpLWVPem13eDMteEVJai02bHE0M0RUM2FIa3ViZjA0eGQ4Y1NVSERxR01BNVVQSTM?oc=5",
+        "published": "Thu, 24 Sep 2026 14:00:43 GMT",
+        "tone": "bullish",
         "reliable": false
       }
     ],
