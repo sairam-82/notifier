@@ -1,47 +1,47 @@
 {
-  "today_price": 14135.0,
-  "yesterday_price": 14055.0,
-  "daily_change": 80.0,
-  "daily_change_percent": 0.57,
-  "daily_direction": "up",
-  "position_30d": 18.6,
-  "classification": "LOW_RANGE",
-  "classification_label": "LOW RANGE",
+  "today_price": 13995.0,
+  "yesterday_price": 14135.0,
+  "daily_change": -140.0,
+  "daily_change_percent": -0.99,
+  "daily_direction": "down",
+  "position_30d": 5.58,
+  "classification": "NEAR_30D_LOW",
+  "classification_label": "NEAR 30D LOW",
   "period_7d": {
-    "low": 14010.0,
+    "low": 13995.0,
     "high": 14285.0,
-    "average": 14156.43,
-    "change": 125.0,
-    "change_percent": 0.89,
+    "average": 14154.29,
+    "change": -160.0,
+    "change_percent": -1.13,
     "count": 7
   },
   "period_30d": {
     "low": 13935.0,
     "high": 15010.0,
-    "average": 14291.33,
-    "change": -875.0,
-    "change_percent": -5.83,
+    "average": 14257.5,
+    "change": -1015.0,
+    "change_percent": -6.76,
     "count": 30
   },
   "period_90d": {
     "low": 12812.4,
     "high": 15030.0,
-    "average": 13827.31,
+    "average": 13829.52,
     "change": null,
     "change_percent": null,
-    "count": 75
+    "count": 76
   },
   "period_365d": {
     "low": 10374.8,
     "high": 16061.1,
-    "average": 13413.33,
+    "average": 13428.79,
     "change": null,
     "change_percent": null,
     "count": 228
   },
-  "history_days": 243,
-  "as_of_date": "2026-09-23",
-  "last_updated": "2026-09-23T22:54:08.681937+05:30",
+  "history_days": 244,
+  "as_of_date": "2026-09-24",
+  "last_updated": "2026-09-24T14:28:20.932583+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -53,33 +53,26 @@
     "bias": "NEUTRAL",
     "bias_label": "Neutral / sideways",
     "confidence": "MEDIUM",
-    "score": 2.7,
-    "band_low": 14065.0,
-    "band_high": 14205.0,
+    "score": -15.5,
+    "band_low": 13922.0,
+    "band_high": 14068.0,
     "usd_inr_rate": 95.74,
     "usd_inr_as_of": "2026-09-23",
     "usd_inr_daily_pct": 0.157,
     "usd_inr_7d_pct": -0.229,
     "factors": [
-      "7-day gold trend up (+0.89%)",
+      "7-day gold trend down (-1.13%)",
+      "Near 30D low (6%) — possible stabilisation/bounce",
       "USD/INR 95.74 (+0.16% today)",
       "Rupee stronger ₹ vs USD over 7D (-0.23%)",
-      "Global headlines lean bearish (1/5) · 4 from recognised sources"
+      "Global headlines lean bearish (3/5) · 3 from recognised sources"
     ],
     "news": [
-      {
-        "title": "Gold lacklustre as higher-for-longer rate outlook weighs on sentiment - CNBC",
-        "source": "CNBC",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQd2VJMjAxb1NnbDlyQnJoanVsdkwwM1Eyb1lKQmVkZlFEM0xSZ2NCdDMzZlZ6YXFTSnhoUWcxLVliZWdQUW5YeTkwams2QU1PTm5nYlhTWXlMRmh6TmJzRDYtdjlMeHFSejcxU1ZfeWdXbE1yekIyQTZWWk85a0YwbmVkbkNQdzJRdmF5SF85QTc0cmh4bG05ZGtDdDZnLWQxZ0hSLWZUOUJDZ9IBrwFBVV95cUxNa2JTNjBLTnp4NUVWZG1uQnRrbDdYWi1Bbkw4TVR5a2JBUm93V0RweExjSHE2bkhISTh0NG9DcmtVcE5OZEdWalJ4LVR2ZllmM29FZjNxVTBWeXh2WE9XVW91U3pyVU93bzEwUU8tS1RVQmdNdFpzZWZMUHMySTljMEFZaW5RR2dnckZyenNMMkhDU2pnSnd3QXp1U2R4dW5OajFiSERnaWRUNnFmZi1z?oc=5",
-        "published": "Wed, 23 Sep 2026 03:45:00 GMT",
-        "tone": "neutral",
-        "reliable": true
-      },
       {
         "title": "Gold loses shine as rate hike bets foster a stronger dollar - Reuters",
         "source": "Reuters",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVGROaTNUbzBNRWdvU1J1SVRKaURrN0FDVHMteG50VExEUUhKN3UyQ0pMZ3F0ZUtXRHoyc2c2aDgzRkFrTFhHR01OdVROSVBWVnRLWmhqSjNDdW5FVjdHeEptYW5fUFg1VFVnX0xXZURtemZqOVNqNmRqc19yVjdYX3BwM1I1T0M4VUIwdDNqdmxFcnlXX2pKS3VCNllNbEJTQkZxZTJkd1NpNDZwOGpBSw?oc=5",
-        "published": "Wed, 23 Sep 2026 13:32:07 GMT",
+        "published": "Wed, 23 Sep 2026 17:53:49 GMT",
         "tone": "bearish",
         "reliable": true
       },
@@ -87,16 +80,16 @@
         "title": "Gold price will hit $4,900/oz in 2026 on strong sovereign demand as China buys 75% more than reported in July – Goldman Sachs - Kitco",
         "source": "Kitco",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdmIweWNUQkhQS0N4SVhSTjEzWjBlUU9IX2Vxa2c4cGVvM1RQN3BqRkVRWFBYSHAzdFNqcmdYSFhVWUViVWV5Wmp6cHhERHVOSHNnbTcxYnlaaFZ1Y3lsOWpWRDdxbUR4ZDNlRVlQWEZERkhuLWZaT0VxRkhEamE3QmRGMDNvX3Z1VlVPNnczTFBWbEhlbEZqMkZJYTRsM2FKSXpkWUJIbkVUcGtwaXdwRUUxbDBHTFJ1ZmpjZQ?oc=5",
-        "published": "Wed, 23 Sep 2026 17:21:02 GMT",
+        "published": "Wed, 23 Sep 2026 21:13:00 GMT",
         "tone": "neutral",
         "reliable": true
       },
       {
-        "title": "Why are gold prices falling today, and will it continue to drop or rise again? - The Economic Times",
-        "source": "The Economic Times",
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNR3JtN200dVhjNG8tVzVMVUFjaHhGWmhVVVEwdU5pSlBlcEFpdnBEVDhXaEs5VFEwYlpWOWhjdm1SNVFJOXc1OFRmVEUtZFFQNDFjU0ptZl9mZFRyb29mLWYzSklNQjdOUDJSVVhyNnRwU0loVGZQMHE5cDhuUjQtZDNYMk5kUTh3TTRvSFpsNVdGOVBVbDVuM1pOdmVxWWxvQXd2bGhYd1UyTjVMMmVrbmN1MnV4NzExbHJUUGJwS09nbGpTZUtPUmJVNFhsRVJHUENlcGxMRkc5MzQzaXhvQVRQN2p3QlHSAewBQVVfeXFMUHU2ek0zSXUzOEVPQW9HRjVBOVdsX25PdnhsVTY0dG5yMmxHblVZVzVMbU8tb0h2aDhibmd5U3pMekZSdnNVTTVpOGdRSjVQQ0hNOFI1N1VPM3RzWk1OMnpZUTNoZTZSNnh5WGZjNUZXU2JRNVlidEtfM0RsWm94WHJjbk4xZ1V6elVfU1BXT0d5bVBDZlhfUWI0eTBXSmppYkdfR2NkajMyYVVSanBORUdoUjN3OGhPS3N6TlNjT1RyQ2VUM3Y0NEVnUGNvSnNybzJHSGE3a0lxaWlHUVJwZlAwSHlub3hqb1QtNmw?oc=5",
-        "published": "Wed, 23 Sep 2026 16:42:40 GMT",
-        "tone": "neutral",
+        "title": "Gold prices edge lower as higher oil, yields keep pressure on bullion - Investing.com",
+        "source": "Investing.com",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc0x3YjNGZHpYYWJhcHNtOWJ1Vm55SnoycUhDTG9NNVpkaFhzZzVtbl9UTlc5Qjk0ekxhWTAyM18zNi1YcjNIaFU1dWtFR3NGWnA1VHgybG9EM3l4NXhtUjU1aEttVV9lYlhtWGdoYXozZk5UQWVnTjlmMTFZMlNBRjVBb1AxbTVhMFBfdFJhVUpRaHU5X1RSS1RyOFpGeHBRQVFXSWJaSnlUaFZsVVdlM3Z2TGFsbDNjQXROdFlZWXM1UQ?oc=5",
+        "published": "Thu, 24 Sep 2026 06:31:56 GMT",
+        "tone": "bearish",
         "reliable": true
       },
       {
@@ -105,6 +98,14 @@
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1wX2J0UnIxQXVaUnJvb2dST1F0NnJVUTFySlNycDlJejlkX0c5V0RIM1dYSV9NOXp0VVNnenpEQk9ld0JBRlpZZUtoUXEwbGNqZXhlQ003TGg3RmxWaV9uUmxZRnFpTUZrN3B0Nm1R?oc=5",
         "published": "Wed, 23 Sep 2026 14:29:00 GMT",
         "tone": "neutral",
+        "reliable": false
+      },
+      {
+        "title": "Gold Drops Below $4,300; TD Securities and BMO Still See Return to $5,000 by 2027 - finance.biggo.com",
+        "source": "finance.biggo.com",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5NYjU3TG1Gd256YkhTVERyU2E0MDNrN1BxNmNqUVB6X1E1NFVKRGdvWlI3bUZDbzZLdWhHUzRyajRad051TXgwLUFjY01wR1haLWZoUHVubmVEQXY2ZURMWS13Q201Wm50N1VWVFAzd1h2TjhIcVE?oc=5",
+        "published": "Thu, 24 Sep 2026 02:55:00 GMT",
+        "tone": "bearish",
         "reliable": false
       }
     ],
