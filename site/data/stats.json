@@ -41,7 +41,7 @@
   },
   "history_days": 245,
   "as_of_date": "2026-09-25",
-  "last_updated": "2026-09-25T14:50:39.821221+05:30",
+  "last_updated": "2026-09-25T22:58:19.579619+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -50,25 +50,34 @@
   "currency": "INR",
   "unit": "gram",
   "outlook": {
-    "bias": "NEUTRAL",
-    "bias_label": "Neutral / sideways",
+    "bias": "SLIGHTLY_DOWN",
+    "bias_label": "Slightly downward bias",
     "confidence": "MEDIUM",
-    "score": 9.0,
+    "score": -27.8,
     "band_low": 13937.0,
     "band_high": 14083.0,
-    "usd_inr_rate": 95.96,
-    "usd_inr_as_of": "2026-09-24",
-    "usd_inr_daily_pct": 0.23,
-    "usd_inr_7d_pct": 0.021,
+    "usd_inr_rate": 95.82,
+    "usd_inr_as_of": "2026-09-25",
+    "usd_inr_daily_pct": -0.146,
+    "usd_inr_7d_pct": -0.063,
     "factors": [
       "7-day gold trend down (-1.93%)",
       "Near 30D low (7%) — possible stabilisation/bounce",
-      "USD/INR 95.96 (+0.23% today)",
-      "Global headlines mixed/neutral · 2 from recognised sources"
+      "USD/INR 95.82 (-0.15% today)",
+      "Rupee stronger ₹ vs USD over 7D (-0.06%)",
+      "Global headlines lean bearish (2/5) · 2 from recognised sources"
     ],
     "news": [
       {
-        "title": "Gold heads for weekly loss as stronger dollar, Fed rate outlook weigh - Reuters",
+        "title": "Gold price breaks 50-day support as oil rebound lifts inflation pressure - Kitco AM Report - Kitco",
+        "source": "Kitco",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPLVVHTVhKSXRXeFhRN3NaSG1UanBtYTJndzR4b3ZQV1RnbzJjYl9CRTZmSnZKR1UxdUJmOEs0em5rVXlyaHBhN21BQ2xNMUVjQ19QVEJPVzk1TDVzTTFfdWVUZXM1SHMwdFpCZU5PNHVHMWtPR0RWYWtfOVFKdmc2Y3p4OXB3QjRSNGJDbnFyUnk2czR4VnlKQUtYeUc2a2s4YjRMV3hXX05laUgyNzZRTV9FRkpwcG9oX0ZwNnVB?oc=5",
+        "published": "Fri, 25 Sep 2026 14:52:14 GMT",
+        "tone": "bullish",
+        "reliable": true
+      },
+      {
+        "title": "Mounting rate hike bets keep weekly loss in sight for gold - Reuters",
         "source": "Reuters",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNX3F4eFFXZE5rZGRwVFhHYUsxZlhGeFlzSEF1Y0xYc2JmT0YtdkgtRmRhbFVTYVk3NGZRRUlsd3dCTDlCSmdnT1Y5OWN5MERTdzlibVdVQmhSeGc4SHIxWEhpRDJ6bjNLZXNURWdHbHBVOHNqU3FlUHJFc3lQRmN0SWlFRzRCUWpzdkFNYS1nb29JRDJzSzkwdjVDM1VlaHNzMG5FS3ZUU29rZ2RTVWxB?oc=5",
         "published": "Fri, 25 Sep 2026 02:23:00 GMT",
@@ -76,35 +85,27 @@
         "reliable": true
       },
       {
-        "title": "Gold price will hit $4,900/oz in 2026 on strong sovereign demand as China buys 75% more than reported in July – Goldman Sachs - Kitco",
-        "source": "Kitco",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdmIweWNUQkhQS0N4SVhSTjEzWjBlUU9IX2Vxa2c4cGVvM1RQN3BqRkVRWFBYSHAzdFNqcmdYSFhVWUViVWV5Wmp6cHhERHVOSHNnbTcxYnlaaFZ1Y3lsOWpWRDdxbUR4ZDNlRVlQWEZERkhuLWZaT0VxRkhEamE3QmRGMDNvX3Z1VlVPNnczTFBWbEhlbEZqMkZJYTRsM2FKSXpkWUJIbkVUcGtwaXdwRUUxbDBHTFJ1ZmpjZQ?oc=5",
-        "published": "Wed, 23 Sep 2026 14:13:00 GMT",
-        "tone": "neutral",
-        "reliable": true
-      },
-      {
-        "title": "Can the gold price recover? - Yahoo Finance",
-        "source": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPajBnUHFjRDktY05kYWFLYUpNNG1YVHZtZjdoeWM0RnVtekNPbTNZOVduaEdBRGxHZmJrSWRMY1hpQ096ckU0ZVFLTVpBV0xZOW9zNGNURDE3elAzcTdhcWVwR1ZyZWNvN2o3b1c1VXZ4b3VEYVRVN2tWQ1BmTDZhS0FPQ2FnNFBVYXhvQnN5QVhKTUxGb0E?oc=5",
-        "published": "Thu, 24 Sep 2026 09:53:45 GMT",
+        "title": "Current price of gold as of September 25, 2026 - Fortune",
+        "source": "Fortune",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1kVWF6LW1XQi0xVTNfalpoUG5ORTBWdEZPMFVLR20yaWNTUWdkbi03VTRBNGcyVE0wOTVsa0ptcGs2bWpLUW1GWkpoY3VZUm1hWU9adWNidW9vM2FTV09aYzdyNndNeTg3TVhVczRn?oc=5",
+        "published": "Fri, 25 Sep 2026 13:05:00 GMT",
         "tone": "neutral",
         "reliable": false
       },
       {
-        "title": "Chinese Gold Imports Hit Highest Level In Nearly A Decade - Seeking Alpha",
-        "source": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUnVCUnY4dWo1dnJVMExMU3pZc2tnN2J5UHd5NW8yUzllWFJyakMxdVgxeEpGUFNjWFl2LWtmWHZvTmowT2lkUEYxZUxpZXBybllFWjFYdjJTZFBlU2JPVUFiMU5pMW9xV1VoNU0tUnFpVjZ3VHk3ZElyTjRJcm5BUGRNUVA1N0loVEtZYU9jMkVYN0xZMEZWT0s1NVk?oc=5",
-        "published": "Fri, 25 Sep 2026 07:35:00 GMT",
+        "title": "Gold Caught Between Two Liquidity Forces - goldbroker.com",
+        "source": "goldbroker.com",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1iLTJfb05oMnZ3eEhoQkkxWUJJY0RiRHdzTkV0X1ZYQ05BdzFta0dKN2cybml3RnFoVFhmNk1Ya2NJU3Bpc0hBSHRqVW9vTHpJOWhfQkhOMjFOSFV4WEY2N1V4TlNrVGZKc2kyVVZGbWFLTVFfMGlpR1BnVEQxdw?oc=5",
+        "published": "Fri, 25 Sep 2026 11:31:49 GMT",
         "tone": "neutral",
         "reliable": false
       },
       {
-        "title": "Gold Price Forecast: $4,300 Support at Risk as Rates Rise - FXEmpire",
-        "source": "FXEmpire",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTFBTaWJkS3FpQW5aa2ZJSjF1WmttU3M3TDhKWS1WbUpKOVpnOTVBNXRoeHZjOUxKcXpQMGtsVzZXRmVVYkpvemxxOWIzLW9vV2kwb2swZkgzby1BQkZHcnhEQmM4ajJIeklxQlJQY2haVHNWWlU5YXhpLWVPem13eDMteEVJai02bHE0M0RUM2FIa3ViZjA0eGQ4Y1NVSERxR01BNVVQSTM?oc=5",
-        "published": "Thu, 24 Sep 2026 14:00:43 GMT",
-        "tone": "bullish",
+        "title": "Gold Falls 5th Week Running as AI Tech Spending Surges - BullionVault",
+        "source": "BullionVault",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQUVmWWhWZ0hwcWY5Q3B1LWpuTTBWdVBkNm5EaGZMeGxNV2k2U0VpZzhvV1Y5VGgxZVlSbUxWczhiLWdxbGp6QzlLY3BnYlNYNlUzTlR3a0JCOUxEeVpYTkZxam42OTFIQXZpY1l2OVZ4UkZ4d1ZfUDRNMWRIejZKdUo3WQ?oc=5",
+        "published": "Fri, 25 Sep 2026 16:07:19 GMT",
+        "tone": "bearish",
         "reliable": false
       }
     ],
