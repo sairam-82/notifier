@@ -1,32 +1,32 @@
 {
-  "today_price": 13765.0,
+  "today_price": 13640.0,
   "yesterday_price": 13765.0,
-  "daily_change": 0.0,
-  "daily_change_percent": 0.0,
-  "daily_direction": "flat",
+  "daily_change": -125.0,
+  "daily_change_percent": -0.91,
+  "daily_direction": "down",
   "position_30d": 0.0,
   "classification": "D30_LOW",
   "classification_label": "30D LOW",
   "period_7d": {
-    "low": 13765.0,
+    "low": 13640.0,
     "high": 14135.0,
-    "average": 13951.43,
-    "change": -370.0,
-    "change_percent": -2.62,
+    "average": 13933.57,
+    "change": -495.0,
+    "change_percent": -3.5,
     "count": 7
   },
   "period_30d": {
-    "low": 13765.0,
+    "low": 13640.0,
     "high": 14370.0,
-    "average": 14117.5,
-    "change": -605.0,
-    "change_percent": -4.21,
+    "average": 14113.33,
+    "change": -730.0,
+    "change_percent": -5.08,
     "count": 30
   },
   "period_90d": {
     "low": 12930.2,
     "high": 15030.0,
-    "average": 13870.07,
+    "average": 13868.46,
     "change": null,
     "change_percent": null,
     "count": 78
@@ -34,14 +34,14 @@
   "period_365d": {
     "low": 10575.6,
     "high": 16061.1,
-    "average": 13478.83,
+    "average": 13478.29,
     "change": null,
     "change_percent": null,
     "count": 230
   },
   "history_days": 249,
   "as_of_date": "2026-09-29",
-  "last_updated": "2026-09-29T01:18:12.128191+05:30",
+  "last_updated": "2026-09-29T15:52:35.637321+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -53,42 +53,34 @@
     "bias": "NEUTRAL",
     "bias_label": "Neutral / sideways",
     "confidence": "MEDIUM",
-    "score": 9.2,
-    "band_low": 13685.0,
-    "band_high": 13845.0,
+    "score": 5.4,
+    "band_low": 13550.0,
+    "band_high": 13730.0,
     "usd_inr_rate": 95.98,
     "usd_inr_as_of": "2026-09-28",
     "usd_inr_daily_pct": 0.167,
     "usd_inr_7d_pct": 0.167,
     "factors": [
-      "7-day gold trend down (-2.62%)",
+      "7-day gold trend down (-3.50%)",
       "Near 30D low (0%) — possible stabilisation/bounce",
       "USD/INR 95.98 (+0.17% today)",
       "Rupee weaker ₹ vs USD over 7D (+0.17%)",
-      "Global headlines mixed/neutral · 3 from recognised sources"
+      "Global headlines lean bullish (1/5) · 2 from recognised sources"
     ],
     "news": [
       {
         "title": "Gold and silver prices are struggling now, but a much higher long-term base is building - BMO Capital Markets - Kitco",
         "source": "Kitco",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVC15WjVOUk9TZEJ3NGtRMHF0Vm1WaEQ2TndjMUxIeTBaQ0VWS0R4b093U3R0NXA1NHdrbWE2QU5mRXhfODJORkY4ejY4NktMeTZNQU1RQWhVbVVYczJwOUdRX2JVVm1RZDdiaTdWSjlDai1SUXdzQjFvaHNXTnhqdnAwTE1UdDZGdUc1aWhxbWpXa0RpNDk4b2VpOUxONDk3alZsRDlFLVlvWDJCejBUV0xkbng?oc=5",
-        "published": "Mon, 28 Sep 2026 13:52:00 GMT",
+        "published": "Mon, 28 Sep 2026 21:22:29 GMT",
         "tone": "neutral",
         "reliable": true
       },
       {
-        "title": "Gold and silver prices fall sharply as higher bond yields weigh on metals - CNBC",
-        "source": "CNBC",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1TnVRU2tNa3kxanRwcFgxNXRZaDNKalZweGQyZ3lQeVlITmlPQ0xkak1XWDhqN0xwZmtyMXRaSURmYk5QMFk3V0N6dmdETW5Ld2RRYmxqQ0daMktTR2l5YVhROU4tc3p4aF9OUnJJOHhjWGxvNVHSAXtBVV95cUxPZUx2ZHFWNWRaQzk0eFdEcW0yazB5U1BKcTI2Z3NrVW14b1BpUkVPUk5lRno1cGNMZjdQRUFKdmRJa2FEWmFrMGttRVI0aFYtM0RkM1ZLNGpCSmotUTQ2NlFxaWRUR2QwSDhvemZnUFFlQzVFZVZON0xJVlE?oc=5",
-        "published": "Mon, 28 Sep 2026 09:56:44 GMT",
-        "tone": "bearish",
-        "reliable": true
-      },
-      {
-        "title": "Gold tumbles below $4,200 as oil, Fed hike bets weigh on bullion - Investing.com",
-        "source": "Investing.com",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMWdPUUFrZ0pxckdQT3dGTXF1SXVKeU10ak1uUlNBN0toMjhZanlmM2haVWlpQlQ0Y25PTlA0T2FsdzhrcjlnWjBXVkRQMnFzT0YycWNKaWJGUm05ZlptSHowMHN5dkN6WWliQXZjN0NUUjRTOE1iNXpHYVZOTjJIWld1Sk8tMG56RFkwaGFib2V1WGNWMkYtS3prMUJ6SGZmWkxlWkozc2p6N2EyQ0hPNzJFbjk0NWdOTFNWekxWeDU?oc=5",
-        "published": "Mon, 28 Sep 2026 10:55:58 GMT",
+        "title": "Gold hits seven-week low as oil surge fuels rate hike bets - Reuters",
+        "source": "Reuters",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQenE0aVBHOTNMeURZcVZjN3J0S1RMZ2kzakFJYklBMXhZckhuTGxLVnVaa2pmZjg0MzJHMU1fOGwwY3pfWjBXYmZUcGYtUjMzOFB4UW9ydUdKZDNOU2JrTHotMk9qa1ZGNkZXdGs3b0NKcGhveU11cmZGOC0wbzM1WWVJSzk3bDAxLWs3QUxVSy02QQ?oc=5",
+        "published": "Mon, 28 Sep 2026 01:41:00 GMT",
         "tone": "neutral",
         "reliable": true
       },
@@ -97,6 +89,14 @@
         "source": "Fortune",
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPemlTbWVJcWNIcXl2c0V3WFVHUDhfZC1JaE5QUEpwaUZsc3ZEYnFwSFdaUTIxVjBTUVlMa1paLUtQQ0VDQWtJcjlKNFpZUE40RllhOWFrMHZnRTZ5LTl2UFpUMTd5VnlleVZKdUVR?oc=5",
         "published": "Mon, 28 Sep 2026 13:08:00 GMT",
+        "tone": "neutral",
+        "reliable": false
+      },
+      {
+        "title": "Gold Price Forecast: Gold Plunges to Seven-Week Low, Can $4,100 Hold? - TradingKey",
+        "source": "TradingKey",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZ18wX1Y1cEExMEptVkpHVThmcnJCRDdQNUU1eEFqQnBYRTM3LTBLdVhQeWpmNWRpSUpVMHVWMkpERjdIU29qa2NYUTVJQlphdGlFUFp1YlFsT1J0TkFrelpHZUhmc2x6b3VUSVNKdm96ajZJVUUzQVB3TW9ocmxyZ2YyQ2NZTTFVM0hyWnE1cFF0a1g5cGJDYkhHZDlncXFYTWZmVTNZVW44RThfWjRBSWZMNjhvUTRy?oc=5",
+        "published": "Tue, 29 Sep 2026 03:50:06 GMT",
         "tone": "neutral",
         "reliable": false
       },
