@@ -41,7 +41,7 @@
   },
   "history_days": 249,
   "as_of_date": "2026-09-29",
-  "last_updated": "2026-09-29T15:52:35.637321+05:30",
+  "last_updated": "2026-09-29T23:43:00.463897+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -53,42 +53,42 @@
     "bias": "NEUTRAL",
     "bias_label": "Neutral / sideways",
     "confidence": "MEDIUM",
-    "score": 5.4,
+    "score": -3.0,
     "band_low": 13550.0,
     "band_high": 13730.0,
     "usd_inr_rate": 95.98,
-    "usd_inr_as_of": "2026-09-28",
-    "usd_inr_daily_pct": 0.167,
-    "usd_inr_7d_pct": 0.167,
+    "usd_inr_as_of": "2026-09-29",
+    "usd_inr_daily_pct": 0.0,
+    "usd_inr_7d_pct": 0.408,
     "factors": [
       "7-day gold trend down (-3.50%)",
       "Near 30D low (0%) — possible stabilisation/bounce",
-      "USD/INR 95.98 (+0.17% today)",
-      "Rupee weaker ₹ vs USD over 7D (+0.17%)",
-      "Global headlines lean bullish (1/5) · 2 from recognised sources"
+      "USD/INR 95.98 (+0.00% today)",
+      "Rupee weaker ₹ vs USD over 7D (+0.41%)",
+      "Global headlines mixed/neutral · 1 from recognised sources"
     ],
     "news": [
       {
-        "title": "Gold and silver prices are struggling now, but a much higher long-term base is building - BMO Capital Markets - Kitco",
+        "title": "Calm stock markets today could help gold price hold support despite surging bond yields – MarketVector’s Yang - Kitco",
         "source": "Kitco",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVC15WjVOUk9TZEJ3NGtRMHF0Vm1WaEQ2TndjMUxIeTBaQ0VWS0R4b093U3R0NXA1NHdrbWE2QU5mRXhfODJORkY4ejY4NktMeTZNQU1RQWhVbVVYczJwOUdRX2JVVm1RZDdiaTdWSjlDai1SUXdzQjFvaHNXTnhqdnAwTE1UdDZGdUc1aWhxbWpXa0RpNDk4b2VpOUxONDk3alZsRDlFLVlvWDJCejBUV0xkbng?oc=5",
-        "published": "Mon, 28 Sep 2026 21:22:29 GMT",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMDdmSzl5MXhaVllULWlaT2hnTU9NLWZ3ZDczd0N6RGg3VVRUaWxMbU5YeENEVnY4a05vdlQxTUV3NkxVeXBTdmhSWGUtUXFfY2VGdUJUbk1sV3pVcEVWS1lCMXNXM2RPT1JZZnRad2VBWUJQeFVSMmZzOFhsZ0E2SjZjVWFLMkgxR2JRUTNHV19Fbi1NZllZbmd3cVJ4Szk2TEU1VV9DTnVZcHNia0ZLdkpXMlEzRnRyOFNkYmJR?oc=5",
+        "published": "Tue, 29 Sep 2026 13:11:00 GMT",
         "tone": "neutral",
         "reliable": true
       },
       {
-        "title": "Gold hits seven-week low as oil surge fuels rate hike bets - Reuters",
-        "source": "Reuters",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQenE0aVBHOTNMeURZcVZjN3J0S1RMZ2kzakFJYklBMXhZckhuTGxLVnVaa2pmZjg0MzJHMU1fOGwwY3pfWjBXYmZUcGYtUjMzOFB4UW9ydUdKZDNOU2JrTHotMk9qa1ZGNkZXdGs3b0NKcGhveU11cmZGOC0wbzM1WWVJSzk3bDAxLWs3QUxVSy02QQ?oc=5",
-        "published": "Mon, 28 Sep 2026 01:41:00 GMT",
-        "tone": "neutral",
-        "reliable": true
-      },
-      {
-        "title": "Current price of gold as of September 28, 2026 - Fortune",
+        "title": "Current price of gold as of September 29, 2026 - Fortune",
         "source": "Fortune",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPemlTbWVJcWNIcXl2c0V3WFVHUDhfZC1JaE5QUEpwaUZsc3ZEYnFwSFdaUTIxVjBTUVlMa1paLUtQQ0VDQWtJcjlKNFpZUE40RllhOWFrMHZnRTZ5LTl2UFpUMTd5VnlleVZKdUVR?oc=5",
-        "published": "Mon, 28 Sep 2026 13:08:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpY0U3VWx5SVBfeVprbWFBUTZ3c2J2YzhUQ1R0V2QzMHp6SVZzUC1PNjMzMHUwR0lwT1hWOEtQUnFwSEl2bTI1WGlwYUxRakhOVXVzUnJ0U20wSTB5VVVGaURfTzVtdDBBa29PcEtB?oc=5",
+        "published": "Tue, 29 Sep 2026 13:17:00 GMT",
+        "tone": "neutral",
+        "reliable": false
+      },
+      {
+        "title": "Gold Price Forecast: Falling Rates Support Key Trend-Line Bounce - FXEmpire",
+        "source": "FXEmpire",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdUxPTnRoZzUwZFRfWm9qbk5QNmRidkllNHBWQUdkYmV1d3FKTk42OVltS1BOMHF0a2tzMjkyYnF4Q1pINldYal96VDVZSURkWjIwYjRib0tYTlhjb3pyN1FzZmlvNFpjaFlUZGpTQ2Q5UTlKRm9jcUFYOERYUUVfM3l6dWVDRk9IVDhnZWFmMm9Ic2tWeG5XSF9oMW9qVnZKRnJxWHA2Q1hnWndFT2ZQWWhPbjg?oc=5",
+        "published": "Tue, 29 Sep 2026 12:58:12 GMT",
         "tone": "neutral",
         "reliable": false
       },
@@ -101,11 +101,11 @@
         "reliable": false
       },
       {
-        "title": "Gold Price Forecast: Rising Rates Put $4,000 Support at Risk - FXEmpire",
-        "source": "FXEmpire",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUVpSMWstNG5zN0RSdkExMW9KdTlodktvNmtkeU1DWjBHSHVEOE1tb0V4ZDlBekJoN1JMOFl0ekNUOXlyNzY0MkRJeGdGZ0dRNldmX09DV1AtVHZabTJhblV3MG9TdndsUlhjdHlyamQySnZSV1g3YTh0V1k3SWR5TmRINVRlYlJZdWtSaUswLUtUbkh6MXpzbmJVYlZyV1o1S2tSdVRzZWtKcTBk?oc=5",
-        "published": "Mon, 28 Sep 2026 13:25:00 GMT",
-        "tone": "bullish",
+        "title": "Gold Price Rallies as 8-Week Trading Low Blamed on China, Rates, Trump - BullionVault",
+        "source": "BullionVault",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNlBYVU5kX2FXX0YyOWJyVXJma09zbGNWTTZrRW1fSFk1YkpYRmJEdmZuVnpFeWVDVTNvU3E0MWw3anZlckk3NF9CZnc1WExSeE1QN044d3ROZU9NZ3BydDhRdDl1aDdQRjRLRlRKSlZuZHV1X0YtS0FsTUNXV0tfMnpGUWl3Y0xGZFhOVW5OdlgtdHc?oc=5",
+        "published": "Tue, 29 Sep 2026 15:09:51 GMT",
+        "tone": "neutral",
         "reliable": false
       }
     ],
