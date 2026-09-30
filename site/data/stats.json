@@ -41,7 +41,7 @@
   },
   "history_days": 250,
   "as_of_date": "2026-09-30",
-  "last_updated": "2026-09-30T15:45:38.276690+05:30",
+  "last_updated": "2026-09-30T23:34:44.279793+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -53,34 +53,26 @@
     "bias": "NEUTRAL",
     "bias_label": "Neutral / sideways",
     "confidence": "MEDIUM",
-    "score": 11.6,
+    "score": -15.2,
     "band_low": 13619.0,
     "band_high": 13801.0,
-    "usd_inr_rate": 95.98,
-    "usd_inr_as_of": "2026-09-29",
-    "usd_inr_daily_pct": 0.0,
-    "usd_inr_7d_pct": 0.408,
+    "usd_inr_rate": 95.83,
+    "usd_inr_as_of": "2026-09-30",
+    "usd_inr_daily_pct": -0.156,
+    "usd_inr_7d_pct": 0.094,
     "factors": [
       "7-day gold trend down (-2.04%)",
       "Near 30D low (10%) — possible stabilisation/bounce",
-      "USD/INR 95.98 (+0.00% today)",
-      "Rupee weaker ₹ vs USD over 7D (+0.41%)",
+      "USD/INR 95.83 (-0.16% today)",
+      "Rupee weaker ₹ vs USD over 7D (+0.09%)",
       "Global headlines mixed/neutral · 3 from recognised sources"
     ],
     "news": [
       {
-        "title": "Gold and silver prices are struggling now, but a much higher long-term base is building - BMO Capital Markets - kitco.com",
-        "source": "kitco.com",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVC15WjVOUk9TZEJ3NGtRMHF0Vm1WaEQ2TndjMUxIeTBaQ0VWS0R4b093U3R0NXA1NHdrbWE2QU5mRXhfODJORkY4ejY4NktMeTZNQU1RQWhVbVVYczJwOUdRX2JVVm1RZDdiaTdWSjlDai1SUXdzQjFvaHNXTnhqdnAwTE1UdDZGdUc1aWhxbWpXa0RpNDk4b2VpOUxONDk3alZsRDlFLVlvWDJCejBUV0xkbng?oc=5",
-        "published": "Mon, 28 Sep 2026 13:52:00 GMT",
-        "tone": "neutral",
-        "reliable": true
-      },
-      {
-        "title": "Gold on track for monthly decline as investors brace for US inflation data - Reuters",
-        "source": "Reuters",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTld2SXpINElrMTRxSGliajBqR3dqcC1fQkJZNTVJb3JLVEI2aWxRVXRzclZBbGtoclctUVkxZ0t2VjdtRmpjRlhHMUp2Q1c2Nm9qb01HX1ZKZnRuNk5ETWVoaHU0VFVuU3JZMUZIZXVKT1ozMTc0VHM0emdJOVJJTHZrRGZPUkJhbFRZTGFhZUlNTlFqbGhhSENMRDhJcUxxUHlGR29ocWdjeGFo?oc=5",
-        "published": "Wed, 30 Sep 2026 04:54:00 GMT",
+        "title": "Gold price could have a ‘shinier Q4’ despite 20-year highs in bond yields - FOREX.com’s Razaqzada - Kitco",
+        "source": "Kitco",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd0NrVGk1cHdnYW10RU9Md0hfOFZaOW9xQVYxaHlDNlZDd2g1WlJPZzVyQXlBcnJzZ29sMkRleXF0SlRpWF9XNVV3Yk5nQzhJQ3Jrc1g0OUpfcHFGcmRVd05scmlXSENtTE9hcW93dWdManl6ZUNqcUNZUXdxdDhEejZFVG9HdGNIWTdVM3c4NG1DTzV2ZGF1SjV2SEZ2djdKMUhMLTRNS29vMm9YcWVLWGd3?oc=5",
+        "published": "Wed, 30 Sep 2026 14:33:00 GMT",
         "tone": "neutral",
         "reliable": true
       },
@@ -93,18 +85,26 @@
         "reliable": true
       },
       {
+        "title": "Gold rises after cooler inflation data, but monthly decline looms - Reuters",
+        "source": "Reuters",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTld2SXpINElrMTRxSGliajBqR3dqcC1fQkJZNTVJb3JLVEI2aWxRVXRzclZBbGtoclctUVkxZ0t2VjdtRmpjRlhHMUp2Q1c2Nm9qb01HX1ZKZnRuNk5ETWVoaHU0VFVuU3JZMUZIZXVKT1ozMTc0VHM0emdJOVJJTHZrRGZPUkJhbFRZTGFhZUlNTlFqbGhhSENMRDhJcUxxUHlGR29ocWdjeGFo?oc=5",
+        "published": "Wed, 30 Sep 2026 04:54:00 GMT",
+        "tone": "neutral",
+        "reliable": true
+      },
+      {
         "title": "21-Karat Gold Price Stands at JD85.1 in Local Market - Fana News -",
         "source": "Fana News -",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcE5ZaFhfRE1GVlk4aVA3TVVESEFLd0tmU0R5aTRaLVpRRUhlel9rQmdZQkpPQ0w0QURocFA1MnRQVFo2NlE3ZzV6Z241MWpISm5RS3NWNTlYeVRyeWZPNXlId2ZsbmUyQl9hZFYzdmdDcnpNVlVTS1hLSlI1azZTUmlRZ29DVG9yUDhKbHZnRXl6OHlv?oc=5",
-        "published": "Wed, 30 Sep 2026 09:19:01 GMT",
+        "published": "Wed, 30 Sep 2026 09:54:19 GMT",
         "tone": "neutral",
         "reliable": false
       },
       {
-        "title": "Current price of gold as of September 28, 2026 - Fortune",
+        "title": "Current price of gold: Month Day, Year - Fortune",
         "source": "Fortune",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPemlTbWVJcWNIcXl2c0V3WFVHUDhfZC1JaE5QUEpwaUZsc3ZEYnFwSFdaUTIxVjBTUVlMa1paLUtQQ0VDQWtJcjlKNFpZUE40RllhOWFrMHZnRTZ5LTl2UFpUMTd5VnlleVZKdUVR?oc=5",
-        "published": "Mon, 28 Sep 2026 13:08:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9zS3NZLWhsOUYybkNUc0NMa3REbHJoLVBlVG1oX0NLR1JnUjR1dlJ6bno5YmI3b2w0WVZxb1c0bkQ0S3ZiX0RPZTJkUHgydnNHOFRZYTgxZFM4NmdTZm1YczVJaFhQQ0dIcms1QUdB?oc=5",
+        "published": "Wed, 30 Sep 2026 13:04:00 GMT",
         "tone": "neutral",
         "reliable": false
       }
