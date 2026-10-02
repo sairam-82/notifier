@@ -41,7 +41,7 @@
   },
   "history_days": 252,
   "as_of_date": "2026-10-02",
-  "last_updated": "2026-10-02T15:47:23.438335+05:30",
+  "last_updated": "2026-10-02T23:29:18.149866+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -50,64 +50,22 @@
   "currency": "INR",
   "unit": "gram",
   "outlook": {
-    "bias": "SLIGHTLY_UP",
-    "bias_label": "Slightly upward bias",
+    "bias": "NEUTRAL",
+    "bias_label": "Neutral / sideways",
     "confidence": "MEDIUM",
-    "score": 24.3,
+    "score": 3.5,
     "band_low": 13696.0,
     "band_high": 13854.0,
-    "usd_inr_rate": 96.33,
-    "usd_inr_as_of": "2026-10-01",
-    "usd_inr_daily_pct": 0.522,
-    "usd_inr_7d_pct": 0.386,
+    "usd_inr_rate": 96.32,
+    "usd_inr_as_of": "2026-10-02",
+    "usd_inr_daily_pct": -0.01,
+    "usd_inr_7d_pct": 0.522,
     "factors": [
       "7-day gold trend down (-1.57%)",
-      "USD/INR 96.33 (+0.52% today)",
-      "Rupee weaker ₹ vs USD over 7D (+0.39%)",
-      "Global headlines lean bullish (1/5) · 3 from recognised sources"
+      "USD/INR 96.32 (-0.01% today)",
+      "Rupee weaker ₹ vs USD over 7D (+0.52%)"
     ],
-    "news": [
-      {
-        "title": "Entrenched premium leaves gold primed to climb despite surge in US bond yields - Reuters",
-        "source": "Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQU3R0WHlxZ0o0bmdDZlB5ZGUwbWI2Z3hkQWJPemo5b3hNM3dwdjlxNldrSnlvODRKc2hOaVgtSVU5YWRIM2ZkQk1yaGllUjNqT2FCU21JbjEtcm51WThVNURrODh3dDN0WnVuakdQOUF0dTEwM1BDSDFTVkktY2VVOEc5RzJ2ckY4VDVKNEttZ1BwRTZCRldKTVhhV3JhMnJkVmVwdC1JdGpucFdqR1JOY1pvSTZjOXJn?oc=5",
-        "published": "Thu, 01 Oct 2026 15:59:56 GMT",
-        "tone": "bullish",
-        "reliable": true
-      },
-      {
-        "title": "Gold Price Canada Today | Live Gold Price in CAD - kitco.com",
-        "source": "kitco.com",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVMHM0YXN3UkRUdlVZXzdrUjJmSHh5eFZ6Q0pSOVhYV1pLU0VzSXNhWGRVREpJbm9uX3pvSkZsMDNVRmg4a3JPYXlTY2N3OEF5Wm00MA?oc=5",
-        "published": "Fri, 02 Oct 2026 00:00:00 GMT",
-        "tone": "neutral",
-        "reliable": true
-      },
-      {
-        "title": "Gold prices have pulled back — but a Morgan Stanley strategist sees 3 key reasons to hold the precious metal - CNBC",
-        "source": "CNBC",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LUXRiRGdoQ1lHR1oxUEpocWtxc1lydE5DRF8tZnUzOVNEOEFQanNBRzYwVmVrR1ZDUzlLaEpFVkFiWE1UdDdwWi1ic2NTelM5SzVFVS1KaU5ITk83TTFGNXkxMXVHWmVUVnp6TkhR?oc=5",
-        "published": "Wed, 30 Sep 2026 06:53:29 GMT",
-        "tone": "neutral",
-        "reliable": true
-      },
-      {
-        "title": "Bond Market Crash: Why Gold No Longer Falls When Interest Rates Rise - GoldBroker.com",
-        "source": "GoldBroker.com",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMklCa1pWODhyUm5JcjlnYk42dWdmVWcyVXN4WTljakpuenRzaEhJVW5mSm1CbHYtcms4MU9kT1ZjanlkeUxocTNlY0YtUWMwb0lqWWw4Tm5tMEwtQkQzU21oblh1eG5TUGx4TUlDa2FNbll3NnNIdGVXbVVKZVZ0X3dmdFZBQTB0YkhCZS1QbE5qWl9ma1dVVERUWldaclZQV1E?oc=5",
-        "published": "Fri, 02 Oct 2026 08:36:38 GMT",
-        "tone": "neutral",
-        "reliable": false
-      },
-      {
-        "title": "Gold In Pension Funds: Case Studies - Seeking Alpha",
-        "source": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB0cWF6WTlFV1pnUHRkczMyZjNTMGJUbXBweW1XV2x6M2Zfc3p4eGxUVHc2OFFBd3hMcF81Q0V0OGNfZnNkeUgzUlE4UDRUa3FzZnVJTk9QazhtcGVVd3BjV1hqbDdXeVYtVXJCb01WNC1LeWlCY1pRMDFMUlM?oc=5",
-        "published": "Fri, 02 Oct 2026 08:02:00 GMT",
-        "tone": "neutral",
-        "reliable": false
-      }
-    ],
+    "news": [],
     "disclaimer": "Indicative outlook only — not financial advice. Gold prices depend on many factors; this can be wrong."
   }
 }
