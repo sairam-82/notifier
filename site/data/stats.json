@@ -1,47 +1,47 @@
 {
   "today_price": 13675.0,
-  "yesterday_price": 13775.0,
-  "daily_change": -100.0,
-  "daily_change_percent": -0.73,
-  "daily_direction": "down",
-  "position_30d": 4.86,
+  "yesterday_price": 13675.0,
+  "daily_change": 0.0,
+  "daily_change_percent": 0.0,
+  "daily_direction": "flat",
+  "position_30d": 5.43,
   "classification": "NEAR_30D_LOW",
   "classification_label": "NEAR 30D LOW",
   "period_7d": {
     "low": 13640.0,
-    "high": 13995.0,
-    "average": 13748.57,
-    "change": -320.0,
-    "change_percent": -2.29,
+    "high": 13775.0,
+    "average": 13702.86,
+    "change": -90.0,
+    "change_percent": -0.65,
     "count": 7
   },
   "period_30d": {
     "low": 13640.0,
-    "high": 14360.0,
-    "average": 14052.33,
-    "change": -685.0,
-    "change_percent": -4.77,
+    "high": 14285.0,
+    "average": 14029.5,
+    "change": -515.0,
+    "change_percent": -3.63,
     "count": 30
   },
   "period_90d": {
     "low": 12930.2,
     "high": 15030.0,
-    "average": 13881.35,
+    "average": 13878.8,
     "change": null,
     "change_percent": null,
-    "count": 80
+    "count": 81
   },
   "period_365d": {
     "low": 11001.2,
     "high": 16061.1,
-    "average": 13494.73,
+    "average": 13495.5,
     "change": null,
     "change_percent": null,
-    "count": 233
+    "count": 234
   },
-  "history_days": 253,
-  "as_of_date": "2026-10-03",
-  "last_updated": "2026-10-03T22:06:32.447545+05:30",
+  "history_days": 254,
+  "as_of_date": "2026-10-04",
+  "last_updated": "2026-10-04T15:52:52.167674+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -50,53 +50,37 @@
   "currency": "INR",
   "unit": "gram",
   "outlook": {
-    "bias": "NEUTRAL",
-    "bias_label": "Neutral / sideways",
+    "bias": "SLIGHTLY_UP",
+    "bias_label": "Slightly upward bias",
     "confidence": "MEDIUM",
-    "score": 8.3,
-    "band_low": 13588.0,
-    "band_high": 13762.0,
+    "score": 29.7,
+    "band_low": 13597.0,
+    "band_high": 13753.0,
     "usd_inr_rate": 96.32,
     "usd_inr_as_of": "2026-10-02",
     "usd_inr_daily_pct": -0.01,
     "usd_inr_7d_pct": 0.522,
     "factors": [
-      "7-day gold trend down (-2.29%)",
+      "7-day gold trend down (-0.65%)",
       "Near 30D low (5%) — possible stabilisation/bounce",
       "USD/INR 96.32 (-0.01% today)",
       "Rupee weaker ₹ vs USD over 7D (+0.52%)",
-      "Global headlines mixed/neutral · 5 from recognised sources"
+      "Global headlines lean bullish (1/5) · 3 from recognised sources"
     ],
     "news": [
       {
-        "title": "Gold Price Canada Today | Live Gold Price in CAD - Kitco",
-        "source": "Kitco",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVMHM0YXN3UkRUdlVZXzdrUjJmSHh5eFZ6Q0pSOVhYV1pLU0VzSXNhWGRVREpJbm9uX3pvSkZsMDNVRmg4a3JPYXlTY2N3OEF5Wm00MA?oc=5",
-        "published": "Sat, 03 Oct 2026 00:00:00 GMT",
-        "tone": "neutral",
-        "reliable": true
-      },
-      {
-        "title": "Gold edges up as softer inflation data dents Fed rate-hike bets - Reuters",
-        "source": "Reuters",
+        "title": "Gold edges up as softer inflation data dents Fed rate-hike bets - reuters.com",
+        "source": "reuters.com",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRjFDcnNwNW1uWWdUaW5iaWRNLV8wbnl4QlBGWHFjN0twMDlINnBTclUwYnRGN1pTVTJYbE94MFEyRk5yQ0FUcXlQLXNkYkdPQXQ3eFlDUko4cXF1Vkc5TUg2LXZKSTAzc3hnOGJrT1hoNl92bG1mY1lSM2MwR3lBcGVQS2NmNDVEWUdURERqcDVkYUhpVTVXZDZqUEF6c1RCMjFFeWpOZWNKVzdGS3dFNzQ3VQ?oc=5",
         "published": "Thu, 01 Oct 2026 19:14:47 GMT",
         "tone": "bullish",
         "reliable": true
       },
       {
-        "title": "Gold holds steady as firm dollar, yields counter easing Fed rate hike bets - CNBC",
-        "source": "CNBC",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPN3VTUm1mWHp6bTZUVy1TVUZJV3VQUEYwUEJOSUNHUzlGZk5zUUlwbWpQVFNHeTMyVUZHY21GbmpOR0lEbWZ5ek45bll5Vm9GdVEtbG8wVWpsR21SQTNxNzhUX0FodENNTm9Rc0VXZUZHcXFNYTRZNWozVm53VnJmWkhWVUd4YlFB0gGOAUFVX3lxTE43LTRmNkJ2RDViRHhUX2VUY0dBbGpJdjBDa2xLd3h1VV9ZVDlKd0t3cG5md1dnaXFOcEg3UURrQ25XdHdWcm91clBfQVNnZmtCNFhGcmx1VlJ5MWo4c05mZmJacHNvQlk3TW5NdHU1WkNLT29mR2Jfd0JVQm9GTWVscE5sTFliS0t3WGFLZ0E?oc=5",
-        "published": "Thu, 01 Oct 2026 05:19:28 GMT",
-        "tone": "bearish",
-        "reliable": true
-      },
-      {
-        "title": "Gold price prediction: Gold rate fell big in September. What to expect in October to December, factors tha - The Economic Times",
-        "source": "The Economic Times",
-        "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPQldFUnQ5SnFvSGRzb2FOT0doTDRDc21ZYXFfb2FWU1hJcS1uMUxzcElQRkotSHNKZExUZGE0aXVZaUhGMmN2WUZHSWtkNHQ2NElUR1pTVm53WThFVFVGY29oN3l0NVdwdUpvM3RmVkM2am5jUDNOMV9ueTRzY3NrUndkTFVIajUzQzEyMWR5a2hucV96X0dXZ2RncFJESUpYUGxteVRDdHM5eGQ2c3NVZXJDT2VXZy16NHJOUUR4b1F4ZnNzOWY0c1RrRnA5TGdzSS0yWkxrWWRmOHVaR1hzX1ZSSC1tSE1nZklWYVpGaW1DQzZMdGJLNzdrRVlPWVF0S18zSFh6OWtrQ3Q4cENSbHk3X1RLVjg0TkpqU2YxZTJEVmtmZEZ1dU40QUpDME4wNFRJ0gG4AkFVX3lxTE9KclY3eFlONDYtUnBlZXpkZzRQazZoQW5fTDlTUVd3dUlEaU9mM05OVk9YTTV3T1ZxVlhqVTZOMXNoU3BNVWY1azkwel9pRlQyb2VyZGhoNV9iTHZHM3I2Z1B6LVh3bGV4eFdJSEdJSFRqVVBIVzVvLWZEVV83YWx6ZWNTbGVad1FEQ1F3TjBuVzRxSExHQWtpdUQwQ0VWSGRZNjNHZ0YwaTJua1k3dnIxWkJJLXd1N1hkUHJUWDFiUzNnTHFwUV9iSEl4RFZ1eVpyR3BtSy16d2l1UVJaQm5KaS03OEhGdTBJYWpOXzJWbFRCUmIzRXNKWjdnOXdqVUxRcjJMQTF1bmdMbDBxLVM3ajhYVWNTRmdXSDNRSWZwWnZIT1AtSmVLTXJuWVdMU1ZuaE54Q1dWaQ?oc=5",
-        "published": "Thu, 01 Oct 2026 13:04:06 GMT",
+        "title": "Gold prices see sold bid as U.S. economy created 29k jobs in September - Kitco",
+        "source": "Kitco",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTktTZ1NsN3hVVFFsYmVKSy1sSlVJbDR2bzZVd3loZEpwLWptamRnaDZkeUpTMmRmTnJETXZTVWJTalZiUG5WTXhhX2FMZUFnZVItOUZodlB4SGZMcVAxcHl5cU9Nd2F3MEY4endlUDItN0h4Smhoc0hZQ0RzcGVoVEFlM1lTRnZjeVlWZ3JGNFBOVTNac0hiT08yUEtMdEZHMkVEVlJjeHZiOVVD?oc=5",
+        "published": "Fri, 02 Oct 2026 10:41:00 GMT",
         "tone": "neutral",
         "reliable": true
       },
@@ -107,6 +91,22 @@
         "published": "Sat, 03 Oct 2026 10:45:00 GMT",
         "tone": "neutral",
         "reliable": true
+      },
+      {
+        "title": "Current price of gold: Month Day, Year - fortune.com",
+        "source": "fortune.com",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyaEhVYWdTckdKa0xxS094OGtUdFFVUDBlRjVMa200V2dyTEM2VWZ4eHZMSktGNDBQaDE0REcyRjFYWUJpeXE5UW4wUXVuVFVfSzdvc1VNWWFFN0NUZmo3empYMDZnSjF1TGdWYkVB?oc=5",
+        "published": "Fri, 02 Oct 2026 13:07:00 GMT",
+        "tone": "neutral",
+        "reliable": false
+      },
+      {
+        "title": "Gold (XAU/USD) Price Forecast for Today, Tomorrow, Next Week, and the Next 30 Days - LiteFinance",
+        "source": "LiteFinance",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ1BXeVdPR08tTmQ4MHdZMkloUzlsNjRjSE5VVmxyeVRrdDZqbDI3Tm5VVUdfYTdZM0dOYjkzVFBuMGhJUzZEM3E0RDBkc0RTUXd2VFdMdm5uenpPXzJobUNvRklvRkt0S0pfYkZ0UWRXaWRDc09MR1pBUkVDRXN2Y2FINkVmUDBlRkZHNGhzZkNyNk5LUzZrM2VUV1pVOV9N?oc=5",
+        "published": "Fri, 02 Oct 2026 07:00:00 GMT",
+        "tone": "neutral",
+        "reliable": false
       }
     ],
     "disclaimer": "Indicative outlook only — not financial advice. Gold prices depend on many factors; this can be wrong."
