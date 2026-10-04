@@ -41,7 +41,7 @@
   },
   "history_days": 254,
   "as_of_date": "2026-10-04",
-  "last_updated": "2026-10-04T15:52:52.167674+05:30",
+  "last_updated": "2026-10-04T22:26:47.541751+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -53,7 +53,7 @@
     "bias": "SLIGHTLY_UP",
     "bias_label": "Slightly upward bias",
     "confidence": "MEDIUM",
-    "score": 29.7,
+    "score": 24.7,
     "band_low": 13597.0,
     "band_high": 13753.0,
     "usd_inr_rate": 96.32,
@@ -65,15 +65,15 @@
       "Near 30D low (5%) — possible stabilisation/bounce",
       "USD/INR 96.32 (-0.01% today)",
       "Rupee weaker ₹ vs USD over 7D (+0.52%)",
-      "Global headlines lean bullish (1/5) · 3 from recognised sources"
+      "Global headlines mixed/neutral · 3 from recognised sources"
     ],
     "news": [
       {
-        "title": "Gold edges up as softer inflation data dents Fed rate-hike bets - reuters.com",
-        "source": "reuters.com",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRjFDcnNwNW1uWWdUaW5iaWRNLV8wbnl4QlBGWHFjN0twMDlINnBTclUwYnRGN1pTVTJYbE94MFEyRk5yQ0FUcXlQLXNkYkdPQXQ3eFlDUko4cXF1Vkc5TUg2LXZKSTAzc3hnOGJrT1hoNl92bG1mY1lSM2MwR3lBcGVQS2NmNDVEWUdURERqcDVkYUhpVTVXZDZqUEF6c1RCMjFFeWpOZWNKVzdGS3dFNzQ3VQ?oc=5",
-        "published": "Thu, 01 Oct 2026 19:14:47 GMT",
-        "tone": "bullish",
+        "title": "Gold Price prediction: What will be the gold rate? Factors that will drive bullion precious metal - The Economic Times",
+        "source": "The Economic Times",
+        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPeHJlbnZvMTYwTHM0Q3BYN1pmQl92UVRSalBQZnF3WUNZeUl2eDdfUTRNM1lNQjg0VHRQYlVMU00zQUNHa3BVVGNicEo5eGR2dkJjQ0tjVWc3cndiemlycXpyZVRNdHdmalBnUXc1YTBncTJlZkY0Znlvb3Q4ZjY2MnpQdnc4Wk50bW9hY2RBQ3JzU2ZxMjVOVWRjRjY2cE5lOVVnSklfTzYwV1lJZU15ZkptODdhWTdpejVhU18zYVpvbjROcGFtSFlzOGNsaVVjbldScTNVZXJBRjAwclVmeTU4NnJRNmZRLW1GV1BEMXhuUmtBcFg5NVBXekthX2hI?oc=5",
+        "published": "Sun, 04 Oct 2026 13:50:24 GMT",
+        "tone": "neutral",
         "reliable": true
       },
       {
@@ -93,16 +93,16 @@
         "reliable": true
       },
       {
-        "title": "Current price of gold: Month Day, Year - fortune.com",
-        "source": "fortune.com",
+        "title": "Current price of gold: Month Day, Year - Fortune",
+        "source": "Fortune",
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyaEhVYWdTckdKa0xxS094OGtUdFFVUDBlRjVMa200V2dyTEM2VWZ4eHZMSktGNDBQaDE0REcyRjFYWUJpeXE5UW4wUXVuVFVfSzdvc1VNWWFFN0NUZmo3empYMDZnSjF1TGdWYkVB?oc=5",
         "published": "Fri, 02 Oct 2026 13:07:00 GMT",
         "tone": "neutral",
         "reliable": false
       },
       {
-        "title": "Gold (XAU/USD) Price Forecast for Today, Tomorrow, Next Week, and the Next 30 Days - LiteFinance",
-        "source": "LiteFinance",
+        "title": "Gold (XAU/USD) Price Forecast for Today, Tomorrow, Next Week, and the Next 30 Days - litefinance.org",
+        "source": "litefinance.org",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ1BXeVdPR08tTmQ4MHdZMkloUzlsNjRjSE5VVmxyeVRrdDZqbDI3Tm5VVUdfYTdZM0dOYjkzVFBuMGhJUzZEM3E0RDBkc0RTUXd2VFdMdm5uenpPXzJobUNvRklvRkt0S0pfYkZ0UWRXaWRDc09MR1pBUkVDRXN2Y2FINkVmUDBlRkZHNGhzZkNyNk5LUzZrM2VUV1pVOV9N?oc=5",
         "published": "Fri, 02 Oct 2026 07:00:00 GMT",
         "tone": "neutral",
