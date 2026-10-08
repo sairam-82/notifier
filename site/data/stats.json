@@ -41,7 +41,7 @@
   },
   "history_days": 258,
   "as_of_date": "2026-10-08",
-  "last_updated": "2026-10-08T00:32:59.188812+05:30",
+  "last_updated": "2026-10-08T16:37:15.800919+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -53,7 +53,7 @@
     "bias": "SLIGHTLY_UP",
     "bias_label": "Slightly upward bias",
     "confidence": "MEDIUM",
-    "score": 42.3,
+    "score": 37.3,
     "band_low": 13654.0,
     "band_high": 13766.0,
     "usd_inr_rate": 96.73,
@@ -65,7 +65,7 @@
       "Near 30D low (11%) — possible stabilisation/bounce",
       "USD/INR 96.73 (+0.32% today)",
       "Rupee weaker ₹ vs USD over 7D (+0.94%)",
-      "Global headlines mixed/neutral · 3 from recognised sources"
+      "Global headlines lean bearish (1/5) · 3 from recognised sources"
     ],
     "news": [
       {
@@ -93,18 +93,18 @@
         "reliable": true
       },
       {
-        "title": "Current price of gold as of October 7, 2026 - Fortune",
-        "source": "Fortune",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5raWdTbzROaWlKXzk5N05wYjRVOWxaR0NIM0VqZ05GV2RnQWl5LTJramgzOV9EQk9rUkNRNW5TeUx5VmJkWXlRZDdubHBRTGZUaTRIc2tvSnVhbnVMdnVtTjg2eDlIUmtwaGVsSUN3?oc=5",
-        "published": "Wed, 07 Oct 2026 13:03:00 GMT",
-        "tone": "neutral",
+        "title": "Gold ETF rush defies 8.5% gold price slide - Mining.com",
+        "source": "Mining.com",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9TR1RZNm5wZFlrWm15cUVTOTd1Z0FsX3B0ZTRRMjgxQ2ZCd3NtMkdpX2VPazNHRnJCZzVLekFEQ3VyNW8tRVZ5ZE5uMWxIQ0ZPTGd0UXNqMFI5d3c0MDVxMUFVRWRKTDJkQlhvSXFtaDdiVXM?oc=5",
+        "published": "Wed, 07 Oct 2026 17:47:45 GMT",
+        "tone": "bearish",
         "reliable": false
       },
       {
-        "title": "Five Moves Are Quietly Rebuilding Gold’s Entire Market Structure - GoldSilver",
-        "source": "GoldSilver",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPLUV5LUNXckNYZE10M0FHeTRNNjV4aVpiN3Z4bzhWdVY5bzQ1TVdmSDhYcFZJWEpWYUU4MFFTWWpPYW85VVh3S3J4QldrQ0RjZHVubENmWDF1RHQ1VXNvNEM1ai15cWhCVFJBVWtzczV2XzlWOWlxaVd5LXQzSkl1blVDLVo0Z2ZKOWc?oc=5",
-        "published": "Tue, 06 Oct 2026 17:56:13 GMT",
+        "title": "Gold Market Commentary: Go with the flow - World Gold Council",
+        "source": "World Gold Council",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNkFrY1RiRkRCTjdiclpSeExocUdnNm42SUJITlBvUzBVaThSNGNEN1l6dk80clY4QW5lU2NidHVxTC1HbjNIOFQxdnlVSmNQN2ZKSjVjNjhqVlh0cTd6Z1dhTEl6UXBvcm5mNHc1d1hNVGlFcEFpS0ZlYkFpb1R6OA?oc=5",
+        "published": "Wed, 07 Oct 2026 12:00:00 GMT",
         "tone": "neutral",
         "reliable": false
       }
