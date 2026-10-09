@@ -41,7 +41,7 @@
   },
   "history_days": 259,
   "as_of_date": "2026-10-09",
-  "last_updated": "2026-10-09T16:36:14.037069+05:30",
+  "last_updated": "2026-10-09T23:58:16.160056+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -53,34 +53,42 @@
     "bias": "SLIGHTLY_UP",
     "bias_label": "Slightly upward bias",
     "confidence": "MEDIUM",
-    "score": 34.4,
+    "score": 26.0,
     "band_low": 13752.0,
     "band_high": 13878.0,
-    "usd_inr_rate": 96.78,
-    "usd_inr_as_of": "2026-10-08",
-    "usd_inr_daily_pct": 0.052,
-    "usd_inr_7d_pct": 0.467,
+    "usd_inr_rate": 96.73,
+    "usd_inr_as_of": "2026-10-09",
+    "usd_inr_daily_pct": -0.052,
+    "usd_inr_7d_pct": 0.426,
     "factors": [
       "7-day gold trend up (+1.02%)",
-      "USD/INR 96.78 (+0.05% today)",
-      "Rupee weaker ₹ vs USD over 7D (+0.47%)",
+      "USD/INR 96.73 (-0.05% today)",
+      "Rupee weaker ₹ vs USD over 7D (+0.43%)",
       "Global headlines mixed/neutral · 1 from recognised sources"
     ],
     "news": [
       {
-        "title": "Gold price prediction: Gold rate witnesses volatile October, check prices to target for bullion precious m - The Economic Times",
-        "source": "The Economic Times",
-        "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOQjA0cWlVWVVfc1BWQ2tiTUd2Mm1oZGNrSnhSbE1pV3RtWkpaTDRreUFxckxxU3JwNmJGb3dXLTEzZnRUZzdFTm9NWWRwc2JxdE43VWc5Y1RBYUI5VlNVVGxMMkp0SXE3a0ZkeE5mSHk1RWxfT3pDd2w2MGtEMTNheDAxZEJ1emt2bm5zazhPb1lvWVQyRG5CeW9SdklRQVRtY1NQM3J2bVU0U2ZWaTlaTTYwazl2N2xmMXZSLUNkb05YR1dGOWFSNzh3NVlVWkUtaWNBVDAzZ2dCeloybUx2Q29FOGlNMTZVbnBKb2lhaDFOczRhZXltV0NJM29aVEYxU1ZBNlV1ZW51MFZwdi15YtIBlgJBVV95cUxQS2JQQWxiZWVYOHhEZ3ZUbVJHaTg1blE4MWFtT2JqNE1OTkI3c3RuOS1faUFMNVdWUkxPLWpRWmtkYk1xVkhramJqNzZTTFZkTzZTV2txUUFCd1dCekUxQkNKNXR1V21RS0UtUHJ1amwwTWwtUWVRZV9RcGk0UXMwU3IyWXZxa2RqdlFkMEtjNjh1Z1BFYmlSaGsxeXZuS0RkYmFJRTg4M0dTc3hGMjZJN2VhZmFuWFB5YmQwU0llbzFJSllGc3lPb3kyZ2RPa3REbnJ2eGgtdllqdElTbnIwTW12TTFvR1hiYXNLVUd2Y2QzR3RPVXlrM1gtbUduZDZCQWFrSWk2eVhIMEJLYlUwQk1YZFdPdw?oc=5",
-        "published": "Thu, 08 Oct 2026 13:39:03 GMT",
-        "tone": "neutral",
+        "title": "Gold price trades near high after preliminary Consumer Sentiment falls to 46.3, inflation expectations rise - Kitco",
+        "source": "Kitco",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcFd5VWxYTzE1YzQzZEJOQlhReVc4dU1jd2tmLTl0TW1fR29fOXRqQlY0MUlIZmpGN2I0QWhjemVRc19lN3ZBM281bk9lLWoxQXVQZzY2UkV6YVFkRjJ5VjQ1blplcUI4WXQtMjRTeWJjNU9jTU9fajEzSE5vY2FiaFpvSE9qMjlDajFWY2I5WnpNYXhEUHlnX0xJN0gwUTdfNFM1cVdqenBDcHptS2xmU2RiVGI5SFQ3OHNubA?oc=5",
+        "published": "Fri, 09 Oct 2026 11:01:00 GMT",
+        "tone": "bullish",
         "reliable": true
       },
       {
-        "title": "GLD, GDX, and GDXJ Are 3 Ways to Bet on Gold. The Same Move Can Produce Wildly Different Returns - 24/7 Wall St.",
-        "source": "24/7 Wall St.",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNOXlTUWhkTEVqbDRrdEdmWUdlR1owRlhiZjF1WGM5NElRYmdBQUtIaXZFVWFUbnlYVWJnQ29sY3VrSzMwQzNFQ1RCcVVJVnNFdmIzaENjYzJrYnFkZEhKQk9UUG9JXzhTc25TdmpJRkJuYVlCekZsN2hqTHRoSmpfRjhGSnY3eHQ2XzltaHFkY2lvcXVOcnYzbVRGTTlIa1pzWllFdnJNbHhUOXJkQ2hNaVJvank1cURiZkFBM1FTdGpkc2VrSGcxVHlWMHJ4RkVhWnQ4b1A1dXY?oc=5",
-        "published": "Fri, 09 Oct 2026 00:33:00 GMT",
+        "title": "Current price of gold as of October 9, 2026 - Fortune",
+        "source": "Fortune",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE42OGtpVDBKVVBBUzg3a0xiMENQbXBZaTNHTGUyR2lJVzZhbEdtVVFXaG05V29YMm9iZWhUYk8wM1p3UHBocDE1eHRTdUtWdlYtNlA2Q1dtZUppTkFyVHQteGZTNXFfcnlzN0pTdTJn?oc=5",
+        "published": "Fri, 09 Oct 2026 13:03:00 GMT",
         "tone": "neutral",
+        "reliable": false
+      },
+      {
+        "title": "Gold And Silver: Correction In Progress (Technical And Fundamental) - Seeking Alpha",
+        "source": "Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcnhzSDF6LTNIcS1PZmhaejNZN2l1LXBOSzNVcE4yZ3hVckd5bW9YSUI2RFFYT0QyWjY5dUtfV0c5UHhSRFBpclVwY3VncTd2T3FxZ3NBcUdIVU5uS1YxYkJtUU9VNmJqR2FON2JmZTBVR1lIQUFZTFdCUmhZcDRvTk4zZGdBbmhuOEV6d2kxOHBiTk1sZ05Ga0ZHVDhOQ0pfWm9oMnVnQ2c?oc=5",
+        "published": "Fri, 09 Oct 2026 12:29:30 GMT",
+        "tone": "bearish",
         "reliable": false
       },
       {
@@ -92,18 +100,10 @@
         "reliable": false
       },
       {
-        "title": "Gold Price October 9 2026 - Robinhood",
-        "source": "Robinhood",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWmpRVmJ2SzlMdWtJYzJCaWZwOUJZTDZ6R1BrWEc1QldxMWtyNGE3dWF4b2ZvT1EzeGhNdkRaRkg2b0Z1S2twWExsY2MzRWRXNjc2a3VkTE1yQlRiZlhNS0dPMHV4LUk0akI3WDZhNUlSQi1vOUplbEs0Tkl4ekVfcTlRZjdFNkxMVU5CVXVSOVdVbWI0WnlqS0lXemZwaDY1?oc=5",
-        "published": "Thu, 08 Oct 2026 18:28:13 GMT",
-        "tone": "neutral",
-        "reliable": false
-      },
-      {
-        "title": "Gold Rallies, Silver Doesn't as Diesel Boosts the Dems' Mid-Terms Odds - BullionVault",
-        "source": "BullionVault",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRXBfU0pwejJYbmdEVG83VDI3N05iSk5HN3JreVVGZDlKYkpNMjFWdXN2VUdDWEI5aEJnVTI0VGxobFVzNVNWZVltRlJJb2prQUU5eGhER2MxLW1HQ3A5bmJBUWR2MVRzSE85ZzZKRHd6TlgtVTVPeTBHNE1EcVRMdFpDU0VZVGJGNDkxOG9LRXZHb1RjVGxZNw?oc=5",
-        "published": "Thu, 08 Oct 2026 14:49:55 GMT",
+        "title": "Gold Price Forecast – Gold Rises with Falling Rates - FXEmpire",
+        "source": "FXEmpire",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSUJXTFNHOTNGQnVyeUtyZFdzR05LbGx6Q2FkYVpaR3R3elVHc3l4ZW5OR1dFWFNHQlRQX3pzYXIxal9hU1FDR2R3MXhTTGQ5VWhpaW00aVRzengyd0MzWlE1S1VhaXlTSEZlRFVzWmhfOVo5VHBDOHNMRFpRTklxZVAyU1dsSmpPZ2Z3T01mczRPZG16T3BFQjRSLWdGNjVlcXc?oc=5",
+        "published": "Fri, 09 Oct 2026 13:10:22 GMT",
         "tone": "neutral",
         "reliable": false
       }
