@@ -41,7 +41,7 @@
   },
   "history_days": 260,
   "as_of_date": "2026-10-10",
-  "last_updated": "2026-10-10T15:53:59.629177+05:30",
+  "last_updated": "2026-10-10T22:56:11.574200+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -53,7 +53,7 @@
     "bias": "SLIGHTLY_UP",
     "bias_label": "Slightly upward bias",
     "confidence": "MEDIUM",
-    "score": 35.8,
+    "score": 30.8,
     "band_low": 13812.0,
     "band_high": 13948.0,
     "usd_inr_rate": 96.73,
@@ -64,16 +64,32 @@
       "7-day gold trend up (+1.50%)",
       "USD/INR 96.73 (-0.05% today)",
       "Rupee weaker ₹ vs USD over 7D (+0.43%)",
-      "Global headlines lean bullish (1/5) · 1 from recognised sources"
+      "Global headlines mixed/neutral · 2 from recognised sources"
     ],
     "news": [
       {
-        "title": "Gold price holds critical $4,100 support, but can it break $4,200 as inflation risks loom? - Kitco",
+        "title": "Gold Price Canada Today | Live Gold Price in CAD - Kitco",
         "source": "Kitco",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU1A5V2Nxa1JkRlRFNlFCcExoMTVmckhkOHVKeHF5THdEMkFpMlRIbklpM2NBMHROWnllalFaSGFLS0JnR19iaDh1UnYxOFY4MERrUVlVZVI1ZmI4djN5dFZrQ2hVY0gxWkNkMVk0ZDY0Ml9lNlhjUHZHWXFOQTZVM19EZjM3TE1zNHJhM3N3RWlRZnpZUVNGOUdObzBNZFNNZWRCaDlqQmI3YXN6YTlHeHcxQmtBYnlhalE?oc=5",
-        "published": "Fri, 09 Oct 2026 19:25:55 GMT",
-        "tone": "bullish",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVMHM0YXN3UkRUdlVZXzdrUjJmSHh5eFZ6Q0pSOVhYV1pLU0VzSXNhWGRVREpJbm9uX3pvSkZsMDNVRmg4a3JPYXlTY2N3OEF5Wm00MA?oc=5",
+        "published": "Sat, 10 Oct 2026 00:00:00 GMT",
+        "tone": "neutral",
         "reliable": true
+      },
+      {
+        "title": "Gold price prediction: Gold rate witnesses volatile October, check prices to target for bullion precious m - The Economic Times",
+        "source": "The Economic Times",
+        "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOQjA0cWlVWVVfc1BWQ2tiTUd2Mm1oZGNrSnhSbE1pV3RtWkpaTDRreUFxckxxU3JwNmJGb3dXLTEzZnRUZzdFTm9NWWRwc2JxdE43VWc5Y1RBYUI5VlNVVGxMMkp0SXE3a0ZkeE5mSHk1RWxfT3pDd2w2MGtEMTNheDAxZEJ1emt2bm5zazhPb1lvWVQyRG5CeW9SdklRQVRtY1NQM3J2bVU0U2ZWaTlaTTYwazl2N2xmMXZSLUNkb05YR1dGOWFSNzh3NVlVWkUtaWNBVDAzZ2dCeloybUx2Q29FOGlNMTZVbnBKb2lhaDFOczRhZXltV0NJM29aVEYxU1ZBNlV1ZW51MFZwdi15YtIBlgJBVV95cUxQS2JQQWxiZWVYOHhEZ3ZUbVJHaTg1blE4MWFtT2JqNE1OTkI3c3RuOS1faUFMNVdWUkxPLWpRWmtkYk1xVkhramJqNzZTTFZkTzZTV2txUUFCd1dCekUxQkNKNXR1V21RS0UtUHJ1amwwTWwtUWVRZV9RcGk0UXMwU3IyWXZxa2RqdlFkMEtjNjh1Z1BFYmlSaGsxeXZuS0RkYmFJRTg4M0dTc3hGMjZJN2VhZmFuWFB5YmQwU0llbzFJSllGc3lPb3kyZ2RPa3REbnJ2eGgtdllqdElTbnIwTW12TTFvR1hiYXNLVUd2Y2QzR3RPVXlrM1gtbUduZDZCQWFrSWk2eVhIMEJLYlUwQk1YZFdPdw?oc=5",
+        "published": "Thu, 08 Oct 2026 13:39:03 GMT",
+        "tone": "neutral",
+        "reliable": true
+      },
+      {
+        "title": "At a Shenzhen market, ‘golden week’ tourists flock to buy discount gold jewellery - South China Morning Post",
+        "source": "South China Morning Post",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWDRPQkNONkJIeFdqM2xPODluR01EbV9tV3FPUDFtaVNaRFA4U0hJSGdVWHJqVTk3SWs1V1ZuVlN5djVOWDBOaTVuYjdZTVkwSzJxd191X2s1bGdUajRpUlZMR01WbmtvMGhXSXdjaVVRUFpIbTVfY09acUNuTjFQQ3c1Wm5yRkdQWEh3NnNhZUtMTGp2N0pJdTZuTExoOGU2SjhWWXhTdVBjdGVjQlctTDRnMHNXQVoxbmpHMW9JTTBqakNON0d6b9IByAFBVV95cUxNSlR4TWNVR1JPT3ppVFdIUTBGNG56Sm9IMEd0R1pMN1d3SzVqTGxkd25aU0YzUGRXMXBDUGItNTJMOHZmZEk4aUpBU1YzNDFoaUFaT01WTzNMdzdnZjZ0Mlk4aWMzTXBWRmd6NEhjY21xMV9pbnVWaG01Y254Q3FneXo3ZmxTdExpVnFDTGd4RWVYdkRhWVllajZnZ2FLVUZFWGkwRkFtaFVQaHhiX0hLamxOVkdmWEtMVmV5S3o0UEZ5TVcyZ3Y3Qg?oc=5",
+        "published": "Sat, 10 Oct 2026 04:00:11 GMT",
+        "tone": "neutral",
+        "reliable": false
       },
       {
         "title": "Current price of gold as of October 9, 2026 - Fortune",
@@ -88,22 +104,6 @@
         "source": "World Gold Council",
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNkFrY1RiRkRCTjdiclpSeExocUdnNm42SUJITlBvUzBVaThSNGNEN1l6dk80clY4QW5lU2NidHVxTC1HbjNIOFQxdnlVSmNQN2ZKSjVjNjhqVlh0cTd6Z1dhTEl6UXBvcm5mNHc1d1hNVGlFcEFpS0ZlYkFpb1R6OA?oc=5",
         "published": "Wed, 07 Oct 2026 12:00:00 GMT",
-        "tone": "neutral",
-        "reliable": false
-      },
-      {
-        "title": "Gold Price Forecast – Gold Rises with Falling Rates - FXEmpire",
-        "source": "FXEmpire",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSUJXTFNHOTNGQnVyeUtyZFdzR05LbGx6Q2FkYVpaR3R3elVHc3l4ZW5OR1dFWFNHQlRQX3pzYXIxal9hU1FDR2R3MXhTTGQ5VWhpaW00aVRzengyd0MzWlE1S1VhaXlTSEZlRFVzWmhfOVo5VHBDOHNMRFpRTklxZVAyU1dsSmpPZ2Z3T01mczRPZG16T3BFQjRSLWdGNjVlcXc?oc=5",
-        "published": "Fri, 09 Oct 2026 13:10:22 GMT",
-        "tone": "neutral",
-        "reliable": false
-      },
-      {
-        "title": "Gold Price October 12 2026 - Robinhood",
-        "source": "Robinhood",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcnFNUGtIM1owWHpidmg3cGw1T2toWnYweHlScUNVemVTY1g3SHRZbnYyOVpXQXhYejh0R2xIVGlWdG5PZnNTeHd0OTdUQXM2Umx4TUloV2ZFc0ZjWHk1WnNha2N4ZnJnOEZ4NFROOEVzY0RNczlJN3p3aThFaEdxSXVtbDN0ZU5DUHZXV3M3SkkwbWFfUGNfYjl5U2dyWngtT1E?oc=5",
-        "published": "Fri, 09 Oct 2026 17:58:48 GMT",
         "tone": "neutral",
         "reliable": false
       }
