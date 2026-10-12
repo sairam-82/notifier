@@ -1,32 +1,32 @@
 {
-  "today_price": 13880.0,
+  "today_price": 13840.0,
   "yesterday_price": 13880.0,
-  "daily_change": 0.0,
-  "daily_change_percent": 0.0,
-  "daily_direction": "flat",
-  "position_30d": 37.21,
+  "daily_change": -40.0,
+  "daily_change_percent": -0.29,
+  "daily_direction": "down",
+  "position_30d": 31.01,
   "classification": "NORMAL_RANGE",
   "classification_label": "NORMAL RANGE",
   "period_7d": {
     "low": 13660.0,
     "high": 13880.0,
-    "average": 13761.43,
-    "change": 205.0,
-    "change_percent": 1.5,
+    "average": 13785.0,
+    "change": 180.0,
+    "change_percent": 1.32,
     "count": 7
   },
   "period_30d": {
     "low": 13640.0,
     "high": 14285.0,
-    "average": 13930.33,
-    "change": -290.0,
-    "change_percent": -2.05,
+    "average": 13919.33,
+    "change": -330.0,
+    "change_percent": -2.33,
     "count": 30
   },
   "period_90d": {
     "low": 12930.2,
     "high": 15030.0,
-    "average": 13911.43,
+    "average": 13921.25,
     "change": null,
     "change_percent": null,
     "count": 83
@@ -34,14 +34,14 @@
   "period_365d": {
     "low": 11001.2,
     "high": 16061.1,
-    "average": 13503.22,
+    "average": 13504.61,
     "change": null,
     "change_percent": null,
-    "count": 241
+    "count": 242
   },
-  "history_days": 261,
-  "as_of_date": "2026-10-11",
-  "last_updated": "2026-10-11T23:15:22.878031+05:30",
+  "history_days": 262,
+  "as_of_date": "2026-10-12",
+  "last_updated": "2026-10-12T17:07:36.388113+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -53,58 +53,58 @@
     "bias": "SLIGHTLY_UP",
     "bias_label": "Slightly upward bias",
     "confidence": "MEDIUM",
-    "score": 30.8,
-    "band_low": 13830.0,
-    "band_high": 13930.0,
+    "score": 24.0,
+    "band_low": 13796.0,
+    "band_high": 13884.0,
     "usd_inr_rate": 96.73,
     "usd_inr_as_of": "2026-10-09",
     "usd_inr_daily_pct": -0.052,
     "usd_inr_7d_pct": 0.426,
     "factors": [
-      "7-day gold trend up (+1.50%)",
+      "7-day gold trend up (+1.32%)",
       "USD/INR 96.73 (-0.05% today)",
       "Rupee weaker ₹ vs USD over 7D (+0.43%)",
-      "Global headlines mixed/neutral · 2 from recognised sources"
+      "Global headlines lean bearish (1/5) · 3 from recognised sources"
     ],
     "news": [
       {
-        "title": "Gold price holds critical $4,100 support, but can it break $4,200 as inflation risks loom? - Kitco",
+        "title": "Gold Price Canada Today | Live Gold Price in CAD - Kitco",
         "source": "Kitco",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU1A5V2Nxa1JkRlRFNlFCcExoMTVmckhkOHVKeHF5THdEMkFpMlRIbklpM2NBMHROWnllalFaSGFLS0JnR19iaDh1UnYxOFY4MERrUVlVZVI1ZmI4djN5dFZrQ2hVY0gxWkNkMVk0ZDY0Ml9lNlhjUHZHWXFOQTZVM19EZjM3TE1zNHJhM3N3RWlRZnpZUVNGOUdObzBNZFNNZWRCaDlqQmI3YXN6YTlHeHcxQmtBYnlhalE?oc=5",
-        "published": "Fri, 09 Oct 2026 23:15:00 GMT",
-        "tone": "bullish",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVMHM0YXN3UkRUdlVZXzdrUjJmSHh5eFZ6Q0pSOVhYV1pLU0VzSXNhWGRVREpJbm9uX3pvSkZsMDNVRmg4a3JPYXlTY2N3OEF5Wm00MA?oc=5",
+        "published": "Mon, 12 Oct 2026 00:00:00 GMT",
+        "tone": "neutral",
         "reliable": true
       },
       {
-        "title": "Mounting rate hike bets keep weekly loss in sight for gold - Reuters",
-        "source": "Reuters",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNX3F4eFFXZE5rZGRwVFhHYUsxZlhGeFlzSEF1Y0xYc2JmT0YtdkgtRmRhbFVTYVk3NGZRRUlsd3dCTDlCSmdnT1Y5OWN5MERTdzlibVdVQmhSeGc4SHIxWEhpRDJ6bjNLZXNURWdHbHBVOHNqU3FlUHJFc3lQRmN0SWlFRzRCUWpzdkFNYS1nb29JRDJzSzkwdjVDM1VlaHNzMG5FS3ZUU29rZ2RTVWxB?oc=5",
-        "published": "Fri, 25 Sep 2026 07:00:00 GMT",
+        "title": "US Dollar, Gold and Oil — Key Market Analysis for the Week - Investing.com",
+        "source": "Investing.com",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZlMybnFLZ3o5X1hSbzFmajhFcl9CS09Qb3pOMWFzdVRSa3lkcFpUN3FtRU9TOHNUUXk4QTE5Q1YyOW52ZWFCUXdGOHRIQkZ0bnFzQmVVeDBYVTh2a25IelJJX1pCSThFV2lrQldGeGtnaXB2SmI5aG80WllsemtRWkRWaVpKZUVaWm9QUFQxY0lkemVLSFdCa0V1XzExX01Dampj?oc=5",
+        "published": "Mon, 12 Oct 2026 08:52:50 GMT",
+        "tone": "neutral",
+        "reliable": true
+      },
+      {
+        "title": "Why China is importing a record amount of gold — and what it means for prices - CNBC",
+        "source": "CNBC",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5QcHRBWVhFbGkxSy1BdGNNaGktNUZMaEx2TFB1Sm54RkJZbWhxYkJhTl9BeEJ1RC1RaDRMYlN2X25BdGZNN3F2QjlmYmFPR0VjaFlsUXJScnVpcU5VaVZQZmFfMjZ6QVJlamJ4NW41cWYwanJmeG9nMQ?oc=5",
+        "published": "Mon, 12 Oct 2026 00:51:00 GMT",
+        "tone": "neutral",
+        "reliable": true
+      },
+      {
+        "title": "Chart of the day: Gold price eyes $4,200 breakout, but buyers still face two major hurdles - investingLive",
+        "source": "investingLive",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOER5UkJFZFQ0TFdXaXBaaW40TXNHYWFGeU9HQTlQcnlraURWQTFPZFJfY0pKZUVJdWZwSGpiS0hmMXFLT2xHX2xXX1kxVEtxMTZrR1VCQ21TclRBTFQwQTlvbFJGellfUkd1X0NTeFNHMmQ5dGtQMDZyOEJpX0lRSUM0a1NxYmJVREl3WWQzZDdHbUNMRjdYUF9zYTZDdWs0NXFVTGdlYWo3YjBYVEVoM0R4eFhnYkF5ZGVITlE4ejdBZFpDc1ZwYTlnQW94dw?oc=5",
+        "published": "Mon, 12 Oct 2026 05:01:25 GMT",
+        "tone": "neutral",
+        "reliable": false
+      },
+      {
+        "title": "Currency market: Gold drops in price as foreign exchange demand surges in Belarus - Belsat",
+        "source": "Belsat",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLXg2RnhBVTdJeGx4dXpCREthaGVlWnV2cm83WGFSdmF3RnRBdEFmQ210cjRmajdWUmtnRFBlRkVweXBlay1mMDN5Z0JXYml6Z1loX2F5T3dKSllpdU9LTWM1bXBIZ1ZaeTRDTm00OS05andzRnYtSVpkNDhRRF9LdV9ONkFhOVVvTFRWYmx3aS1XbGM5ODFlNW1XUHk3VVFnQlgwNWJCTDlmSG5rdFo0?oc=5",
+        "published": "Mon, 12 Oct 2026 09:55:00 GMT",
         "tone": "bearish",
-        "reliable": true
-      },
-      {
-        "title": "A Record $31 Billion Gold Rush Is Sending Investors a Strange Warning About the Bond Market - 24/7 Wall St.",
-        "source": "24/7 Wall St.",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSVVqTmlIUFVwMHk1WjNCemF3ZkdfTGdXVXQ0SjBaaFduZVhLN2NNelVTN3FsTGpvS08tM3RDb1RCV3pIM3pSZ2ZNcTRPSEFIc1k2VlVqekFDZW5XMUNzbXc0LUw2N2tTZUdzMHJOeExvbG5tQjFFWW9qcVpnUjVEdktmeWo3bllTb1R2SVFxR3dEb3I1RXBlSFVTMUtHUXI1MDVhM1pUcWlvWkdBODJQNGZUTU13VVhYSDBNRmxRSEtGbkJxWjdWU0ZfN1BCeTQ?oc=5",
-        "published": "Sun, 11 Oct 2026 14:41:00 GMT",
-        "tone": "neutral",
-        "reliable": false
-      },
-      {
-        "title": "A Record $31 Billion Gold Rush Is Sending Investors a Strange Warning About the Bond Market - Yahoo Finance",
-        "source": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdnA4VE1DZGVsZ2tRYUJsbmt6QXF0alY0SGthdzFkUEdySXNDd2RJbmp3ZVhySmdKMlpzWHZIaE8xeWR3WVlxVHRxRWJpMDFrM203bnozTm5jTjc4XzJVZm1fV0FRcTNkOXpXTk5YZEV2cWl1NjdKRjBzVEpTdmFhTWJtMUwtWm82a2w0X2FSZGZqLUlIeHZlYnNpTTdNQQ?oc=5",
-        "published": "Sun, 11 Oct 2026 14:41:23 GMT",
-        "tone": "neutral",
-        "reliable": false
-      },
-      {
-        "title": "At a Shenzhen market, ‘golden week’ tourists flock to buy discount gold jewellery - South China Morning Post",
-        "source": "South China Morning Post",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWDRPQkNONkJIeFdqM2xPODluR01EbV9tV3FPUDFtaVNaRFA4U0hJSGdVWHJqVTk3SWs1V1ZuVlN5djVOWDBOaTVuYjdZTVkwSzJxd191X2s1bGdUajRpUlZMR01WbmtvMGhXSXdjaVVRUFpIbTVfY09acUNuTjFQQ3c1Wm5yRkdQWEh3NnNhZUtMTGp2N0pJdTZuTExoOGU2SjhWWXhTdVBjdGVjQlctTDRnMHNXQVoxbmpHMW9JTTBqakNON0d6b9IByAFBVV95cUxNSlR4TWNVR1JPT3ppVFdIUTBGNG56Sm9IMEd0R1pMN1d3SzVqTGxkd25aU0YzUGRXMXBDUGItNTJMOHZmZEk4aUpBU1YzNDFoaUFaT01WTzNMdzdnZjZ0Mlk4aWMzTXBWRmd6NEhjY21xMV9pbnVWaG01Y254Q3FneXo3ZmxTdExpVnFDTGd4RWVYdkRhWVllajZnZ2FLVUZFWGkwRkFtaFVQaHhiX0hLamxOVkdmWEtMVmV5S3o0UEZ5TVcyZ3Y3Qg?oc=5",
-        "published": "Sat, 10 Oct 2026 04:00:11 GMT",
-        "tone": "neutral",
         "reliable": false
       }
     ],
