@@ -41,7 +41,7 @@
   },
   "history_days": 264,
   "as_of_date": "2026-10-14",
-  "last_updated": "2026-10-14T14:45:23.508692+05:30",
+  "last_updated": "2026-10-14T23:00:25.664105+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -53,26 +53,26 @@
     "bias": "SLIGHTLY_DOWN",
     "bias_label": "Slightly downward bias",
     "confidence": "MEDIUM",
-    "score": -26.8,
+    "score": -26.9,
     "band_low": 13535.0,
     "band_high": 13645.0,
-    "usd_inr_rate": 95.28,
-    "usd_inr_as_of": "2026-10-13",
-    "usd_inr_daily_pct": -0.522,
-    "usd_inr_7d_pct": -1.182,
+    "usd_inr_rate": 95.16,
+    "usd_inr_as_of": "2026-10-14",
+    "usd_inr_daily_pct": -0.126,
+    "usd_inr_7d_pct": -1.623,
     "factors": [
       "7-day gold trend down (-0.88%)",
       "Near 30D low (0%) — possible stabilisation/bounce",
-      "USD/INR 95.28 (-0.52% today)",
-      "Rupee stronger ₹ vs USD over 7D (-1.18%)",
-      "Global headlines lean bullish (1/5) · 3 from recognised sources"
+      "USD/INR 95.16 (-0.13% today)",
+      "Rupee stronger ₹ vs USD over 7D (-1.62%)",
+      "Global headlines mixed/neutral · 2 from recognised sources"
     ],
     "news": [
       {
-        "title": "Gold Price Canada Today | Live Gold Price in CAD - Kitco",
-        "source": "Kitco",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVMHM0YXN3UkRUdlVZXzdrUjJmSHh5eFZ6Q0pSOVhYV1pLU0VzSXNhWGRVREpJbm9uX3pvSkZsMDNVRmg4a3JPYXlTY2N3OEF5Wm00MA?oc=5",
-        "published": "Wed, 14 Oct 2026 00:00:00 GMT",
+        "title": "Gold drops over 1% as hot US inflation data boosts Fed hike bets - Reuters",
+        "source": "Reuters",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZkM3NGdUajlORC1ZZjBNcFZtNjYwa2JRaFczS1V4OVRORGhzZG1NUGxaY3ppRjdfQlFvUmREakJQM1RGaDNZZmZFMnJrY2Rtemc2Z1dBY1pPRy1ZbnBJVzNfTG1MMGJ5TXY5VzFpaDd6UENqd1pUOVdlTm1sS241QkFzNm1kdDJXTjl5emhLV200WUI1QVh4RQ?oc=5",
+        "published": "Wed, 14 Oct 2026 03:12:00 GMT",
         "tone": "neutral",
         "reliable": true
       },
@@ -85,26 +85,26 @@
         "reliable": true
       },
       {
-        "title": "Gold subdued ahead of US inflation data, Warsh remarks - Reuters",
-        "source": "Reuters",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRnRSZTl3U0dwUkZRSkNlalhmeF94cE1aaGV4NjNZdll2aENMRDZTWGNTTnhjMS1BQ1hKUG9qc2hKS185eXpWTjFfUnBwN1cwdVNIUllaMnc0Tno2SnFBaXp4RGxMWkd1eFhXR1VTLV9qN25ETlIyeEVLNXNGX2NqZV80SUk5WG5IeEVDNGpRbTRfaVliMk9HVk5vQ0lyVnc?oc=5",
-        "published": "Tue, 13 Oct 2026 02:23:00 GMT",
-        "tone": "bullish",
-        "reliable": true
-      },
-      {
-        "title": "Current price of gold as of October 12, 2026 - Fortune",
-        "source": "Fortune",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGdFRoWXNvUlF6b1hxbXZHMWo1YTVwb3FqaWswRmV5a1Y4MUEwcDQ5cjRyYUt5SnVGb09nSzZsSVNWMWRYajFjX0Z5V0pIYnNtbUN3YUNaZ1o3dWlUM0F1aVE5UFFES3BTSVA2UERn?oc=5",
-        "published": "Mon, 12 Oct 2026 13:02:00 GMT",
+        "title": "21K Gold Price Reaches JD84.5 in Local Market... - Jordan News",
+        "source": "Jordan News",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbkt2T2lnTEZVOFRmdlBmUGFnczROMWNoTlpWWlNFYjNNYTRtTjFfWlcxNllyM0dCeDhfejl0bUNFSUFfZ0FEY2N0VmNzTG8yVS1kVnJkaDU1VVVzYmVSc2JnaWJEMHRpMERCYzVOUkJiSEp4N2g5SFdSaFRFMFJ3V3E5RGx3bTc0ZHFuUDd3V3U3VFAyc0NodUg1S2pldw?oc=5",
+        "published": "Wed, 14 Oct 2026 08:57:55 GMT",
         "tone": "neutral",
         "reliable": false
       },
       {
-        "title": "Does $8,000 gold price target look too optimistic? - The Armchair Trader",
-        "source": "The Armchair Trader",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONlBiYXZvQ2dVaHFvNGhNeGZHb2JGWVIxNVNmVVFHM2tQZmhDVjZBZXVDUlNBd2NGSU54VG5oUnFfNTFkV05yU3l4QnczckdOQnB3djJHQ3VBSFRTRGRHVzVQY1BiRmd3eThvRTlUZDN3bFNfRzNnbmp1QXphNG9jM3l6em9IQ0Rsekl3eTU1RVJzS21kS3NfVjZ4TXRBVmVXWDAw?oc=5",
-        "published": "Wed, 14 Oct 2026 08:26:29 GMT",
+        "title": "Current price of gold: Month Day, Year - Fortune",
+        "source": "Fortune",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBlZ0dZMmFRVmZ6VWxUVnR5M3VGU1o3WmV1OWtheDNxS1pxc09zTmVPMEtxblZTSEtoNWdwMUhDSG5QX0JvRUxWWTRLMUR1c0hvZHVVaUEyT2txS1VVaFpEeVFtWGhvSlk1Y0Q1Y3dB?oc=5",
+        "published": "Wed, 14 Oct 2026 13:04:00 GMT",
+        "tone": "neutral",
+        "reliable": false
+      },
+      {
+        "title": "Does $8,000 gold price target look too optimistic? - Yahoo Finance Singapore",
+        "source": "Yahoo Finance Singapore",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBtZ1ZEdVlNSERSbVpESU9DLUt3UkVkbFNsdXNtZEtuMHdLdDh4SU12S01LU2QzRGM0ck1seC1vNlRtWVUxWE9lUUZnV3gya2w4RVdPc0pYQ1FXM2hRcnRaWHc4RTI5TV9MemFtbmk1cTZ6al8ybl92NGlR?oc=5",
+        "published": "Wed, 14 Oct 2026 08:24:24 GMT",
         "tone": "neutral",
         "reliable": false
       }
