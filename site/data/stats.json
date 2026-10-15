@@ -41,7 +41,7 @@
   },
   "history_days": 265,
   "as_of_date": "2026-10-15",
-  "last_updated": "2026-10-15T14:18:00.181006+05:30",
+  "last_updated": "2026-10-15T22:46:47.311708+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -53,27 +53,27 @@
     "bias": "SLIGHTLY_DOWN",
     "bias_label": "Slightly downward bias",
     "confidence": "MEDIUM",
-    "score": -39.8,
+    "score": -33.1,
     "band_low": 13461.0,
     "band_high": 13569.0,
-    "usd_inr_rate": 95.16,
-    "usd_inr_as_of": "2026-10-14",
-    "usd_inr_daily_pct": -0.126,
-    "usd_inr_7d_pct": -1.623,
+    "usd_inr_rate": 95.06,
+    "usd_inr_as_of": "2026-10-15",
+    "usd_inr_daily_pct": -0.105,
+    "usd_inr_7d_pct": -1.777,
     "factors": [
       "7-day gold trend down (-2.17%)",
       "Near 30D low (0%) — possible stabilisation/bounce",
-      "USD/INR 95.16 (-0.13% today)",
-      "Rupee stronger ₹ vs USD over 7D (-1.62%)",
-      "Global headlines mixed/neutral · 2 from recognised sources"
+      "USD/INR 95.06 (-0.10% today)",
+      "Rupee stronger ₹ vs USD over 7D (-1.78%)",
+      "Global headlines lean bullish (1/5) · 2 from recognised sources"
     ],
     "news": [
       {
-        "title": "Gold Price Canada Today | Live Gold Price in CAD - Kitco",
+        "title": "Gold price hits $4,154/oz after retail sales rise 0.8% in September - Kitco",
         "source": "Kitco",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVMHM0YXN3UkRUdlVZXzdrUjJmSHh5eFZ6Q0pSOVhYV1pLU0VzSXNhWGRVREpJbm9uX3pvSkZsMDNVRmg4a3JPYXlTY2N3OEF5Wm00MA?oc=5",
-        "published": "Thu, 15 Oct 2026 00:00:00 GMT",
-        "tone": "neutral",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSzJydjFVd3cyVVlFcGJMUnhPVVRZcXlCbnJjSUtsay1PR01IV0EySVZ4SmNxMVdXWVhteUY2VlhORmFHOXpJcGtsMTZIa0tmWkp4YkZSVEZaM1VPSTlnaFA3UHFQUGd6TWxuV09XcmV2bDBzd3M4a0NVUGVSYVVwckh5a1JPT2EzWWJWQU9oN1Y0bkNXU3BPZ1J3RFVqSHBRQ19uR0NDeHA?oc=5",
+        "published": "Thu, 15 Oct 2026 12:50:19 GMT",
+        "tone": "bullish",
         "reliable": true
       },
       {
@@ -93,18 +93,18 @@
         "reliable": false
       },
       {
-        "title": "Current price of gold: Month Day, Year - Fortune",
+        "title": "Current price of gold as of October 15, 2026 - Fortune",
         "source": "Fortune",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBlZ0dZMmFRVmZ6VWxUVnR5M3VGU1o3WmV1OWtheDNxS1pxc09zTmVPMEtxblZTSEtoNWdwMUhDSG5QX0JvRUxWWTRLMUR1c0hvZHVVaUEyT2txS1VVaFpEeVFtWGhvSlk1Y0Q1Y3dB?oc=5",
-        "published": "Wed, 14 Oct 2026 13:04:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VQVg5T2NPZ2xhWEc1c3Z4LXBNY1IzYXV2VERVdTFRRW03RTFiV1FCaHFEZVRBSEIwSnl0Y1RzZzU4eUlnMW1OSFlJYm5XOThIYmVGNDFaUnFxTHI4RFZIYi04Tmk3cGxRaFJWU2pB?oc=5",
+        "published": "Thu, 15 Oct 2026 13:13:00 GMT",
         "tone": "neutral",
         "reliable": false
       },
       {
-        "title": "Gold Price Analysis: XAU/USD Eyes Recovery Toward $4,200 Resistance - Brave New Coin",
-        "source": "Brave New Coin",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOY1k5c2lTVmpVVDZYMndUNmhYaXJsSGxkSGd5VVdlSjdIMTNzN2ZrT0ZBdUtWQkhZODZwa2JaeGtrbUJQQnZRQzJ5b29SUFYyN3JQS0NDQ1RsNVdGT2dCUnF0M3dnZ2Q1S2I2a2VGeXMzQm82Zkk0S0twMnBpMGpPOEpnVkctT0lkUE5mbExvVWxfY09mcUJDODRhRUN1ZEE?oc=5",
-        "published": "Wed, 14 Oct 2026 14:50:45 GMT",
+        "title": "Gold Price Forecast: Higher-Than-Expected CPI Weighs on Gold, Can PPI Push Gold Back to $4,200? - TradingKey",
+        "source": "TradingKey",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQWxDS0V5NXptLXIwbTlwSmd4VHlfWW9XcTBPVGJxVXNLejFVNUdZZ2JkVW9TeHNQTWNlcE1GdzBsZW1PSWdyY3FiWE5aSmhLeVI5dm5EdEdfS0hOR0VYZFdDbmhGTEk0U0xUQlpEbUItZFVQcWxQdnRjb1JDci1mZnAwSTAzTEljbHRpNGJxSm84S0pjaHh6SEV5aTFTbG5CU3FaU0tvNEI1TjdBWlRCLS1GeUE3Zlk?oc=5",
+        "published": "Thu, 15 Oct 2026 10:36:52 GMT",
         "tone": "neutral",
         "reliable": false
       }
