@@ -1,32 +1,32 @@
 {
-  "today_price": 13590.0,
-  "yesterday_price": 13685.0,
-  "daily_change": -95.0,
-  "daily_change_percent": -0.69,
+  "today_price": 13515.0,
+  "yesterday_price": 13590.0,
+  "daily_change": -75.0,
+  "daily_change_percent": -0.55,
   "daily_direction": "down",
   "position_30d": 0.0,
   "classification": "D30_LOW",
   "classification_label": "30D LOW",
   "period_7d": {
-    "low": 13590.0,
+    "low": 13515.0,
     "high": 13880.0,
-    "average": 13771.43,
-    "change": -120.0,
-    "change_percent": -0.88,
+    "average": 13743.57,
+    "change": -300.0,
+    "change_percent": -2.17,
     "count": 7
   },
   "period_30d": {
-    "low": 13590.0,
+    "low": 13515.0,
     "high": 14285.0,
-    "average": 13885.33,
-    "change": -450.0,
-    "change_percent": -3.21,
+    "average": 13867.83,
+    "change": -550.0,
+    "change_percent": -3.91,
     "count": 30
   },
   "period_90d": {
     "low": 12930.2,
     "high": 15030.0,
-    "average": 13925.51,
+    "average": 13931.9,
     "change": null,
     "change_percent": null,
     "count": 84
@@ -34,14 +34,14 @@
   "period_365d": {
     "low": 11001.2,
     "high": 16061.1,
-    "average": 13505.7,
+    "average": 13505.74,
     "change": null,
     "change_percent": null,
-    "count": 244
+    "count": 245
   },
-  "history_days": 264,
-  "as_of_date": "2026-10-14",
-  "last_updated": "2026-10-14T23:00:25.664105+05:30",
+  "history_days": 265,
+  "as_of_date": "2026-10-15",
+  "last_updated": "2026-10-15T14:18:00.181006+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -53,15 +53,15 @@
     "bias": "SLIGHTLY_DOWN",
     "bias_label": "Slightly downward bias",
     "confidence": "MEDIUM",
-    "score": -26.9,
-    "band_low": 13535.0,
-    "band_high": 13645.0,
+    "score": -39.8,
+    "band_low": 13461.0,
+    "band_high": 13569.0,
     "usd_inr_rate": 95.16,
     "usd_inr_as_of": "2026-10-14",
     "usd_inr_daily_pct": -0.126,
     "usd_inr_7d_pct": -1.623,
     "factors": [
-      "7-day gold trend down (-0.88%)",
+      "7-day gold trend down (-2.17%)",
       "Near 30D low (0%) — possible stabilisation/bounce",
       "USD/INR 95.16 (-0.13% today)",
       "Rupee stronger ₹ vs USD over 7D (-1.62%)",
@@ -69,26 +69,26 @@
     ],
     "news": [
       {
-        "title": "Gold drops over 1% as hot US inflation data boosts Fed hike bets - Reuters",
-        "source": "Reuters",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZkM3NGdUajlORC1ZZjBNcFZtNjYwa2JRaFczS1V4OVRORGhzZG1NUGxaY3ppRjdfQlFvUmREakJQM1RGaDNZZmZFMnJrY2Rtemc2Z1dBY1pPRy1ZbnBJVzNfTG1MMGJ5TXY5VzFpaDd6UENqd1pUOVdlTm1sS241QkFzNm1kdDJXTjl5emhLV200WUI1QVh4RQ?oc=5",
-        "published": "Wed, 14 Oct 2026 03:12:00 GMT",
-        "tone": "neutral",
-        "reliable": true
-      },
-      {
-        "title": "Gold price needs a dovish Fed or renewed debasement fears to reverse its downtrend – Bank of America - Kitco",
+        "title": "Gold Price Canada Today | Live Gold Price in CAD - Kitco",
         "source": "Kitco",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTzZzc0VBMXVwcklVemRpM3hieFAtSnB2NE4zNGZBUUVROS1iYVpFbWxPX2RBWUhtU2s1Y1d6ZDlLb1VZUlpadUc3UEpPQ2NLN1FGU3NiN0RQbF84UWJMSFFTaUd1cEZUbTE0SnNabTVLLVRSajFoYXBPV0RDTjFmNWtIN2F4ams5NFVjSTNoNmhEdkc4WmRDd1JUSkEya0VHakhVNXJiaXBHM3FVNmV4VXY1Yw?oc=5",
-        "published": "Mon, 12 Oct 2026 12:36:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVMHM0YXN3UkRUdlVZXzdrUjJmSHh5eFZ6Q0pSOVhYV1pLU0VzSXNhWGRVREpJbm9uX3pvSkZsMDNVRmg4a3JPYXlTY2N3OEF5Wm00MA?oc=5",
+        "published": "Thu, 15 Oct 2026 00:00:00 GMT",
         "tone": "neutral",
         "reliable": true
       },
       {
-        "title": "21K Gold Price Reaches JD84.5 in Local Market... - Jordan News",
-        "source": "Jordan News",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbkt2T2lnTEZVOFRmdlBmUGFnczROMWNoTlpWWlNFYjNNYTRtTjFfWlcxNllyM0dCeDhfejl0bUNFSUFfZ0FEY2N0VmNzTG8yVS1kVnJkaDU1VVVzYmVSc2JnaWJEMHRpMERCYzVOUkJiSEp4N2g5SFdSaFRFMFJ3V3E5RGx3bTc0ZHFuUDd3V3U3VFAyc0NodUg1S2pldw?oc=5",
-        "published": "Wed, 14 Oct 2026 08:57:55 GMT",
+        "title": "Investors predict new record price for gold within two years - Financial Times",
+        "source": "Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVktnaGtfVlM4U2dzQTE2QlBhc0dyaWc5UzNpYUs1U3EyMm5XaXRZR21Ib2J6em5vY1h3OFhoenljSDBEV1ZqRlVoRjFvUktSNUZnSy1acUdSbzdqb09JV1dhdUJQZmdOWFpNUU8wQlhYUktVTUVHRXlwRnVHX1RqUFpodUQ?oc=5",
+        "published": "Thu, 15 Oct 2026 04:00:39 GMT",
+        "tone": "neutral",
+        "reliable": true
+      },
+      {
+        "title": "China gold market update: Q3 ends with strong official gold buying | Post by Ray Jia | Insights - World Gold Council",
+        "source": "World Gold Council",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOckgzTVVVNEdtcjU3d0EtWWVybTYwN0ZuUndKZXRhOUFQMDhMTGROOFVXWTBMb1FuTkVvUktrWmJKUnlfT21lbEFzdVZ2SDI3MHFGdGdOQmNMSG9CZGpzYXJyOWxaeWVmaG5IN0ZvekdDUnczMXJvSGdHWFpTQXlmZ18xZ3ZLNmxqOGNqdUVMcDBodFM3TWJfcnd3cGx3TjlsTFdQWmN3WlBqb3hH?oc=5",
+        "published": "Thu, 15 Oct 2026 07:52:28 GMT",
         "tone": "neutral",
         "reliable": false
       },
@@ -101,10 +101,10 @@
         "reliable": false
       },
       {
-        "title": "Does $8,000 gold price target look too optimistic? - Yahoo Finance Singapore",
-        "source": "Yahoo Finance Singapore",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBtZ1ZEdVlNSERSbVpESU9DLUt3UkVkbFNsdXNtZEtuMHdLdDh4SU12S01LU2QzRGM0ck1seC1vNlRtWVUxWE9lUUZnV3gya2w4RVdPc0pYQ1FXM2hRcnRaWHc4RTI5TV9MemFtbmk1cTZ6al8ybl92NGlR?oc=5",
-        "published": "Wed, 14 Oct 2026 08:24:24 GMT",
+        "title": "Gold Price Analysis: XAU/USD Eyes Recovery Toward $4,200 Resistance - Brave New Coin",
+        "source": "Brave New Coin",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOY1k5c2lTVmpVVDZYMndUNmhYaXJsSGxkSGd5VVdlSjdIMTNzN2ZrT0ZBdUtWQkhZODZwa2JaeGtrbUJQQnZRQzJ5b29SUFYyN3JQS0NDQ1RsNVdGT2dCUnF0M3dnZ2Q1S2I2a2VGeXMzQm82Zkk0S0twMnBpMGpPOEpnVkctT0lkUE5mbExvVWxfY09mcUJDODRhRUN1ZEE?oc=5",
+        "published": "Wed, 14 Oct 2026 14:50:45 GMT",
         "tone": "neutral",
         "reliable": false
       }
