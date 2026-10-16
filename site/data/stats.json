@@ -41,7 +41,7 @@
   },
   "history_days": 266,
   "as_of_date": "2026-10-16",
-  "last_updated": "2026-10-16T14:13:13.929189+05:30",
+  "last_updated": "2026-10-16T22:22:36.349408+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -53,50 +53,34 @@
     "bias": "SLIGHTLY_DOWN",
     "bias_label": "Slightly downward bias",
     "confidence": "MEDIUM",
-    "score": -37.7,
+    "score": -42.7,
     "band_low": 13469.0,
     "band_high": 13561.0,
-    "usd_inr_rate": 95.06,
-    "usd_inr_as_of": "2026-10-15",
+    "usd_inr_rate": 94.96,
+    "usd_inr_as_of": "2026-10-16",
     "usd_inr_daily_pct": -0.105,
-    "usd_inr_7d_pct": -1.777,
+    "usd_inr_7d_pct": -1.83,
     "factors": [
       "7-day gold trend down (-2.63%)",
       "Near 30D low (0%) — possible stabilisation/bounce",
-      "USD/INR 95.06 (-0.10% today)",
-      "Rupee stronger ₹ vs USD over 7D (-1.78%)",
-      "Global headlines lean bullish (1/5) · 4 from recognised sources"
+      "USD/INR 94.96 (-0.10% today)",
+      "Rupee stronger ₹ vs USD over 7D (-1.83%)",
+      "Global headlines mixed/neutral · 2 from recognised sources"
     ],
     "news": [
       {
-        "title": "Gold price forecast: Why investors expect record highs within 2 years - Livemint",
-        "source": "Livemint",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTTN1Slh5enVydGhWZGRVN2o4eHRsTmR2YlZ1SzltbnVFZnJsTGNpNTc0TnRqQl9yX3VtWGJ6NUdmWllQU25nTE0wWHVab0hESm02Y0FPNVVxNDRoWGZxanFnNzBaU29uak5VQTVXcHo4RmNFM0Z0UXVNbG5KV3A3QUU4YTJya25mYUk5SE1TMmpNT2g0UTROOUNMSnNTRTlFSU5UdXhQWW1KX2pVOTR4aDNFRWtNZlY4Ri0xTWVIV2x0Y0JIQzFpYUVkZXZhS1QzUkHSAdcBQVVfeXFMTnkxU0RWcUFMNy1fd3I0VEkteFdWU0VHdXQ5NkhDblgydXU1TjR4U3ZienNMWDdCTDdFekFnZkk1TTVMWGpuN0RHOVNuU2EzZGpubllpWlZNR18yWktwNk5uazRQY05jLWZ5TWFqVjhhTWhhMWFSTUpPMmkzRERQbEIxM2Z2NTVxY3RzVHh0LXpMd0NfNUEtWElWck5fRWJzVVhuN0wxbjNSSkVIWDdPMTJXMUdmV1dCYXNzc2E0M3BzWW1ndlpEVWJsSVR4TDVuMzlCTjk3Q1E?oc=5",
-        "published": "Thu, 15 Oct 2026 17:32:10 GMT",
-        "tone": "neutral",
-        "reliable": true
-      },
-      {
-        "title": "Gold steadies as bond rally supports bullion, weaker dollar offers further support - Investing.com",
-        "source": "Investing.com",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdE9jd3VBclQ4RHZBNGRxSDg4MnBObGZyUTlTd3lNQnZ6RS1wNXpUeDllTHRWX094LVJRd2lsLXd0WnBDMmJhUDdzMjlyTGI0ZWdzeXo3M3NnY252Sm5aLU1fdUw4VFFlZTJSUHBUNy1MOVBFZGduTDFpQU9LUDl4OVhQVGdWWmFjVGpCNHhmUWZOaEVuQllxbVNWTDl3RXlzVG4zVmtaUmhMSy1HcFRaaVVfYmNsUDdHNlM0QTBhVWVnQm85VU5IbElRMEVfanJw?oc=5",
-        "published": "Fri, 16 Oct 2026 04:32:38 GMT",
-        "tone": "bullish",
-        "reliable": true
-      },
-      {
-        "title": "Investors predict new record price for gold within two years - Financial Times",
-        "source": "Financial Times",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVktnaGtfVlM4U2dzQTE2QlBhc0dyaWc5UzNpYUs1U3EyMm5XaXRZR21Ib2J6em5vY1h3OFhoenljSDBEV1ZqRlVoRjFvUktSNUZnSy1acUdSbzdqb09JV1dhdUJQZmdOWFpNUU8wQlhYUktVTUVHRXlwRnVHX1RqUFpodUQ?oc=5",
-        "published": "Thu, 15 Oct 2026 04:01:34 GMT",
-        "tone": "neutral",
-        "reliable": true
-      },
-      {
-        "title": "U.S. Treasury’s gold revaluation could restart the ‘debasement trade’ as yield pressures fade – UBP’s Kinsella - Kitco",
+        "title": "Gold Price Canada Today | Live Gold Price in CAD - Kitco",
         "source": "Kitco",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRWw4SkxFRjJfckFaYnNtSi1mLVBGd3h5QmdoZjlUOXhwMVNxOUVJd1NjOVZUbUJ5MkJrc1VCSDlNSGZrX2tEV3pWTmk0blk5NXVnX3JpR2hjdlNteVAtWXhjVkg5dFVwNTZJUk9xS280NGlyVGVzQmVnVkFwc3ZiMXRMc2lZNGwwYXM1LUxaeXdweG54X2tKaDcyREpIWlpoeEJPTktvRzJZTTRZZnY2ek1n?oc=5",
-        "published": "Wed, 14 Oct 2026 13:38:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVMHM0YXN3UkRUdlVZXzdrUjJmSHh5eFZ6Q0pSOVhYV1pLU0VzSXNhWGRVREpJbm9uX3pvSkZsMDNVRmg4a3JPYXlTY2N3OEF5Wm00MA?oc=5",
+        "published": "Fri, 16 Oct 2026 13:19:00 GMT",
+        "tone": "neutral",
+        "reliable": true
+      },
+      {
+        "title": "London’s gold market enjoys the Trump effect - Financial Times",
+        "source": "Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbV9GWVVYWDQ5ZTkxc25ndVdFRENodXgxYVhzNmpyMnJ6dGFmcDFyYW5sOXVORkNJUVhReDhEZjBJZS1OeHh0bVZqU1QtOHRWV1ZJR0YtZ19WZTQtN0VnSjBIQ2JYVnd3QktkQ3gxazRTd1VyQjR4MVhZdTJoWDZMeWNnY1A?oc=5",
+        "published": "Thu, 15 Oct 2026 04:01:04 GMT",
         "tone": "neutral",
         "reliable": true
       },
@@ -104,7 +88,23 @@
         "title": "AI -The Fragility of the Markets vs. the Strength of Gold - GoldBroker",
         "source": "GoldBroker",
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xcDNNN2xTUXM1STNFYlRTNmV4T1RIUGRSZDltUDZsRnZlZ0tpbDExeHdoU2t5QnAzNGIzbmQ3dnE3WFkyM0F6NXNTX3VpbV8zdnZ2UnRnQy1TcDBoeWIyalJNS0pSSWVVS2lR?oc=5",
-        "published": "Fri, 16 Oct 2026 08:18:41 GMT",
+        "published": "Fri, 16 Oct 2026 08:43:30 GMT",
+        "tone": "neutral",
+        "reliable": false
+      },
+      {
+        "title": "China Gold Market Update: Q3 Ends With Strong Official Gold Buying - Seeking Alpha",
+        "source": "Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQejVyb0hBdjhQN0NESFVER2dMRXlTV1lTQ183dkcyamZicUJJLXpIOXpsaUc2VDhFMk9abS1DQTFzdmlkOWRjUE53MzYwNFhDWmJpbEFyNml0Sm12OGNpcnk5QVdtMExwU1NfUXliYmVJYjJqbG9YYi1Leko1My01QnRnZFQyb1ZmSXNxN0h5aHkxa3R5dUxKYkYteDhaV0JOM242cVdEbGVDUQ?oc=5",
+        "published": "Fri, 16 Oct 2026 09:05:00 GMT",
+        "tone": "neutral",
+        "reliable": false
+      },
+      {
+        "title": "Current price of gold as of October 16, 2026 - Fortune",
+        "source": "Fortune",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1vem1FM3F2amdMWHZfb1BaNmlNV1JERk8zY3J1MnVIU0dqS3hYV0pwcXBkZUtNaXhJdUZBdUtEckU4V21jMEJuSHl2dXFLaWZzSm9hc3k0cG5SQktHVkw3ZDBLQm5MRzROQzlDSlVR?oc=5",
+        "published": "Fri, 16 Oct 2026 13:09:00 GMT",
         "tone": "neutral",
         "reliable": false
       }
