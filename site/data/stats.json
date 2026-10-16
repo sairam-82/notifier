@@ -1,47 +1,47 @@
 {
   "today_price": 13515.0,
-  "yesterday_price": 13590.0,
-  "daily_change": -75.0,
-  "daily_change_percent": -0.55,
-  "daily_direction": "down",
+  "yesterday_price": 13515.0,
+  "daily_change": 0.0,
+  "daily_change_percent": 0.0,
+  "daily_direction": "flat",
   "position_30d": 0.0,
   "classification": "D30_LOW",
   "classification_label": "30D LOW",
   "period_7d": {
     "low": 13515.0,
     "high": 13880.0,
-    "average": 13743.57,
-    "change": -300.0,
-    "change_percent": -2.17,
+    "average": 13700.71,
+    "change": -365.0,
+    "change_percent": -2.63,
     "count": 7
   },
   "period_30d": {
     "low": 13515.0,
     "high": 14285.0,
-    "average": 13867.83,
-    "change": -550.0,
-    "change_percent": -3.91,
+    "average": 13849.5,
+    "change": -495.0,
+    "change_percent": -3.53,
     "count": 30
   },
   "period_90d": {
     "low": 12930.2,
     "high": 15030.0,
-    "average": 13931.9,
+    "average": 13927.0,
     "change": null,
     "change_percent": null,
-    "count": 84
+    "count": 85
   },
   "period_365d": {
     "low": 11001.2,
     "high": 16061.1,
-    "average": 13505.74,
+    "average": 13505.78,
     "change": null,
     "change_percent": null,
-    "count": 245
+    "count": 246
   },
-  "history_days": 265,
-  "as_of_date": "2026-10-15",
-  "last_updated": "2026-10-15T22:46:47.311708+05:30",
+  "history_days": 266,
+  "as_of_date": "2026-10-16",
+  "last_updated": "2026-10-16T14:13:13.929189+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -53,26 +53,34 @@
     "bias": "SLIGHTLY_DOWN",
     "bias_label": "Slightly downward bias",
     "confidence": "MEDIUM",
-    "score": -33.1,
-    "band_low": 13461.0,
-    "band_high": 13569.0,
+    "score": -37.7,
+    "band_low": 13469.0,
+    "band_high": 13561.0,
     "usd_inr_rate": 95.06,
     "usd_inr_as_of": "2026-10-15",
     "usd_inr_daily_pct": -0.105,
     "usd_inr_7d_pct": -1.777,
     "factors": [
-      "7-day gold trend down (-2.17%)",
+      "7-day gold trend down (-2.63%)",
       "Near 30D low (0%) — possible stabilisation/bounce",
       "USD/INR 95.06 (-0.10% today)",
       "Rupee stronger ₹ vs USD over 7D (-1.78%)",
-      "Global headlines lean bullish (1/5) · 2 from recognised sources"
+      "Global headlines lean bullish (1/5) · 4 from recognised sources"
     ],
     "news": [
       {
-        "title": "Gold price hits $4,154/oz after retail sales rise 0.8% in September - Kitco",
-        "source": "Kitco",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSzJydjFVd3cyVVlFcGJMUnhPVVRZcXlCbnJjSUtsay1PR01IV0EySVZ4SmNxMVdXWVhteUY2VlhORmFHOXpJcGtsMTZIa0tmWkp4YkZSVEZaM1VPSTlnaFA3UHFQUGd6TWxuV09XcmV2bDBzd3M4a0NVUGVSYVVwckh5a1JPT2EzWWJWQU9oN1Y0bkNXU3BPZ1J3RFVqSHBRQ19uR0NDeHA?oc=5",
-        "published": "Thu, 15 Oct 2026 12:50:19 GMT",
+        "title": "Gold price forecast: Why investors expect record highs within 2 years - Livemint",
+        "source": "Livemint",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTTN1Slh5enVydGhWZGRVN2o4eHRsTmR2YlZ1SzltbnVFZnJsTGNpNTc0TnRqQl9yX3VtWGJ6NUdmWllQU25nTE0wWHVab0hESm02Y0FPNVVxNDRoWGZxanFnNzBaU29uak5VQTVXcHo4RmNFM0Z0UXVNbG5KV3A3QUU4YTJya25mYUk5SE1TMmpNT2g0UTROOUNMSnNTRTlFSU5UdXhQWW1KX2pVOTR4aDNFRWtNZlY4Ri0xTWVIV2x0Y0JIQzFpYUVkZXZhS1QzUkHSAdcBQVVfeXFMTnkxU0RWcUFMNy1fd3I0VEkteFdWU0VHdXQ5NkhDblgydXU1TjR4U3ZienNMWDdCTDdFekFnZkk1TTVMWGpuN0RHOVNuU2EzZGpubllpWlZNR18yWktwNk5uazRQY05jLWZ5TWFqVjhhTWhhMWFSTUpPMmkzRERQbEIxM2Z2NTVxY3RzVHh0LXpMd0NfNUEtWElWck5fRWJzVVhuN0wxbjNSSkVIWDdPMTJXMUdmV1dCYXNzc2E0M3BzWW1ndlpEVWJsSVR4TDVuMzlCTjk3Q1E?oc=5",
+        "published": "Thu, 15 Oct 2026 17:32:10 GMT",
+        "tone": "neutral",
+        "reliable": true
+      },
+      {
+        "title": "Gold steadies as bond rally supports bullion, weaker dollar offers further support - Investing.com",
+        "source": "Investing.com",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdE9jd3VBclQ4RHZBNGRxSDg4MnBObGZyUTlTd3lNQnZ6RS1wNXpUeDllTHRWX094LVJRd2lsLXd0WnBDMmJhUDdzMjlyTGI0ZWdzeXo3M3NnY252Sm5aLU1fdUw4VFFlZTJSUHBUNy1MOVBFZGduTDFpQU9LUDl4OVhQVGdWWmFjVGpCNHhmUWZOaEVuQllxbVNWTDl3RXlzVG4zVmtaUmhMSy1HcFRaaVVfYmNsUDdHNlM0QTBhVWVnQm85VU5IbElRMEVfanJw?oc=5",
+        "published": "Fri, 16 Oct 2026 04:32:38 GMT",
         "tone": "bullish",
         "reliable": true
       },
@@ -80,31 +88,23 @@
         "title": "Investors predict new record price for gold within two years - Financial Times",
         "source": "Financial Times",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVktnaGtfVlM4U2dzQTE2QlBhc0dyaWc5UzNpYUs1U3EyMm5XaXRZR21Ib2J6em5vY1h3OFhoenljSDBEV1ZqRlVoRjFvUktSNUZnSy1acUdSbzdqb09JV1dhdUJQZmdOWFpNUU8wQlhYUktVTUVHRXlwRnVHX1RqUFpodUQ?oc=5",
-        "published": "Thu, 15 Oct 2026 04:00:39 GMT",
+        "published": "Thu, 15 Oct 2026 04:01:34 GMT",
         "tone": "neutral",
         "reliable": true
       },
       {
-        "title": "China gold market update: Q3 ends with strong official gold buying | Post by Ray Jia | Insights - World Gold Council",
-        "source": "World Gold Council",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOckgzTVVVNEdtcjU3d0EtWWVybTYwN0ZuUndKZXRhOUFQMDhMTGROOFVXWTBMb1FuTkVvUktrWmJKUnlfT21lbEFzdVZ2SDI3MHFGdGdOQmNMSG9CZGpzYXJyOWxaeWVmaG5IN0ZvekdDUnczMXJvSGdHWFpTQXlmZ18xZ3ZLNmxqOGNqdUVMcDBodFM3TWJfcnd3cGx3TjlsTFdQWmN3WlBqb3hH?oc=5",
-        "published": "Thu, 15 Oct 2026 07:52:28 GMT",
+        "title": "U.S. Treasury’s gold revaluation could restart the ‘debasement trade’ as yield pressures fade – UBP’s Kinsella - Kitco",
+        "source": "Kitco",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRWw4SkxFRjJfckFaYnNtSi1mLVBGd3h5QmdoZjlUOXhwMVNxOUVJd1NjOVZUbUJ5MkJrc1VCSDlNSGZrX2tEV3pWTmk0blk5NXVnX3JpR2hjdlNteVAtWXhjVkg5dFVwNTZJUk9xS280NGlyVGVzQmVnVkFwc3ZiMXRMc2lZNGwwYXM1LUxaeXdweG54X2tKaDcyREpIWlpoeEJPTktvRzJZTTRZZnY2ek1n?oc=5",
+        "published": "Wed, 14 Oct 2026 13:38:00 GMT",
         "tone": "neutral",
-        "reliable": false
+        "reliable": true
       },
       {
-        "title": "Current price of gold as of October 15, 2026 - Fortune",
-        "source": "Fortune",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VQVg5T2NPZ2xhWEc1c3Z4LXBNY1IzYXV2VERVdTFRRW03RTFiV1FCaHFEZVRBSEIwSnl0Y1RzZzU4eUlnMW1OSFlJYm5XOThIYmVGNDFaUnFxTHI4RFZIYi04Tmk3cGxRaFJWU2pB?oc=5",
-        "published": "Thu, 15 Oct 2026 13:13:00 GMT",
-        "tone": "neutral",
-        "reliable": false
-      },
-      {
-        "title": "Gold Price Forecast: Higher-Than-Expected CPI Weighs on Gold, Can PPI Push Gold Back to $4,200? - TradingKey",
-        "source": "TradingKey",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQWxDS0V5NXptLXIwbTlwSmd4VHlfWW9XcTBPVGJxVXNLejFVNUdZZ2JkVW9TeHNQTWNlcE1GdzBsZW1PSWdyY3FiWE5aSmhLeVI5dm5EdEdfS0hOR0VYZFdDbmhGTEk0U0xUQlpEbUItZFVQcWxQdnRjb1JDci1mZnAwSTAzTEljbHRpNGJxSm84S0pjaHh6SEV5aTFTbG5CU3FaU0tvNEI1TjdBWlRCLS1GeUE3Zlk?oc=5",
-        "published": "Thu, 15 Oct 2026 10:36:52 GMT",
+        "title": "AI -The Fragility of the Markets vs. the Strength of Gold - GoldBroker",
+        "source": "GoldBroker",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xcDNNN2xTUXM1STNFYlRTNmV4T1RIUGRSZDltUDZsRnZlZ0tpbDExeHdoU2t5QnAzNGIzbmQ3dnE3WFkyM0F6NXNTX3VpbV8zdnZ2UnRnQy1TcDBoeWIyalJNS0pSSWVVS2lR?oc=5",
+        "published": "Fri, 16 Oct 2026 08:18:41 GMT",
         "tone": "neutral",
         "reliable": false
       }
