@@ -41,7 +41,7 @@
   },
   "history_days": 268,
   "as_of_date": "2026-10-18",
-  "last_updated": "2026-10-18T14:01:03.548551+05:30",
+  "last_updated": "2026-10-18T21:34:42.988826+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -69,6 +69,14 @@
     ],
     "news": [
       {
+        "title": "Gold Price Canada Today | Live Gold Price in CAD - Kitco",
+        "source": "Kitco",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVMHM0YXN3UkRUdlVZXzdrUjJmSHh5eFZ6Q0pSOVhYV1pLU0VzSXNhWGRVREpJbm9uX3pvSkZsMDNVRmg4a3JPYXlTY2N3OEF5Wm00MA?oc=5",
+        "published": "Sun, 18 Oct 2026 00:00:00 GMT",
+        "tone": "neutral",
+        "reliable": true
+      },
+      {
         "title": "Gold price forecast: Why investors expect record highs within 2 years - Livemint",
         "source": "Livemint",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTTN1Slh5enVydGhWZGRVN2o4eHRsTmR2YlZ1SzltbnVFZnJsTGNpNTc0TnRqQl9yX3VtWGJ6NUdmWllQU25nTE0wWHVab0hESm02Y0FPNVVxNDRoWGZxanFnNzBaU29uak5VQTVXcHo4RmNFM0Z0UXVNbG5KV3A3QUU4YTJya25mYUk5SE1TMmpNT2g0UTROOUNMSnNTRTlFSU5UdXhQWW1KX2pVOTR4aDNFRWtNZlY4Ri0xTWVIV2x0Y0JIQzFpYUVkZXZhS1QzUkHSAdcBQVVfeXFMTnkxU0RWcUFMNy1fd3I0VEkteFdWU0VHdXQ5NkhDblgydXU1TjR4U3ZienNMWDdCTDdFekFnZkk1TTVMWGpuN0RHOVNuU2EzZGpubllpWlZNR18yWktwNk5uazRQY05jLWZ5TWFqVjhhTWhhMWFSTUpPMmkzRERQbEIxM2Z2NTVxY3RzVHh0LXpMd0NfNUEtWElWck5fRWJzVVhuN0wxbjNSSkVIWDdPMTJXMUdmV1dCYXNzc2E0M3BzWW1ndlpEVWJsSVR4TDVuMzlCTjk3Q1E?oc=5",
@@ -85,14 +93,6 @@
         "reliable": true
       },
       {
-        "title": "Gold set for a weekly drop as traders assess Fed signals - Reuters",
-        "source": "Reuters",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUFdTSHVlWTdpZG0xRlc1U3Rka1I3Q3FLdVhKUVJjRWdlb040SXdMZktTT3k1WEgxSnB0QzdaQ2FSY05KTVVOSFg4aVpSRm01Z1hfdGNxY0JnYzJqeXBCcm1SU1FaVzlPUWljNFBxWDlYZmJxYU5ycmxyb1FNUEpTcVpoc3AwS25VUUgxMkFIOXZpQU5TZlVOTEVmVQ?oc=5",
-        "published": "Fri, 16 Oct 2026 18:20:09 GMT",
-        "tone": "bearish",
-        "reliable": true
-      },
-      {
         "title": "Investors predict new record price for gold within two years - Financial Times",
         "source": "Financial Times",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVktnaGtfVlM4U2dzQTE2QlBhc0dyaWc5UzNpYUs1U3EyMm5XaXRZR21Ib2J6em5vY1h3OFhoenljSDBEV1ZqRlVoRjFvUktSNUZnSy1acUdSbzdqb09JV1dhdUJQZmdOWFpNUU8wQlhYUktVTUVHRXlwRnVHX1RqUFpodUQ?oc=5",
@@ -101,11 +101,11 @@
         "reliable": true
       },
       {
-        "title": "London’s gold market enjoys the Trump effect - Financial Times",
-        "source": "Financial Times",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbV9GWVVYWDQ5ZTkxc25ndVdFRENodXgxYVhzNmpyMnJ6dGFmcDFyYW5sOXVORkNJUVhReDhEZjBJZS1OeHh0bVZqU1QtOHRWV1ZJR0YtZ19WZTQtN0VnSjBIQ2JYVnd3QktkQ3gxazRTd1VyQjR4MVhZdTJoWDZMeWNnY1A?oc=5",
-        "published": "Thu, 15 Oct 2026 04:01:41 GMT",
-        "tone": "neutral",
+        "title": "Mounting rate hike bets keep weekly loss in sight for gold - Reuters",
+        "source": "Reuters",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNX3F4eFFXZE5rZGRwVFhHYUsxZlhGeFlzSEF1Y0xYc2JmT0YtdkgtRmRhbFVTYVk3NGZRRUlsd3dCTDlCSmdnT1Y5OWN5MERTdzlibVdVQmhSeGc4SHIxWEhpRDJ6bjNLZXNURWdHbHBVOHNqU3FlUHJFc3lQRmN0SWlFRzRCUWpzdkFNYS1nb29JRDJzSzkwdjVDM1VlaHNzMG5FS3ZUU29rZ2RTVWxB?oc=5",
+        "published": "Fri, 25 Sep 2026 07:00:00 GMT",
+        "tone": "bearish",
         "reliable": true
       }
     ],
