@@ -1,32 +1,32 @@
 {
-  "today_price": 13490.0,
+  "today_price": 13390.0,
   "yesterday_price": 13570.0,
-  "daily_change": -80.0,
-  "daily_change_percent": -0.59,
+  "daily_change": -180.0,
+  "daily_change_percent": -1.33,
   "daily_direction": "down",
   "position_30d": 0.0,
   "classification": "D30_LOW",
   "classification_label": "30D LOW",
   "period_7d": {
-    "low": 13490.0,
+    "low": 13390.0,
     "high": 13590.0,
-    "average": 13535.71,
-    "change": -100.0,
-    "change_percent": -0.74,
+    "average": 13521.43,
+    "change": -200.0,
+    "change_percent": -1.47,
     "count": 7
   },
   "period_30d": {
-    "low": 13490.0,
+    "low": 13390.0,
     "high": 14170.0,
-    "average": 13762.67,
-    "change": -680.0,
-    "change_percent": -4.8,
+    "average": 13759.33,
+    "change": -780.0,
+    "change_percent": -5.5,
     "count": 30
   },
   "period_90d": {
     "low": 13086.5,
     "high": 15030.0,
-    "average": 13940.15,
+    "average": 13938.99,
     "change": null,
     "change_percent": null,
     "count": 86
@@ -34,14 +34,14 @@
   "period_365d": {
     "low": 11001.2,
     "high": 16061.1,
-    "average": 13506.21,
+    "average": 13505.81,
     "change": null,
     "change_percent": null,
     "count": 250
   },
   "history_days": 270,
   "as_of_date": "2026-10-20",
-  "last_updated": "2026-10-20T14:35:26.383424+05:30",
+  "last_updated": "2026-10-20T22:56:23.959063+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -53,26 +53,26 @@
     "bias": "SLIGHTLY_DOWN",
     "bias_label": "Slightly downward bias",
     "confidence": "MEDIUM",
-    "score": -23.0,
-    "band_low": 13438.0,
-    "band_high": 13542.0,
+    "score": -27.7,
+    "band_low": 13331.0,
+    "band_high": 13449.0,
     "usd_inr_rate": 94.93,
-    "usd_inr_as_of": "2026-10-19",
-    "usd_inr_daily_pct": -0.032,
-    "usd_inr_7d_pct": -0.887,
+    "usd_inr_as_of": "2026-10-20",
+    "usd_inr_daily_pct": 0.0,
+    "usd_inr_7d_pct": -0.367,
     "factors": [
-      "7-day gold trend down (-0.74%)",
+      "7-day gold trend down (-1.47%)",
       "Near 30D low (0%) — possible stabilisation/bounce",
-      "USD/INR 94.93 (-0.03% today)",
-      "Rupee stronger ₹ vs USD over 7D (-0.89%)",
-      "Global headlines lean bearish (1/5) · 3 from recognised sources"
+      "USD/INR 94.93 (+0.00% today)",
+      "Rupee stronger ₹ vs USD over 7D (-0.37%)",
+      "Global headlines lean bearish (1/5) · 2 from recognised sources"
     ],
     "news": [
       {
-        "title": "Digital gold market triples to $55bn as younger investors pile in - Financial Times",
-        "source": "Financial Times",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdmkzVEYtaE5URGhXeHRPbzNQV3ZwdVNaX3hUTnE5MWRFcjRtd0JMNHd1S016RVZjTFhTeTZrNVFYbi1oWV9vcThMMWFIaXBLWVdRdU4yNl9ER0tFU041eFMwM2dsYjM1aWRxTU9SUzRwQ2VuNWxuLVdtNzFQNDRacUxMWWw?oc=5",
-        "published": "Mon, 19 Oct 2026 17:24:54 GMT",
+        "title": "CIBC slashes gold price forecasts but sees recovery to $5,200 in 2027 as central bank demand offsets Fed headwinds - Kitco",
+        "source": "Kitco",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOajZTbWtYRkNIRkVvR0RzWHlPRjA0dmhybmVTVndycXR5Q2txZXBVZFp3QzhLWVpBV25ldUlOUk9XR3A1d28td3NEekczRzZRQzIzZDUwUVNHSUUwUXZNS08tU2RaaFAzc2VTWkRIWVdwOGJQNWNZZl9DLUhLbXgxblVpb1p2LTFOY1g1cWpHWWlLQW9rTVV0enhrMXkxN0ZPTmpBd0I1UW8wT3d4Vkx6YWtLWmlWRHM?oc=5",
+        "published": "Tue, 20 Oct 2026 11:25:00 GMT",
         "tone": "neutral",
         "reliable": true
       },
@@ -85,18 +85,18 @@
         "reliable": true
       },
       {
-        "title": "Gold's path to $6,000 and silver's return above $90 depend on renewed investor confidence – Metals Focus - Kitco",
-        "source": "Kitco",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYUx1Ym03aUVBcWtTT2RBZ25OSDl6X1l1YVlCTmc3SnFoLXlzZjNXWEFoZ21QYlJ6Y3Yxa0hRZnkySU9nbGVfNFBCNVR6bFdrUFVmdjQyQUFVSld1a0VBNWtMZWEyNmtOQ3ZGeWtlYUxlTjFKOFVhZXU2bGFzVzVaNS1WOFJDUFQyMlRXdmx3SVotbkpWR0NQeUl5ZEwyZ3UzZnlMb2l4ZWZiSG0zVDJnbzRFVQ?oc=5",
-        "published": "Mon, 19 Oct 2026 14:02:00 GMT",
+        "title": "Current price of gold as of October 20, 2026 - Fortune",
+        "source": "Fortune",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5vRnFtam1PZnkzU0l3TERZRkM5OWdPMWM5VDVrcTViQ2V3TTRYekI5emlwQ1lfelRYbUtZcm1xdXpWbjRwekJ2SmxLeUUzUWE2a3UxV2V4VVNKXzBmdWJ6UmNncEE4WHJpdFB1MVRR?oc=5",
+        "published": "Tue, 20 Oct 2026 13:03:00 GMT",
         "tone": "neutral",
-        "reliable": true
+        "reliable": false
       },
       {
-        "title": "Current price of gold as of October 19, 2026 - Fortune",
-        "source": "Fortune",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0tYThDZmFQNU52WG96ZzdUcjdPb1hjNEwxRWhtYjlqQzFiT1pyQXA5cHdLVU9SUVNGVVB6TE52MUFMWkd6NmpUNXNmNEZRZW5Qdk1neV9zQVlpWkdwNVRFUWNaZFcyaklnbGFpYkFR?oc=5",
-        "published": "Mon, 19 Oct 2026 13:42:00 GMT",
+        "title": "Gold Dealer Assurance Programme designed to boost trust in global retail gold market - Mining Weekly",
+        "source": "Mining Weekly",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbjV0a1RoN2JIS0JCYVhrUlVtZkxSU1VDc2hwbWtMXzNLUnB6MnJpNW9fRUxrRG1OajJXMmhMZjU5UnMzNm5IdmtMc19HQjhIQjZrVXZhaWNSWU9GRW9rWEZXR2dVd0NjVzhkaWFvQ2pkdnJlc1RqZVg3ZTZsbG44MGJLbDZYQ1Q4bE9lZjVJMzNDT0NidFZzamF4cTJDMVVfUFhxSDJrRnRibndxWE9WNGdyMVI1TFpLNTJDWU9YbV8tTHNXTGhPdlNtQUc?oc=5",
+        "published": "Tue, 20 Oct 2026 10:36:00 GMT",
         "tone": "neutral",
         "reliable": false
       },
@@ -104,7 +104,7 @@
         "title": "Gold Price Forecast: High Treasury Yields Put $4,000 Support in Focus - FXEmpire",
         "source": "FXEmpire",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOUNlTzZwM2ZwaEZlNUV4Ny1XYUNLb0FYNHVxV0RmRHVsTktIQ1Y4SUM0a1ZrbU1rYkxnMUhQaHREeVJDSk1QMHN4N1hSTHB1czZBV0NrWWplM1JpbDBIaHBZREdBaU41OHR2Sk5sWkRZR0MxYm9BemtEUnJfc1MyYUZXTERDWmFVcDRqQ3NLQkVRbUdRN01MRVBsTE9aZDRWdzJuQWZKd3hnb2RkWEVsSExqdTh5OC1BV09lb1o5TmJ3Vnc?oc=5",
-        "published": "Tue, 20 Oct 2026 08:19:44 GMT",
+        "published": "Tue, 20 Oct 2026 08:24:12 GMT",
         "tone": "neutral",
         "reliable": false
       }
