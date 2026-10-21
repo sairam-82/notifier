@@ -41,7 +41,7 @@
   },
   "history_days": 271,
   "as_of_date": "2026-10-21",
-  "last_updated": "2026-10-21T14:35:28.729673+05:30",
+  "last_updated": "2026-10-21T23:04:38.013674+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -50,34 +50,34 @@
   "currency": "INR",
   "unit": "gram",
   "outlook": {
-    "bias": "NEUTRAL",
-    "bias_label": "Neutral / sideways",
+    "bias": "SLIGHTLY_DOWN",
+    "bias_label": "Slightly downward bias",
     "confidence": "MEDIUM",
-    "score": -12.2,
+    "score": -27.2,
     "band_low": 13331.0,
     "band_high": 13449.0,
-    "usd_inr_rate": 94.93,
-    "usd_inr_as_of": "2026-10-20",
-    "usd_inr_daily_pct": 0.0,
-    "usd_inr_7d_pct": -0.367,
+    "usd_inr_rate": 94.47,
+    "usd_inr_as_of": "2026-10-21",
+    "usd_inr_daily_pct": -0.485,
+    "usd_inr_7d_pct": -0.725,
     "factors": [
       "7-day gold trend down (-0.92%)",
       "Near 30D low (0%) — possible stabilisation/bounce",
-      "USD/INR 94.93 (+0.00% today)",
-      "Rupee stronger ₹ vs USD over 7D (-0.37%)",
+      "USD/INR 94.47 (-0.48% today)",
+      "Rupee stronger ₹ vs USD over 7D (-0.72%)",
       "Global headlines lean bullish (1/5) · 2 from recognised sources"
     ],
     "news": [
       {
-        "title": "CIBC slashes gold price forecasts but sees recovery to $5,200 in 2027 as central bank demand offsets Fed headwinds - Kitco",
+        "title": "Gold Price Canada Today | Live Gold Price in CAD - Kitco",
         "source": "Kitco",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOajZTbWtYRkNIRkVvR0RzWHlPRjA0dmhybmVTVndycXR5Q2txZXBVZFp3QzhLWVpBV25ldUlOUk9XR3A1d28td3NEekczRzZRQzIzZDUwUVNHSUUwUXZNS08tU2RaaFAzc2VTWkRIWVdwOGJQNWNZZl9DLUhLbXgxblVpb1p2LTFOY1g1cWpHWWlLQW9rTVV0enhrMXkxN0ZPTmpBd0I1UW8wT3d4Vkx6YWtLWmlWRHM?oc=5",
-        "published": "Tue, 20 Oct 2026 22:50:17 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVMHM0YXN3UkRUdlVZXzdrUjJmSHh5eFZ6Q0pSOVhYV1pLU0VzSXNhWGRVREpJbm9uX3pvSkZsMDNVRmg4a3JPYXlTY2N3OEF5Wm00MA?oc=5",
+        "published": "Wed, 21 Oct 2026 00:00:00 GMT",
         "tone": "neutral",
         "reliable": true
       },
       {
-        "title": "Gold dips for fourth session as oil rally fans inflation concerns - Reuters",
+        "title": "Gold steadies near one-week low as oil-driven inflation fears grow - Reuters",
         "source": "Reuters",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY2dJZXdfdnptbDVvajUtNHBONy13T1Z5aEtVc3d2d2VDYUNpUEpTM1JxNGVZRFhiQmh1b1U2RWpOaW0zVndyQk9uSFZ6b0pQXzVvNUhRMFVXeEMzS3BrU1FkdE9tNEYxY21PdDFEWGplNkkwMkJ2Rkk5VVg2VUVDcXFIUmp4cUR4SnhqQ2h6b3hYTExtTkhCNGtqZWt6WUtUYURrc3owUUptdw?oc=5",
         "published": "Wed, 21 Oct 2026 03:45:00 GMT",
@@ -93,18 +93,18 @@
         "reliable": false
       },
       {
-        "title": "Current price of gold as of October 19, 2026 - Fortune",
+        "title": "Current price of gold as of October 21, 2026 - Fortune",
         "source": "Fortune",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0tYThDZmFQNU52WG96ZzdUcjdPb1hjNEwxRWhtYjlqQzFiT1pyQXA5cHdLVU9SUVNGVVB6TE52MUFMWkd6NmpUNXNmNEZRZW5Qdk1neV9zQVlpWkdwNVRFUWNaZFcyaklnbGFpYkFR?oc=5",
-        "published": "Mon, 19 Oct 2026 13:42:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zVlV4MHYwZThvZkxuclRIMS1rU3pXeTJBSzFrWXdfWERuQlo4aDN2U3duZ1Z6WHFRTzF0ZlRPNHRQMEsxZ2JBWFl2d1JYdWRQbXJXS0hwR3ZVZzU5Wk0wTW95UlJveHRQbkM3V2VB?oc=5",
+        "published": "Wed, 21 Oct 2026 12:55:00 GMT",
         "tone": "neutral",
         "reliable": false
       },
       {
-        "title": "Gold Price Recovers Intraday Losses, but Technical Charts Keep Bearish Trend in Focus - Brave New Coin",
-        "source": "Brave New Coin",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOT3VPa0NvOTBzbnEwN2RBSDNGNXIwV3V3aU9vMFl5ZkR2RjNUUkE5TWxWRmdYR0FPdndWdFlJa0thRTV4QWhTVzhqZ3Z0OTY1Ym5xbF9zLWpWWS00UzhMdTBLY2VpTDY5TVJuVkt0cWx1VG5tSVRRTUN4YnQ0M0NqN25Va3Zua0tsNE1FbUdWeU84UGEyTHdxUlYtZ2VFZEdMTnB5Z3BrZ3JtWmkxUjdtOHFsUXFmYm9UYkE?oc=5",
-        "published": "Wed, 21 Oct 2026 08:53:26 GMT",
+        "title": "Digital Gold's Path to US$700bn Market Expansion - Investing News Network",
+        "source": "Investing News Network",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5iX05YeGRxUldBUDByVDJKZk9aX2N0UkdPbjZnUWRySnNfeEQ1dWpqbnRMR3pOdTJrc2JNS2RXUTNqT053V2JqN0MwUHpTMlRUNnN0QmYydWdfSFA1MGRLTnR5TDY5UV9nU2c?oc=5",
+        "published": "Wed, 21 Oct 2026 13:10:00 GMT",
         "tone": "neutral",
         "reliable": false
       }
