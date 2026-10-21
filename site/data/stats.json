@@ -1,32 +1,32 @@
 {
   "today_price": 13390.0,
-  "yesterday_price": 13570.0,
-  "daily_change": -180.0,
-  "daily_change_percent": -1.33,
-  "daily_direction": "down",
+  "yesterday_price": 13390.0,
+  "daily_change": 0.0,
+  "daily_change_percent": 0.0,
+  "daily_direction": "flat",
   "position_30d": 0.0,
   "classification": "D30_LOW",
   "classification_label": "30D LOW",
   "period_7d": {
     "low": 13390.0,
-    "high": 13590.0,
-    "average": 13521.43,
-    "change": -200.0,
-    "change_percent": -1.47,
+    "high": 13570.0,
+    "average": 13492.86,
+    "change": -125.0,
+    "change_percent": -0.92,
     "count": 7
   },
   "period_30d": {
     "low": 13390.0,
-    "high": 14170.0,
-    "average": 13759.33,
-    "change": -780.0,
-    "change_percent": -5.5,
+    "high": 14135.0,
+    "average": 13733.33,
+    "change": -665.0,
+    "change_percent": -4.73,
     "count": 30
   },
   "period_90d": {
     "low": 13086.5,
     "high": 15030.0,
-    "average": 13938.99,
+    "average": 13939.94,
     "change": null,
     "change_percent": null,
     "count": 86
@@ -34,14 +34,14 @@
   "period_365d": {
     "low": 11001.2,
     "high": 16061.1,
-    "average": 13505.81,
+    "average": 13505.34,
     "change": null,
     "change_percent": null,
-    "count": 250
+    "count": 251
   },
-  "history_days": 270,
-  "as_of_date": "2026-10-20",
-  "last_updated": "2026-10-20T22:56:23.959063+05:30",
+  "history_days": 271,
+  "as_of_date": "2026-10-21",
+  "last_updated": "2026-10-21T14:35:28.729673+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -50,10 +50,10 @@
   "currency": "INR",
   "unit": "gram",
   "outlook": {
-    "bias": "SLIGHTLY_DOWN",
-    "bias_label": "Slightly downward bias",
+    "bias": "NEUTRAL",
+    "bias_label": "Neutral / sideways",
     "confidence": "MEDIUM",
-    "score": -27.7,
+    "score": -12.2,
     "band_low": 13331.0,
     "band_high": 13449.0,
     "usd_inr_rate": 94.93,
@@ -61,50 +61,50 @@
     "usd_inr_daily_pct": 0.0,
     "usd_inr_7d_pct": -0.367,
     "factors": [
-      "7-day gold trend down (-1.47%)",
+      "7-day gold trend down (-0.92%)",
       "Near 30D low (0%) — possible stabilisation/bounce",
       "USD/INR 94.93 (+0.00% today)",
       "Rupee stronger ₹ vs USD over 7D (-0.37%)",
-      "Global headlines lean bearish (1/5) · 2 from recognised sources"
+      "Global headlines lean bullish (1/5) · 2 from recognised sources"
     ],
     "news": [
       {
         "title": "CIBC slashes gold price forecasts but sees recovery to $5,200 in 2027 as central bank demand offsets Fed headwinds - Kitco",
         "source": "Kitco",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOajZTbWtYRkNIRkVvR0RzWHlPRjA0dmhybmVTVndycXR5Q2txZXBVZFp3QzhLWVpBV25ldUlOUk9XR3A1d28td3NEekczRzZRQzIzZDUwUVNHSUUwUXZNS08tU2RaaFAzc2VTWkRIWVdwOGJQNWNZZl9DLUhLbXgxblVpb1p2LTFOY1g1cWpHWWlLQW9rTVV0enhrMXkxN0ZPTmpBd0I1UW8wT3d4Vkx6YWtLWmlWRHM?oc=5",
-        "published": "Tue, 20 Oct 2026 11:25:00 GMT",
+        "published": "Tue, 20 Oct 2026 22:50:17 GMT",
         "tone": "neutral",
         "reliable": true
       },
       {
-        "title": "Gold edges lower as firm dollar, elevated yields weigh - Reuters",
+        "title": "Gold dips for fourth session as oil rally fans inflation concerns - Reuters",
         "source": "Reuters",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcHBoaXFtRmhELVpxR3BOYzNDX3IzS1Y1UHZaZUlWRnBiY0Y3WWxwa19vSlVRUENyTGtpZVJFSEFSLW9hVWhEaktYRTVhVWpObTFOYThBVXNRX19VY0phaUJjSkdSMjFZQ19FUFZGMm44UnNpZkZGSnNCeUc2SFZ4c1ZZUU9lV2tiUk1odm44Wmc2WGVjSG5pYUU3QnE2NGYx?oc=5",
-        "published": "Mon, 19 Oct 2026 03:11:00 GMT",
-        "tone": "bearish",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY2dJZXdfdnptbDVvajUtNHBONy13T1Z5aEtVc3d2d2VDYUNpUEpTM1JxNGVZRFhiQmh1b1U2RWpOaW0zVndyQk9uSFZ6b0pQXzVvNUhRMFVXeEMzS3BrU1FkdE9tNEYxY21PdDFEWGplNkkwMkJ2Rkk5VVg2VUVDcXFIUmp4cUR4SnhqQ2h6b3hYTExtTkhCNGtqZWt6WUtUYURrc3owUUptdw?oc=5",
+        "published": "Wed, 21 Oct 2026 03:45:00 GMT",
+        "tone": "bullish",
         "reliable": true
       },
       {
-        "title": "Current price of gold as of October 20, 2026 - Fortune",
+        "title": "CIBC cuts Q4 gold price forecast to $4,500, then sees bounce to $5,200 in 2027 (GLD:NYSEARCA) - Seeking Alpha",
+        "source": "Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWUFrNzIzWFVHUlc1aVVWX0FjMWIzMk13ekdhOGdQRDRFREVfNUFyNU0tbExsMzQ5b3M2UjE5SFh3cWhIQ0w5N1Bkb21TamM0WkQyY2VRVXQweVp5dDZGVTJqWHVZd3dLMTgwVlRiUjk0WWNubWFEYm9xTDdNWV9VVldWT1RwbWc4TVdoa04yRWp5Q2VQVjFTakQ5ZXJHOGk5eXRjT2lQWXBGOW1FYWFpcw?oc=5",
+        "published": "Tue, 20 Oct 2026 21:25:29 GMT",
+        "tone": "neutral",
+        "reliable": false
+      },
+      {
+        "title": "Current price of gold as of October 19, 2026 - Fortune",
         "source": "Fortune",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5vRnFtam1PZnkzU0l3TERZRkM5OWdPMWM5VDVrcTViQ2V3TTRYekI5emlwQ1lfelRYbUtZcm1xdXpWbjRwekJ2SmxLeUUzUWE2a3UxV2V4VVNKXzBmdWJ6UmNncEE4WHJpdFB1MVRR?oc=5",
-        "published": "Tue, 20 Oct 2026 13:03:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0tYThDZmFQNU52WG96ZzdUcjdPb1hjNEwxRWhtYjlqQzFiT1pyQXA5cHdLVU9SUVNGVVB6TE52MUFMWkd6NmpUNXNmNEZRZW5Qdk1neV9zQVlpWkdwNVRFUWNaZFcyaklnbGFpYkFR?oc=5",
+        "published": "Mon, 19 Oct 2026 13:42:00 GMT",
         "tone": "neutral",
         "reliable": false
       },
       {
-        "title": "Gold Dealer Assurance Programme designed to boost trust in global retail gold market - Mining Weekly",
-        "source": "Mining Weekly",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbjV0a1RoN2JIS0JCYVhrUlVtZkxSU1VDc2hwbWtMXzNLUnB6MnJpNW9fRUxrRG1OajJXMmhMZjU5UnMzNm5IdmtMc19HQjhIQjZrVXZhaWNSWU9GRW9rWEZXR2dVd0NjVzhkaWFvQ2pkdnJlc1RqZVg3ZTZsbG44MGJLbDZYQ1Q4bE9lZjVJMzNDT0NidFZzamF4cTJDMVVfUFhxSDJrRnRibndxWE9WNGdyMVI1TFpLNTJDWU9YbV8tTHNXTGhPdlNtQUc?oc=5",
-        "published": "Tue, 20 Oct 2026 10:36:00 GMT",
-        "tone": "neutral",
-        "reliable": false
-      },
-      {
-        "title": "Gold Price Forecast: High Treasury Yields Put $4,000 Support in Focus - FXEmpire",
-        "source": "FXEmpire",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOUNlTzZwM2ZwaEZlNUV4Ny1XYUNLb0FYNHVxV0RmRHVsTktIQ1Y4SUM0a1ZrbU1rYkxnMUhQaHREeVJDSk1QMHN4N1hSTHB1czZBV0NrWWplM1JpbDBIaHBZREdBaU41OHR2Sk5sWkRZR0MxYm9BemtEUnJfc1MyYUZXTERDWmFVcDRqQ3NLQkVRbUdRN01MRVBsTE9aZDRWdzJuQWZKd3hnb2RkWEVsSExqdTh5OC1BV09lb1o5TmJ3Vnc?oc=5",
-        "published": "Tue, 20 Oct 2026 08:24:12 GMT",
+        "title": "Gold Price Recovers Intraday Losses, but Technical Charts Keep Bearish Trend in Focus - Brave New Coin",
+        "source": "Brave New Coin",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOT3VPa0NvOTBzbnEwN2RBSDNGNXIwV3V3aU9vMFl5ZkR2RjNUUkE5TWxWRmdYR0FPdndWdFlJa0thRTV4QWhTVzhqZ3Z0OTY1Ym5xbF9zLWpWWS00UzhMdTBLY2VpTDY5TVJuVkt0cWx1VG5tSVRRTUN4YnQ0M0NqN25Va3Zua0tsNE1FbUdWeU84UGEyTHdxUlYtZ2VFZEdMTnB5Z3BrZ3JtWmkxUjdtOHFsUXFmYm9UYkE?oc=5",
+        "published": "Wed, 21 Oct 2026 08:53:26 GMT",
         "tone": "neutral",
         "reliable": false
       }
