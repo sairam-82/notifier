@@ -1,32 +1,32 @@
 {
-  "today_price": 13390.0,
+  "today_price": 13235.0,
   "yesterday_price": 13390.0,
-  "daily_change": 0.0,
-  "daily_change_percent": 0.0,
-  "daily_direction": "flat",
+  "daily_change": -155.0,
+  "daily_change_percent": -1.16,
+  "daily_direction": "down",
   "position_30d": 0.0,
   "classification": "D30_LOW",
   "classification_label": "30D LOW",
   "period_7d": {
-    "low": 13390.0,
+    "low": 13235.0,
     "high": 13570.0,
-    "average": 13492.86,
-    "change": -125.0,
-    "change_percent": -0.92,
+    "average": 13452.86,
+    "change": -280.0,
+    "change_percent": -2.07,
     "count": 7
   },
   "period_30d": {
-    "low": 13390.0,
+    "low": 13235.0,
     "high": 14135.0,
-    "average": 13733.33,
-    "change": -665.0,
-    "change_percent": -4.73,
+    "average": 13706.0,
+    "change": -900.0,
+    "change_percent": -6.37,
     "count": 30
   },
   "period_90d": {
     "low": 13086.5,
     "high": 15030.0,
-    "average": 13939.94,
+    "average": 13940.69,
     "change": null,
     "change_percent": null,
     "count": 86
@@ -34,14 +34,14 @@
   "period_365d": {
     "low": 11001.2,
     "high": 16061.1,
-    "average": 13505.34,
+    "average": 13504.27,
     "change": null,
     "change_percent": null,
-    "count": 251
+    "count": 252
   },
-  "history_days": 271,
-  "as_of_date": "2026-10-21",
-  "last_updated": "2026-10-21T23:04:38.013674+05:30",
+  "history_days": 272,
+  "as_of_date": "2026-10-22",
+  "last_updated": "2026-10-22T14:37:53.998284+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -53,50 +53,34 @@
     "bias": "SLIGHTLY_DOWN",
     "bias_label": "Slightly downward bias",
     "confidence": "MEDIUM",
-    "score": -27.2,
-    "band_low": 13331.0,
-    "band_high": 13449.0,
+    "score": -43.7,
+    "band_low": 13172.0,
+    "band_high": 13298.0,
     "usd_inr_rate": 94.47,
     "usd_inr_as_of": "2026-10-21",
     "usd_inr_daily_pct": -0.485,
     "usd_inr_7d_pct": -0.725,
     "factors": [
-      "7-day gold trend down (-0.92%)",
+      "7-day gold trend down (-2.07%)",
       "Near 30D low (0%) — possible stabilisation/bounce",
       "USD/INR 94.47 (-0.48% today)",
       "Rupee stronger ₹ vs USD over 7D (-0.72%)",
-      "Global headlines lean bullish (1/5) · 2 from recognised sources"
+      "Global headlines mixed/neutral · 1 from recognised sources"
     ],
     "news": [
       {
-        "title": "Gold Price Canada Today | Live Gold Price in CAD - Kitco",
+        "title": "Tokenized gold could unlock $700 billion new demand - World Gold Council - Kitco",
         "source": "Kitco",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVMHM0YXN3UkRUdlVZXzdrUjJmSHh5eFZ6Q0pSOVhYV1pLU0VzSXNhWGRVREpJbm9uX3pvSkZsMDNVRmg4a3JPYXlTY2N3OEF5Wm00MA?oc=5",
-        "published": "Wed, 21 Oct 2026 00:00:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQX0I1dEhmbmlwV0NCSXAzd2FEWWl0amkwNFlLaHFqOVlMLU1vTUdscF9ORHF2NFhGT3JtcVl4cW9lTkRtZGtNT1k1Mnpmd19kX1E0VTM2d3VRcW1nRlJXNGUxMm5tb0NIT3dZb083UmxkSWZIMlRkX29mWWh2cmo5YWVHbDFTblJJRjJDVWEwT2dsOEhISi03QzBMNGowSWRzQlZXa0VydDA2a3ZWWHQ4THU5TXFuQQ?oc=5",
+        "published": "Tue, 20 Oct 2026 17:05:26 GMT",
         "tone": "neutral",
         "reliable": true
       },
       {
-        "title": "Gold steadies near one-week low as oil-driven inflation fears grow - Reuters",
-        "source": "Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY2dJZXdfdnptbDVvajUtNHBONy13T1Z5aEtVc3d2d2VDYUNpUEpTM1JxNGVZRFhiQmh1b1U2RWpOaW0zVndyQk9uSFZ6b0pQXzVvNUhRMFVXeEMzS3BrU1FkdE9tNEYxY21PdDFEWGplNkkwMkJ2Rkk5VVg2VUVDcXFIUmp4cUR4SnhqQ2h6b3hYTExtTkhCNGtqZWt6WUtUYURrc3owUUptdw?oc=5",
-        "published": "Wed, 21 Oct 2026 03:45:00 GMT",
-        "tone": "bullish",
-        "reliable": true
-      },
-      {
-        "title": "CIBC cuts Q4 gold price forecast to $4,500, then sees bounce to $5,200 in 2027 (GLD:NYSEARCA) - Seeking Alpha",
-        "source": "Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWUFrNzIzWFVHUlc1aVVWX0FjMWIzMk13ekdhOGdQRDRFREVfNUFyNU0tbExsMzQ5b3M2UjE5SFh3cWhIQ0w5N1Bkb21TamM0WkQyY2VRVXQweVp5dDZGVTJqWHVZd3dLMTgwVlRiUjk0WWNubWFEYm9xTDdNWV9VVldWT1RwbWc4TVdoa04yRWp5Q2VQVjFTakQ5ZXJHOGk5eXRjT2lQWXBGOW1FYWFpcw?oc=5",
-        "published": "Tue, 20 Oct 2026 21:25:29 GMT",
-        "tone": "neutral",
-        "reliable": false
-      },
-      {
-        "title": "Current price of gold as of October 21, 2026 - Fortune",
-        "source": "Fortune",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zVlV4MHYwZThvZkxuclRIMS1rU3pXeTJBSzFrWXdfWERuQlo4aDN2U3duZ1Z6WHFRTzF0ZlRPNHRQMEsxZ2JBWFl2d1JYdWRQbXJXS0hwR3ZVZzU5Wk0wTW95UlJveHRQbkM3V2VB?oc=5",
-        "published": "Wed, 21 Oct 2026 12:55:00 GMT",
+        "title": "21K Gold Price Reaches JD83 in Local Market... - www.jordannews.jo",
+        "source": "www.jordannews.jo",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ1hlRDVRVFRvMVNOOE5rY0p1NTh3UXBSeXM1Y25MbURhUkJmWmhreTJ0eks4bFpnUnFDeS1IU1ZqeFlwa1RrbXJldXREZjBCZEdSUi1NOUVxbWZaWUJvVF9sVzlHNkRUUmtSc3NuSnN1WFE0SnpaaHQtRGVBOGRwYnVhbXplOU5zTFpYb2J4UkpaOV8xTEpkT20tSQ?oc=5",
+        "published": "Thu, 22 Oct 2026 09:01:20 GMT",
         "tone": "neutral",
         "reliable": false
       },
@@ -105,6 +89,22 @@
         "source": "Investing News Network",
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5iX05YeGRxUldBUDByVDJKZk9aX2N0UkdPbjZnUWRySnNfeEQ1dWpqbnRMR3pOdTJrc2JNS2RXUTNqT053V2JqN0MwUHpTMlRUNnN0QmYydWdfSFA1MGRLTnR5TDY5UV9nU2c?oc=5",
         "published": "Wed, 21 Oct 2026 13:10:00 GMT",
+        "tone": "neutral",
+        "reliable": false
+      },
+      {
+        "title": "France in Crisis: And Now the Riots! - GoldBroker",
+        "source": "GoldBroker",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5kOUd0d3FWUU9sZHBsNEdjWnc5aTU1YkZXRE15QVA3RzNNVndBZldzQ1hpdWJ3MHpNQ0s5RHNYbzlTV0cxVnNoOGpKRXplTXFVZUdQd3JFclRrLWE3ZDIwOWRkblQ2bFUwS0dTdXoxODQ?oc=5",
+        "published": "Thu, 22 Oct 2026 07:34:53 GMT",
+        "tone": "neutral",
+        "reliable": false
+      },
+      {
+        "title": "Gold Struggles to Rally as Russia's Central Bank Bullion Drops to 2019 Level - BullionVault",
+        "source": "BullionVault",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPV1dCOG1HWXJZTGJnOV9NNEFiWGxBZ202NEI4dWpDb0NSVlpwYzVKR1JWQngyNno1WlFtdXdub2hwbTBTLVBua2R4UUxJTlU3WlAweWhOOV9mMTdEX00teUN6WFpyNVhvYTBtc0stWWRIaXFPNFhNck54OVRUSTRqRmJIUVZhX09vSEJvcHgwekU?oc=5",
+        "published": "Wed, 21 Oct 2026 14:59:47 GMT",
         "tone": "neutral",
         "reliable": false
       }
