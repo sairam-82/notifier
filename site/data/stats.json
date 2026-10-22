@@ -41,7 +41,7 @@
   },
   "history_days": 272,
   "as_of_date": "2026-10-22",
-  "last_updated": "2026-10-22T14:37:53.998284+05:30",
+  "last_updated": "2026-10-22T23:01:14.296443+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -50,61 +50,61 @@
   "currency": "INR",
   "unit": "gram",
   "outlook": {
-    "bias": "SLIGHTLY_DOWN",
-    "bias_label": "Slightly downward bias",
+    "bias": "NEUTRAL",
+    "bias_label": "Neutral / sideways",
     "confidence": "MEDIUM",
-    "score": -43.7,
+    "score": -13.8,
     "band_low": 13172.0,
     "band_high": 13298.0,
-    "usd_inr_rate": 94.47,
-    "usd_inr_as_of": "2026-10-21",
-    "usd_inr_daily_pct": -0.485,
-    "usd_inr_7d_pct": -0.725,
+    "usd_inr_rate": 94.82,
+    "usd_inr_as_of": "2026-10-22",
+    "usd_inr_daily_pct": 0.37,
+    "usd_inr_7d_pct": -0.252,
     "factors": [
       "7-day gold trend down (-2.07%)",
       "Near 30D low (0%) — possible stabilisation/bounce",
-      "USD/INR 94.47 (-0.48% today)",
-      "Rupee stronger ₹ vs USD over 7D (-0.72%)",
-      "Global headlines mixed/neutral · 1 from recognised sources"
+      "USD/INR 94.82 (+0.37% today)",
+      "Rupee stronger ₹ vs USD over 7D (-0.25%)",
+      "Global headlines lean bearish (1/5) · 1 from recognised sources"
     ],
     "news": [
       {
-        "title": "Tokenized gold could unlock $700 billion new demand - World Gold Council - Kitco",
+        "title": "‘Gold is no silver bullet’ and isn’t hedging against equity drawdowns, but ‘debasement trade’ should continue – HSBC - Kitco",
         "source": "Kitco",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQX0I1dEhmbmlwV0NCSXAzd2FEWWl0amkwNFlLaHFqOVlMLU1vTUdscF9ORHF2NFhGT3JtcVl4cW9lTkRtZGtNT1k1Mnpmd19kX1E0VTM2d3VRcW1nRlJXNGUxMm5tb0NIT3dZb083UmxkSWZIMlRkX29mWWh2cmo5YWVHbDFTblJJRjJDVWEwT2dsOEhISi03QzBMNGowSWRzQlZXa0VydDA2a3ZWWHQ4THU5TXFuQQ?oc=5",
-        "published": "Tue, 20 Oct 2026 17:05:26 GMT",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYVRiX2l0VmgzS2xKZzU5UV9Ec0xIRGs4ZmpzalI3REZpT1NsVk5ZQnZLSWxxdkhraEVtSHBab2lZQ0NVMkN0NXBRb3NqLW9CS1h0ZWM3eDJsOVkzVm5hSnZsMVBqMWExTXZSMjZFZndfdFlyX1o2SURfOTQ3aGFyd2NzU25DTC1oYmJwcEt0NkdxZkR3dVo2dklrZTdQcHhtZ2M3T01MNXYyR2JNbnhQaVRNMUpnZndBSk5MNw?oc=5",
+        "published": "Thu, 22 Oct 2026 13:21:11 GMT",
         "tone": "neutral",
         "reliable": true
       },
       {
-        "title": "21K Gold Price Reaches JD83 in Local Market... - www.jordannews.jo",
-        "source": "www.jordannews.jo",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ1hlRDVRVFRvMVNOOE5rY0p1NTh3UXBSeXM1Y25MbURhUkJmWmhreTJ0eks4bFpnUnFDeS1IU1ZqeFlwa1RrbXJldXREZjBCZEdSUi1NOUVxbWZaWUJvVF9sVzlHNkRUUmtSc3NuSnN1WFE0SnpaaHQtRGVBOGRwYnVhbXplOU5zTFpYb2J4UkpaOV8xTEpkT20tSQ?oc=5",
-        "published": "Thu, 22 Oct 2026 09:01:20 GMT",
+        "title": "Current price of gold: Month Day, Year - Fortune",
+        "source": "Fortune",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HSkpCeFgyU1oyUTMwMnc4ZU02NkhxRWp4MF9RT0ZQSjUzeTdXeU56aU10RFh6WTV5cUF5ZTREbUZQbVJ0SXlaV3RFVmplU0xxUW5IWkxQLUhWbVZES0NBUWR2SkVoVERrd1dlRXdn?oc=5",
+        "published": "Thu, 22 Oct 2026 12:56:00 GMT",
         "tone": "neutral",
         "reliable": false
       },
       {
-        "title": "Digital Gold's Path to US$700bn Market Expansion - Investing News Network",
-        "source": "Investing News Network",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5iX05YeGRxUldBUDByVDJKZk9aX2N0UkdPbjZnUWRySnNfeEQ1dWpqbnRMR3pOdTJrc2JNS2RXUTNqT053V2JqN0MwUHpTMlRUNnN0QmYydWdfSFA1MGRLTnR5TDY5UV9nU2c?oc=5",
-        "published": "Wed, 21 Oct 2026 13:10:00 GMT",
-        "tone": "neutral",
-        "reliable": false
-      },
-      {
-        "title": "France in Crisis: And Now the Riots! - GoldBroker",
-        "source": "GoldBroker",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5kOUd0d3FWUU9sZHBsNEdjWnc5aTU1YkZXRE15QVA3RzNNVndBZldzQ1hpdWJ3MHpNQ0s5RHNYbzlTV0cxVnNoOGpKRXplTXFVZUdQd3JFclRrLWE3ZDIwOWRkblQ2bFUwS0dTdXoxODQ?oc=5",
-        "published": "Thu, 22 Oct 2026 07:34:53 GMT",
-        "tone": "neutral",
-        "reliable": false
-      },
-      {
-        "title": "Gold Struggles to Rally as Russia's Central Bank Bullion Drops to 2019 Level - BullionVault",
+        "title": "Gold Hits 3-Month Low as Asian Tech Stocks Sink Again - BullionVault",
         "source": "BullionVault",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPV1dCOG1HWXJZTGJnOV9NNEFiWGxBZ202NEI4dWpDb0NSVlpwYzVKR1JWQngyNno1WlFtdXdub2hwbTBTLVBua2R4UUxJTlU3WlAweWhOOV9mMTdEX00teUN6WFpyNVhvYTBtc0stWWRIaXFPNFhNck54OVRUSTRqRmJIUVZhX09vSEJvcHgwekU?oc=5",
-        "published": "Wed, 21 Oct 2026 14:59:47 GMT",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPS1hQWUVhV0k3Z2V4RWZiTFVla09haWszZnZUa1h1RjFsQU5JTDdKV0FSS2lRNzBxRHdjaEZpNVFPT3JKaXE1V3NaMlVKanl5NWZaNmYtZ0dPZEFYdVBXbEZGUUpHQUZKNEsydHpHd0VaZG9FZEw2Z0F0aUtfbTlQUHV3cTZaaDI4dkoyVVRFS1A?oc=5",
+        "published": "Thu, 22 Oct 2026 13:27:58 GMT",
+        "tone": "neutral",
+        "reliable": false
+      },
+      {
+        "title": "Gold Price Prediction: Central Banks Buy 79 Tonnes in One Month, but Prices Still Fall to $4,084 - CryptoRank",
+        "source": "CryptoRank",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOazhkdEkxM1RudUpFa19DdWVPNUNYWEYzSlU5Z1Z6MTNQQ3Q5RkU2MDI1b0FFeW9WZHRBLTFycnRhSFFSMm1teGtPRnZZaVZUczJXc1ZHTVRna0hNd1JGaldTMS1sU2lIT0dEWGExYlE4STNKelY5RmVKc3NqLWRSVEgtbUVFOFRudUVuc1pjQUpOLU5oRXVjeVVvTnlISS1vblEtcEZiZm9GRXBOQi1QR3N0aW10ZndWS2g0M0R6aUcwTi16NXdDSkFvSQ?oc=5",
+        "published": "Thu, 22 Oct 2026 15:02:17 GMT",
+        "tone": "bearish",
+        "reliable": false
+      },
+      {
+        "title": "Gold price today, Thursday, October 22, 2026: No real upward price momentum for gold - Yahoo Finance",
+        "source": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPblR2dkpHMTlGOGZzekxGUzFEeFVSUENkZFYzNDBtM0xxbmdwMnFBTDRJdHlma2VjV1VTTUJDRmJHY1VXa2EtcFkxdHNqaF96ODJaLVg1b1VFNFNKSlVyM3FZNE9pa0M5M2otZVN3d2pYXzlfZkJpTVA2RVlhc3dGZ2JTTmJRaHhlNk5zRmtYWHJCbzNlNERGMkVIc2hsRGdQM1RIZjdKSDduMWtkai1TY1dtcUhndVdqUVk5UGlvOFhrdUUyY255Ti1ESktZMlpYS1pqanVleVprVEhpTkVfSUJuVkZtLWdlc0ZhSA?oc=5",
+        "published": "Thu, 22 Oct 2026 10:35:01 GMT",
         "tone": "neutral",
         "reliable": false
       }
