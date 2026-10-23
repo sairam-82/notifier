@@ -1,32 +1,32 @@
 {
-  "today_price": 13235.0,
-  "yesterday_price": 13390.0,
-  "daily_change": -155.0,
-  "daily_change_percent": -1.16,
+  "today_price": 13060.0,
+  "yesterday_price": 13235.0,
+  "daily_change": -175.0,
+  "daily_change_percent": -1.32,
   "daily_direction": "down",
   "position_30d": 0.0,
   "classification": "D30_LOW",
   "classification_label": "30D LOW",
   "period_7d": {
-    "low": 13235.0,
+    "low": 13060.0,
     "high": 13570.0,
-    "average": 13452.86,
-    "change": -280.0,
-    "change_percent": -2.07,
+    "average": 13387.86,
+    "change": -475.0,
+    "change_percent": -3.51,
     "count": 7
   },
   "period_30d": {
-    "low": 13235.0,
-    "high": 14135.0,
-    "average": 13706.0,
-    "change": -900.0,
-    "change_percent": -6.37,
+    "low": 13060.0,
+    "high": 14010.0,
+    "average": 13670.17,
+    "change": -935.0,
+    "change_percent": -6.68,
     "count": 30
   },
   "period_90d": {
-    "low": 13086.5,
+    "low": 13060.0,
     "high": 15030.0,
-    "average": 13940.69,
+    "average": 13938.08,
     "change": null,
     "change_percent": null,
     "count": 86
@@ -34,14 +34,14 @@
   "period_365d": {
     "low": 11001.2,
     "high": 16061.1,
-    "average": 13504.27,
+    "average": 13502.52,
     "change": null,
     "change_percent": null,
-    "count": 252
+    "count": 253
   },
-  "history_days": 272,
-  "as_of_date": "2026-10-22",
-  "last_updated": "2026-10-22T23:01:14.296443+05:30",
+  "history_days": 273,
+  "as_of_date": "2026-10-23",
+  "last_updated": "2026-10-23T14:34:14.418292+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -50,38 +50,54 @@
   "currency": "INR",
   "unit": "gram",
   "outlook": {
-    "bias": "NEUTRAL",
-    "bias_label": "Neutral / sideways",
+    "bias": "SLIGHTLY_DOWN",
+    "bias_label": "Slightly downward bias",
     "confidence": "MEDIUM",
-    "score": -13.8,
-    "band_low": 13172.0,
-    "band_high": 13298.0,
+    "score": -33.1,
+    "band_low": 12988.0,
+    "band_high": 13132.0,
     "usd_inr_rate": 94.82,
     "usd_inr_as_of": "2026-10-22",
     "usd_inr_daily_pct": 0.37,
     "usd_inr_7d_pct": -0.252,
     "factors": [
-      "7-day gold trend down (-2.07%)",
+      "7-day gold trend down (-3.51%)",
       "Near 30D low (0%) — possible stabilisation/bounce",
       "USD/INR 94.82 (+0.37% today)",
       "Rupee stronger ₹ vs USD over 7D (-0.25%)",
-      "Global headlines lean bearish (1/5) · 1 from recognised sources"
+      "Global headlines lean bearish (2/5) · 2 from recognised sources"
     ],
     "news": [
       {
-        "title": "‘Gold is no silver bullet’ and isn’t hedging against equity drawdowns, but ‘debasement trade’ should continue – HSBC - Kitco",
-        "source": "Kitco",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYVRiX2l0VmgzS2xKZzU5UV9Ec0xIRGs4ZmpzalI3REZpT1NsVk5ZQnZLSWxxdkhraEVtSHBab2lZQ0NVMkN0NXBRb3NqLW9CS1h0ZWM3eDJsOVkzVm5hSnZsMVBqMWExTXZSMjZFZndfdFlyX1o2SURfOTQ3aGFyd2NzU25DTC1oYmJwcEt0NkdxZkR3dVo2dklrZTdQcHhtZ2M3T01MNXYyR2JNbnhQaVRNMUpnZndBSk5MNw?oc=5",
-        "published": "Thu, 22 Oct 2026 13:21:11 GMT",
+        "title": "Gold heads for steep weekly loss as oil prices fuel Fed rate concerns - Reuters",
+        "source": "Reuters",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWE1LcUgzRWRwVDZmX3FEaWszVHF0cFQ1ekt6M1pyQ0lfc05PQm9DekdZcXprdm1vQk00SlNEZjEwQllCd1VwMUJySnIxcF9ZblFaRHFsV3BzSU52SlJSSi1TeWxoTmdYc1h6UHhPQTFQYU41ZEdQTFRNY3l0N1Q2bnRDV2x1MjlveGtxTk1oQWlGd3ExcUZEd2QzdF9TUkVKcXotUlIycUgtb1RrZjJ3?oc=5",
+        "published": "Fri, 23 Oct 2026 04:14:00 GMT",
         "tone": "neutral",
         "reliable": true
       },
       {
-        "title": "Current price of gold: Month Day, Year - Fortune",
-        "source": "Fortune",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HSkpCeFgyU1oyUTMwMnc4ZU02NkhxRWp4MF9RT0ZQSjUzeTdXeU56aU10RFh6WTV5cUF5ZTREbUZQbVJ0SXlaV3RFVmplU0xxUW5IWkxQLUhWbVZES0NBUWR2SkVoVERrd1dlRXdn?oc=5",
-        "published": "Thu, 22 Oct 2026 12:56:00 GMT",
+        "title": "Gold prices struggling as U.S. weekly jobless claims fall to three-month low - Kitco",
+        "source": "Kitco",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcGpYcE56SEtmRW1HQ2RFWUlFZkhXWlVLS2tsNEo3VG5ZM3FfNU1KWmV6RllHRkhtUkpRc3dKeFVERGdaMXNGdXBTbzczaThYUWFoSUlJTVBXNkhQNVJwc1RRWjMwNzNGUnVLa3l3Y1ZCLTNocnFIRTE5eHk5bUFSQWc2dlF1MGM4QWoyOVNkUmFRT1o0VWhHQU1sMW5wWnVxSndtTUtPM2M3OFo3TTNUU2oteTc?oc=5",
+        "published": "Thu, 22 Oct 2026 12:37:37 GMT",
+        "tone": "bearish",
+        "reliable": true
+      },
+      {
+        "title": "Could lab-made gold crash prices like diamonds? US start-up says it turned mercury into gold - Yahoo Finance UK",
+        "source": "Yahoo Finance UK",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OYzl0VkdycEx6d3JMUU0zOEtIa3gtMGxNUkZTTzRZQzdXMHcySVpuNVNJNzFVM0YtbndxaHFsY3hBX2N4ZDJSSWdEWVQyT3RnUmVGYUdJX3dvRTY1MVZ0QXNxTTdKV3V4NEEtQlctcUo2R0dyRkxBT1RIWV9FQVE?oc=5",
+        "published": "Fri, 23 Oct 2026 06:14:00 GMT",
         "tone": "neutral",
+        "reliable": false
+      },
+      {
+        "title": "Gold Faces Pressure Ahead of Fed Decision as Prices Extend Drop Below $4,000 - TradingKey",
+        "source": "TradingKey",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNnJod0MyQUEzQnFucjZyMlZkQjFlN1BpeVBoemd3RGRxaGdTM0dwRjVCUHV4Zy1rWVJjVkpTZG11dm5rNzl2eXpVNHI4TV9JWl9FY1ZPU3Q2cDZBSGdOQUFNcktnT2JtQnhlNDUxcGhwVHpvdElxZDBxam1Nc1ZfeEZXZERfR0o1OTl1VXRJNG51MVhlQzlucFhKTlZFWVNmb0lEeDA3YTFzbmtFbm50UkVFTzdPTmVpOVBCblBOWEs?oc=5",
+        "published": "Fri, 23 Oct 2026 03:52:47 GMT",
+        "tone": "bearish",
         "reliable": false
       },
       {
@@ -89,22 +105,6 @@
         "source": "BullionVault",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPS1hQWUVhV0k3Z2V4RWZiTFVla09haWszZnZUa1h1RjFsQU5JTDdKV0FSS2lRNzBxRHdjaEZpNVFPT3JKaXE1V3NaMlVKanl5NWZaNmYtZ0dPZEFYdVBXbEZGUUpHQUZKNEsydHpHd0VaZG9FZEw2Z0F0aUtfbTlQUHV3cTZaaDI4dkoyVVRFS1A?oc=5",
         "published": "Thu, 22 Oct 2026 13:27:58 GMT",
-        "tone": "neutral",
-        "reliable": false
-      },
-      {
-        "title": "Gold Price Prediction: Central Banks Buy 79 Tonnes in One Month, but Prices Still Fall to $4,084 - CryptoRank",
-        "source": "CryptoRank",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOazhkdEkxM1RudUpFa19DdWVPNUNYWEYzSlU5Z1Z6MTNQQ3Q5RkU2MDI1b0FFeW9WZHRBLTFycnRhSFFSMm1teGtPRnZZaVZUczJXc1ZHTVRna0hNd1JGaldTMS1sU2lIT0dEWGExYlE4STNKelY5RmVKc3NqLWRSVEgtbUVFOFRudUVuc1pjQUpOLU5oRXVjeVVvTnlISS1vblEtcEZiZm9GRXBOQi1QR3N0aW10ZndWS2g0M0R6aUcwTi16NXdDSkFvSQ?oc=5",
-        "published": "Thu, 22 Oct 2026 15:02:17 GMT",
-        "tone": "bearish",
-        "reliable": false
-      },
-      {
-        "title": "Gold price today, Thursday, October 22, 2026: No real upward price momentum for gold - Yahoo Finance",
-        "source": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPblR2dkpHMTlGOGZzekxGUzFEeFVSUENkZFYzNDBtM0xxbmdwMnFBTDRJdHlma2VjV1VTTUJDRmJHY1VXa2EtcFkxdHNqaF96ODJaLVg1b1VFNFNKSlVyM3FZNE9pa0M5M2otZVN3d2pYXzlfZkJpTVA2RVlhc3dGZ2JTTmJRaHhlNk5zRmtYWHJCbzNlNERGMkVIc2hsRGdQM1RIZjdKSDduMWtkai1TY1dtcUhndVdqUVk5UGlvOFhrdUUyY255Ti1ESktZMlpYS1pqanVleVprVEhpTkVfSUJuVkZtLWdlc0ZhSA?oc=5",
-        "published": "Thu, 22 Oct 2026 10:35:01 GMT",
         "tone": "neutral",
         "reliable": false
       }
