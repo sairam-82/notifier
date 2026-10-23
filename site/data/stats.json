@@ -41,7 +41,7 @@
   },
   "history_days": 273,
   "as_of_date": "2026-10-23",
-  "last_updated": "2026-10-23T14:34:14.418292+05:30",
+  "last_updated": "2026-10-23T22:52:30.813482+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -53,23 +53,38 @@
     "bias": "SLIGHTLY_DOWN",
     "bias_label": "Slightly downward bias",
     "confidence": "MEDIUM",
-    "score": -33.1,
+    "score": -19.1,
     "band_low": 12988.0,
     "band_high": 13132.0,
-    "usd_inr_rate": 94.82,
-    "usd_inr_as_of": "2026-10-22",
-    "usd_inr_daily_pct": 0.37,
-    "usd_inr_7d_pct": -0.252,
+    "usd_inr_rate": 94.94,
+    "usd_inr_as_of": "2026-10-23",
+    "usd_inr_daily_pct": 0.127,
+    "usd_inr_7d_pct": -0.021,
     "factors": [
       "7-day gold trend down (-3.51%)",
       "Near 30D low (0%) — possible stabilisation/bounce",
-      "USD/INR 94.82 (+0.37% today)",
-      "Rupee stronger ₹ vs USD over 7D (-0.25%)",
-      "Global headlines lean bearish (2/5) · 2 from recognised sources"
+      "USD/INR 94.94 (+0.13% today)",
+      "Global headlines lean bearish (2/5) · 3 from recognised sources"
     ],
     "news": [
       {
-        "title": "Gold heads for steep weekly loss as oil prices fuel Fed rate concerns - Reuters",
+        "title": "Gold drops below $4,000 as ‘haven’ asset joins market sell-off - Financial Times",
+        "source": "Financial Times",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNREJiUTlBN3JzcUxxMzV0ZkI2Qkc3UjlydG5yRWtzTDZGZzJnMHF3ampSSW1YblM1aEQxck9vMjF5dFBZdUpBWDVNY2Y1cEZXMk5td09NclZ1T0E3eG1KY2JLZG83SE14TUtSWTJmeGRwSzNIYjBkRDJqaXFXSVhvSmhsUy0?oc=5",
+        "published": "Fri, 23 Oct 2026 14:37:46 GMT",
+        "tone": "bearish",
+        "reliable": true
+      },
+      {
+        "title": "Gold price trades near $4,000/oz after final Consumer Sentiment holds steady at 48, inflation expectations rise - Kitco",
+        "source": "Kitco",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZUUtZHJuN3lDVDVOWHVqbFRoZEFHckp0UDI3MUpHN2ZJMVpXMTdROTJQX29yMHgteWFYZDdXVUVOMXp6c3FLVzFLc2V2NTctMzBGTnlJSmJyQWxhWGs2azVqQ0JjUGx2M3BUNVFjNFY0cTgtMlc0NXpxYy1NZGdVRlNsaVU5Ump4cWFlRU9Fd2R3NVFvaGpDem9kT2xLSFc0YklVb2FQcE1ObGp6ek9NMUNVN1BfYndmb3BN?oc=5",
+        "published": "Fri, 23 Oct 2026 14:01:13 GMT",
+        "tone": "bullish",
+        "reliable": true
+      },
+      {
+        "title": "Gold set for steep weekly loss as rising oil prices bolster Fed rate hike bets - Reuters",
         "source": "Reuters",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWE1LcUgzRWRwVDZmX3FEaWszVHF0cFQ1ekt6M1pyQ0lfc05PQm9DekdZcXprdm1vQk00SlNEZjEwQllCd1VwMUJySnIxcF9ZblFaRHFsV3BzSU52SlJSSi1TeWxoTmdYc1h6UHhPQTFQYU41ZEdQTFRNY3l0N1Q2bnRDV2x1MjlveGtxTk1oQWlGd3ExcUZEd2QzdF9TUkVKcXotUlIycUgtb1RrZjJ3?oc=5",
         "published": "Fri, 23 Oct 2026 04:14:00 GMT",
@@ -77,35 +92,19 @@
         "reliable": true
       },
       {
-        "title": "Gold prices struggling as U.S. weekly jobless claims fall to three-month low - Kitco",
-        "source": "Kitco",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcGpYcE56SEtmRW1HQ2RFWUlFZkhXWlVLS2tsNEo3VG5ZM3FfNU1KWmV6RllHRkhtUkpRc3dKeFVERGdaMXNGdXBTbzczaThYUWFoSUlJTVBXNkhQNVJwc1RRWjMwNzNGUnVLa3l3Y1ZCLTNocnFIRTE5eHk5bUFSQWc2dlF1MGM4QWoyOVNkUmFRT1o0VWhHQU1sMW5wWnVxSndtTUtPM2M3OFo3TTNUU2oteTc?oc=5",
-        "published": "Thu, 22 Oct 2026 12:37:37 GMT",
-        "tone": "bearish",
-        "reliable": true
-      },
-      {
-        "title": "Could lab-made gold crash prices like diamonds? US start-up says it turned mercury into gold - Yahoo Finance UK",
-        "source": "Yahoo Finance UK",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OYzl0VkdycEx6d3JMUU0zOEtIa3gtMGxNUkZTTzRZQzdXMHcySVpuNVNJNzFVM0YtbndxaHFsY3hBX2N4ZDJSSWdEWVQyT3RnUmVGYUdJX3dvRTY1MVZ0QXNxTTdKV3V4NEEtQlctcUo2R0dyRkxBT1RIWV9FQVE?oc=5",
-        "published": "Fri, 23 Oct 2026 06:14:00 GMT",
+        "title": "Current price of gold as of October 23, 2026 - Fortune",
+        "source": "Fortune",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBoRTI1THNqVk5qWGRlbXh6MWRld3NrQTJ4ZEJJZFRaaEYtMDNyYXFPVC1sWmcyMHhkTXY0dUdpLWxXMmR1MXRhdWgyRUY5Y0VtYU9udDJfNmd1Q2thREptT24weDM5QklxYlNaWVF3?oc=5",
+        "published": "Fri, 23 Oct 2026 13:27:00 GMT",
         "tone": "neutral",
         "reliable": false
       },
       {
-        "title": "Gold Faces Pressure Ahead of Fed Decision as Prices Extend Drop Below $4,000 - TradingKey",
-        "source": "TradingKey",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNnJod0MyQUEzQnFucjZyMlZkQjFlN1BpeVBoemd3RGRxaGdTM0dwRjVCUHV4Zy1rWVJjVkpTZG11dm5rNzl2eXpVNHI4TV9JWl9FY1ZPU3Q2cDZBSGdOQUFNcktnT2JtQnhlNDUxcGhwVHpvdElxZDBxam1Nc1ZfeEZXZERfR0o1OTl1VXRJNG51MVhlQzlucFhKTlZFWVNmb0lEeDA3YTFzbmtFbm50UkVFTzdPTmVpOVBCblBOWEs?oc=5",
-        "published": "Fri, 23 Oct 2026 03:52:47 GMT",
+        "title": "Gold Falls Below $4,000 for the First Time Since July. What’s Next? - Yahoo Finance",
+        "source": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTUJFNF9jb29zTXFTdl9vc0ZXNFlTMXB1UWFoYzFDT0VxRktZMFZZMkJPSlBJSVVGbXhhRG9TalF0TnZjNUNPZmdNVS1ncE5TbEJweDlvSHJYU2dlaDRUVmVnQ3QwT3ZSTVA1eFpzT0NBM2R2OEdqcnBHX3ZRc1dZcE9GYTB0cnlnUGVXQkhzTEMyX2lqZ3hr?oc=5",
+        "published": "Fri, 23 Oct 2026 06:16:00 GMT",
         "tone": "bearish",
-        "reliable": false
-      },
-      {
-        "title": "Gold Hits 3-Month Low as Asian Tech Stocks Sink Again - BullionVault",
-        "source": "BullionVault",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPS1hQWUVhV0k3Z2V4RWZiTFVla09haWszZnZUa1h1RjFsQU5JTDdKV0FSS2lRNzBxRHdjaEZpNVFPT3JKaXE1V3NaMlVKanl5NWZaNmYtZ0dPZEFYdVBXbEZGUUpHQUZKNEsydHpHd0VaZG9FZEw2Z0F0aUtfbTlQUHV3cTZaaDI4dkoyVVRFS1A?oc=5",
-        "published": "Thu, 22 Oct 2026 13:27:58 GMT",
-        "tone": "neutral",
         "reliable": false
       }
     ],
