@@ -1,32 +1,32 @@
 {
-  "today_price": 13060.0,
-  "yesterday_price": 13235.0,
-  "daily_change": -175.0,
-  "daily_change_percent": -1.32,
-  "daily_direction": "down",
-  "position_30d": 0.0,
-  "classification": "D30_LOW",
-  "classification_label": "30D LOW",
+  "today_price": 13070.0,
+  "yesterday_price": 13060.0,
+  "daily_change": 10.0,
+  "daily_change_percent": 0.08,
+  "daily_direction": "up",
+  "position_30d": 1.05,
+  "classification": "NEAR_30D_LOW",
+  "classification_label": "NEAR 30D LOW",
   "period_7d": {
     "low": 13060.0,
     "high": 13570.0,
-    "average": 13387.86,
-    "change": -475.0,
-    "change_percent": -3.51,
+    "average": 13321.43,
+    "change": -465.0,
+    "change_percent": -3.44,
     "count": 7
   },
   "period_30d": {
     "low": 13060.0,
     "high": 14010.0,
-    "average": 13670.17,
-    "change": -935.0,
-    "change_percent": -6.68,
+    "average": 13639.33,
+    "change": -940.0,
+    "change_percent": -6.71,
     "count": 30
   },
   "period_90d": {
     "low": 13060.0,
     "high": 15030.0,
-    "average": 13938.08,
+    "average": 13935.58,
     "change": null,
     "change_percent": null,
     "count": 86
@@ -34,14 +34,14 @@
   "period_365d": {
     "low": 11001.2,
     "high": 16061.1,
-    "average": 13502.52,
+    "average": 13500.81,
     "change": null,
     "change_percent": null,
-    "count": 253
+    "count": 254
   },
-  "history_days": 273,
-  "as_of_date": "2026-10-23",
-  "last_updated": "2026-10-23T22:52:30.813482+05:30",
+  "history_days": 274,
+  "as_of_date": "2026-10-24",
+  "last_updated": "2026-10-24T14:06:07.539515+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -53,20 +53,28 @@
     "bias": "SLIGHTLY_DOWN",
     "bias_label": "Slightly downward bias",
     "confidence": "MEDIUM",
-    "score": -19.1,
-    "band_low": 12988.0,
-    "band_high": 13132.0,
+    "score": -18.5,
+    "band_low": 12998.0,
+    "band_high": 13142.0,
     "usd_inr_rate": 94.94,
     "usd_inr_as_of": "2026-10-23",
     "usd_inr_daily_pct": 0.127,
     "usd_inr_7d_pct": -0.021,
     "factors": [
-      "7-day gold trend down (-3.51%)",
-      "Near 30D low (0%) — possible stabilisation/bounce",
+      "7-day gold trend down (-3.44%)",
+      "Near 30D low (1%) — possible stabilisation/bounce",
       "USD/INR 94.94 (+0.13% today)",
-      "Global headlines lean bearish (2/5) · 3 from recognised sources"
+      "Global headlines lean bearish (1/5) · 4 from recognised sources"
     ],
     "news": [
+      {
+        "title": "Gold Price Canada Today | Live Gold Price in CAD - Kitco",
+        "source": "Kitco",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVMHM0YXN3UkRUdlVZXzdrUjJmSHh5eFZ6Q0pSOVhYV1pLU0VzSXNhWGRVREpJbm9uX3pvSkZsMDNVRmg4a3JPYXlTY2N3OEF5Wm00MA?oc=5",
+        "published": "Sat, 24 Oct 2026 00:00:00 GMT",
+        "tone": "neutral",
+        "reliable": true
+      },
       {
         "title": "Gold drops below $4,000 as ‘haven’ asset joins market sell-off - Financial Times",
         "source": "Financial Times",
@@ -76,11 +84,11 @@
         "reliable": true
       },
       {
-        "title": "Gold price trades near $4,000/oz after final Consumer Sentiment holds steady at 48, inflation expectations rise - Kitco",
-        "source": "Kitco",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZUUtZHJuN3lDVDVOWHVqbFRoZEFHckp0UDI3MUpHN2ZJMVpXMTdROTJQX29yMHgteWFYZDdXVUVOMXp6c3FLVzFLc2V2NTctMzBGTnlJSmJyQWxhWGs2azVqQ0JjUGx2M3BUNVFjNFY0cTgtMlc0NXpxYy1NZGdVRlNsaVU5Ump4cWFlRU9Fd2R3NVFvaGpDem9kT2xLSFc0YklVb2FQcE1ObGp6ek9NMUNVN1BfYndmb3BN?oc=5",
-        "published": "Fri, 23 Oct 2026 14:01:13 GMT",
-        "tone": "bullish",
+        "title": "Gold set for steep weekly loss as rising oil prices bolster Fed rate hike bets - CNBC",
+        "source": "CNBC",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS0x2VHNBWkt6RWNETndlR0p1eDd4UnhlZFFFbWpaYWdocUl2MnRCQm16RFpYbHQ3dF9jOEtLMENKOHUySjNmaW03YkhFRmR3WXRnbWtIaGZwbVVQNHJMMC11aklCdlBNcjMySDZsOU16WVBaZl8zR2ttZkgxMXVVWldnY25RRjJzbks3WFJwZWpnUE9maFdseVAwcmlmRHFJYUxCTEJ4RmN5QdIBrwFBVV95cUxNUEhSek0wcnlJbXhsZ0NkYmVoNEJmSUF5NEdCRElnZUVtNEcyY1hJSUloNEVtV3RRcDNXazdBUzc5a0V5OS1JXzFZMkROWVU2VHE3dUZmUExCMzdiRkNXZ0ZTY3pwUEJXR2RGaWY2QXVJOEtxV3lCWmV6OGdkZEE2NmJxcGZpSUYzZUhFNnRCVkotekVpY3BrWEVudnJkckF6dmVVZl9qNUtwN193MVV3?oc=5",
+        "published": "Fri, 23 Oct 2026 04:29:38 GMT",
+        "tone": "neutral",
         "reliable": true
       },
       {
@@ -97,14 +105,6 @@
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBoRTI1THNqVk5qWGRlbXh6MWRld3NrQTJ4ZEJJZFRaaEYtMDNyYXFPVC1sWmcyMHhkTXY0dUdpLWxXMmR1MXRhdWgyRUY5Y0VtYU9udDJfNmd1Q2thREptT24weDM5QklxYlNaWVF3?oc=5",
         "published": "Fri, 23 Oct 2026 13:27:00 GMT",
         "tone": "neutral",
-        "reliable": false
-      },
-      {
-        "title": "Gold Falls Below $4,000 for the First Time Since July. What’s Next? - Yahoo Finance",
-        "source": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTUJFNF9jb29zTXFTdl9vc0ZXNFlTMXB1UWFoYzFDT0VxRktZMFZZMkJPSlBJSVVGbXhhRG9TalF0TnZjNUNPZmdNVS1ncE5TbEJweDlvSHJYU2dlaDRUVmVnQ3QwT3ZSTVA1eFpzT0NBM2R2OEdqcnBHX3ZRc1dZcE9GYTB0cnlnUGVXQkhzTEMyX2lqZ3hr?oc=5",
-        "published": "Fri, 23 Oct 2026 06:16:00 GMT",
-        "tone": "bearish",
         "reliable": false
       }
     ],
