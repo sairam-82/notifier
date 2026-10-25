@@ -41,7 +41,7 @@
   },
   "history_days": 275,
   "as_of_date": "2026-10-25",
-  "last_updated": "2026-10-25T14:25:25.485519+05:30",
+  "last_updated": "2026-10-25T22:12:15.479036+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -53,7 +53,7 @@
     "bias": "SLIGHTLY_DOWN",
     "bias_label": "Slightly downward bias",
     "confidence": "MEDIUM",
-    "score": -24.1,
+    "score": -19.1,
     "band_low": 13001.0,
     "band_high": 13139.0,
     "usd_inr_rate": 94.94,
@@ -64,7 +64,7 @@
       "7-day gold trend down (-3.68%)",
       "Near 30D low (1%) — possible stabilisation/bounce",
       "USD/INR 94.94 (+0.13% today)",
-      "Global headlines lean bearish (2/5) · 2 from recognised sources"
+      "Global headlines lean bearish (1/5) · 2 from recognised sources"
     ],
     "news": [
       {
@@ -84,6 +84,14 @@
         "reliable": true
       },
       {
+        "title": "Central banks split over gold: Russia is selling, China is buying - Euronews.com",
+        "source": "Euronews.com",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPS1cxZGp5eVZyV1RlUFhIU1cyYzV1clFhSENTR3JzUGNscnJ3d2dsci1TaTJEZmVsUE51UDItcHRtcW1pSG0zVVQ5R1MzQkpfNDVwdXBhel90Y3VlaGtwY0hGQzl5YVo5d2s0WDJWV3dQeUFBQ2dHY2pnaWt1QURwWnRhWnFIcjNuQkQydENPQWlkTG1DamUySmtFUXNGVURtcFFCa0lBemVyNEZW?oc=5",
+        "published": "Sun, 25 Oct 2026 06:58:33 GMT",
+        "tone": "neutral",
+        "reliable": false
+      },
+      {
         "title": "Current price of gold as of October 23, 2026 - Fortune",
         "source": "Fortune",
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBoRTI1THNqVk5qWGRlbXh6MWRld3NrQTJ4ZEJJZFRaaEYtMDNyYXFPVC1sWmcyMHhkTXY0dUdpLWxXMmR1MXRhdWgyRUY5Y0VtYU9udDJfNmd1Q2thREptT24weDM5QklxYlNaWVF3?oc=5",
@@ -92,18 +100,10 @@
         "reliable": false
       },
       {
-        "title": "Gold Falls Below $4,000 for the First Time Since July. What’s Next? - Yahoo Finance",
-        "source": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTUJFNF9jb29zTXFTdl9vc0ZXNFlTMXB1UWFoYzFDT0VxRktZMFZZMkJPSlBJSVVGbXhhRG9TalF0TnZjNUNPZmdNVS1ncE5TbEJweDlvSHJYU2dlaDRUVmVnQ3QwT3ZSTVA1eFpzT0NBM2R2OEdqcnBHX3ZRc1dZcE9GYTB0cnlnUGVXQkhzTEMyX2lqZ3hr?oc=5",
-        "published": "Fri, 23 Oct 2026 06:16:00 GMT",
-        "tone": "bearish",
-        "reliable": false
-      },
-      {
-        "title": "Gold Hits 3-Month Low as Asian Tech Stocks Sink Again - BullionVault",
-        "source": "BullionVault",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPS1hQWUVhV0k3Z2V4RWZiTFVla09haWszZnZUa1h1RjFsQU5JTDdKV0FSS2lRNzBxRHdjaEZpNVFPT3JKaXE1V3NaMlVKanl5NWZaNmYtZ0dPZEFYdVBXbEZGUUpHQUZKNEsydHpHd0VaZG9FZEw2Z0F0aUtfbTlQUHV3cTZaaDI4dkoyVVRFS1A?oc=5",
-        "published": "Thu, 22 Oct 2026 13:27:58 GMT",
+        "title": "DRDGOLD’s 2027 Outlook: A Debt-Free Gold Miner With a 200% Dividend Hike and an Expansion on Deck - The Motley Fool",
+        "source": "The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbDVpZXdyVDdOQ0l0TlltUW5kUGo0YUtCLXBRZ2tWQ1pGRVE1aVlfelhQWnpfc2pGckhUaTNPNjByNjhqXzlTa1FQdDBKVWU0eEJCckdwZTJMblBhZTdkNnVNUElzSWF0eWp1RVdjUElJRzBpVVpZUlJDZnRaZWF6OUJHR1p1TEx4N3ZLQnpCa016emtqc1VCN0hUSndTTzk3YjNkNlNDRF85TE5ZRWVJczNoWEJ3X0lfRXZveDNZalAyRm4wWkJVNUJhZ2dBOHpWaFpxbXVGYXFKdHVjYm1Fbg?oc=5",
+        "published": "Sun, 25 Oct 2026 13:15:32 GMT",
         "tone": "neutral",
         "reliable": false
       }
