@@ -1,32 +1,32 @@
 {
-  "today_price": 13070.0,
+  "today_price": 13085.0,
   "yesterday_price": 13070.0,
-  "daily_change": 0.0,
-  "daily_change_percent": 0.0,
-  "daily_direction": "flat",
-  "position_30d": 1.07,
+  "daily_change": 15.0,
+  "daily_change_percent": 0.11,
+  "daily_direction": "up",
+  "position_30d": 2.67,
   "classification": "NEAR_30D_LOW",
   "classification_label": "NEAR 30D LOW",
   "period_7d": {
     "low": 13060.0,
-    "high": 13570.0,
-    "average": 13255.0,
-    "change": -500.0,
-    "change_percent": -3.68,
+    "high": 13390.0,
+    "average": 13185.71,
+    "change": -305.0,
+    "change_percent": -2.28,
     "count": 7
   },
   "period_30d": {
     "low": 13060.0,
     "high": 13995.0,
-    "average": 13608.0,
-    "change": -925.0,
-    "change_percent": -6.61,
+    "average": 13577.67,
+    "change": -910.0,
+    "change_percent": -6.5,
     "count": 30
   },
   "period_90d": {
     "low": 13060.0,
     "high": 15030.0,
-    "average": 13932.09,
+    "average": 13930.58,
     "change": null,
     "change_percent": null,
     "count": 86
@@ -34,14 +34,14 @@
   "period_365d": {
     "low": 11001.2,
     "high": 16061.1,
-    "average": 13499.12,
+    "average": 13497.51,
     "change": null,
     "change_percent": null,
-    "count": 255
+    "count": 256
   },
-  "history_days": 275,
-  "as_of_date": "2026-10-25",
-  "last_updated": "2026-10-25T22:12:15.479036+05:30",
+  "history_days": 276,
+  "as_of_date": "2026-10-26",
+  "last_updated": "2026-10-26T15:08:24.830260+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -50,31 +50,23 @@
   "currency": "INR",
   "unit": "gram",
   "outlook": {
-    "bias": "SLIGHTLY_DOWN",
-    "bias_label": "Slightly downward bias",
+    "bias": "NEUTRAL",
+    "bias_label": "Neutral / sideways",
     "confidence": "MEDIUM",
-    "score": -19.1,
-    "band_low": 13001.0,
-    "band_high": 13139.0,
+    "score": 3.1,
+    "band_low": 13027.0,
+    "band_high": 13143.0,
     "usd_inr_rate": 94.94,
     "usd_inr_as_of": "2026-10-23",
     "usd_inr_daily_pct": 0.127,
     "usd_inr_7d_pct": -0.021,
     "factors": [
-      "7-day gold trend down (-3.68%)",
-      "Near 30D low (1%) — possible stabilisation/bounce",
+      "7-day gold trend down (-2.28%)",
+      "Near 30D low (3%) — possible stabilisation/bounce",
       "USD/INR 94.94 (+0.13% today)",
-      "Global headlines lean bearish (1/5) · 2 from recognised sources"
+      "Global headlines lean bullish (2/5) · 3 from recognised sources"
     ],
     "news": [
-      {
-        "title": "Gold Price Canada Today | Live Gold Price in CAD - Kitco",
-        "source": "Kitco",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVMHM0YXN3UkRUdlVZXzdrUjJmSHh5eFZ6Q0pSOVhYV1pLU0VzSXNhWGRVREpJbm9uX3pvSkZsMDNVRmg4a3JPYXlTY2N3OEF5Wm00MA?oc=5",
-        "published": "Sun, 25 Oct 2026 00:00:00 GMT",
-        "tone": "neutral",
-        "reliable": true
-      },
       {
         "title": "Gold drops below $4,000 as ‘haven’ asset joins market sell-off - Financial Times",
         "source": "Financial Times",
@@ -84,10 +76,26 @@
         "reliable": true
       },
       {
+        "title": "Gold gains on softer oil prices; Fed decision in focus - Reuters",
+        "source": "Reuters",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZml1aC0yS2NrLUloeEFPZnYyeExpazhPVExTT1BLcV9HZGxEZWFzcHFUMTJFbDhUTjgyaE5EbGRja1BRX0p2UzlDSmEzUUpzTG9ZT2xKZEZMczFvb1pzU2xrdXlNT0dDUXYtQnhoLUFpT09xQmF5Q25FQXdKNGpjOERVdTB1UTk4NkhSd2k3cUNBSTJRMVVsUlpSWQ?oc=5",
+        "published": "Mon, 26 Oct 2026 05:56:00 GMT",
+        "tone": "bullish",
+        "reliable": true
+      },
+      {
+        "title": "Gold price trades near $4,000/oz after final Consumer Sentiment holds steady at 48, inflation expectations rise - Kitco",
+        "source": "Kitco",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZUUtZHJuN3lDVDVOWHVqbFRoZEFHckp0UDI3MUpHN2ZJMVpXMTdROTJQX29yMHgteWFYZDdXVUVOMXp6c3FLVzFLc2V2NTctMzBGTnlJSmJyQWxhWGs2azVqQ0JjUGx2M3BUNVFjNFY0cTgtMlc0NXpxYy1NZGdVRlNsaVU5Ump4cWFlRU9Fd2R3NVFvaGpDem9kT2xLSFc0YklVb2FQcE1ObGp6ek9NMUNVN1BfYndmb3BN?oc=5",
+        "published": "Fri, 23 Oct 2026 14:01:13 GMT",
+        "tone": "bullish",
+        "reliable": true
+      },
+      {
         "title": "Central banks split over gold: Russia is selling, China is buying - Euronews.com",
         "source": "Euronews.com",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPS1cxZGp5eVZyV1RlUFhIU1cyYzV1clFhSENTR3JzUGNscnJ3d2dsci1TaTJEZmVsUE51UDItcHRtcW1pSG0zVVQ5R1MzQkpfNDVwdXBhel90Y3VlaGtwY0hGQzl5YVo5d2s0WDJWV3dQeUFBQ2dHY2pnaWt1QURwWnRhWnFIcjNuQkQydENPQWlkTG1DamUySmtFUXNGVURtcFFCa0lBemVyNEZW?oc=5",
-        "published": "Sun, 25 Oct 2026 06:58:33 GMT",
+        "published": "Mon, 26 Oct 2026 07:28:19 GMT",
         "tone": "neutral",
         "reliable": false
       },
@@ -96,14 +104,6 @@
         "source": "Fortune",
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBoRTI1THNqVk5qWGRlbXh6MWRld3NrQTJ4ZEJJZFRaaEYtMDNyYXFPVC1sWmcyMHhkTXY0dUdpLWxXMmR1MXRhdWgyRUY5Y0VtYU9udDJfNmd1Q2thREptT24weDM5QklxYlNaWVF3?oc=5",
         "published": "Fri, 23 Oct 2026 13:27:00 GMT",
-        "tone": "neutral",
-        "reliable": false
-      },
-      {
-        "title": "DRDGOLD’s 2027 Outlook: A Debt-Free Gold Miner With a 200% Dividend Hike and an Expansion on Deck - The Motley Fool",
-        "source": "The Motley Fool",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbDVpZXdyVDdOQ0l0TlltUW5kUGo0YUtCLXBRZ2tWQ1pGRVE1aVlfelhQWnpfc2pGckhUaTNPNjByNjhqXzlTa1FQdDBKVWU0eEJCckdwZTJMblBhZTdkNnVNUElzSWF0eWp1RVdjUElJRzBpVVpZUlJDZnRaZWF6OUJHR1p1TEx4N3ZLQnpCa016emtqc1VCN0hUSndTTzk3YjNkNlNDRF85TE5ZRWVJczNoWEJ3X0lfRXZveDNZalAyRm4wWkJVNUJhZ2dBOHpWaFpxbXVGYXFKdHVjYm1Fbg?oc=5",
-        "published": "Sun, 25 Oct 2026 13:15:32 GMT",
         "tone": "neutral",
         "reliable": false
       }
