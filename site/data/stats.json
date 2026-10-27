@@ -41,7 +41,7 @@
   },
   "history_days": 277,
   "as_of_date": "2026-10-27",
-  "last_updated": "2026-10-27T15:03:39.811996+05:30",
+  "last_updated": "2026-10-27T23:40:44.148616+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -50,61 +50,61 @@
   "currency": "INR",
   "unit": "gram",
   "outlook": {
-    "bias": "SLIGHTLY_UP",
-    "bias_label": "Slightly upward bias",
+    "bias": "NEUTRAL",
+    "bias_label": "Neutral / sideways",
     "confidence": "MEDIUM",
-    "score": 23.8,
+    "score": -0.0,
     "band_low": 13080.0,
     "band_high": 13190.0,
-    "usd_inr_rate": 95.18,
-    "usd_inr_as_of": "2026-10-26",
-    "usd_inr_daily_pct": 0.253,
-    "usd_inr_7d_pct": 0.263,
+    "usd_inr_rate": 95.12,
+    "usd_inr_as_of": "2026-10-27",
+    "usd_inr_daily_pct": -0.063,
+    "usd_inr_7d_pct": 0.2,
     "factors": [
       "7-day gold trend down (-1.90%)",
       "Near 30D low (9%) — possible stabilisation/bounce",
-      "USD/INR 95.18 (+0.25% today)",
-      "Rupee weaker ₹ vs USD over 7D (+0.26%)",
-      "Global headlines mixed/neutral · 2 from recognised sources"
+      "USD/INR 95.12 (-0.06% today)",
+      "Rupee weaker ₹ vs USD over 7D (+0.20%)",
+      "Global headlines mixed/neutral · 3 from recognised sources"
     ],
     "news": [
       {
-        "title": "Gold eases on firmer dollar ahead of Fed decision - CNBC",
-        "source": "CNBC",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNm1fRjlQSURXa2x6X3o5R1JlalFLRFI4WWpiNXlkQVBhU3dkX0FiM21CR3g3Mlp1SE1xcS1fbUtRd0wzOHlFUDR2eGd2ZDJwYWJoZnB6Skd4bWJOUjc1Q3o1NVJKWWowd2UwVG5faGFpeUotRjRCdjNmR19wVGxWU2tLVVViTlV4YlZZOUlaONIBlAFBVV95cUxPcWJKTWI0NmRPMTZhSUJFZ2xrRU0tZVJyMlY5by1LTTlCNW5TVE1TdkUyZ3Z2QXUxUEwwaEF1SmJKaDFnWFllbi11X2FXelFvUktMLTdUeUtaM1UyQzI5MTkxRk03RzN4MW5vTVk3dHAzQW5lczdSMDZYREE2eTNMUkpNSTducEF1SnRtSGNvXzFaWGZi?oc=5",
-        "published": "Tue, 27 Oct 2026 04:06:05 GMT",
+        "title": "Amundi Says ‘Worst Is Behind Us’ as Gold Flirts With $4,000 - Bloomberg.com",
+        "source": "Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLVdoYno3cGlBWTJlbUYxNWhwbkJ4NGFEVU9XalhaQnlRY0VybWdVX2d5TnNibDVRVGVlU01WcksyT2xjU3A4YkNSRzJwN0lhYkVqUkV5QXJ5a3ZrcWVHTzlrdXI0WnRwM3ROR1BZRjVIWjBQWWwyeXh1M3o2M2hvMWRNSEI4ci0waEl0a2dNUk1PMFBQRzhaekxLb2xSYm5laGh2dFpFU1FrUGM?oc=5",
+        "published": "Tue, 27 Oct 2026 08:54:48 GMT",
         "tone": "neutral",
         "reliable": true
       },
       {
-        "title": "Gold rises as lower oil prices ease inflation fears ahead of Fed meeting - Reuters",
+        "title": "Gold gains on softer oil prices ahead of Fed meeting - Reuters",
         "source": "Reuters",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZml1aC0yS2NrLUloeEFPZnYyeExpazhPVExTT1BLcV9HZGxEZWFzcHFUMTJFbDhUTjgyaE5EbGRja1BRX0p2UzlDSmEzUUpzTG9ZT2xKZEZMczFvb1pzU2xrdXlNT0dDUXYtQnhoLUFpT09xQmF5Q25FQXdKNGpjOERVdTB1UTk4NkhSd2k3cUNBSTJRMVVsUlpSWQ?oc=5",
-        "published": "Mon, 26 Oct 2026 05:56:00 GMT",
-        "tone": "neutral",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQWIyeWVhRnVBaHZfV05HanpZVFJzZDZiaC1MTEFVX0JEbWc5RVhRV3htMnJFMDNCVjBPWTJISkhha3ZWc3otaXBCTGloREJidmlqOWtXMTQ4Zks2aTA5czBzNC1OdGNuVXlqLVZ4TTk3M1VUSEZvdVdCLXV3bHJsZXBHSktGcXR0dk1wS2VYdWYxTm9ueGc?oc=5",
+        "published": "Tue, 27 Oct 2026 05:46:00 GMT",
+        "tone": "bullish",
         "reliable": true
       },
       {
-        "title": "After Gold Loses $4,000, UBS Turns Bullish: $4,400 Only After a Break Above $4,082, and No One Wants to Add Exposure Before Year-End - BigGo Finance",
-        "source": "BigGo Finance",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5mSk5zWDRnRnVWdi1ZMEEyZmhMdEg3eV9ZdURLT2F6YXVja2NKNG00VjRodlJzNFJZemtwOVBBMmpyamxneHFVdVZGUzV6RE9SNXJDNFBTUC12eU9XdF9ub1pfV0FvM2ZObDlhbFg0SHRjemlnTGc?oc=5",
-        "published": "Tue, 27 Oct 2026 02:26:00 GMT",
-        "tone": "neutral",
-        "reliable": false
+        "title": "Gold price needs to build a floor here or face a deeper correction - Standard Chartered’s Cooper - Kitco",
+        "source": "Kitco",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSkFmQ3ZSYmFHZlZ5V055N3BTYU5FSzZWWmd3LWxfTFZwVmhsQWJTMzdBVjNvUVN6M19ZYzd3anFpQ0I4Rl9RWGdyaVo5a2JWUEpoUGctT20xdnpTOGdGVGZZX0p1dEw1RFR3VkpQbWQ2VUZlNUtsdjJiR0hJRk1zeV9nR0pqX3l2UnE3Wng0YmhFYzdyZjM1TVhQYWVQb2hWUWRmRktCZjZRSi0wNzV2ZTJJNGQ?oc=5",
+        "published": "Tue, 27 Oct 2026 17:38:08 GMT",
+        "tone": "bearish",
+        "reliable": true
       },
       {
-        "title": "Chart of the day: Gold price hangs by a thread at $4,000 as bond market risks loom - investingLive",
-        "source": "investingLive",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZFRqOUxCaWd3Nk1NU3FwMXVPVGdmenN5R2NGeGxJQVlYcmFEN1Bza3Q2Rmtac3BuU05OaWlJYXNRamRhVnNiZlE4WUdueE9RZDdHeHZWc21GbGtyWFEyXzNQejd4N18zMkpmXzZfVlQ0eFp3bm4wYjVwd1JOdDVVXzNCTkc5Z0xDZDF6WndPeWNJT3FTeXhLaVBqQTlTZjNDb2NwX042M1hzZ3VqVE53SGxSTFN1aVQxc3RldTJnelZwR294?oc=5",
-        "published": "Tue, 27 Oct 2026 07:29:57 GMT",
-        "tone": "neutral",
-        "reliable": false
-      },
-      {
-        "title": "Current price of gold as of October 26, 2026 - Fortune",
+        "title": "Current price of gold as of October 27, 2026 - Fortune",
         "source": "Fortune",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1tdGRuWXBqTERESi03MHpxMmh2d2FJZk9zUWlzWFlIQm1uVm9zMy16S3lfWWJVZ0E0WFZ5c0dxVUdhQVdMRHNvUm1SVEpjVGpsd1VpekNwb19JMlRMNUhTMkM0TDFORmtGdkdESld3?oc=5",
-        "published": "Mon, 26 Oct 2026 14:03:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01R2ptSnhZMmdDSlU2TXhUM2NOTTY3WFdJRWtVUTlGSzZQR201cUJDR3dtWmJPb1kwUmczQ0s4cmNJV0ZHdzBSYmJXU3lMbktLQ0NJa1FhX0dFVWZ0N210Ti15RFhudFBRamNsNlFR?oc=5",
+        "published": "Tue, 27 Oct 2026 14:08:00 GMT",
+        "tone": "neutral",
+        "reliable": false
+      },
+      {
+        "title": "Falling Real Yields Cut Gold's Opportunity Cost Despite Uneven Demand - Crux Investor",
+        "source": "Crux Investor",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMG5teFhqT1hHMjNrRHFIdURnMlU1NlZvalQwdUM3cHU2My1uVkF0cDJGNnFsVlJDV0V4V0tOOUZUWm9BWlhwYjUtYUlDUDBtOWJqRHhXbzlVMGVFWFRvQk5NREJxYUJIbmlLZ3AyRGxueTRvNUhFeHhxYjhuNlJpOGVWeWQ0MThVaTZ3TklJU0xnc0g1X3dSYmxCUUphdEh4S29FZ25B?oc=5",
+        "published": "Tue, 27 Oct 2026 13:04:44 GMT",
         "tone": "neutral",
         "reliable": false
       }
