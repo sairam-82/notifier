@@ -1,32 +1,32 @@
 {
-  "today_price": 13085.0,
+  "today_price": 13135.0,
   "yesterday_price": 13085.0,
-  "daily_change": 0.0,
-  "daily_change_percent": 0.0,
-  "daily_direction": "flat",
-  "position_30d": 3.05,
+  "daily_change": 50.0,
+  "daily_change_percent": 0.38,
+  "daily_direction": "up",
+  "position_30d": 9.15,
   "classification": "NEAR_30D_LOW",
   "classification_label": "NEAR 30D LOW",
   "period_7d": {
     "low": 13060.0,
     "high": 13390.0,
-    "average": 13142.14,
-    "change": -305.0,
-    "change_percent": -2.28,
+    "average": 13149.29,
+    "change": -255.0,
+    "change_percent": -1.9,
     "count": 7
   },
   "period_30d": {
     "low": 13060.0,
     "high": 13880.0,
-    "average": 13547.33,
-    "change": -680.0,
-    "change_percent": -4.94,
+    "average": 13549.0,
+    "change": -630.0,
+    "change_percent": -4.58,
     "count": 30
   },
   "period_90d": {
     "low": 13060.0,
     "high": 15030.0,
-    "average": 13929.76,
+    "average": 13930.35,
     "change": null,
     "change_percent": null,
     "count": 86
@@ -34,14 +34,14 @@
   "period_365d": {
     "low": 11001.2,
     "high": 16061.1,
-    "average": 13495.9,
+    "average": 13496.09,
     "change": null,
     "change_percent": null,
     "count": 257
   },
   "history_days": 277,
   "as_of_date": "2026-10-27",
-  "last_updated": "2026-10-27T00:19:42.557315+05:30",
+  "last_updated": "2026-10-27T15:03:39.811996+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -53,21 +53,29 @@
     "bias": "SLIGHTLY_UP",
     "bias_label": "Slightly upward bias",
     "confidence": "MEDIUM",
-    "score": 20.0,
-    "band_low": 13034.0,
-    "band_high": 13136.0,
+    "score": 23.8,
+    "band_low": 13080.0,
+    "band_high": 13190.0,
     "usd_inr_rate": 95.18,
     "usd_inr_as_of": "2026-10-26",
     "usd_inr_daily_pct": 0.253,
     "usd_inr_7d_pct": 0.263,
     "factors": [
-      "7-day gold trend down (-2.28%)",
-      "Near 30D low (3%) — possible stabilisation/bounce",
+      "7-day gold trend down (-1.90%)",
+      "Near 30D low (9%) — possible stabilisation/bounce",
       "USD/INR 95.18 (+0.25% today)",
       "Rupee weaker ₹ vs USD over 7D (+0.26%)",
-      "Global headlines mixed/neutral · 1 from recognised sources"
+      "Global headlines mixed/neutral · 2 from recognised sources"
     ],
     "news": [
+      {
+        "title": "Gold eases on firmer dollar ahead of Fed decision - CNBC",
+        "source": "CNBC",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNm1fRjlQSURXa2x6X3o5R1JlalFLRFI4WWpiNXlkQVBhU3dkX0FiM21CR3g3Mlp1SE1xcS1fbUtRd0wzOHlFUDR2eGd2ZDJwYWJoZnB6Skd4bWJOUjc1Q3o1NVJKWWowd2UwVG5faGFpeUotRjRCdjNmR19wVGxWU2tLVVViTlV4YlZZOUlaONIBlAFBVV95cUxPcWJKTWI0NmRPMTZhSUJFZ2xrRU0tZVJyMlY5by1LTTlCNW5TVE1TdkUyZ3Z2QXUxUEwwaEF1SmJKaDFnWFllbi11X2FXelFvUktMLTdUeUtaM1UyQzI5MTkxRk03RzN4MW5vTVk3dHAzQW5lczdSMDZYREE2eTNMUkpNSTducEF1SnRtSGNvXzFaWGZi?oc=5",
+        "published": "Tue, 27 Oct 2026 04:06:05 GMT",
+        "tone": "neutral",
+        "reliable": true
+      },
       {
         "title": "Gold rises as lower oil prices ease inflation fears ahead of Fed meeting - Reuters",
         "source": "Reuters",
@@ -77,34 +85,26 @@
         "reliable": true
       },
       {
+        "title": "After Gold Loses $4,000, UBS Turns Bullish: $4,400 Only After a Break Above $4,082, and No One Wants to Add Exposure Before Year-End - BigGo Finance",
+        "source": "BigGo Finance",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5mSk5zWDRnRnVWdi1ZMEEyZmhMdEg3eV9ZdURLT2F6YXVja2NKNG00VjRodlJzNFJZemtwOVBBMmpyamxneHFVdVZGUzV6RE9SNXJDNFBTUC12eU9XdF9ub1pfV0FvM2ZObDlhbFg0SHRjemlnTGc?oc=5",
+        "published": "Tue, 27 Oct 2026 02:26:00 GMT",
+        "tone": "neutral",
+        "reliable": false
+      },
+      {
+        "title": "Chart of the day: Gold price hangs by a thread at $4,000 as bond market risks loom - investingLive",
+        "source": "investingLive",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZFRqOUxCaWd3Nk1NU3FwMXVPVGdmenN5R2NGeGxJQVlYcmFEN1Bza3Q2Rmtac3BuU05OaWlJYXNRamRhVnNiZlE4WUdueE9RZDdHeHZWc21GbGtyWFEyXzNQejd4N18zMkpmXzZfVlQ0eFp3bm4wYjVwd1JOdDVVXzNCTkc5Z0xDZDF6WndPeWNJT3FTeXhLaVBqQTlTZjNDb2NwX042M1hzZ3VqVE53SGxSTFN1aVQxc3RldTJnelZwR294?oc=5",
+        "published": "Tue, 27 Oct 2026 07:29:57 GMT",
+        "tone": "neutral",
+        "reliable": false
+      },
+      {
         "title": "Current price of gold as of October 26, 2026 - Fortune",
         "source": "Fortune",
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1tdGRuWXBqTERESi03MHpxMmh2d2FJZk9zUWlzWFlIQm1uVm9zMy16S3lfWWJVZ0E0WFZ5c0dxVUdhQVdMRHNvUm1SVEpjVGpsd1VpekNwb19JMlRMNUhTMkM0TDFORmtGdkdESld3?oc=5",
         "published": "Mon, 26 Oct 2026 14:03:00 GMT",
-        "tone": "neutral",
-        "reliable": false
-      },
-      {
-        "title": "Gold Hasn’t Forgotten the Rules. The Market Changed the Game - The Dark Side Of The Boom",
-        "source": "The Dark Side Of The Boom",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMnY3ejJVbmFENnk1S05KMWhGMGxnR3JwTjYxY0VkcmJhLUlkR1FQbF9MWVJBYkpUd016MUEwY1RMUDNPUEZMT0ZYVDZwSk9HSFh5R293OFc3MzZ4UG5EZGNjQnVabGhPWVJJNFdNX0VNTmdlN0JnYkZQcVJocmN0OFBFNEY?oc=5",
-        "published": "Mon, 26 Oct 2026 07:03:18 GMT",
-        "tone": "neutral",
-        "reliable": false
-      },
-      {
-        "title": "Gold Price October 27 2026 - Robinhood",
-        "source": "Robinhood",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeV9VVF9YY1VtblM4TGRJdVRfQ1JmdUYwQTVLcWNBMVVaZzktTkdsQVBEQ1VPb3YwWnUyaVhzamdtS1AxNnc5T21jeXZSa2tnWU82allOTERQTVB6LWZzSDFuMEtXWlc5THVQTzlmbXg1TWlsNXg5VEtDS2JEYXlUMU4wUFhZbW5NMnY3UWJ5MEliUDVLelFSMlZGblRsOGJxblE?oc=5",
-        "published": "Mon, 26 Oct 2026 17:54:33 GMT",
-        "tone": "neutral",
-        "reliable": false
-      },
-      {
-        "title": "Gold Price Today In The UK, 23 October 2026 - Forbes",
-        "source": "Forbes",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4wMW1PejZjZzZlR2QwWlFWQ3JzNHpoUjg2X1NhX2t0LUhIdEJjUHktanJZVHVYekttd1ZjRlFBTlFsbWZvalMxbjR5TnhpRGZTSTZ1SjRLcEJuTVNXbURSTkNwMTMzUQ?oc=5",
-        "published": "Fri, 23 Oct 2026 13:24:00 GMT",
         "tone": "neutral",
         "reliable": false
       }
