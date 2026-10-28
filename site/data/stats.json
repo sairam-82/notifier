@@ -41,7 +41,7 @@
   },
   "history_days": 278,
   "as_of_date": "2026-10-28",
-  "last_updated": "2026-10-28T15:48:10.974227+05:30",
+  "last_updated": "2026-10-28T23:57:11.254703+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -53,26 +53,26 @@
     "bias": "NEUTRAL",
     "bias_label": "Neutral / sideways",
     "confidence": "MEDIUM",
-    "score": 4.0,
+    "score": 15.4,
     "band_low": 13141.0,
     "band_high": 13249.0,
-    "usd_inr_rate": 95.12,
-    "usd_inr_as_of": "2026-10-27",
-    "usd_inr_daily_pct": -0.063,
-    "usd_inr_7d_pct": 0.2,
+    "usd_inr_rate": 95.22,
+    "usd_inr_as_of": "2026-10-28",
+    "usd_inr_daily_pct": 0.105,
+    "usd_inr_7d_pct": 0.794,
     "factors": [
       "7-day gold trend flat (-0.30%)",
-      "USD/INR 95.12 (-0.06% today)",
-      "Rupee weaker ₹ vs USD over 7D (+0.20%)",
-      "Global headlines mixed/neutral · 3 from recognised sources"
+      "USD/INR 95.22 (+0.10% today)",
+      "Rupee weaker ₹ vs USD over 7D (+0.79%)",
+      "Global headlines lean bearish (3/5) · 2 from recognised sources"
     ],
     "news": [
       {
-        "title": "Gold eases on higher oil prices ahead of Fed decision - Reuters",
+        "title": "Gold edges lower ahead of Fed rate decision, Warsh comments - Reuters",
         "source": "Reuters",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRUczTDEtcklEQks1UTM3TlZhanpWZ19RUUVMTnkzQTFXWHpmeEF0YWVST0gzamNJNG5KVFJIcUZMOUxnZnBRMkhXYjBkaGdER1Vkc2hQWmplZmluYkQ4YWNsbkwwY0N5ZzFDQldCTDJucHRZY3lOVHdPWEt0RnJmQVprXzBoQnFEZHM3OS13cGNrRFp6MjBuMXJrVTRpcGs3UkpN?oc=5",
         "published": "Wed, 28 Oct 2026 06:16:00 GMT",
-        "tone": "neutral",
+        "tone": "bearish",
         "reliable": true
       },
       {
@@ -84,18 +84,10 @@
         "reliable": true
       },
       {
-        "title": "What gold and platinum are telling us about the stock market’s direction - MarketWatch",
-        "source": "MarketWatch",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQb0JpZk9naWRQV0pBRFJ1NTR6V01tVzdTYmNYZUQ1ZFZGdXYtcmhqMnhhWXZuOG9NZ3c3WVhqZU1UZ2hHcWlkczdVWkxfSGR2VU1jbHF2T2hqTHhaYjJGa3FzLTBreWNHcE04bi1PZkdQYVV5WENjYWtyMjJyeWlqNHlfNjZYa3pXQUFGMlo3ek9fcEFwYUhMUDZhUE9WY1dVT1JkSWpVVTAzeVhOSFg2VmJadEk?oc=5",
-        "published": "Tue, 27 Oct 2026 20:30:00 GMT",
-        "tone": "neutral",
-        "reliable": true
-      },
-      {
-        "title": "Current price of gold as of October 26, 2026 - Fortune",
+        "title": "Current price of gold as of October 28, 2026 - Fortune",
         "source": "Fortune",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1tdGRuWXBqTERESi03MHpxMmh2d2FJZk9zUWlzWFlIQm1uVm9zMy16S3lfWWJVZ0E0WFZ5c0dxVUdhQVdMRHNvUm1SVEpjVGpsd1VpekNwb19JMlRMNUhTMkM0TDFORmtGdkdESld3?oc=5",
-        "published": "Mon, 26 Oct 2026 14:03:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQa2I0dGY4OGxPWTg1aDhfbDZuYmJtMWQxdE1QaTFya3N1elZJanNzMjM2LXJ1REpCZHpYa1JZZzJVOGE3N2dpb2JVcGVwN3NWNzBMVnVaTVN3bmdKTklfSzhjLXVPOTMxZDIzR3BB?oc=5",
+        "published": "Wed, 28 Oct 2026 14:14:00 GMT",
         "tone": "neutral",
         "reliable": false
       },
@@ -105,6 +97,14 @@
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOenlJakRsWG9XSERZcENHeXcybjFuMmdfeG1yaHF0bGJGdHMtNVd2amRzZHA1elBHN1pXbGhfWVVPcElBZzRaTXJBU2c5LTZNUFc2dEVXb2ZwUWtPME5ydC1pMnVzaTRRRTdMZEJ2eHkybDhfNnlkZUhyOHdxMDB2XzVKREp4UVhCb1VyWTAyc0hTZ1h0amE3bWdkNXI?oc=5",
         "published": "Wed, 28 Oct 2026 07:04:50 GMT",
         "tone": "bullish",
+        "reliable": false
+      },
+      {
+        "title": "Gold Reclaims $4000 as Data Show Modest Speculative Retreat Before Latest Sell-Off - BullionVault",
+        "source": "BullionVault",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNanJySDVaeVBJNUQyRk5tUTAzTm1iYXpLODd6NzJJaHNGSHZhNm8xb1FpMVkzNmFHVW4zeVRUc19iZmZIZFh6T0dMWUp3VUV3RzJFOHdMVDdYajhONERYOGppc0lEMnhZeDZNcnVES21EZTFaWlA3MEdtRVp0WUtRR3FRN0NHcC1vVnRsVlZKWTRMNFBLdm9RamQ5eXRIY1ExcTNEVl9YWVRwcTR6V2Fn?oc=5",
+        "published": "Mon, 26 Oct 2026 14:17:17 GMT",
+        "tone": "bearish",
         "reliable": false
       }
     ],
