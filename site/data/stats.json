@@ -1,32 +1,32 @@
 {
-  "today_price": 13135.0,
-  "yesterday_price": 13085.0,
-  "daily_change": 50.0,
-  "daily_change_percent": 0.38,
+  "today_price": 13195.0,
+  "yesterday_price": 13135.0,
+  "daily_change": 60.0,
+  "daily_change_percent": 0.46,
   "daily_direction": "up",
-  "position_30d": 9.15,
-  "classification": "NEAR_30D_LOW",
-  "classification_label": "NEAR 30D LOW",
+  "position_30d": 16.46,
+  "classification": "LOW_RANGE",
+  "classification_label": "LOW RANGE",
   "period_7d": {
     "low": 13060.0,
-    "high": 13390.0,
-    "average": 13149.29,
-    "change": -255.0,
-    "change_percent": -1.9,
+    "high": 13235.0,
+    "average": 13121.43,
+    "change": -40.0,
+    "change_percent": -0.3,
     "count": 7
   },
   "period_30d": {
     "low": 13060.0,
     "high": 13880.0,
-    "average": 13549.0,
-    "change": -630.0,
-    "change_percent": -4.58,
+    "average": 13530.0,
+    "change": -445.0,
+    "change_percent": -3.26,
     "count": 30
   },
   "period_90d": {
     "low": 13060.0,
     "high": 15030.0,
-    "average": 13930.35,
+    "average": 13929.94,
     "change": null,
     "change_percent": null,
     "count": 86
@@ -34,14 +34,14 @@
   "period_365d": {
     "low": 11001.2,
     "high": 16061.1,
-    "average": 13496.09,
+    "average": 13494.93,
     "change": null,
     "change_percent": null,
-    "count": 257
+    "count": 258
   },
-  "history_days": 277,
-  "as_of_date": "2026-10-27",
-  "last_updated": "2026-10-27T23:40:44.148616+05:30",
+  "history_days": 278,
+  "as_of_date": "2026-10-28",
+  "last_updated": "2026-10-28T15:48:10.974227+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -53,35 +53,26 @@
     "bias": "NEUTRAL",
     "bias_label": "Neutral / sideways",
     "confidence": "MEDIUM",
-    "score": -0.0,
-    "band_low": 13080.0,
-    "band_high": 13190.0,
+    "score": 4.0,
+    "band_low": 13141.0,
+    "band_high": 13249.0,
     "usd_inr_rate": 95.12,
     "usd_inr_as_of": "2026-10-27",
     "usd_inr_daily_pct": -0.063,
     "usd_inr_7d_pct": 0.2,
     "factors": [
-      "7-day gold trend down (-1.90%)",
-      "Near 30D low (9%) — possible stabilisation/bounce",
+      "7-day gold trend flat (-0.30%)",
       "USD/INR 95.12 (-0.06% today)",
       "Rupee weaker ₹ vs USD over 7D (+0.20%)",
       "Global headlines mixed/neutral · 3 from recognised sources"
     ],
     "news": [
       {
-        "title": "Amundi Says ‘Worst Is Behind Us’ as Gold Flirts With $4,000 - Bloomberg.com",
-        "source": "Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLVdoYno3cGlBWTJlbUYxNWhwbkJ4NGFEVU9XalhaQnlRY0VybWdVX2d5TnNibDVRVGVlU01WcksyT2xjU3A4YkNSRzJwN0lhYkVqUkV5QXJ5a3ZrcWVHTzlrdXI0WnRwM3ROR1BZRjVIWjBQWWwyeXh1M3o2M2hvMWRNSEI4ci0waEl0a2dNUk1PMFBQRzhaekxLb2xSYm5laGh2dFpFU1FrUGM?oc=5",
-        "published": "Tue, 27 Oct 2026 08:54:48 GMT",
-        "tone": "neutral",
-        "reliable": true
-      },
-      {
-        "title": "Gold gains on softer oil prices ahead of Fed meeting - Reuters",
+        "title": "Gold eases on higher oil prices ahead of Fed decision - Reuters",
         "source": "Reuters",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQWIyeWVhRnVBaHZfV05HanpZVFJzZDZiaC1MTEFVX0JEbWc5RVhRV3htMnJFMDNCVjBPWTJISkhha3ZWc3otaXBCTGloREJidmlqOWtXMTQ4Zks2aTA5czBzNC1OdGNuVXlqLVZ4TTk3M1VUSEZvdVdCLXV3bHJsZXBHSktGcXR0dk1wS2VYdWYxTm9ueGc?oc=5",
-        "published": "Tue, 27 Oct 2026 05:46:00 GMT",
-        "tone": "bullish",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRUczTDEtcklEQks1UTM3TlZhanpWZ19RUUVMTnkzQTFXWHpmeEF0YWVST0gzamNJNG5KVFJIcUZMOUxnZnBRMkhXYjBkaGdER1Vkc2hQWmplZmluYkQ4YWNsbkwwY0N5ZzFDQldCTDJucHRZY3lOVHdPWEt0RnJmQVprXzBoQnFEZHM3OS13cGNrRFp6MjBuMXJrVTRpcGs3UkpN?oc=5",
+        "published": "Wed, 28 Oct 2026 06:16:00 GMT",
+        "tone": "neutral",
         "reliable": true
       },
       {
@@ -93,19 +84,27 @@
         "reliable": true
       },
       {
-        "title": "Current price of gold as of October 27, 2026 - Fortune",
+        "title": "What gold and platinum are telling us about the stock market’s direction - MarketWatch",
+        "source": "MarketWatch",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQb0JpZk9naWRQV0pBRFJ1NTR6V01tVzdTYmNYZUQ1ZFZGdXYtcmhqMnhhWXZuOG9NZ3c3WVhqZU1UZ2hHcWlkczdVWkxfSGR2VU1jbHF2T2hqTHhaYjJGa3FzLTBreWNHcE04bi1PZkdQYVV5WENjYWtyMjJyeWlqNHlfNjZYa3pXQUFGMlo3ek9fcEFwYUhMUDZhUE9WY1dVT1JkSWpVVTAzeVhOSFg2VmJadEk?oc=5",
+        "published": "Tue, 27 Oct 2026 20:30:00 GMT",
+        "tone": "neutral",
+        "reliable": true
+      },
+      {
+        "title": "Current price of gold as of October 26, 2026 - Fortune",
         "source": "Fortune",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01R2ptSnhZMmdDSlU2TXhUM2NOTTY3WFdJRWtVUTlGSzZQR201cUJDR3dtWmJPb1kwUmczQ0s4cmNJV0ZHdzBSYmJXU3lMbktLQ0NJa1FhX0dFVWZ0N210Ti15RFhudFBRamNsNlFR?oc=5",
-        "published": "Tue, 27 Oct 2026 14:08:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1tdGRuWXBqTERESi03MHpxMmh2d2FJZk9zUWlzWFlIQm1uVm9zMy16S3lfWWJVZ0E0WFZ5c0dxVUdhQVdMRHNvUm1SVEpjVGpsd1VpekNwb19JMlRMNUhTMkM0TDFORmtGdkdESld3?oc=5",
+        "published": "Mon, 26 Oct 2026 14:03:00 GMT",
         "tone": "neutral",
         "reliable": false
       },
       {
-        "title": "Falling Real Yields Cut Gold's Opportunity Cost Despite Uneven Demand - Crux Investor",
+        "title": "Gold Equities After the Rally: A Practical Guide for Investors - Crux Investor",
         "source": "Crux Investor",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMG5teFhqT1hHMjNrRHFIdURnMlU1NlZvalQwdUM3cHU2My1uVkF0cDJGNnFsVlJDV0V4V0tOOUZUWm9BWlhwYjUtYUlDUDBtOWJqRHhXbzlVMGVFWFRvQk5NREJxYUJIbmlLZ3AyRGxueTRvNUhFeHhxYjhuNlJpOGVWeWQ0MThVaTZ3TklJU0xnc0g1X3dSYmxCUUphdEh4S29FZ25B?oc=5",
-        "published": "Tue, 27 Oct 2026 13:04:44 GMT",
-        "tone": "neutral",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOenlJakRsWG9XSERZcENHeXcybjFuMmdfeG1yaHF0bGJGdHMtNVd2amRzZHA1elBHN1pXbGhfWVVPcElBZzRaTXJBU2c5LTZNUFc2dEVXb2ZwUWtPME5ydC1pMnVzaTRRRTdMZEJ2eHkybDhfNnlkZUhyOHdxMDB2XzVKREp4UVhCb1VyWTAyc0hTZ1h0amE3bWdkNXI?oc=5",
+        "published": "Wed, 28 Oct 2026 07:04:50 GMT",
+        "tone": "bullish",
         "reliable": false
       }
     ],
