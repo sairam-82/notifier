@@ -41,7 +41,7 @@
   },
   "history_days": 280,
   "as_of_date": "2026-10-30",
-  "last_updated": "2026-10-30T16:11:51.905713+05:30",
+  "last_updated": "2026-10-30T23:38:41.334070+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -50,62 +50,60 @@
   "currency": "INR",
   "unit": "gram",
   "outlook": {
-    "bias": "SLIGHTLY_UP",
-    "bias_label": "Slightly upward bias",
+    "bias": "NEUTRAL",
+    "bias_label": "Neutral / sideways",
     "confidence": "MEDIUM",
-    "score": 33.9,
+    "score": -0.3,
     "band_low": 12976.0,
     "band_high": 13104.0,
-    "usd_inr_rate": 95.27,
-    "usd_inr_as_of": "2026-10-29",
-    "usd_inr_daily_pct": 0.053,
-    "usd_inr_7d_pct": 0.475,
+    "usd_inr_rate": null,
+    "usd_inr_as_of": null,
+    "usd_inr_daily_pct": null,
+    "usd_inr_7d_pct": null,
     "factors": [
       "7-day gold trend flat (-0.23%)",
       "Near 30D low (0%) — possible stabilisation/bounce",
-      "USD/INR 95.27 (+0.05% today)",
-      "Rupee weaker ₹ vs USD over 7D (+0.47%)",
-      "Global headlines mixed/neutral · 3 from recognised sources"
+      "Global headlines lean bearish (2/5) · 2 from recognised sources"
     ],
     "news": [
       {
-        "title": "Gold hits 3-1/2-month low on Fed hike fears, set for monthly loss - Reuters",
+        "title": "Gold hits one-year low, silver drops below $50 as higher-for-longer rate view firms - Reuters",
         "source": "Reuters",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMFY2WEZOWHhyVDVPMkM2ZVUxM01TR09lcUZ0RlBWNF96QkJzWXhUZWpIbmlRSUlxN3FiZ0pEYWVXOW1YcVBQcHQ4cjU1NFpCQVlnS3pneWlKeTZIRjJzWkJuek9OeDhNSGxTU1ozV1g0czltbldNNkJORWRWS0ZBU25WdURjNWNpREdpdmZoV1c2ZzBnUmM5cm5HTG16OFpEdVhLWC13RkxHM3IxX1E?oc=5",
         "published": "Fri, 30 Oct 2026 03:24:00 GMT",
-        "tone": "neutral",
+        "tone": "bearish",
         "reliable": true
       },
       {
-        "title": "Gold slides as higher U.S. inflation reinforces Fed tightening bets - CNBC",
-        "source": "CNBC",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYzFrQTVVSEVjZTloUV9YZGo2a09PdUZwblU3RkhwRGR4M1ZtcDB4WUhHSnRJZ2lFMFZRdm5oR1NlaFlVMWlYQlBTTFhLNGJyTFJTM3IzS1lBbUF6d1F4RWRBSjBJWjlvMG9zSG5mR2ZQeG5CSUNYMVpoaElfbmJWckJncDNmTkhzaV9sR3ZVZUswa0hSQzJPUTNEcTVIa21ReEdZ0gGoAUFVX3lxTE5pN0NzSHh5TjRZbjNoZ2wwR1J1bDdCOWdBaENFVGQ1U0NjeTBLTWlKY21pa2twRXdQTjhmQW84bUJ1amVWWGg3elJ5T2dINEdQZHkwcmxVb1ZZMHcxajE4ZHlIU3hrRDR6d1RURmVwY0RCQllidHc4RkxyUFFkSDBjVm9wWmdsTGRmMUlxNi1nMGphcEdBSl9mN1RSRmhjdWdRcmdIOVlNSg?oc=5",
-        "published": "Thu, 29 Oct 2026 04:49:03 GMT",
-        "tone": "bullish",
+        "title": "Goldman Sachs Revises China Jewelry Stocks Amid Gold Price Retreat - Investing.com",
+        "source": "Investing.com",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNEswTUNhbjhuTTVLcm12M29FN3JTRk9HR0JLVkFtbU9mcUpybUVXRFcyY1RqQ1lhaHFzeGl5cm8wdGY4bGpxcFBzZExCX0dLa3FpOGRFM0hyRjhtWGxPUnNCUVNabGNFMm5yZ1Ayb0hBZzJtdER4U3JIblJLeFl3RFgxUEdYT2VCeXB2bVBTSDRyNG9jZGNHMEZ3Q0NwNkFQY2VlMnZsUnFMVjZTRzM0Z3NkNVlpYVZnVTNBMG94M3A?oc=5",
+        "published": "Fri, 30 Oct 2026 16:56:47 GMT",
+        "tone": "bearish",
         "reliable": true
       },
       {
-        "title": "Silver could see further losses against gold as physical market weakens - Metals Focus - Kitco",
-        "source": "Kitco",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcGduS3IwamQyRnFfbTlpZ09EZlhmb2dHY0NnSVhIaDV5LWozMGhqVFI3Y0NhZW9kd3UyWUt5Mmc2NDQ1QUxnYzgxUEJMODZlMWlMbkFxSm5pRm9RU2NxTVR1eDN0MzRMenVQeVJtTEtHWXJUMEFZVzNPRGVjcm5WRG9GSk1aOG44SEVOLTVZOG04cUtMMnVJYm9hRHp5Xzh4ZWxVOC1lMUFqYlk2Tm40MHZZMkZTZFBldU9xM3R3?oc=5",
-        "published": "Thu, 29 Oct 2026 18:35:01 GMT",
-        "tone": "neutral",
-        "reliable": true
-      },
-      {
-        "title": "Agnico Eagle Earnings: Improved on the Stronger Gold Price, but Volumes Softer and Unit Costs Higher - Morningstar",
-        "source": "Morningstar",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOERuOHJsb1czOFBPWjMxTTBJdzJiVmstRzMtMnRLRVpsNGRqRC14ckx5c1U2aHhBbWdFWEhzVXBiRWxDQ2UzQXJLYjZ5OFZ0Snpad0Vod0U2VXZrRW0xMV9vcVNSelJ5bF9DeTlkQnFiWTBnem14LTdWWkJoNjRZdTVrVldGd2VGYzJkNHVKd0FQOUxQUVkzZXFxeUtmRWQ5aThJQTJZZXFTTmJ3UVFEQjJKVlZ5M1RQaEZVdVZkMjMxd2kyb3c?oc=5",
-        "published": "Thu, 29 Oct 2026 19:38:32 GMT",
+        "title": "Current price of gold as of October 30, 2026 - Fortune",
+        "source": "Fortune",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01azZCVG9fb2lmRjJJZE96ZmE2SkE2bzVpMG01b2tSVkZRSFZtRl9lUmJjbTl0QzZsbUxTeE1lXzEzOGs4cHZXaExDSWpvOWlaRWliXy1MVk40bko4RDhPYzEzMlpCVWdzM0FZbFJn?oc=5",
+        "published": "Fri, 30 Oct 2026 15:34:00 GMT",
         "tone": "neutral",
         "reliable": false
       },
       {
-        "title": "Gold Prices Slip as Fed Rate Outlook Shifts; Silver Hits 11-Month Low - BullionVault",
-        "source": "BullionVault",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSlEzUVl0alVzMldGRGc3MlRENDhKQUp1V0R2cndFYWVCRTktQzJaMFNKdldCZXkya2RLV1BuUEdjUWR6Qnp5M2h4NVJzSlltNkF5X2Z6ZG8yckM1bFgtRGNIMGc3SjVHbktXd1JONFFEeTYydldLNDVqajRZRW1waDFKaEpXc3F3U29KRlhLcVJuaDRNVkZzTw?oc=5",
-        "published": "Thu, 29 Oct 2026 15:26:14 GMT",
-        "tone": "bearish",
+        "title": "Gold Drops Below $4,000 as US Inflation and Interest Rate Concerns Weigh on Precious Metals - Yahoo Finance",
+        "source": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaFM1eFNJRjBhakpQWnEwY2U1Z1B3UzBFMVVlM0xGZWpaUFZpR2FneTVOR0NXM04taUx3TWFTR3JPcE1CRkM0N0lFTk5nNFkxdWNFTFA2Zjh5aEpIS05YeWFXV1BxalpvaGY0cHVzVHQ0YmVXYzktYXhCcHU1OFJfbk5DUlNaUURKcnBOZGRuOFdYZUk5WHgw?oc=5",
+        "published": "Fri, 30 Oct 2026 10:04:43 GMT",
+        "tone": "neutral",
+        "reliable": false
+      },
+      {
+        "title": "Gold Falls Below $4,000 as the Safe-Haven Trade Turns Upside Down - CoinWeek",
+        "source": "CoinWeek",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVHpaam9tcHowUVpuNWtEVGlJVHAzaXpGX2tJbHdnN0F4dVByQTlQaXNwXzU3SGtETXpSWjN1RXBfdjk4RG5MbG9HQUMxbEFBR25fZllTWm1nZ2lER2h6Vy0wTC00dE5DcGdyaWtVRkJwZnZ2ZzgzQmd5a2NudlhjWXJ3cF9aOXozaTh3aUF3?oc=5",
+        "published": "Fri, 30 Oct 2026 13:01:50 GMT",
+        "tone": "neutral",
         "reliable": false
       }
     ],
