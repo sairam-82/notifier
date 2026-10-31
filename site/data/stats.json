@@ -1,32 +1,32 @@
 {
-  "today_price": 13040.0,
-  "yesterday_price": 13195.0,
-  "daily_change": -155.0,
-  "daily_change_percent": -1.17,
+  "today_price": 12730.0,
+  "yesterday_price": 13040.0,
+  "daily_change": -310.0,
+  "daily_change_percent": -2.38,
   "daily_direction": "down",
   "position_30d": 0.0,
   "classification": "D30_LOW",
   "classification_label": "30D LOW",
   "period_7d": {
-    "low": 13040.0,
+    "low": 12730.0,
     "high": 13195.0,
-    "average": 13112.86,
-    "change": -30.0,
-    "change_percent": -0.23,
+    "average": 13064.29,
+    "change": -340.0,
+    "change_percent": -2.6,
     "count": 7
   },
   "period_30d": {
-    "low": 13040.0,
+    "low": 12730.0,
     "high": 13880.0,
-    "average": 13492.83,
-    "change": -640.0,
-    "change_percent": -4.68,
+    "average": 13461.17,
+    "change": -1045.0,
+    "change_percent": -7.59,
     "count": 30
   },
   "period_90d": {
-    "low": 13040.0,
+    "low": 12730.0,
     "high": 15030.0,
-    "average": 13927.15,
+    "average": 13921.45,
     "change": null,
     "change_percent": null,
     "count": 86
@@ -34,14 +34,14 @@
   "period_365d": {
     "low": 11001.2,
     "high": 16061.1,
-    "average": 13492.02,
+    "average": 13489.1,
     "change": null,
     "change_percent": null,
-    "count": 260
+    "count": 261
   },
-  "history_days": 280,
-  "as_of_date": "2026-10-30",
-  "last_updated": "2026-10-30T23:38:41.334070+05:30",
+  "history_days": 281,
+  "as_of_date": "2026-10-31",
+  "last_updated": "2026-10-31T15:39:49.690390+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -50,36 +50,53 @@
   "currency": "INR",
   "unit": "gram",
   "outlook": {
-    "bias": "NEUTRAL",
-    "bias_label": "Neutral / sideways",
+    "bias": "SLIGHTLY_DOWN",
+    "bias_label": "Slightly downward bias",
     "confidence": "MEDIUM",
-    "score": -0.3,
-    "band_low": 12976.0,
-    "band_high": 13104.0,
-    "usd_inr_rate": null,
-    "usd_inr_as_of": null,
-    "usd_inr_daily_pct": null,
-    "usd_inr_7d_pct": null,
+    "score": -33.3,
+    "band_low": 12642.0,
+    "band_high": 12818.0,
+    "usd_inr_rate": 94.95,
+    "usd_inr_as_of": "2026-10-30",
+    "usd_inr_daily_pct": -0.336,
+    "usd_inr_7d_pct": 0.011,
     "factors": [
-      "7-day gold trend flat (-0.23%)",
+      "7-day gold trend down (-2.60%)",
       "Near 30D low (0%) — possible stabilisation/bounce",
-      "Global headlines lean bearish (2/5) · 2 from recognised sources"
+      "USD/INR 94.95 (-0.34% today)",
+      "Global headlines lean bearish (1/5) · 4 from recognised sources"
     ],
     "news": [
       {
-        "title": "Gold hits one-year low, silver drops below $50 as higher-for-longer rate view firms - Reuters",
-        "source": "Reuters",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMFY2WEZOWHhyVDVPMkM2ZVUxM01TR09lcUZ0RlBWNF96QkJzWXhUZWpIbmlRSUlxN3FiZ0pEYWVXOW1YcVBQcHQ4cjU1NFpCQVlnS3pneWlKeTZIRjJzWkJuek9OeDhNSGxTU1ozV1g0czltbldNNkJORWRWS0ZBU25WdURjNWNpREdpdmZoV1c2ZzBnUmM5cm5HTG16OFpEdVhLWC13RkxHM3IxX1E?oc=5",
-        "published": "Fri, 30 Oct 2026 03:24:00 GMT",
+        "title": "Gold prices plunge to one-year low below $3,900 as higher oil prices fuel fears of more pain ahead - Kitco",
+        "source": "Kitco",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRUZmdmJRRFN3bUxiblBxRUVkd3o3SmRSRjd3ZUt3Rm5DVlNUQ201LW9BOHZyMnVBUEtZaGlNRFk5dTJKTzNHVjNkWGdWU3YtdVVPU0txb1pFZWJ5ZVhUaDRaTERzV2h5QzJzYWM3TExZRWRxQlNJbFlrWTQwbU8tbjA4Sm5JTWxqWVlFTUVZZjNvTVZXblN3SVVmMVVyVF9iQk5GS1RWcjRrRHdNRXRnV0VhYmtLRTE2?oc=5",
+        "published": "Fri, 30 Oct 2026 18:18:01 GMT",
         "tone": "bearish",
         "reliable": true
       },
       {
-        "title": "Goldman Sachs Revises China Jewelry Stocks Amid Gold Price Retreat - Investing.com",
-        "source": "Investing.com",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNEswTUNhbjhuTTVLcm12M29FN3JTRk9HR0JLVkFtbU9mcUpybUVXRFcyY1RqQ1lhaHFzeGl5cm8wdGY4bGpxcFBzZExCX0dLa3FpOGRFM0hyRjhtWGxPUnNCUVNabGNFMm5yZ1Ayb0hBZzJtdER4U3JIblJLeFl3RFgxUEdYT2VCeXB2bVBTSDRyNG9jZGNHMEZ3Q0NwNkFQY2VlMnZsUnFMVjZTRzM0Z3NkNVlpYVZnVTNBMG94M3A?oc=5",
-        "published": "Fri, 30 Oct 2026 16:56:47 GMT",
-        "tone": "bearish",
+        "title": "Tech rout drives gold to one-year low, white metals sink deep into oversold zone - Reuters",
+        "source": "Reuters",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMFY2WEZOWHhyVDVPMkM2ZVUxM01TR09lcUZ0RlBWNF96QkJzWXhUZWpIbmlRSUlxN3FiZ0pEYWVXOW1YcVBQcHQ4cjU1NFpCQVlnS3pneWlKeTZIRjJzWkJuek9OeDhNSGxTU1ozV1g0czltbldNNkJORWRWS0ZBU25WdURjNWNpREdpdmZoV1c2ZzBnUmM5cm5HTG16OFpEdVhLWC13RkxHM3IxX1E?oc=5",
+        "published": "Fri, 30 Oct 2026 03:24:00 GMT",
+        "tone": "neutral",
+        "reliable": true
+      },
+      {
+        "title": "The price of gold today, Oct. 30, 2026 — and the best places to buy - CNBC",
+        "source": "CNBC",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9JSDdJMnhmWWZaT25NZmxtc2NMelZVeTN0cElzUjhPSnFVSUdETjFCdWpBVzl6anhaOHQ3SVBlTllGemk2RmtCeUliMWpCQUtIRlFETENIWFUzd2RoNzAwYjZfMHFiRkdPT0lEYmVHWU5Vd9IBd0FVX3lxTE1PV1FNQ1pFUHY1Y3R6QzN5ZW9lZTVSUFlDdTBEam9tajlBSmo3UW1SQm1HRy02QlpRYzJMNVhrQ3FYNFcxdVBaYmZRTXFJbnRxejdWaUpJSDFCbktkZ3RLVGlNNGFTcjJNa0EtV1MwdnJ3azFoSEU4?oc=5",
+        "published": "Fri, 30 Oct 2026 13:14:59 GMT",
+        "tone": "neutral",
+        "reliable": true
+      },
+      {
+        "title": "Why gold plunged to its lowest price in a year despite renewed Iran jitters - MarketWatch",
+        "source": "MarketWatch",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON0g5UEdUdzM3Y3lfVEUxZGhGZzIwaThRajEzM2twM1R1NGZwTmM2c21yeFllZWJqLTNTdElOTG9UXzBzTHIwZVpQUk93eEt6ZmV1bENDM0diQmhhakczcE80UXJQNDI2MzV0TFdRZmRpRHR2RHkyNmxHZUxHbGxZUkZXTGR3cDdqVkZibjUtLXJDMFZtQTFKWHFDY3FGbE1jOFUwVGhKRnlqZzRwTTlMQl9LVlVLNFpuWHc?oc=5",
+        "published": "Fri, 30 Oct 2026 21:30:00 GMT",
+        "tone": "neutral",
         "reliable": true
       },
       {
@@ -87,22 +104,6 @@
         "source": "Fortune",
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01azZCVG9fb2lmRjJJZE96ZmE2SkE2bzVpMG01b2tSVkZRSFZtRl9lUmJjbTl0QzZsbUxTeE1lXzEzOGs4cHZXaExDSWpvOWlaRWliXy1MVk40bko4RDhPYzEzMlpCVWdzM0FZbFJn?oc=5",
         "published": "Fri, 30 Oct 2026 15:34:00 GMT",
-        "tone": "neutral",
-        "reliable": false
-      },
-      {
-        "title": "Gold Drops Below $4,000 as US Inflation and Interest Rate Concerns Weigh on Precious Metals - Yahoo Finance",
-        "source": "Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaFM1eFNJRjBhakpQWnEwY2U1Z1B3UzBFMVVlM0xGZWpaUFZpR2FneTVOR0NXM04taUx3TWFTR3JPcE1CRkM0N0lFTk5nNFkxdWNFTFA2Zjh5aEpIS05YeWFXV1BxalpvaGY0cHVzVHQ0YmVXYzktYXhCcHU1OFJfbk5DUlNaUURKcnBOZGRuOFdYZUk5WHgw?oc=5",
-        "published": "Fri, 30 Oct 2026 10:04:43 GMT",
-        "tone": "neutral",
-        "reliable": false
-      },
-      {
-        "title": "Gold Falls Below $4,000 as the Safe-Haven Trade Turns Upside Down - CoinWeek",
-        "source": "CoinWeek",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVHpaam9tcHowUVpuNWtEVGlJVHAzaXpGX2tJbHdnN0F4dVByQTlQaXNwXzU3SGtETXpSWjN1RXBfdjk4RG5MbG9HQUMxbEFBR25fZllTWm1nZ2lER2h6Vy0wTC00dE5DcGdyaWtVRkJwZnZ2ZzgzQmd5a2NudlhjWXJ3cF9aOXozaTh3aUF3?oc=5",
-        "published": "Fri, 30 Oct 2026 13:01:50 GMT",
         "tone": "neutral",
         "reliable": false
       }
