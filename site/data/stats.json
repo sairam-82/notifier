@@ -41,7 +41,7 @@
   },
   "history_days": 282,
   "as_of_date": "2026-11-01",
-  "last_updated": "2026-11-01T16:29:50.432824+05:30",
+  "last_updated": "2026-11-01T23:32:21.000096+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -53,7 +53,7 @@
     "bias": "SLIGHTLY_DOWN",
     "bias_label": "Slightly downward bias",
     "confidence": "MEDIUM",
-    "score": -34.4,
+    "score": -29.4,
     "band_low": 12645.0,
     "band_high": 12815.0,
     "usd_inr_rate": 94.95,
@@ -64,22 +64,14 @@
       "7-day gold trend down (-2.71%)",
       "Near 30D low (0%) — possible stabilisation/bounce",
       "USD/INR 94.95 (-0.34% today)",
-      "Global headlines lean bearish (1/5) · 4 from recognised sources"
+      "Global headlines mixed/neutral · 2 from recognised sources"
     ],
     "news": [
       {
-        "title": "Gold prices plunge to one-year low below $3,900 as higher oil prices fuel fears of more pain ahead - Kitco",
+        "title": "Gold Price Canada Today | Live Gold Price in CAD - Kitco",
         "source": "Kitco",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRUZmdmJRRFN3bUxiblBxRUVkd3o3SmRSRjd3ZUt3Rm5DVlNUQ201LW9BOHZyMnVBUEtZaGlNRFk5dTJKTzNHVjNkWGdWU3YtdVVPU0txb1pFZWJ5ZVhUaDRaTERzV2h5QzJzYWM3TExZRWRxQlNJbFlrWTQwbU8tbjA4Sm5JTWxqWVlFTUVZZjNvTVZXblN3SVVmMVVyVF9iQk5GS1RWcjRrRHdNRXRnV0VhYmtLRTE2?oc=5",
-        "published": "Fri, 30 Oct 2026 18:18:01 GMT",
-        "tone": "bearish",
-        "reliable": true
-      },
-      {
-        "title": "Gold, Silver rates crash: What happened with precious metal rates? What didn't go in favour and brought them down? - Livemint",
-        "source": "Livemint",
-        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNY25NS2xTUEJER0V5UEZrcnFQNEppelBXcHdQSjBmNk83OGtjNVJueGI4TThPZ2RfWGlfNXM2Mk9NUnpTbVEwbXI1UjQxNVM5aUR1R3E5TGsyUkxoMG12VWhRR1VPM1RlWXRQcGp5TGtlbFpHUDZPczBiQ29YeWRQWFNYQUhBQ2ZNNmUxaWdsRkh4SEhvQU9uUjR4OHFtX0EwYy1VOW1tVVlXTkZVQU1OMmFmSWpya2s2RkRUTkNZMF8xTkRvZkdFTVNyMklQTFl6X1FrQ0EzYVJ3S09WNWxPVmlFR2prY0tkbGE4ZmhJRWxWZ9IB9wFBVV95cUxPQzAzc2dCODNJVEdnMmZmSWNNTlFTamVpX0pLYTNVc1dTZkNqUlRndWRoeW5iclE2RllYMHBrb2dQaklYMmgwQXF3TjF1d0JzRTZxZmFFTWt6QXhKNTh3NGRnT1lqUzRYUHN4WXFJX09jYXc0d2xkTHNPUTV4UjdwUGxpOUgtZ1J3UlBZTnBOakQ3eHhGV21jcVRZVW02NXMtRkd5QVdNV1ZMWkU0dUhsVGF3OEdpVVdSV284dXhPNmpiajRIUzJSS1A4Um5PYVZDaWNBUjdVbWdnRS1kSnQ1RTEwWWJRVXRvTWlfQ1c3cTZqZGZxQjdr?oc=5",
-        "published": "Sat, 31 Oct 2026 17:37:08 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVMHM0YXN3UkRUdlVZXzdrUjJmSHh5eFZ6Q0pSOVhYV1pLU0VzSXNhWGRVREpJbm9uX3pvSkZsMDNVRmg4a3JPYXlTY2N3OEF5Wm00MA?oc=5",
+        "published": "Sun, 01 Nov 2026 00:00:00 GMT",
         "tone": "neutral",
         "reliable": true
       },
@@ -92,18 +84,26 @@
         "reliable": true
       },
       {
-        "title": "Why gold plunged to its lowest price in a year despite renewed Iran jitters - MarketWatch",
-        "source": "MarketWatch",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON0g5UEdUdzM3Y3lfVEUxZGhGZzIwaThRajEzM2twM1R1NGZwTmM2c21yeFllZWJqLTNTdElOTG9UXzBzTHIwZVpQUk93eEt6ZmV1bENDM0diQmhhakczcE80UXJQNDI2MzV0TFdRZmRpRHR2RHkyNmxHZUxHbGxZUkZXTGR3cDdqVkZibjUtLXJDMFZtQTFKWHFDY3FGbE1jOFUwVGhKRnlqZzRwTTlMQl9LVlVLNFpuWHc?oc=5",
-        "published": "Fri, 30 Oct 2026 21:30:00 GMT",
-        "tone": "neutral",
-        "reliable": true
-      },
-      {
         "title": "Current price of gold as of October 30, 2026 - Fortune",
         "source": "Fortune",
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01azZCVG9fb2lmRjJJZE96ZmE2SkE2bzVpMG01b2tSVkZRSFZtRl9lUmJjbTl0QzZsbUxTeE1lXzEzOGs4cHZXaExDSWpvOWlaRWliXy1MVk40bko4RDhPYzEzMlpCVWdzM0FZbFJn?oc=5",
         "published": "Fri, 30 Oct 2026 15:34:00 GMT",
+        "tone": "neutral",
+        "reliable": false
+      },
+      {
+        "title": "Gold Price Just Hit a Yearly Low. What Are Analysts Saying? - Yahoo Finance",
+        "source": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPU0pPZHhycWdjRDdEQ3NfYlRNbXhlTGEtSHRfQlcwWWFxdl9KU1VZOGdvNHA0RnJ3WTVlaTNYZ0ctQUdUODJWSlhOOC1RT25LZXhPZW5oV2JaMk85aWxmR0FZaHhIVXl3cGt4cnA4MXJfWl8td244TGdoNGhfMEdUZVN3aWdsTVdRYWU5QW1mNVM2TDR6Z3d6Qlc1NVE?oc=5",
+        "published": "Fri, 30 Oct 2026 19:54:53 GMT",
+        "tone": "neutral",
+        "reliable": false
+      },
+      {
+        "title": "Gold Price November 2 2026 - Robinhood",
+        "source": "Robinhood",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZDA4cDFOb3pqOUN4S09FV3JnREpKMDUzLWJ2ZFFycFBoT2ZGZlRQVUxYZzVSRC1oV0lsYUYteE5UWWZIVUU1ZkZJUDEwWWtQVTZkSTlfeFJjUlkwMVRTbXRrR1Fnc0NCWjZPY1ZXYU5ONzB2SXl0dHJTUElWbExpMVVlRnFiUVZYMEk3Ni1uQzM5aGFFS2s4eWVfVm9yeDBTS0E?oc=5",
+        "published": "Fri, 30 Oct 2026 18:21:51 GMT",
         "tone": "neutral",
         "reliable": false
       }
