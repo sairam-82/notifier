@@ -1,32 +1,32 @@
 {
   "today_price": 12730.0,
-  "yesterday_price": 13040.0,
-  "daily_change": -310.0,
-  "daily_change_percent": -2.38,
-  "daily_direction": "down",
+  "yesterday_price": 12730.0,
+  "daily_change": 0.0,
+  "daily_change_percent": 0.0,
+  "daily_direction": "flat",
   "position_30d": 0.0,
   "classification": "D30_LOW",
   "classification_label": "30D LOW",
   "period_7d": {
     "low": 12730.0,
     "high": 13195.0,
-    "average": 13064.29,
-    "change": -340.0,
-    "change_percent": -2.6,
+    "average": 13015.71,
+    "change": -355.0,
+    "change_percent": -2.71,
     "count": 7
   },
   "period_30d": {
     "low": 12730.0,
     "high": 13880.0,
-    "average": 13461.17,
-    "change": -1045.0,
-    "change_percent": -7.59,
+    "average": 13426.33,
+    "change": -945.0,
+    "change_percent": -6.91,
     "count": 30
   },
   "period_90d": {
     "low": 12730.0,
     "high": 15030.0,
-    "average": 13921.45,
+    "average": 13915.75,
     "change": null,
     "change_percent": null,
     "count": 86
@@ -34,14 +34,14 @@
   "period_365d": {
     "low": 11001.2,
     "high": 16061.1,
-    "average": 13489.1,
+    "average": 13486.21,
     "change": null,
     "change_percent": null,
-    "count": 261
+    "count": 262
   },
-  "history_days": 281,
-  "as_of_date": "2026-10-31",
-  "last_updated": "2026-10-31T22:50:08.974138+05:30",
+  "history_days": 282,
+  "as_of_date": "2026-11-01",
+  "last_updated": "2026-11-01T16:29:50.432824+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -53,25 +53,33 @@
     "bias": "SLIGHTLY_DOWN",
     "bias_label": "Slightly downward bias",
     "confidence": "MEDIUM",
-    "score": -28.3,
-    "band_low": 12642.0,
-    "band_high": 12818.0,
+    "score": -34.4,
+    "band_low": 12645.0,
+    "band_high": 12815.0,
     "usd_inr_rate": 94.95,
     "usd_inr_as_of": "2026-10-30",
     "usd_inr_daily_pct": -0.336,
     "usd_inr_7d_pct": 0.011,
     "factors": [
-      "7-day gold trend down (-2.60%)",
+      "7-day gold trend down (-2.71%)",
       "Near 30D low (0%) — possible stabilisation/bounce",
       "USD/INR 94.95 (-0.34% today)",
-      "Global headlines mixed/neutral · 4 from recognised sources"
+      "Global headlines lean bearish (1/5) · 4 from recognised sources"
     ],
     "news": [
       {
-        "title": "Gold Price Canada Today | Live Gold Price in CAD - Kitco",
+        "title": "Gold prices plunge to one-year low below $3,900 as higher oil prices fuel fears of more pain ahead - Kitco",
         "source": "Kitco",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVMHM0YXN3UkRUdlVZXzdrUjJmSHh5eFZ6Q0pSOVhYV1pLU0VzSXNhWGRVREpJbm9uX3pvSkZsMDNVRmg4a3JPYXlTY2N3OEF5Wm00MA?oc=5",
-        "published": "Sat, 31 Oct 2026 00:00:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRUZmdmJRRFN3bUxiblBxRUVkd3o3SmRSRjd3ZUt3Rm5DVlNUQ201LW9BOHZyMnVBUEtZaGlNRFk5dTJKTzNHVjNkWGdWU3YtdVVPU0txb1pFZWJ5ZVhUaDRaTERzV2h5QzJzYWM3TExZRWRxQlNJbFlrWTQwbU8tbjA4Sm5JTWxqWVlFTUVZZjNvTVZXblN3SVVmMVVyVF9iQk5GS1RWcjRrRHdNRXRnV0VhYmtLRTE2?oc=5",
+        "published": "Fri, 30 Oct 2026 18:18:01 GMT",
+        "tone": "bearish",
+        "reliable": true
+      },
+      {
+        "title": "Gold, Silver rates crash: What happened with precious metal rates? What didn't go in favour and brought them down? - Livemint",
+        "source": "Livemint",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNY25NS2xTUEJER0V5UEZrcnFQNEppelBXcHdQSjBmNk83OGtjNVJueGI4TThPZ2RfWGlfNXM2Mk9NUnpTbVEwbXI1UjQxNVM5aUR1R3E5TGsyUkxoMG12VWhRR1VPM1RlWXRQcGp5TGtlbFpHUDZPczBiQ29YeWRQWFNYQUhBQ2ZNNmUxaWdsRkh4SEhvQU9uUjR4OHFtX0EwYy1VOW1tVVlXTkZVQU1OMmFmSWpya2s2RkRUTkNZMF8xTkRvZkdFTVNyMklQTFl6X1FrQ0EzYVJ3S09WNWxPVmlFR2prY0tkbGE4ZmhJRWxWZ9IB9wFBVV95cUxPQzAzc2dCODNJVEdnMmZmSWNNTlFTamVpX0pLYTNVc1dTZkNqUlRndWRoeW5iclE2RllYMHBrb2dQaklYMmgwQXF3TjF1d0JzRTZxZmFFTWt6QXhKNTh3NGRnT1lqUzRYUHN4WXFJX09jYXc0d2xkTHNPUTV4UjdwUGxpOUgtZ1J3UlBZTnBOakQ3eHhGV21jcVRZVW02NXMtRkd5QVdNV1ZMWkU0dUhsVGF3OEdpVVdSV284dXhPNmpiajRIUzJSS1A4Um5PYVZDaWNBUjdVbWdnRS1kSnQ1RTEwWWJRVXRvTWlfQ1c3cTZqZGZxQjdr?oc=5",
+        "published": "Sat, 31 Oct 2026 17:37:08 GMT",
         "tone": "neutral",
         "reliable": true
       },
@@ -79,15 +87,7 @@
         "title": "Tech rout drives gold to one-year low, white metals sink deep into oversold zone - Reuters",
         "source": "Reuters",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMFY2WEZOWHhyVDVPMkM2ZVUxM01TR09lcUZ0RlBWNF96QkJzWXhUZWpIbmlRSUlxN3FiZ0pEYWVXOW1YcVBQcHQ4cjU1NFpCQVlnS3pneWlKeTZIRjJzWkJuek9OeDhNSGxTU1ozV1g0czltbldNNkJORWRWS0ZBU25WdURjNWNpREdpdmZoV1c2ZzBnUmM5cm5HTG16OFpEdVhLWC13RkxHM3IxX1E?oc=5",
-        "published": "Fri, 30 Oct 2026 03:24:00 GMT",
-        "tone": "neutral",
-        "reliable": true
-      },
-      {
-        "title": "The price of gold today, Oct. 30, 2026 — and the best places to buy - CNBC",
-        "source": "CNBC",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9JSDdJMnhmWWZaT25NZmxtc2NMelZVeTN0cElzUjhPSnFVSUdETjFCdWpBVzl6anhaOHQ3SVBlTllGemk2RmtCeUliMWpCQUtIRlFETENIWFUzd2RoNzAwYjZfMHFiRkdPT0lEYmVHWU5Vd9IBd0FVX3lxTE1PV1FNQ1pFUHY1Y3R6QzN5ZW9lZTVSUFlDdTBEam9tajlBSmo3UW1SQm1HRy02QlpRYzJMNVhrQ3FYNFcxdVBaYmZRTXFJbnRxejdWaUpJSDFCbktkZ3RLVGlNNGFTcjJNa0EtV1MwdnJ3azFoSEU4?oc=5",
-        "published": "Fri, 30 Oct 2026 13:14:59 GMT",
+        "published": "Fri, 30 Oct 2026 19:03:39 GMT",
         "tone": "neutral",
         "reliable": true
       },
@@ -100,10 +100,10 @@
         "reliable": true
       },
       {
-        "title": "Bitcoin, Gold, Silver & Stocks Face a Market-Wide Sell-Off: Why Is Everything Falling at Once? - Coinpedia",
-        "source": "Coinpedia",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbmV2UVRJdk5YUWo5YXZPSEZzMHgzbGdrckNMbXdwMy1CSkpBaU1YZGR5amg2dnZwQUlrd21oMUFJNlN1NmNwMDVWaGJIcUFBY2pSdlk3Mk5jOTB6WUx2Qm16OE5SVkhxczIzaDFiajREd2NWa3B6YVYtMHMzWXY1Z2NSN3JScjdLLTdldTVCZFczb0JWM0ZxNFQyZmtKeER4clFWbFUxTHcyWEZVb0RXTHpyLTc2ekxqdzVlRGtTZ3dsNlZo0gHKAUFVX3lxTE5vUko1R1RRaUJIT2JMaVhfZXMtMGFsa1Rib0l0cVJGWWk1TmdkRFloQmZSTnV5MTUzX3B3STJJU0wyX19RemE0TUpaYmhOTW5BQXJyckxjcGZKMkg2MGY4YUxvUllfTG1XdTZ0bjZIX2dGdUlOdHlsVzEyN1hjQnVVWl9mS0lURWFYLVMtc2Jua0xlOG1BX2tWVXQ5eFljOTdkQk9waWx3T182RnJNZUJsM3pxLUZsdW1JQ1N3TzlsS1BYNXJfSlNIMVE?oc=5",
-        "published": "Sat, 31 Oct 2026 13:17:00 GMT",
+        "title": "Current price of gold as of October 30, 2026 - Fortune",
+        "source": "Fortune",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01azZCVG9fb2lmRjJJZE96ZmE2SkE2bzVpMG01b2tSVkZRSFZtRl9lUmJjbTl0QzZsbUxTeE1lXzEzOGs4cHZXaExDSWpvOWlaRWliXy1MVk40bko4RDhPYzEzMlpCVWdzM0FZbFJn?oc=5",
+        "published": "Fri, 30 Oct 2026 15:34:00 GMT",
         "tone": "neutral",
         "reliable": false
       }
