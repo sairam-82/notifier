@@ -1,32 +1,32 @@
 {
-  "today_price": 12730.0,
+  "today_price": 12775.0,
   "yesterday_price": 12730.0,
-  "daily_change": 0.0,
-  "daily_change_percent": 0.0,
-  "daily_direction": "flat",
-  "position_30d": 0.0,
-  "classification": "D30_LOW",
-  "classification_label": "30D LOW",
+  "daily_change": 45.0,
+  "daily_change_percent": 0.35,
+  "daily_direction": "up",
+  "position_30d": 3.91,
+  "classification": "NEAR_30D_LOW",
+  "classification_label": "NEAR 30D LOW",
   "period_7d": {
     "low": 12730.0,
     "high": 13195.0,
-    "average": 13015.71,
-    "change": -355.0,
-    "change_percent": -2.71,
+    "average": 12971.43,
+    "change": -360.0,
+    "change_percent": -2.74,
     "count": 7
   },
   "period_30d": {
     "low": 12730.0,
     "high": 13880.0,
-    "average": 13426.33,
-    "change": -945.0,
-    "change_percent": -6.91,
+    "average": 13396.33,
+    "change": -900.0,
+    "change_percent": -6.58,
     "count": 30
   },
   "period_90d": {
     "low": 12730.0,
     "high": 15030.0,
-    "average": 13915.75,
+    "average": 13912.13,
     "change": null,
     "change_percent": null,
     "count": 86
@@ -34,14 +34,14 @@
   "period_365d": {
     "low": 11001.2,
     "high": 16061.1,
-    "average": 13486.21,
+    "average": 13483.5,
     "change": null,
     "change_percent": null,
-    "count": 262
+    "count": 263
   },
-  "history_days": 282,
-  "as_of_date": "2026-11-01",
-  "last_updated": "2026-11-01T23:32:21.000096+05:30",
+  "history_days": 283,
+  "as_of_date": "2026-11-02",
+  "last_updated": "2026-11-02T17:28:10.960179+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -53,41 +53,41 @@
     "bias": "SLIGHTLY_DOWN",
     "bias_label": "Slightly downward bias",
     "confidence": "MEDIUM",
-    "score": -29.4,
-    "band_low": 12645.0,
-    "band_high": 12815.0,
+    "score": -29.7,
+    "band_low": 12700.0,
+    "band_high": 12850.0,
     "usd_inr_rate": 94.95,
     "usd_inr_as_of": "2026-10-30",
     "usd_inr_daily_pct": -0.336,
     "usd_inr_7d_pct": 0.011,
     "factors": [
-      "7-day gold trend down (-2.71%)",
-      "Near 30D low (0%) — possible stabilisation/bounce",
+      "7-day gold trend down (-2.74%)",
+      "Near 30D low (4%) — possible stabilisation/bounce",
       "USD/INR 94.95 (-0.34% today)",
       "Global headlines mixed/neutral · 2 from recognised sources"
     ],
     "news": [
       {
-        "title": "Gold Price Canada Today | Live Gold Price in CAD - Kitco",
-        "source": "Kitco",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVMHM0YXN3UkRUdlVZXzdrUjJmSHh5eFZ6Q0pSOVhYV1pLU0VzSXNhWGRVREpJbm9uX3pvSkZsMDNVRmg4a3JPYXlTY2N3OEF5Wm00MA?oc=5",
-        "published": "Sun, 01 Nov 2026 00:00:00 GMT",
-        "tone": "neutral",
-        "reliable": true
-      },
-      {
-        "title": "Tech rout drives gold to one-year low, white metals sink deep into oversold zone - Reuters",
+        "title": "Gold rebounds from one-year low as oil slides ahead of US midterms - Reuters",
         "source": "Reuters",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMFY2WEZOWHhyVDVPMkM2ZVUxM01TR09lcUZ0RlBWNF96QkJzWXhUZWpIbmlRSUlxN3FiZ0pEYWVXOW1YcVBQcHQ4cjU1NFpCQVlnS3pneWlKeTZIRjJzWkJuek9OeDhNSGxTU1ozV1g0czltbldNNkJORWRWS0ZBU25WdURjNWNpREdpdmZoV1c2ZzBnUmM5cm5HTG16OFpEdVhLWC13RkxHM3IxX1E?oc=5",
-        "published": "Fri, 30 Oct 2026 19:03:39 GMT",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOXFkdElkaE5fVGZ6eUVZUFZnZjNuaUFoM2pPZ1ZJeEY4bmN0Wm9zSTRwLWpHcjNjLWRLRklsOV95a21mWjZWckhUam5qTVZVUzVDdWEwQXVOVWlpaHpCMktPLU41TGNkZjI3MFM1azNvSEtUai1pUGFpNi1mZFhISlB3TXFUSWtseGlhYmRISUpuWXdlVU5mLTJPRQ?oc=5",
+        "published": "Mon, 02 Nov 2026 05:04:00 GMT",
         "tone": "neutral",
         "reliable": true
       },
       {
-        "title": "Current price of gold as of October 30, 2026 - Fortune",
-        "source": "Fortune",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01azZCVG9fb2lmRjJJZE96ZmE2SkE2bzVpMG01b2tSVkZRSFZtRl9lUmJjbTl0QzZsbUxTeE1lXzEzOGs4cHZXaExDSWpvOWlaRWliXy1MVk40bko4RDhPYzEzMlpCVWdzM0FZbFJn?oc=5",
-        "published": "Fri, 30 Oct 2026 15:34:00 GMT",
+        "title": "Gold, silver rates today Bangalore 2 Nov: Latest prices, up-down movement for precious metal investors in Garden City - Livemint",
+        "source": "Livemint",
+        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxObk9oVkt4R1diT0Q2NFhseFVJeGloSFN3MUFQb2FiM3pDM3FXdFF1X203X1FHa250UWhDcVBZcFhqa3dLT3pNSm5VRWFBaWpsSVJRbndRck5LQmJ4Q1VvaHNremw5cnRfUV9FbmZRQWpHNlZYOWR1UThFLVJlVWNOZUVvQ0pnQVhhQW1UZk5mR1dYZEtpbEJ0VUhUYzZ6Tlpya2pWbUZhbUFfd1M4ejJEcE5EbWJBRlhJQmZ1em5FREdzazdPc184UVZJX19rVWJjSkJtSlp4eThudHFtMWNDMy1LbDlzd1h0OVF5ZEJPN2o0bHVHNHNyRGhRZnlZVnfSAYQCQVVfeXFMTVJEUUZWamZ2TUZmWklTMTlRV2dzUUJMSDdWTV9TeDNXMjA5SnFQbVozbHVVZFhJNkxIaUowR1FQSTM5OS1OdEVtcTB2Y0Z2N3hhMHg5N293a3g4NjNNNVhLQnFDd0VBX2c1clhrcVlLcnFGOWk3Tjl2LU9Oc3ZXRjJpV2x2R0c2RzNVbm00a3hYTk5fLWtaUnhMZ3BRczdzNDJHS1RPSDdaVHJoakJGbEpwVm5UdjNMLURzV1FXWHFITVpVTzNycnJVQXlQMDB6SUVhdWVZMkRTSTlFdzBTSVRKZWRRS3BXUHh6MG5pTm1ib1RtRE1DV0doUGEwdkY2T1FvRlY?oc=5",
+        "published": "Mon, 02 Nov 2026 05:36:03 GMT",
+        "tone": "neutral",
+        "reliable": true
+      },
+      {
+        "title": "Gold Price Analysis Today | Forex Gold Analysis | XAU/USD Analysis - November 2, 2026 - Mitrade",
+        "source": "Mitrade",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSTNtRWJqZEJaSUg1N2pIYmFTSWczTVBMZkJQWW9yWjBJX3RGZVJraWU2S2hfaHZxVkdrcW54b01XLUFjc2xuMUJ3UzBLV1RiemJPeEk3bjdYeUJUVW5iX203RjRGRl9ZXy1VcWhZZEVOU1JCQmc1aXNYNVZaaDRfS3BjOHdCem1DS1lJWUQ0UG42T2x5QmVKVmE0WWpPc2hfMzFF?oc=5",
+        "published": "Mon, 02 Nov 2026 02:44:29 GMT",
         "tone": "neutral",
         "reliable": false
       },
@@ -100,10 +100,10 @@
         "reliable": false
       },
       {
-        "title": "Gold Price November 2 2026 - Robinhood",
-        "source": "Robinhood",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZDA4cDFOb3pqOUN4S09FV3JnREpKMDUzLWJ2ZFFycFBoT2ZGZlRQVUxYZzVSRC1oV0lsYUYteE5UWWZIVUU1ZkZJUDEwWWtQVTZkSTlfeFJjUlkwMVRTbXRrR1Fnc0NCWjZPY1ZXYU5ONzB2SXl0dHJTUElWbExpMVVlRnFiUVZYMEk3Ni1uQzM5aGFFS2s4eWVfVm9yeDBTS0E?oc=5",
-        "published": "Fri, 30 Oct 2026 18:21:51 GMT",
+        "title": "Gold and Silver Forecast: Rebound Faces Fed Hike Pressure - FXEmpire",
+        "source": "FXEmpire",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZUZNbXdwelgtY2FSSFdrYV9iSUhpaWpsVHJjRzJjeThlY3BCT1pTQ0lIMm9NcWRKQ1lGREdYbUNqd0JxR2tYanlPNjFaWXBidXJLTVN2Q0FJak1hRUV5QUFMS1dDQ3hWeW9HbTZncDhHMlA3MGN0amJmVExMTHd4Q0M0ZENqWmZVUFFYUTB2WmRfRGtDdUhDTzlzeXMzWE04QlcyeWNXRlkxaFE?oc=5",
+        "published": "Mon, 02 Nov 2026 07:35:05 GMT",
         "tone": "neutral",
         "reliable": false
       }
