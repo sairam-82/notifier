@@ -1,32 +1,32 @@
 {
   "today_price": 13090.0,
-  "yesterday_price": 12800.0,
-  "daily_change": 290.0,
-  "daily_change_percent": 2.27,
-  "daily_direction": "up",
+  "yesterday_price": 13090.0,
+  "daily_change": 0.0,
+  "daily_change_percent": 0.0,
+  "daily_direction": "flat",
   "position_30d": 31.3,
   "classification": "NORMAL_RANGE",
   "classification_label": "NORMAL RANGE",
   "period_7d": {
     "low": 12730.0,
-    "high": 13195.0,
-    "average": 12908.57,
-    "change": -105.0,
-    "change_percent": -0.8,
+    "high": 13090.0,
+    "average": 12893.57,
+    "change": 50.0,
+    "change_percent": 0.38,
     "count": 7
   },
   "period_30d": {
     "low": 12730.0,
     "high": 13880.0,
-    "average": 13347.67,
-    "change": -570.0,
-    "change_percent": -4.17,
+    "average": 13328.67,
+    "change": -620.0,
+    "change_percent": -4.52,
     "count": 30
   },
   "period_90d": {
     "low": 12730.0,
     "high": 15030.0,
-    "average": 13899.96,
+    "average": 13892.81,
     "change": null,
     "change_percent": null,
     "count": 86
@@ -34,14 +34,14 @@
   "period_365d": {
     "low": 11001.2,
     "high": 16061.1,
-    "average": 13497.82,
+    "average": 13496.27,
     "change": null,
     "change_percent": null,
-    "count": 263
+    "count": 264
   },
-  "history_days": 285,
-  "as_of_date": "2026-11-04",
-  "last_updated": "2026-11-04T17:19:34.847463+05:30",
+  "history_days": 286,
+  "as_of_date": "2026-11-05",
+  "last_updated": "2026-11-05T01:28:02.302750+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -52,29 +52,31 @@
   "outlook": {
     "bias": "NEUTRAL",
     "bias_label": "Neutral / sideways",
-    "confidence": "LOW",
-    "score": 7.0,
-    "band_low": 13003.0,
-    "band_high": 13177.0,
-    "usd_inr_rate": 94.75,
-    "usd_inr_as_of": "2026-11-03",
-    "usd_inr_daily_pct": null,
-    "usd_inr_7d_pct": null,
+    "confidence": "MEDIUM",
+    "score": -10.5,
+    "band_low": 13016.0,
+    "band_high": 13164.0,
+    "usd_inr_rate": 94.64,
+    "usd_inr_as_of": "2026-11-04",
+    "usd_inr_daily_pct": -0.116,
+    "usd_inr_7d_pct": -0.609,
     "factors": [
-      "7-day gold trend down (-0.80%)",
-      "Global headlines lean bullish (3/5) · 5 from recognised sources"
+      "7-day gold trend up (+0.38%)",
+      "USD/INR 94.64 (-0.12% today)",
+      "Rupee stronger ₹ vs USD over 7D (-0.61%)",
+      "Global headlines lean bullish (3/5) · 4 from recognised sources"
     ],
     "news": [
       {
-        "title": "Gold Steadies as Traders Track Iran Talk Prospects, US Midterms - Bloomberg.com",
-        "source": "Bloomberg.com",
+        "title": "Gold Steadies as Traders Track Iran Talk Prospects, US Midterms - Bloomberg",
+        "source": "Bloomberg",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWVB3Y2J3bG9Ed1BDRjVvY1dIZUFhd0JzRWJ6VTRtRWdLNm13R294UVNEejBhTVVuNkdvWXNQRzZzYTV5ZV9nRWwydHRjQ3BfaTJkMFFVSGNmcTNlQVlfNUtld2xjaDVHNHpKQkdXS19jQnZ0ZzNWTUxuejUzemVBOHNGOGktaExwaExwaXJ6bGd4eUZUWkw0a29OWkZMc1E1QVFVWFJVR1NaU1dLaC1NeUZsYw?oc=5",
-        "published": "Wed, 04 Nov 2026 10:08:17 GMT",
+        "published": "Wed, 04 Nov 2026 17:23:13 GMT",
         "tone": "neutral",
         "reliable": true
       },
       {
-        "title": "Gold gains 3% as dollar slides after Democratic midterm gains - Reuters",
+        "title": "Gold heads for biggest daily gain since August as dollar weakens - Reuters",
         "source": "Reuters",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQd0lHOUFsbExIR3lscDNTRy14T012UWd6UlBSLUtySlpjSTdFaEtYLW1hbnpOTHdrSm1fM1RGU2V0WmxNSWJGU3AxeV9PUDVRVm1BRjBBNXQxZVVacElvaE5IbGJFU2FZbnN1Tmg4dlVTZ3prY0U0SEh5X1VzWmxUYnQ3VWhtZGpGOXloc1R6X3BvNlprVmw0UGppaFE2VFcyYkl3SzJ3?oc=5",
         "published": "Wed, 04 Nov 2026 00:58:00 GMT",
@@ -90,20 +92,20 @@
         "reliable": true
       },
       {
-        "title": "Gold rises as dollar weakens ahead of U.S. midterm election results - CNBC",
-        "source": "CNBC",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObkQ5MzAyekZrcWZOb0lvMEJ4dWdGMmNUMzNzRmpHZUtwaXJNam9NTkJUMmowRkFVNncyRlNQdDk2YnpyRmo4Zk01ZVE5eEZTRXE0ZkJGMXJfUEhCeVVLWXV2U0E5VUpZT0dsSXN5a010ZlpfcFg4d2EycFNGR0VKYko5Y2RSZE5kZXM4dTJoYlVabDB1N2tLZk1PdU9jZHFoUUI4NtIBqgFBVV95cUxNUGUzRlBIeVdYcEZTV2N1eUZUT2NZOXZibE05Z3E5WV9FRTg5VmhpYzYwOENrTTBES3RSZU9yUk96WFlBeHVIdEtMTHdRUmFZT2w0RUJtZVpVUGdkYXlneWtHX3RvMU1xYXFhOVdOYUhRb2wtT2N0b3JLd1NVMjJfOVRzQ3JhUldka3VFUFhUMnQ5U0diN3p4UXFYMnhucDNmNkp5aTNJcnVmQQ?oc=5",
-        "published": "Wed, 04 Nov 2026 05:04:15 GMT",
-        "tone": "neutral",
-        "reliable": true
-      },
-      {
         "title": "Gold, silver and precious metals prices jump, dollar dips as Democrats take control of Congress - CNBC",
         "source": "CNBC",
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1vZWlTQ2F2aWtGb012RVY2UHM5WlgtMDhpWU5FVFRtQTQ0Yld1NURka05Zd054LWFveWFJV3JwSThqNzg5NTR5Z0RhTUVDWkhQOXFNNVNJb29vSHFLMmZNUnB4TF9rVldRRG9VQ2MzTEJNRUdrcHZyN014aFNaZ9IBgwFBVV95cUxNUExBejVyMG8zamR1cjA4VXpSbkc1UE41dXMwd1JKLTVpSTRVNDJFUDRFWWc3U1FuT2tPV05qMUlMMDRUNnJwRlBxYXRHLVBLTW44RTc2Vzcta1BHZ19BWnNPY0kzcEp2LW5iMzN3ZUJKM19vRE8wZjVlUEgtb3ZaSENiNA?oc=5",
         "published": "Wed, 04 Nov 2026 07:43:43 GMT",
         "tone": "bullish",
         "reliable": true
+      },
+      {
+        "title": "Gold Price Pullback and Project Delays Cut Alamos Gold’s Market Value by Nearly Half This Year - NAI500",
+        "source": "NAI500",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdTlqLXFUdTJrNDZkQU9YZWgzNmJkWkV0NS1ZSzVjVkpmemRZYmFxTmlwb1NqVm5Qd1pHV2czdzhKalRzY2o5ekZMYjZOaGxJcGlCNndpcjRzcmRCamowNGpuT2pvWmFSYTdmS0FaSEJUWEtyaUpNbmtIeU1YZ24zQ1ZTcHB5cHZHUGhGZnpaV0YtYWRqbGJQUDBwZkxpeVh1ck5JWWd6RzB4bTJRTzR4LW54ZzlRb0RZNW80MFJ1R2NsRWFJ?oc=5",
+        "published": "Wed, 04 Nov 2026 08:30:59 GMT",
+        "tone": "neutral",
+        "reliable": false
       }
     ],
     "disclaimer": "Indicative outlook only — not financial advice. Gold prices depend on many factors; this can be wrong."
