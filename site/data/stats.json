@@ -1,32 +1,32 @@
 {
-  "today_price": 13090.0,
+  "today_price": 13385.0,
   "yesterday_price": 13090.0,
-  "daily_change": 0.0,
-  "daily_change_percent": 0.0,
-  "daily_direction": "flat",
-  "position_30d": 31.3,
+  "daily_change": 295.0,
+  "daily_change_percent": 2.25,
+  "daily_direction": "up",
+  "position_30d": 56.96,
   "classification": "NORMAL_RANGE",
   "classification_label": "NORMAL RANGE",
   "period_7d": {
     "low": 12730.0,
-    "high": 13090.0,
-    "average": 12893.57,
-    "change": 50.0,
-    "change_percent": 0.38,
+    "high": 13385.0,
+    "average": 12935.71,
+    "change": 345.0,
+    "change_percent": 2.65,
     "count": 7
   },
   "period_30d": {
     "low": 12730.0,
     "high": 13880.0,
-    "average": 13328.67,
-    "change": -620.0,
-    "change_percent": -4.52,
+    "average": 13338.5,
+    "change": -325.0,
+    "change_percent": -2.37,
     "count": 30
   },
   "period_90d": {
     "low": 12730.0,
     "high": 15030.0,
-    "average": 13892.81,
+    "average": 13896.24,
     "change": null,
     "change_percent": null,
     "count": 86
@@ -34,14 +34,14 @@
   "period_365d": {
     "low": 11001.2,
     "high": 16061.1,
-    "average": 13496.27,
+    "average": 13497.39,
     "change": null,
     "change_percent": null,
     "count": 264
   },
   "history_days": 286,
   "as_of_date": "2026-11-05",
-  "last_updated": "2026-11-05T01:28:02.302750+05:30",
+  "last_updated": "2026-11-05T17:19:48.771494+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -53,59 +53,59 @@
     "bias": "NEUTRAL",
     "bias_label": "Neutral / sideways",
     "confidence": "MEDIUM",
-    "score": -10.5,
-    "band_low": 13016.0,
-    "band_high": 13164.0,
+    "score": -2.8,
+    "band_low": 13288.0,
+    "band_high": 13482.0,
     "usd_inr_rate": 94.64,
     "usd_inr_as_of": "2026-11-04",
     "usd_inr_daily_pct": -0.116,
     "usd_inr_7d_pct": -0.609,
     "factors": [
-      "7-day gold trend up (+0.38%)",
+      "7-day gold trend up (+2.65%)",
       "USD/INR 94.64 (-0.12% today)",
       "Rupee stronger ₹ vs USD over 7D (-0.61%)",
-      "Global headlines lean bullish (3/5) · 4 from recognised sources"
+      "Global headlines mixed/neutral · 5 from recognised sources"
     ],
     "news": [
-      {
-        "title": "Gold Steadies as Traders Track Iran Talk Prospects, US Midterms - Bloomberg",
-        "source": "Bloomberg",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWVB3Y2J3bG9Ed1BDRjVvY1dIZUFhd0JzRWJ6VTRtRWdLNm13R294UVNEejBhTVVuNkdvWXNQRzZzYTV5ZV9nRWwydHRjQ3BfaTJkMFFVSGNmcTNlQVlfNUtld2xjaDVHNHpKQkdXS19jQnZ0ZzNWTUxuejUzemVBOHNGOGktaExwaExwaXJ6bGd4eUZUWkw0a29OWkZMc1E1QVFVWFJVR1NaU1dLaC1NeUZsYw?oc=5",
-        "published": "Wed, 04 Nov 2026 17:23:13 GMT",
-        "tone": "neutral",
-        "reliable": true
-      },
       {
         "title": "Gold heads for biggest daily gain since August as dollar weakens - Reuters",
         "source": "Reuters",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQd0lHOUFsbExIR3lscDNTRy14T012UWd6UlBSLUtySlpjSTdFaEtYLW1hbnpOTHdrSm1fM1RGU2V0WmxNSWJGU3AxeV9PUDVRVm1BRjBBNXQxZVVacElvaE5IbGJFU2FZbnN1Tmg4dlVTZ3prY0U0SEh5X1VzWmxUYnQ3VWhtZGpGOXloc1R6X3BvNlprVmw0UGppaFE2VFcyYkl3SzJ3?oc=5",
-        "published": "Wed, 04 Nov 2026 00:58:00 GMT",
+        "published": "Wed, 04 Nov 2026 19:14:30 GMT",
         "tone": "bullish",
         "reliable": true
       },
       {
-        "title": "Gold prices hit $4,000 as Democrats see electoral Sweep to gain control of Congress - Kitco",
-        "source": "Kitco",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbmUweUdscDYxeG1QNXplb0NOLVktMUNwYkFyN2ZIQzhEbzRKRmdtR1E3S1BoQjlWemRVakJFaENDVmVIZmd2UUh1LVBTTlRvZV9PRTFpM2F1M3V5eW55Z1Z4VnpXUWFyWEpadGFnbDVnaHJyNHJhdU1OMUtUTXJpTjNkR25yUnM2LWNXT1lfOEFuLWZFSlJqcnplMl9KajN4Q0JSZnRGLU5qcnI5akdoS2xzWnBKQWowVmc?oc=5",
-        "published": "Wed, 04 Nov 2026 06:06:41 GMT",
-        "tone": "bullish",
+        "title": "Gold hits 2-week high as dollar, oil, yields fall after US midterms - Reuters",
+        "source": "Reuters",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRGw2bTVBSnBUN1BZcDhwQ0dVSmFIUVhDdGZLazVPNnV2NG5iYkVxXzg5QmRyY21IOWZOcFVRVXJBSU5PT1pXQWh3UHVmVWxhSm15bVh2NTVQZzJGVHpPT2dSSHc2NXlaLUYyQmVGX24xdW84cVN2NXpGcUhGZ0xrNDZSODR1NDNtNW9vc2JJSUVRcGZIMkprZHNONm4wN2VxUzdBX3B1NWxxcDBsWjNnZ05tUzdMRHJNaEJja2oxNC1QLWQt?oc=5",
+        "published": "Thu, 05 Nov 2026 03:46:00 GMT",
+        "tone": "bearish",
         "reliable": true
       },
       {
-        "title": "Gold, silver and precious metals prices jump, dollar dips as Democrats take control of Congress - CNBC",
+        "title": "Gold hits a two-week high as dollar, Treasury yields ease after U.S. midterm elections - CNBC",
         "source": "CNBC",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1vZWlTQ2F2aWtGb012RVY2UHM5WlgtMDhpWU5FVFRtQTQ0Yld1NURka05Zd054LWFveWFJV3JwSThqNzg5NTR5Z0RhTUVDWkhQOXFNNVNJb29vSHFLMmZNUnB4TF9rVldRRG9VQ2MzTEJNRUdrcHZyN014aFNaZ9IBgwFBVV95cUxNUExBejVyMG8zamR1cjA4VXpSbkc1UE41dXMwd1JKLTVpSTRVNDJFUDRFWWc3U1FuT2tPV05qMUlMMDRUNnJwRlBxYXRHLVBLTW44RTc2Vzcta1BHZ19BWnNPY0kzcEp2LW5iMzN3ZUJKM19vRE8wZjVlUEgtb3ZaSENiNA?oc=5",
-        "published": "Wed, 04 Nov 2026 07:43:43 GMT",
-        "tone": "bullish",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNT0lNbWJsNm9BQkZObjdwTWNBbTQwd093S1c1dV9PTjZmNEQxVmtwNTZwQUROOXJTRFJndXVzVUJJMGloUGdsTjhfN3ctWTdrWFFvME1RbU10OU9MRjFsVElxd0djQTh6YzVKRVhURjA2U1haNEE3ZlVsSXo0VUxNS2F6cnNvQ2RVc0psX3dLck1iNklSLTdRLVE1ZWNSZ2x3MVHSAacBQVVfeXFMTUQta0lIa2tjODZlMzc5Y1hWN3Jpb2YzUVByM3dTNWFsNkdSVmVMT0tVck96cER4VW1jckVUX3VKTG9kVllod0VnTy1Vcy13MVoydnU3NWp1aVBEZjVSY3BVQTNOMUw0V0JmX3p0ZWFSVUNGZ3FZWC1ydW9uakQ4S3dUYTVCUkRPZ2pmWWJISzRZbmxRWEI1UXR1LVZtWVVTNVd2R0U5ZjQ?oc=5",
+        "published": "Thu, 05 Nov 2026 05:03:03 GMT",
+        "tone": "neutral",
         "reliable": true
       },
       {
-        "title": "Gold Price Pullback and Project Delays Cut Alamos Gold’s Market Value by Nearly Half This Year - NAI500",
-        "source": "NAI500",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdTlqLXFUdTJrNDZkQU9YZWgzNmJkWkV0NS1ZSzVjVkpmemRZYmFxTmlwb1NqVm5Qd1pHV2czdzhKalRzY2o5ekZMYjZOaGxJcGlCNndpcjRzcmRCamowNGpuT2pvWmFSYTdmS0FaSEJUWEtyaUpNbmtIeU1YZ24zQ1ZTcHB5cHZHUGhGZnpaV0YtYWRqbGJQUDBwZkxpeVh1ck5JWWd6RzB4bTJRTzR4LW54ZzlRb0RZNW80MFJ1R2NsRWFJ?oc=5",
-        "published": "Wed, 04 Nov 2026 08:30:59 GMT",
+        "title": "Gold, silver prices today, 5 November: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata - Livemint",
+        "source": "Livemint",
+        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPUXR5RWVQV0V4VFRseVppU1hGeDU2c1dqQ3BfY1FKQnF0emdiQm8zX0UzZUhYLXFqWXE0czBqQVpQdVBNTWdPRGFCOWJHZFYyQzVSZkRITzNyR0VGdkkwSm90VnJOU1gzajRDZmI4c1NrREg5OUtpLXFiOXBncXBBa2phUFpGQmRLdzZzYlRUWHZFeUtNWkVWUnItRE4ycDlpQ09qVExOVlRNUW1mMkwtME16MFUtQmF2LW5IZ2J0dGotZE1FQXFyLWxsWkhzVEczUURlVWZaRVRDSm5sdlBJTjNUOVZUbDVSRmRZeTNLaXkxVUsyaEhXcW9iLXo1bS1uLVd6OGRGVUHSAY4CQVVfeXFMTzJsS2ZMTHlIdHJ3MGE1RVo0ZjRYcm1zdG5iZW81cl9KRk42akEzWlNkakM5eTVQMDFDN3ZEdmx2R2NQZGVQTjMxMEdnaDR4VWFQV0tpS2hqUmNCODNaeVJaRUMwdzdzeENnYmJhWTZaTW1sdHdrRzNWTU52ejEwaXFKTFBuOEJ5dEJBV2E3Ymt4ZkRDQVBYZ2pfREprZ2NCRkpWSXdIUWhqQ3g3WkJDQk5vT2xLX1l5bGx3Wl9kSm5CS1lxektuSURLZXRSVDM4d0hGTVc0dHpYZVZuYnhqMElOWkRwYU9EMVlGeDB5WmdyMjlhSXRHWjNDRWoyQXhILWo3bVVucXpfenVCdkh3?oc=5",
+        "published": "Thu, 05 Nov 2026 03:57:45 GMT",
         "tone": "neutral",
-        "reliable": false
+        "reliable": true
+      },
+      {
+        "title": "Is gold's recovery above $4,000 enough to fix a broken market? asks Michele Schneider - Kitco",
+        "source": "Kitco",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNUphMnBRYi1GcmE5QmZ1ejRGVmZ2VmZCR1ZwQlJvM1hhalhIeWZhVjhub29OV1hWTW0xOWZsakxfZDF5NlQ4VS1KQWhDR0wxNEN1MVNVTGFNTDQtYzlIUlpvRTVabFZBVVhJV1BSc19lcFFPdHJ5X3FJMTBlQURMTTdaYnVCdk5qNzhOMktXY210Q1doNWVabTBNcE5VSi14WDNDX1d6a2JyUmlwMnplQmE4X2hpck9sMDNz?oc=5",
+        "published": "Wed, 04 Nov 2026 17:59:14 GMT",
+        "tone": "neutral",
+        "reliable": true
       }
     ],
     "disclaimer": "Indicative outlook only — not financial advice. Gold prices depend on many factors; this can be wrong."
