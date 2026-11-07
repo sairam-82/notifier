@@ -41,7 +41,7 @@
   },
   "history_days": 288,
   "as_of_date": "2026-11-07",
-  "last_updated": "2026-11-07T16:21:34.869163+05:30",
+  "last_updated": "2026-11-07T23:19:32.592984+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -64,7 +64,7 @@
       "7-day gold trend up (+3.38%)",
       "USD/INR 93.92 (-0.59% today)",
       "Rupee stronger ₹ vs USD over 7D (-1.08%)",
-      "Global headlines lean bullish (1/5) · 2 from recognised sources"
+      "Global headlines lean bullish (1/5) · 1 from recognised sources"
     ],
     "news": [
       {
@@ -73,14 +73,6 @@
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMVFrY1hheExQaDduSlBRcndvS2FkcW84Y0UwRnVZUGRKSnJ5eW9keHNzemhJNEpadVQxRlJXMHNxYzhOVXVLakZNNTBBNmNsYTFadkpvN0Z4RnFwWUtYcVoxRlZjV3pNaWphd2FZRGt5eGp4Z20wc2xkeTN3dXFpa0xodkIwdGlQTHhCc05PQTBISkNjVjE1LTZSMUR0UV91SlFNR0x5STlSeEt6R2lOR0JsUXBURzk3V2c?oc=5",
         "published": "Fri, 06 Nov 2026 20:45:41 GMT",
         "tone": "bullish",
-        "reliable": true
-      },
-      {
-        "title": "What the gold price doesn’t tell you about physical buyers - Kitco",
-        "source": "Kitco",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcHlNSU1YSGt0Q1JBNl9CSGw4WkUzRUI2MDFPQ2RvQ1JOdHRsUHl6d3FINExyR0c1X3A5MmhoTWMxUWk0N1RzZDNmeHdSbEtRTHdCQUpXYjhCdXJQRkJaekpGejl6V1QxczNFbkFWTVB1ZUh1QmctWVRoeEtBMUlfaU5EU0paNFhSQWVGaWFyTEN1cmRHd1I0azFB?oc=5",
-        "published": "Fri, 06 Nov 2026 14:54:45 GMT",
-        "tone": "neutral",
         "reliable": true
       },
       {
@@ -96,6 +88,14 @@
         "source": "Fortune",
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE92OXZEZ2FaQTFDWWhodmhEeXRtWnNvdDJtaE10TUdyc3pqQUJTWnNsQ3BLcHlqWlhJeUFhcjF4WkdZdHVCTm1oUG40Vm9FMGdiOWRBN25uVzJMX2RIWml2QWh6VTFZN0UxOVhsc1pB?oc=5",
         "published": "Fri, 06 Nov 2026 14:15:00 GMT",
+        "tone": "neutral",
+        "reliable": false
+      },
+      {
+        "title": "Galiano Gold (NYSEARCA:GAU) Combines High-Growth Leadership With Strong Momentum - ChartMill",
+        "source": "ChartMill",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQN3JNTHNLVmJFdlhRZkdzV1FwbjBxeXZFa2xwamYwYlBLWjJWSFRiTE1Sb1RKZ3BWTTRCWFYwdjhadjBOSUNheEZvTm9JSUI3Mmg4NGRydklmalkyWW4wdlFIVl9lVGxwajhxSVVJN3hmdnc0NmlLZXZNWkxRUkI5SElYdlEzOGdISE4xQlltQk9iTFEyMXltaTdJSXF6VVNNR3ItQkg4YURHNmxnNTV5S09UQmI1T0dqOVNIOWxoWnduQ3hyVm1z?oc=5",
+        "published": "Sat, 07 Nov 2026 10:31:39 GMT",
         "tone": "neutral",
         "reliable": false
       },
