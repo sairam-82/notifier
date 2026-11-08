@@ -1,32 +1,32 @@
 {
   "today_price": 13160.0,
-  "yesterday_price": 13150.0,
-  "daily_change": 10.0,
-  "daily_change_percent": 0.08,
-  "daily_direction": "up",
+  "yesterday_price": 13160.0,
+  "daily_change": 0.0,
+  "daily_change_percent": 0.0,
+  "daily_direction": "flat",
   "position_30d": 37.39,
   "classification": "NORMAL_RANGE",
   "classification_label": "NORMAL RANGE",
   "period_7d": {
-    "low": 12730.0,
+    "low": 12775.0,
     "high": 13385.0,
-    "average": 13012.86,
-    "change": 430.0,
-    "change_percent": 3.38,
+    "average": 13074.29,
+    "change": 385.0,
+    "change_percent": 3.01,
     "count": 7
   },
   "period_30d": {
     "low": 12730.0,
     "high": 13880.0,
-    "average": 13301.5,
-    "change": -655.0,
-    "change_percent": -4.74,
+    "average": 13279.67,
+    "change": -720.0,
+    "change_percent": -5.19,
     "count": 30
   },
   "period_90d": {
     "low": 12730.0,
     "high": 15030.0,
-    "average": 13879.39,
+    "average": 13872.13,
     "change": null,
     "change_percent": null,
     "count": 88
@@ -34,14 +34,14 @@
   "period_365d": {
     "low": 11001.2,
     "high": 16061.1,
-    "average": 13504.03,
+    "average": 13502.73,
     "change": null,
     "change_percent": null,
-    "count": 265
+    "count": 266
   },
-  "history_days": 288,
-  "as_of_date": "2026-11-07",
-  "last_updated": "2026-11-07T23:19:32.592984+05:30",
+  "history_days": 289,
+  "as_of_date": "2026-11-08",
+  "last_updated": "2026-11-08T16:30:20.123584+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -53,35 +53,35 @@
     "bias": "NEUTRAL",
     "bias_label": "Neutral / sideways",
     "confidence": "MEDIUM",
-    "score": 3.8,
-    "band_low": 13045.0,
-    "band_high": 13275.0,
+    "score": -4.9,
+    "band_low": 13047.0,
+    "band_high": 13273.0,
     "usd_inr_rate": 93.92,
     "usd_inr_as_of": "2026-11-06",
     "usd_inr_daily_pct": -0.593,
     "usd_inr_7d_pct": -1.085,
     "factors": [
-      "7-day gold trend up (+3.38%)",
+      "7-day gold trend up (+3.01%)",
       "USD/INR 93.92 (-0.59% today)",
       "Rupee stronger ₹ vs USD over 7D (-1.08%)",
-      "Global headlines lean bullish (1/5) · 1 from recognised sources"
+      "Global headlines mixed/neutral · 2 from recognised sources"
     ],
     "news": [
       {
-        "title": "Gold price holds critical $4,000 support, but strong U.S. jobs data and inflation risks threaten recovery - Kitco",
-        "source": "Kitco",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMVFrY1hheExQaDduSlBRcndvS2FkcW84Y0UwRnVZUGRKSnJ5eW9keHNzemhJNEpadVQxRlJXMHNxYzhOVXVLakZNNTBBNmNsYTFadkpvN0Z4RnFwWUtYcVoxRlZjV3pNaWphd2FZRGt5eGp4Z20wc2xkeTN3dXFpa0xodkIwdGlQTHhCc05PQTBISkNjVjE1LTZSMUR0UV91SlFNR0x5STlSeEt6R2lOR0JsUXBURzk3V2c?oc=5",
-        "published": "Fri, 06 Nov 2026 20:45:41 GMT",
-        "tone": "bullish",
+        "title": "Gold, silver prices today, 8 Nov: Check Diwali 2026 retail rate of 24K, 22K gold, 999 silver in Delhi, Mumbai, Bangalore - Livemint",
+        "source": "Livemint",
+        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNdUlGNUtYNXdDX2ptQk1VQTEyOTRaTnVaT2hXNTFCVi1UaDVDdHkxVzE0NE4zMV94emxQTFV4R0hxM2pKclpzWlRCYjd0V1dWTVY2WnlkbXVidkc2X2ZfRjJFNGZnZy1TVXRNNkRCa2tvTm5vVlB2X0pPRjRkZUVOX2ZJQ1Z2NGJoVTJqT3RsNDBDMGZrZlpEVU5BVnhjaERmdTZoZkRuS3F2UTY3R3BNSElZWHFjNk5BeVU0YTUwamRxQWx1NEVZLUFZOVoyNERvc0tSeDY5NE5yY29RNG10RXhYaUdYY05WdWdVRl9NODh4NUd5THFwUWZteG9rS1HSAYQCQVVfeXFMT1hpS3BITGRzMFlJYWhZeUhYNV9VcGN0QTdUWVlHUmdZNGVSU0FzaWwzZmsweUNpU1drNS10ZnZxUTJ3WGl6ajd3QWt1MHdyRE1aWmJldS1nYWREdGp0WDE0TEhiMUItY2JLcFRvZkpqdTZHU19yWmtwQ3VoeUJ5SlF1TW1qb28xSmQxVEpsUGN5TnNzbDNlaWVxV1djVmZZOGpleS1zVHdKZmFXVWpNMzV5MkUzV0J0empuT2hSWXFCbkkzUzUtdzMzWTlrV3FiUUwzNTZYend1R3ZGVTBrTnhQdC1ydGxGekQxVWRNY1hUTDZTWmkzbkJ4bzc1Y0M3N3BGZXg?oc=5",
+        "published": "Sun, 08 Nov 2026 05:17:52 GMT",
+        "tone": "neutral",
         "reliable": true
       },
       {
-        "title": "Coinbase has news for gold holders - TheStreet",
-        "source": "TheStreet",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNejZIYjVGXzd4cDVmUVNQY19PWDVDNWtxVkFvVjZsYkhRNUNjT0ppSFRUZHVoLVB6OWFnOUdOR1dWNHlWZnFEdDZIclhjWEV4Q3ZOaVdCRE9MYWhxTi1ZVlFXaUdWaUh3eFk5YlJTX0daejFTalhlYU0xNXBQenVkdA?oc=5",
-        "published": "Fri, 06 Nov 2026 19:35:58 GMT",
+        "title": "What the gold price doesn’t tell you about physical buyers - Kitco",
+        "source": "Kitco",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcHlNSU1YSGt0Q1JBNl9CSGw4WkUzRUI2MDFPQ2RvQ1JOdHRsUHl6d3FINExyR0c1X3A5MmhoTWMxUWk0N1RzZDNmeHdSbEtRTHdCQUpXYjhCdXJQRkJaekpGejl6V1QxczNFbkFWTVB1ZUh1QmctWVRoeEtBMUlfaU5EU0paNFhSQWVGaWFyTEN1cmRHd1I0azFB?oc=5",
+        "published": "Fri, 06 Nov 2026 14:54:45 GMT",
         "tone": "neutral",
-        "reliable": false
+        "reliable": true
       },
       {
         "title": "Current price of gold as of November 6, 2026 - Fortune",
@@ -92,18 +92,18 @@
         "reliable": false
       },
       {
-        "title": "Galiano Gold (NYSEARCA:GAU) Combines High-Growth Leadership With Strong Momentum - ChartMill",
-        "source": "ChartMill",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQN3JNTHNLVmJFdlhRZkdzV1FwbjBxeXZFa2xwamYwYlBLWjJWSFRiTE1Sb1RKZ3BWTTRCWFYwdjhadjBOSUNheEZvTm9JSUI3Mmg4NGRydklmalkyWW4wdlFIVl9lVGxwajhxSVVJN3hmdnc0NmlLZXZNWkxRUkI5SElYdlEzOGdISE4xQlltQk9iTFEyMXltaTdJSXF6VVNNR3ItQkg4YURHNmxnNTV5S09UQmI1T0dqOVNIOWxoWnduQ3hyVm1z?oc=5",
-        "published": "Sat, 07 Nov 2026 10:31:39 GMT",
-        "tone": "neutral",
-        "reliable": false
-      },
-      {
         "title": "Gold Holds Above $4,100 as Labor Market Strength Weighs on Prices - IndexBox",
         "source": "IndexBox",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdDZwNWpYSXRCbUFyd2lsa2Y4MUp5SHliRDM1cFJHVWRWMkk5RVk0WVpuRng2cmtxMmdfOVJxT0c2bnpELTV2bkVIOEJOQk1uallPazdWaS0xZ3B0U216NjMxQnJkcWpPRUtUWHlQOUdJa1FVZnRtakpZRXpmYzFlOWpPREZXc3Jzekg5QUJmN0NUMUw0YXVQaA?oc=5",
         "published": "Thu, 05 Nov 2026 14:23:13 GMT",
+        "tone": "neutral",
+        "reliable": false
+      },
+      {
+        "title": "Gold Market Commentary: Where Floor Art Thou? - Seeking Alpha",
+        "source": "Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQUtpeWwtakhLX2xsMW9pNUhrd3V2MlZqektzRGNGVEtpUEVaQnZicDA0UWllNVBkMllOYWlwWF9pWnAwajc2VklDY2kyUzBQTFBqYXlwUWZkRVV6YnJoNTY2Vy1ja3ROWHZwdnY1NzhhQ1RQazV1OWlnSmdvbnBrd0kzTHl4a0Vmd2VUaw?oc=5",
+        "published": "Fri, 06 Nov 2026 15:11:00 GMT",
         "tone": "neutral",
         "reliable": false
       }
