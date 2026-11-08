@@ -41,7 +41,7 @@
   },
   "history_days": 289,
   "as_of_date": "2026-11-08",
-  "last_updated": "2026-11-08T16:30:20.123584+05:30",
+  "last_updated": "2026-11-08T23:31:40.289555+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -53,7 +53,7 @@
     "bias": "NEUTRAL",
     "bias_label": "Neutral / sideways",
     "confidence": "MEDIUM",
-    "score": -4.9,
+    "score": -9.9,
     "band_low": 13047.0,
     "band_high": 13273.0,
     "usd_inr_rate": 93.92,
@@ -64,7 +64,7 @@
       "7-day gold trend up (+3.01%)",
       "USD/INR 93.92 (-0.59% today)",
       "Rupee stronger ₹ vs USD over 7D (-1.08%)",
-      "Global headlines mixed/neutral · 2 from recognised sources"
+      "Global headlines lean bearish (1/5) · 2 from recognised sources"
     ],
     "news": [
       {
@@ -84,18 +84,18 @@
         "reliable": true
       },
       {
+        "title": "China Buys 26 Tonnes of Gold in October Despite 7% Price Drop, Extending Record Buying Streak - Brave New Coin",
+        "source": "Brave New Coin",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeDBEV0tZdFNYTnY3OFk3M2lBUlZPM2JuRWRobkJ6N2xXWldzcmlWYmdIb0lhbE5uU0RhUkltdUdCRVA5ZnBFNDBKcDZzdmhUb29ZRGh1bmo5dGJkbWdzRFRTOEpKWi1fNlIwVnA5UTJXa0tUYkVyWU93QmJTRk5LSTZZcUJ0TmVaQ05HY2IwTmhtS3V6SHRWVjVERno2anNPT3JpdHFxamM3R0FwRVZhSXd4RDVsLVh6UnFqbGVuSGlaYTQ?oc=5",
+        "published": "Sun, 08 Nov 2026 12:00:01 GMT",
+        "tone": "bearish",
+        "reliable": false
+      },
+      {
         "title": "Current price of gold as of November 6, 2026 - Fortune",
         "source": "Fortune",
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE92OXZEZ2FaQTFDWWhodmhEeXRtWnNvdDJtaE10TUdyc3pqQUJTWnNsQ3BLcHlqWlhJeUFhcjF4WkdZdHVCTm1oUG40Vm9FMGdiOWRBN25uVzJMX2RIWml2QWh6VTFZN0UxOVhsc1pB?oc=5",
         "published": "Fri, 06 Nov 2026 14:15:00 GMT",
-        "tone": "neutral",
-        "reliable": false
-      },
-      {
-        "title": "Gold Holds Above $4,100 as Labor Market Strength Weighs on Prices - IndexBox",
-        "source": "IndexBox",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdDZwNWpYSXRCbUFyd2lsa2Y4MUp5SHliRDM1cFJHVWRWMkk5RVk0WVpuRng2cmtxMmdfOVJxT0c2bnpELTV2bkVIOEJOQk1uallPazdWaS0xZ3B0U216NjMxQnJkcWpPRUtUWHlQOUdJa1FVZnRtakpZRXpmYzFlOWpPREZXc3Jzekg5QUJmN0NUMUw0YXVQaA?oc=5",
-        "published": "Thu, 05 Nov 2026 14:23:13 GMT",
         "tone": "neutral",
         "reliable": false
       },
