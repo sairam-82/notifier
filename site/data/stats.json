@@ -1,32 +1,32 @@
 {
-  "today_price": 13160.0,
+  "today_price": 13255.0,
   "yesterday_price": 13160.0,
-  "daily_change": 0.0,
-  "daily_change_percent": 0.0,
-  "daily_direction": "flat",
-  "position_30d": 37.39,
+  "daily_change": 95.0,
+  "daily_change_percent": 0.72,
+  "daily_direction": "up",
+  "position_30d": 45.65,
   "classification": "NORMAL_RANGE",
   "classification_label": "NORMAL RANGE",
   "period_7d": {
-    "low": 12775.0,
+    "low": 12800.0,
     "high": 13385.0,
-    "average": 13074.29,
-    "change": 385.0,
-    "change_percent": 3.01,
+    "average": 13142.86,
+    "change": 455.0,
+    "change_percent": 3.55,
     "count": 7
   },
   "period_30d": {
     "low": 12730.0,
     "high": 13880.0,
-    "average": 13279.67,
-    "change": -720.0,
-    "change_percent": -5.19,
+    "average": 13258.83,
+    "change": -625.0,
+    "change_percent": -4.5,
     "count": 30
   },
   "period_90d": {
     "low": 12730.0,
     "high": 15030.0,
-    "average": 13872.13,
+    "average": 13863.7,
     "change": null,
     "change_percent": null,
     "count": 88
@@ -34,14 +34,14 @@
   "period_365d": {
     "low": 11001.2,
     "high": 16061.1,
-    "average": 13502.73,
+    "average": 13501.81,
     "change": null,
     "change_percent": null,
-    "count": 266
+    "count": 267
   },
-  "history_days": 289,
-  "as_of_date": "2026-11-08",
-  "last_updated": "2026-11-08T23:31:40.289555+05:30",
+  "history_days": 290,
+  "as_of_date": "2026-11-09",
+  "last_updated": "2026-11-09T17:59:14.625811+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -53,49 +53,41 @@
     "bias": "NEUTRAL",
     "bias_label": "Neutral / sideways",
     "confidence": "MEDIUM",
-    "score": -9.9,
-    "band_low": 13047.0,
-    "band_high": 13273.0,
+    "score": 0.0,
+    "band_low": 13138.0,
+    "band_high": 13372.0,
     "usd_inr_rate": 93.92,
     "usd_inr_as_of": "2026-11-06",
     "usd_inr_daily_pct": -0.593,
     "usd_inr_7d_pct": -1.085,
     "factors": [
-      "7-day gold trend up (+3.01%)",
+      "7-day gold trend up (+3.55%)",
       "USD/INR 93.92 (-0.59% today)",
       "Rupee stronger ₹ vs USD over 7D (-1.08%)",
-      "Global headlines lean bearish (1/5) · 2 from recognised sources"
+      "Global headlines mixed/neutral"
     ],
     "news": [
       {
-        "title": "Gold, silver prices today, 8 Nov: Check Diwali 2026 retail rate of 24K, 22K gold, 999 silver in Delhi, Mumbai, Bangalore - Livemint",
-        "source": "Livemint",
-        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNdUlGNUtYNXdDX2ptQk1VQTEyOTRaTnVaT2hXNTFCVi1UaDVDdHkxVzE0NE4zMV94emxQTFV4R0hxM2pKclpzWlRCYjd0V1dWTVY2WnlkbXVidkc2X2ZfRjJFNGZnZy1TVXRNNkRCa2tvTm5vVlB2X0pPRjRkZUVOX2ZJQ1Z2NGJoVTJqT3RsNDBDMGZrZlpEVU5BVnhjaERmdTZoZkRuS3F2UTY3R3BNSElZWHFjNk5BeVU0YTUwamRxQWx1NEVZLUFZOVoyNERvc0tSeDY5NE5yY29RNG10RXhYaUdYY05WdWdVRl9NODh4NUd5THFwUWZteG9rS1HSAYQCQVVfeXFMT1hpS3BITGRzMFlJYWhZeUhYNV9VcGN0QTdUWVlHUmdZNGVSU0FzaWwzZmsweUNpU1drNS10ZnZxUTJ3WGl6ajd3QWt1MHdyRE1aWmJldS1nYWREdGp0WDE0TEhiMUItY2JLcFRvZkpqdTZHU19yWmtwQ3VoeUJ5SlF1TW1qb28xSmQxVEpsUGN5TnNzbDNlaWVxV1djVmZZOGpleS1zVHdKZmFXVWpNMzV5MkUzV0J0empuT2hSWXFCbkkzUzUtdzMzWTlrV3FiUUwzNTZYend1R3ZGVTBrTnhQdC1ydGxGekQxVWRNY1hUTDZTWmkzbkJ4bzc1Y0M3N3BGZXg?oc=5",
-        "published": "Sun, 08 Nov 2026 05:17:52 GMT",
+        "title": "DOREX WEEKLY GOLD MARKET UPDATE – w/e 06.11.26: Gold Demonstrates Resilience Amid US Political and Financial Market Uncertainty - Get the Word Out",
+        "source": "Get the Word Out",
+        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxONnlDbS1pVFdYNXJDWV9hTC10c0YydU5FR3NhdGNZNktkRThQblJIUDcxUG42X0taMi1pQXJXV0d2NDE2LVdwTGlCaUhsVmZPTmxzZi1UOTBpbzJKRXpDUXF4ZXRub0RlYUI0N01xR3hvZHNWX1ctcG9DNVJCUHVOMlVBS1o3emNqLUhWbGtBa0Z6MklJVXlTb0JhRjlyX3E3LXNIUHpQa3R3U1pfMUZNd1c1RTRLbHREclBIaGZUbHI1a3ZtZ005QjJpa0tiQmtRS1dWSEVNUGZBMG1qTTJBWllrNjNqWk11T2NFa3hxTUs0bGNEU2JzZzRXZnM?oc=5",
+        "published": "Sun, 08 Nov 2026 21:10:40 GMT",
         "tone": "neutral",
-        "reliable": true
-      },
-      {
-        "title": "What the gold price doesn’t tell you about physical buyers - Kitco",
-        "source": "Kitco",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcHlNSU1YSGt0Q1JBNl9CSGw4WkUzRUI2MDFPQ2RvQ1JOdHRsUHl6d3FINExyR0c1X3A5MmhoTWMxUWk0N1RzZDNmeHdSbEtRTHdCQUpXYjhCdXJQRkJaekpGejl6V1QxczNFbkFWTVB1ZUh1QmctWVRoeEtBMUlfaU5EU0paNFhSQWVGaWFyTEN1cmRHd1I0azFB?oc=5",
-        "published": "Fri, 06 Nov 2026 14:54:45 GMT",
-        "tone": "neutral",
-        "reliable": true
-      },
-      {
-        "title": "China Buys 26 Tonnes of Gold in October Despite 7% Price Drop, Extending Record Buying Streak - Brave New Coin",
-        "source": "Brave New Coin",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeDBEV0tZdFNYTnY3OFk3M2lBUlZPM2JuRWRobkJ6N2xXWldzcmlWYmdIb0lhbE5uU0RhUkltdUdCRVA5ZnBFNDBKcDZzdmhUb29ZRGh1bmo5dGJkbWdzRFRTOEpKWi1fNlIwVnA5UTJXa0tUYkVyWU93QmJTRk5LSTZZcUJ0TmVaQ05HY2IwTmhtS3V6SHRWVjVERno2anNPT3JpdHFxamM3R0FwRVZhSXd4RDVsLVh6UnFqbGVuSGlaYTQ?oc=5",
-        "published": "Sun, 08 Nov 2026 12:00:01 GMT",
-        "tone": "bearish",
         "reliable": false
       },
       {
-        "title": "Current price of gold as of November 6, 2026 - Fortune",
-        "source": "Fortune",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE92OXZEZ2FaQTFDWWhodmhEeXRtWnNvdDJtaE10TUdyc3pqQUJTWnNsQ3BLcHlqWlhJeUFhcjF4WkdZdHVCTm1oUG40Vm9FMGdiOWRBN25uVzJMX2RIWml2QWh6VTFZN0UxOVhsc1pB?oc=5",
-        "published": "Fri, 06 Nov 2026 14:15:00 GMT",
+        "title": "Forget the ETF Outflows: Gold Miners Offer 3X Leverage As Cash Flow Surges - Benzinga",
+        "source": "Benzinga",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRUpBMWxnTGs5T0NXOUxLb0JaMl9SVlQ2TlJlNktScHlQUEptTXU4NVY3M0ZfcU5neU9PRmVZZUpmLWFmcFdRLTZMUUNTd2s5QWtuMVdRVmJmLWpyUjhHbEs5dmc0YUFSaGlWN1VaT0t6S0x3ay1wMHktNldUSkNrQ1JFTkRUUi1KOExoRmZyZk1EWHZHbGhxWnJyclZtVkxtcTY0eWFhd205QWFQVkV3aGhwSE5JbXYwbGZTWFdKalljVlJxUURhMzV6OXlsdw?oc=5",
+        "published": "Mon, 09 Nov 2026 12:00:32 GMT",
+        "tone": "neutral",
+        "reliable": false
+      },
+      {
+        "title": "Global Gold Jumps 1.4%, Holds Above $4,120 as Markets Eye U.S. CPI for Fed Rate Cue - BigGo Finance",
+        "source": "BigGo Finance",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96b1QzOUdaOEpwNXlvVmRHczcyWWU1bHhhMzJjazhsYy1lUFcyZ05yOVVqSDdfem45ckE2SWlHcldUZGhPSjVtQ0FzYVNDV0ZqSmc2cHhWMHVXNlJiQjctQ3JMQVJaYkNMMjVvZnI4Y3B4T3BrclE?oc=5",
+        "published": "Mon, 09 Nov 2026 06:35:00 GMT",
         "tone": "neutral",
         "reliable": false
       },
@@ -104,6 +96,14 @@
         "source": "Seeking Alpha",
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQUtpeWwtakhLX2xsMW9pNUhrd3V2MlZqektzRGNGVEtpUEVaQnZicDA0UWllNVBkMllOYWlwWF9pWnAwajc2VklDY2kyUzBQTFBqYXlwUWZkRVV6YnJoNTY2Vy1ja3ROWHZwdnY1NzhhQ1RQazV1OWlnSmdvbnBrd0kzTHl4a0Vmd2VUaw?oc=5",
         "published": "Fri, 06 Nov 2026 15:11:00 GMT",
+        "tone": "neutral",
+        "reliable": false
+      },
+      {
+        "title": "Gold and Silver Price Forecast: Rebound Puts $4,150 and $55 in Focus - FXEmpire",
+        "source": "FXEmpire",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbExqTXF3MFU1SHNmaDVrSEhJMF8zR2d2VHZJMEdNa2RYT1RUSjlvUnJkLURqVWRBLVlsaHptX0ZSaW9wV0xrZlVWc2hNV2l5ZjR5Umh6cHpVMGR4Vi1qeUZkY3ExT2gtaFI4dXY5dzBGV0VScERrOTRMcEFwTWNBYTVXWHFhTEk3ZFJmaWpPTF9naTNKUk1GTWdCRHBOalRqY3ZzaFBqRUJMcmpvOEdWOER1WjlOUQ?oc=5",
+        "published": "Mon, 09 Nov 2026 05:39:38 GMT",
         "tone": "neutral",
         "reliable": false
       }
