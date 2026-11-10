@@ -1,7 +1,7 @@
 {
   "last_alert_date": "2026-11-10",
-  "last_alert_type": "PRICE_UPDATE",
-  "last_alert_price": 13255.0,
+  "last_alert_type": "LARGE_DAILY_MOVE",
+  "last_alert_price": 13080.0,
   "last_failure_date": null,
   "last_failure_type": null
 }
