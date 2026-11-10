@@ -1,32 +1,32 @@
 {
   "today_price": 13080.0,
-  "yesterday_price": 13255.0,
-  "daily_change": -175.0,
-  "daily_change_percent": -1.32,
-  "daily_direction": "down",
-  "position_30d": 31.53,
+  "yesterday_price": 13080.0,
+  "daily_change": 0.0,
+  "daily_change_percent": 0.0,
+  "daily_direction": "flat",
+  "position_30d": 36.65,
   "classification": "NORMAL_RANGE",
   "classification_label": "NORMAL RANGE",
   "period_7d": {
     "low": 13080.0,
     "high": 13385.0,
-    "average": 13182.86,
-    "change": -10.0,
-    "change_percent": -0.08,
+    "average": 13181.43,
+    "change": -305.0,
+    "change_percent": -2.28,
     "count": 7
   },
   "period_30d": {
     "low": 12730.0,
-    "high": 13840.0,
-    "average": 13232.17,
-    "change": -760.0,
-    "change_percent": -5.49,
+    "high": 13685.0,
+    "average": 13206.83,
+    "change": -605.0,
+    "change_percent": -4.42,
     "count": 30
   },
   "period_90d": {
     "low": 12730.0,
     "high": 15030.0,
-    "average": 13852.65,
+    "average": 13841.95,
     "change": null,
     "change_percent": null,
     "count": 88
@@ -34,14 +34,14 @@
   "period_365d": {
     "low": 11191.7,
     "high": 16061.1,
-    "average": 13509.59,
+    "average": 13516.57,
     "change": null,
     "change_percent": null,
     "count": 267
   },
-  "history_days": 291,
-  "as_of_date": "2026-11-10",
-  "last_updated": "2026-11-10T17:33:32.665504+05:30",
+  "history_days": 292,
+  "as_of_date": "2026-11-11",
+  "last_updated": "2026-11-11T01:25:57.589753+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -50,28 +50,44 @@
   "currency": "INR",
   "unit": "gram",
   "outlook": {
-    "bias": "NEUTRAL",
-    "bias_label": "Neutral / sideways",
+    "bias": "SLIGHTLY_DOWN",
+    "bias_label": "Slightly downward bias",
     "confidence": "MEDIUM",
-    "score": -14.9,
+    "score": -47.8,
     "band_low": 12954.0,
     "band_high": 13206.0,
     "usd_inr_rate": 93.93,
-    "usd_inr_as_of": "2026-11-09",
-    "usd_inr_daily_pct": 0.011,
-    "usd_inr_7d_pct": -1.033,
+    "usd_inr_as_of": "2026-11-10",
+    "usd_inr_daily_pct": 0.0,
+    "usd_inr_7d_pct": -0.865,
     "factors": [
-      "7-day gold trend flat (-0.08%)",
-      "USD/INR 93.93 (+0.01% today)",
-      "Rupee stronger ₹ vs USD over 7D (-1.03%)",
-      "Global headlines lean bullish (1/5) · 1 from recognised sources"
+      "7-day gold trend down (-2.28%)",
+      "USD/INR 93.93 (+0.00% today)",
+      "Rupee stronger ₹ vs USD over 7D (-0.86%)",
+      "Global headlines lean bearish (1/5) · 3 from recognised sources"
     ],
     "news": [
       {
-        "title": "Gold drops 1% on hawkish Fed comments ahead of US inflation data - Reuters",
+        "title": "Gold falls nearly 3% as CPI tops forecasts, lifting dollar and yields - Reuters",
         "source": "Reuters",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUUt5d0NsOEFXZzVGWU5qOFFwbGtuT0pyM3RMcTR3ZDRXYzFqV1NkM1VadUV0VzdNUFpZREVYLU1mdWFpSDE5V0w3Qlo5X1luTXVXRkZKNHQ1bXY1X0VCNHRienZVbnhQdE93UWFYRk41T0Fhd2tiQ2dpZzF2WEZmM0hVTFpjMVFzR2JhNlpWN0R5ZkFCY0JkRUVuYw?oc=5",
         "published": "Tue, 10 Nov 2026 03:31:00 GMT",
+        "tone": "bearish",
+        "reliable": true
+      },
+      {
+        "title": "Gold price, silver rate today: Why is gold rate down on Tuesday? Check latest bullion outlook - The Economic Times",
+        "source": "The Economic Times",
+        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPa3g1aTM5eFUwZ3VtSjdpTjV0R1hnM0lMazRGMlF3MGlQTXlFUVc1Z2t1NTFzeTlSMFY1YXlnV1BfamlLb2IyeTdNaElmZDFpd25xdW1EbXhERzlRZ20wbjdPZUZtMEhEUU1YMmZmWURZNjdwNjNYMTdLV3ZiaW5QeXFsVWlSeVBLZFpFdjlxdEM1WkpsMTdLQ3dsU2dIUTdXZU9NbEZEdVRGQWY1YmZ3TV9FUW5TWjRTdW11WkkwV0hWVl95b3RFanQxb0RmdVI1Sno5N0h3cG9qSm5BbG8zeFVEQmFhbklCV0FqYlZRRkx6Zkd0cWhoZXRR0gH_AUFVX3lxTE9HMHlOY2V1eEpxWFJUX0NlVlY0TFh5b1FBbEhaNENJbUo0aTFsN2IwRWZ0Q25FeUNETlRsYTh0M3N4ckVwQk10WU5JY0pZUmdkbFlGYmU4elIwalJuT0RkN3dweGNBQUREMG1XWk5Wakx2czdjT3JJbTBpVDVJVnJMbVJPblhTN0gtTUVHbHhaMDNqVDVIc3Z2NDFrQXBBd1duS3hIRVFrRmVac2lZRjZseW5VY2xhMjdUNHduMWxYbHpoTFZzSHpka3p1TWJrZmlOMUpZbUFfTXdlZEtoM0NhbUl4OHZpdTdtdTNtWDFCSkg3N2VXcUE3TEU4ZTA5TQ?oc=5",
+        "published": "Tue, 10 Nov 2026 13:45:56 GMT",
+        "tone": "neutral",
+        "reliable": true
+      },
+      {
+        "title": "Gold prices down 2% on the day as US CPI rises more than expected - Kitco",
+        "source": "Kitco",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOV9mS1BKa1d2YmFyNkpBcmVzdzQwbF82bFh5RjRZSVcyeDZ0V1QyQ0xiSUY4SW9pQUZfbkpaWW1wbkVfb3pWcEY5bzFiX29VenI1X2hiQk02V00zSElkS015bDVxWkNJX3dFbjlMNWJVdVNMeGNzSWFlRFdlYzVqQ2Z0MHcybG1CUExJR3dOLVQ1Vm44ZExPWFBlYw?oc=5",
+        "published": "Tue, 10 Nov 2026 13:30:46 GMT",
         "tone": "neutral",
         "reliable": true
       },
@@ -89,22 +105,6 @@
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9pX0k3RWtfSkJZTGt1SWtnZVhUcjRoYjFCTmVsTS1xaW1saXgzOFRrLVlKMDIwNmNkelo4ZEp5TGdxLWxmM2R0SWZKZmxpbzYtUkp3X3BZSmU1N0Q5eXNQZGJSOFBZQlQ5VkJBRVFB?oc=5",
         "published": "Mon, 09 Nov 2026 14:08:00 GMT",
         "tone": "neutral",
-        "reliable": false
-      },
-      {
-        "title": "Gold Forecast: XAU/USD Holds Firm Ahead of U.S. CPI Data - FOREX.com",
-        "source": "FOREX.com",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYnpqV0VBX25jZVdhREFlYWgyeTQ2UjI2b1h2MEtqRE1Ia180eUZoanN4am5qbWxPQmNuNWhBT0hWa1owTHRRU0VlajV6QWQxTkNzMV9xR0ZCY2FObUMta2ZPcHhqcGdaUmtpQ2lab0VScGE5aDBuczF1amU2TDBxZUxKcHJuYWc2d0g0RFMwN19Yb1kxRGhWc0xMcE1iZjBnVnRz0gGvAUFVX3lxTFBLaktXUVF2aElsQ0hDYWNmc0t2R2RtQm5kUGFGUUYxZlI4aEFtTWltcFZTQXh0U1M2NldZSV9yMV8yQzdPMzZnM0xSNm9IZ1h4NUpKRC1hUENhQWFEVmZvWjFVNE5BVTgwYkU1ZW03bGdreEZTRzUzLTMyVG1CaXlOZjl4RWVGWHNBTU0yQnRHc2wta0FabmFCaFFHSFluYWhQUlloX1gyWEFIb2JDYVk?oc=5",
-        "published": "Mon, 09 Nov 2026 20:28:23 GMT",
-        "tone": "neutral",
-        "reliable": false
-      },
-      {
-        "title": "Gold Gains as NVDA 'Spy' Scandal Extends Nasdaq Tech Stock Sell-Off - BullionVault",
-        "source": "BullionVault",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbWhwcVM5LTBSLWtBOERoSjRDSUZBdkpReEtuakJ4eUFqX2VlcE9qZXZoMlBfVUhjOXBZSG5fVWktVXMwd0gybllnb2RhYlloallDZlRnME5xeHE1cXNBNjVQSHBvQ0FreUNuVmRTeUU4cHdRNzBndUloYldweWhwOXU3VFBHZFl5?oc=5",
-        "published": "Mon, 09 Nov 2026 13:24:05 GMT",
-        "tone": "bullish",
         "reliable": false
       }
     ],
