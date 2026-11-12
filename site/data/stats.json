@@ -1,32 +1,32 @@
 {
-  "today_price": 13015.0,
+  "today_price": 12815.0,
   "yesterday_price": 13015.0,
-  "daily_change": 0.0,
-  "daily_change_percent": 0.0,
-  "daily_direction": "flat",
-  "position_30d": 33.14,
-  "classification": "NORMAL_RANGE",
-  "classification_label": "NORMAL RANGE",
+  "daily_change": -200.0,
+  "daily_change_percent": -1.54,
+  "daily_direction": "down",
+  "position_30d": 9.88,
+  "classification": "NEAR_30D_LOW",
+  "classification_label": "NEAR 30D LOW",
   "period_7d": {
-    "low": 13015.0,
+    "low": 12815.0,
     "high": 13255.0,
-    "average": 13119.29,
-    "change": -135.0,
-    "change_percent": -1.03,
+    "average": 13090.71,
+    "change": -335.0,
+    "change_percent": -2.55,
     "count": 7
   },
   "period_30d": {
     "low": 12730.0,
     "high": 13590.0,
-    "average": 13182.33,
-    "change": -575.0,
-    "change_percent": -4.23,
+    "average": 13175.67,
+    "change": -775.0,
+    "change_percent": -5.7,
     "count": 30
   },
   "period_90d": {
     "low": 12730.0,
     "high": 15030.0,
-    "average": 13830.51,
+    "average": 13828.24,
     "change": null,
     "change_percent": null,
     "count": 88
@@ -34,14 +34,14 @@
   "period_365d": {
     "low": 11191.7,
     "high": 16061.1,
-    "average": 13522.48,
+    "average": 13521.74,
     "change": null,
     "change_percent": null,
     "count": 267
   },
   "history_days": 293,
   "as_of_date": "2026-11-12",
-  "last_updated": "2026-11-12T01:18:46.335426+05:30",
+  "last_updated": "2026-11-12T17:37:58.136264+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -53,50 +53,43 @@
     "bias": "SLIGHTLY_DOWN",
     "bias_label": "Slightly downward bias",
     "confidence": "MEDIUM",
-    "score": -35.3,
-    "band_low": 12896.0,
-    "band_high": 13134.0,
+    "score": -53.5,
+    "band_low": 12681.0,
+    "band_high": 12949.0,
     "usd_inr_rate": 93.69,
     "usd_inr_as_of": "2026-11-11",
     "usd_inr_daily_pct": -0.256,
     "usd_inr_7d_pct": -1.004,
     "factors": [
-      "7-day gold trend down (-1.03%)",
+      "7-day gold trend down (-2.55%)",
+      "Near 30D low (10%) — possible stabilisation/bounce",
       "USD/INR 93.69 (-0.26% today)",
       "Rupee stronger ₹ vs USD over 7D (-1.00%)",
-      "Global headlines lean bullish (3/5) · 5 from recognised sources"
+      "Global headlines lean bearish (1/5) · 4 from recognised sources"
     ],
     "news": [
       {
-        "title": "Gold falls nearly 3% as CPI tops forecasts, lifting dollar and yields - Reuters",
-        "source": "Reuters",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUUt5d0NsOEFXZzVGWU5qOFFwbGtuT0pyM3RMcTR3ZDRXYzFqV1NkM1VadUV0VzdNUFpZREVYLU1mdWFpSDE5V0w3Qlo5X1luTXVXRkZKNHQ1bXY1X0VCNHRienZVbnhQdE93UWFYRk41T0Fhd2tiQ2dpZzF2WEZmM0hVTFpjMVFzR2JhNlpWN0R5ZkFCY0JkRUVuYw?oc=5",
-        "published": "Tue, 10 Nov 2026 03:31:00 GMT",
+        "title": "Gold prices fall below $4,000 as analysts warn of further losses toward $3,900 - Kitco",
+        "source": "Kitco",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdTg3THhtUnZVa1FYX29ZaFN4RlBkbHFWbVk1S2JwWGl3N2tlRFg3TjFPV3ktU29fMGZvRzZ1bkZsZzYyOU0zT3FXTTFLeEJGNDlGN0hYdDBNMENPaDNYY0ZDOWk3dUtJaGJkX3NkN3FBdU94Q1Vhb05BUElqMTF0TDB6cEFYaG1KWnNBOW1GTGdFRzg2dThhR0JTODNUancwNDdKdk5Telc1TzV3dkh1OVIzaVg?oc=5",
+        "published": "Wed, 11 Nov 2026 20:46:42 GMT",
         "tone": "bearish",
         "reliable": true
       },
       {
-        "title": "Gold mining stocks rise as bullion climbs after inflation-driven slide - Investing.com",
+        "title": "Gold slips below $4,000 as hawkish Fed bets keep bullion under pressure - Investing.com",
         "source": "Investing.com",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaEtVb3BXSS1JVDNIU181dGZXYmprZHY2MUF1VXc5Q1dJeTR2UWFnc0pqZUJDUmp0eElObFBlalRPbXp4eUtaMHNOVDVBSnZ6OVh5aWNuLThteTZ4MHBpVGxNaEViUWZRQkRZOUdESE05UWkxTDZtTzhtMURUMklhNmgwSlpHZk1kLWRGcFYzR3cwSU5KNkgyTVdqRE1QVXk4VURDSm9obWhzX242UkNobWpEMEp5M05YR0RrclI3REtxamM?oc=5",
-        "published": "Wed, 11 Nov 2026 14:21:14 GMT",
-        "tone": "bullish",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZWJfbkhuZVk5eEFDdFB0NUV5Skl4djhRZkF6QkpwQkxMZ0s1VzlYMjlPNGRSak9EYnVocENJQWhYMFVSTWV0a2p3cm1reHd6V0hXSnVVWC1DZUhhTGhuSFpGbzBRTkx4T0VEM3dVS1BZQ3BYRDNfQkRrTXhEX0tXQWhzYzljVEp0ek5yNDhGYUdqTElZbXFqQm9MaTNQRXpCQjZQNGNzTGhMVHFwdU9HRmR3ZVV5QlI4R1hpdlZlM042NmNfN0E?oc=5",
+        "published": "Thu, 12 Nov 2026 10:37:09 GMT",
+        "tone": "neutral",
         "reliable": true
       },
       {
-        "title": "Gold prices find solid support at $4,000 as Standard Chartered sees rally to $4,650 by year-end - Kitco",
-        "source": "Kitco",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUllaZWRQc1poVDQzVEh2N3BDSmhHd0ZDMnE0WU8zZi1YUEI3TTg0Yk1LTWJ1UlhzNnlIY0ZRYWdzZkhicGZvRWxBTk9uazE3UERhdE15MUQxR25oOGdkVS1UTEc4aW8yY2U1WDNvdTFBMzNjNmJoeldUOW1UOEVKNzU0UUhZaVprR0dFcHRWV19SR05fV0czM3FkdWdhbFQ0eXBtay1SRi1laFMzRE9RT25Bcy1GMlRHSlhGWU5n?oc=5",
-        "published": "Wed, 11 Nov 2026 14:59:53 GMT",
-        "tone": "bullish",
-        "reliable": true
-      },
-      {
-        "title": "Gold sheds gains as hot inflation figures, higher dollar weigh - Reuters",
-        "source": "Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUkZNV2RySHI5TXJ4YTBhNlNpTllnVXUyRk9CNzBrLXBLWFc3OTlOM0Y1MUVDcGRhS1pQU1oxR3hveVE5VWRfVGF1aTR4Z0lhcWJjbGV4Ym93cDdqb09JQlpFdC10cW9FUkVBX0NPVFFyOTdxSV81Z0RWUEx4UkdITjNwUnRHUmdDbmg5a0F5QmZXRzdjWGZzeXJsdUNUbDRKM3NvU0VGVGQ?oc=5",
-        "published": "Wed, 11 Nov 2026 03:39:00 GMT",
-        "tone": "bullish",
+        "title": "Gold, silver prices today, 12 November: Check retail rates of 24K, 22K, 18K gold, 999 silver in Delhi, Mumbai, Bangalore - Livemint",
+        "source": "Livemint",
+        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQSXA0ZHRuS1NZOENsWWYzTExMVldlT2h0REFYc19POU9seEF4cjJKc2g2S0xqY3FfYUpacTh3U2E3N3ZfUEpmUl9OSmZ3LTRZcFhreS1TZWlheGJKWmVGc2VwYS1IYnRqdDR1ckRTblIxNFRmb0pIZE1ldEdfZ2lydU51cFRjODJsb3EyNTJGRG45RnJyTG45VnBMdE1TZDRrQnhtT3pHZS1lQ3o5QlRfcnc3eF9Sc2tTS2w0dEswVWtqZnFhVTBzRkItUjFxQUZ4QzdnUVFDNWpFNEM0TU11X3pvMl9RVi1GOTcwQVJWdHZOWXRuOXZRWXc5LVdBd9IBgwJBVV95cUxPbjN6Yi14T1YtaGtvY2x4SXR5VDJsT3pONkZPYTAwbU82UGF0RVFqd1FTZHU4c2x5YUctbE5KSFl0R3BfdlFSQXhoSUdUU1diU2ZrU2R5SjZlWndtTlZYVHQ2R25OSXo4R3RMNE5BaEN0UV91bjgwcVY3bF9NRlk3TXJnTmUwU0tsZWNoRW1wS1FwVmtnUjZiNTJ4NTQ1d1BZZHZ3dklkX1FqMWI1aE45eGNqSkprdDltZHI2Mk9WaURsRTVieVRpQ1RUU0Z0MDdoYU43bHVzekQtdXZEUENES2ZtRFU3ZUpmUmJsRGVuUW5ES20zby1KQWpTeDQ1amJDS2dZ?oc=5",
+        "published": "Thu, 12 Nov 2026 06:10:15 GMT",
+        "tone": "neutral",
         "reliable": true
       },
       {
@@ -106,6 +99,14 @@
         "published": "Wed, 11 Nov 2026 02:46:00 GMT",
         "tone": "neutral",
         "reliable": true
+      },
+      {
+        "title": "Gold price today, Wednesday, November 11, 2026: Gold prices fall back as inflation concerns broaden - Yahoo Finance",
+        "source": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPa2ZWdnE1NlJaSFUzNWdvMnF5NXpwQzlKUFZ5MUczdFU1ZTNGZkRlRzNoUTFweTZ1aEVRVzR1cHEwWjJ4VS10R2dQYWJiaXk4a2F5UDZFLU1PX2JINGh0dnNBQ0Z1a1I4WXRiTTV5dFhPRWZaR1YxYWxJYzdoVTNCS0dWQ3pjZmJfMmlyX0ZFMk1rNXZEeGxRdWVXWlZmelR0RDA1WGtrbjZRU1FJMmMzaTI3cnJYaXBDVjF5cHJwNjZtTTY2dkpoLWprT2dOb1RENGhld3RBSjE4TU95YWNReGczOWZmYmxYLUc5cWlNQVVmOE9DRXJHRWJIbnpUa3Et?oc=5",
+        "published": "Wed, 11 Nov 2026 12:11:48 GMT",
+        "tone": "neutral",
+        "reliable": false
       }
     ],
     "disclaimer": "Indicative outlook only — not financial advice. Gold prices depend on many factors; this can be wrong."
