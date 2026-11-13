@@ -1,32 +1,32 @@
 {
-  "today_price": 12815.0,
+  "today_price": 12695.0,
   "yesterday_price": 12815.0,
-  "daily_change": 0.0,
-  "daily_change_percent": 0.0,
-  "daily_direction": "flat",
-  "position_30d": 10.12,
-  "classification": "LOW_RANGE",
-  "classification_label": "LOW RANGE",
+  "daily_change": -120.0,
+  "daily_change_percent": -0.94,
+  "daily_direction": "down",
+  "position_30d": 0.0,
+  "classification": "D30_LOW",
+  "classification_label": "30D LOW",
   "period_7d": {
-    "low": 12815.0,
+    "low": 12695.0,
     "high": 13255.0,
-    "average": 13042.86,
-    "change": -345.0,
-    "change_percent": -2.62,
+    "average": 13025.71,
+    "change": -465.0,
+    "change_percent": -3.53,
     "count": 7
   },
   "period_30d": {
-    "low": 12730.0,
+    "low": 12695.0,
     "high": 13570.0,
-    "average": 13149.83,
-    "change": -700.0,
-    "change_percent": -5.18,
+    "average": 13145.83,
+    "change": -820.0,
+    "change_percent": -6.07,
     "count": 30
   },
   "period_90d": {
-    "low": 12730.0,
+    "low": 12695.0,
     "high": 15030.0,
-    "average": 13816.85,
+    "average": 13815.51,
     "change": null,
     "change_percent": null,
     "count": 89
@@ -34,14 +34,14 @@
   "period_365d": {
     "low": 11191.7,
     "high": 16061.1,
-    "average": 13527.22,
+    "average": 13526.77,
     "change": null,
     "change_percent": null,
     "count": 267
   },
   "history_days": 294,
   "as_of_date": "2026-11-13",
-  "last_updated": "2026-11-13T01:48:29.531032+05:30",
+  "last_updated": "2026-11-13T17:19:32.597197+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -53,27 +53,27 @@
     "bias": "SLIGHTLY_DOWN",
     "bias_label": "Slightly downward bias",
     "confidence": "MEDIUM",
-    "score": -19.2,
-    "band_low": 12705.0,
-    "band_high": 12925.0,
+    "score": -43.0,
+    "band_low": 12575.0,
+    "band_high": 12815.0,
     "usd_inr_rate": 94.04,
     "usd_inr_as_of": "2026-11-12",
     "usd_inr_daily_pct": 0.374,
     "usd_inr_7d_pct": -0.466,
     "factors": [
-      "7-day gold trend down (-2.62%)",
-      "Near 30D low (10%) — possible stabilisation/bounce",
+      "7-day gold trend down (-3.53%)",
+      "Near 30D low (0%) — possible stabilisation/bounce",
       "USD/INR 94.04 (+0.37% today)",
       "Rupee stronger ₹ vs USD over 7D (-0.47%)",
-      "Global headlines mixed/neutral · 4 from recognised sources"
+      "Global headlines lean bearish (3/5) · 2 from recognised sources"
     ],
     "news": [
       {
-        "title": "Gold Price Today | Price of Gold Per Ounce | 24 Hour Spot Chart - Kitco",
+        "title": "Gold could see $3.3 billion in buying on index rebalancing after 13% decline – Société Générale - Kitco",
         "source": "Kitco",
-        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnU2dTNUduLWh4WmxVQy1ndS1jN01abVlCeTNTMnFMbFdmS1d6TnFCekxTZVlXNGtKdnNRN3plT00yZm5LQmh6Rg?oc=5",
-        "published": "Thu, 12 Nov 2026 14:58:36 GMT",
-        "tone": "neutral",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ3Z3WUFTOUo3Szd4MUJXUXp6NXhJN0t2aS1RVE9vRWhXMzhEMHE0ZG1nTFN1R0lyVzRCVnhRMkplOXNDdjktTlJlZ0tINzhBSWtBS3lqWFFKNjdCLTVfYVF0QkNaampTU3NXU2plOG55N3U1YzBwVE9tRnlVd3FROXAtdUJuXzc3TURSUFVQVV9mM2ROUkh5R2R4VUNNNXdiNjVmY3JyVUlEUnhFWUYwQ0VxZ2ZhMS1ZdzhZS3NR?oc=5",
+        "published": "Thu, 12 Nov 2026 19:26:51 GMT",
+        "tone": "bearish",
         "reliable": true
       },
       {
@@ -85,27 +85,27 @@
         "reliable": true
       },
       {
-        "title": "Gold, silver prices today, 12 November: Check retail rates of 24K, 22K, 18K gold, 999 silver in Delhi, Mumbai, Bangalore - Livemint",
-        "source": "Livemint",
-        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQSXA0ZHRuS1NZOENsWWYzTExMVldlT2h0REFYc19POU9seEF4cjJKc2g2S0xqY3FfYUpacTh3U2E3N3ZfUEpmUl9OSmZ3LTRZcFhreS1TZWlheGJKWmVGc2VwYS1IYnRqdDR1ckRTblIxNFRmb0pIZE1ldEdfZ2lydU51cFRjODJsb3EyNTJGRG45RnJyTG45VnBMdE1TZDRrQnhtT3pHZS1lQ3o5QlRfcnc3eF9Sc2tTS2w0dEswVWtqZnFhVTBzRkItUjFxQUZ4QzdnUVFDNWpFNEM0TU11X3pvMl9RVi1GOTcwQVJWdHZOWXRuOXZRWXc5LVdBd9IBgwJBVV95cUxPbjN6Yi14T1YtaGtvY2x4SXR5VDJsT3pONkZPYTAwbU82UGF0RVFqd1FTZHU4c2x5YUctbE5KSFl0R3BfdlFSQXhoSUdUU1diU2ZrU2R5SjZlWndtTlZYVHQ2R25OSXo4R3RMNE5BaEN0UV91bjgwcVY3bF9NRlk3TXJnTmUwU0tsZWNoRW1wS1FwVmtnUjZiNTJ4NTQ1d1BZZHZ3dklkX1FqMWI1aE45eGNqSkprdDltZHI2Mk9WaURsRTVieVRpQ1RUU0Z0MDdoYU43bHVzekQtdXZEUENES2ZtRFU3ZUpmUmJsRGVuUW5ES20zby1KQWpTeDQ1amJDS2dZ?oc=5",
-        "published": "Thu, 12 Nov 2026 06:10:15 GMT",
-        "tone": "neutral",
-        "reliable": true
-      },
-      {
-        "title": "Singapore wants a bigger slice of the global gold market. Is it too late to the party? - CNBC",
-        "source": "CNBC",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE54Mk1EZHJhMTJhUy00SHhnLWFzaDljNFpWeXVDalo0eFdkUGtTaGNMUjRIc3BOX291d0JuaExKa1ZpSVRWanFmanlzUnEtdlN3M182and1RVMxRlQzb0VPTGJpSnZ1S196aExWR2ljb3hXMWQxZ1J0ZDQ0VWM?oc=5",
-        "published": "Wed, 11 Nov 2026 02:46:00 GMT",
-        "tone": "neutral",
-        "reliable": true
-      },
-      {
         "title": "Fed Rate Hawks Crush Gold Price $150 to New 13-Month Low - BullionVault",
         "source": "BullionVault",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONHNlTHE4ZEI3YmxnQXFOaEl5TnVLVGpGZGR5Rkp3cWdSTTdCbU5rS2lJbFJqOUZvRFE3bTNtZkk5cXVDeFNsai1fNUluckNqMVhXVXgtZzNKd2F1cW9weXdxQVN3VXBWQ3pJYzlvRDRlRXprUG1uM3ZUN3k0ZGdzRm42RTJSSkZxZEZPOThpWmwyR05wZm5RVkR3?oc=5",
-        "published": "Thu, 12 Nov 2026 16:16:25 GMT",
+        "published": "Thu, 12 Nov 2026 17:46:45 GMT",
         "tone": "neutral",
+        "reliable": false
+      },
+      {
+        "title": "Global Gold Price Falls Below $3,900; Societe Generale Estimates January Index Rebalancing to Bring $3.3 Billion in Net Buying - BigGo Finance",
+        "source": "BigGo Finance",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ERUlBeEJQdnZhTzB1REd0V2NGdm5yUDVHOV9jNW5ZZUoxX1RRSmZqRWI0NUg5ZTZvSWpCcDJnWWoyVnJ1a29IVkNJRFpsQVVRVzZYTktPckktamV2RlpjVXhCTGJvSkdfc2podU1lT1YxbmZ6dlE?oc=5",
+        "published": "Fri, 13 Nov 2026 04:35:00 GMT",
+        "tone": "bearish",
+        "reliable": false
+      },
+      {
+        "title": "Gold Price Forecast: Gold Drops Below $4,000 as Hot CPI Lifts Yields - FXEmpire",
+        "source": "FXEmpire",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTUdUT19RcTAya0lEYlp4Y3FVRnJEbmpfOUZBdV9nQnNsbTI2bE5iU1VBVV9wOXQtakNGWEI5YVVuU21OdmxoVjFYbjZNRDF2YnFuRE9qMUpfLVhnd3h5cUlkY1M0cXZZcC1ibW1oQkxOOVpUY0hOMml1bXU3MjdYNFpWODNRazIzdDE4YVJYdHhlNGpYWjFDMUpVQWJTYTItZjk5dzdvMnVpc1pYaHlrb29pMUlESVU?oc=5",
+        "published": "Thu, 12 Nov 2026 10:23:40 GMT",
+        "tone": "bearish",
         "reliable": false
       }
     ],
