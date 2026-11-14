@@ -1,32 +1,32 @@
 {
-  "today_price": 12590.0,
+  "today_price": 12615.0,
   "yesterday_price": 12695.0,
-  "daily_change": -105.0,
-  "daily_change_percent": -0.83,
+  "daily_change": -80.0,
+  "daily_change_percent": -0.63,
   "daily_direction": "down",
   "position_30d": 0.0,
   "classification": "D30_LOW",
   "classification_label": "30D LOW",
   "period_7d": {
-    "low": 12590.0,
+    "low": 12615.0,
     "high": 13255.0,
-    "average": 12944.29,
-    "change": -570.0,
-    "change_percent": -4.33,
+    "average": 12947.86,
+    "change": -545.0,
+    "change_percent": -4.14,
     "count": 7
   },
   "period_30d": {
-    "low": 12590.0,
+    "low": 12615.0,
     "high": 13570.0,
-    "average": 13115.0,
-    "change": -925.0,
-    "change_percent": -6.84,
+    "average": 13115.83,
+    "change": -900.0,
+    "change_percent": -6.66,
     "count": 30
   },
   "period_90d": {
-    "low": 12590.0,
+    "low": 12615.0,
     "high": 15030.0,
-    "average": 13801.89,
+    "average": 13802.17,
     "change": null,
     "change_percent": null,
     "count": 90
@@ -34,14 +34,14 @@
   "period_365d": {
     "low": 11191.7,
     "high": 16061.1,
-    "average": 13530.51,
+    "average": 13530.6,
     "change": null,
     "change_percent": null,
     "count": 267
   },
   "history_days": 295,
   "as_of_date": "2026-11-14",
-  "last_updated": "2026-11-14T01:27:28.648784+05:30",
+  "last_updated": "2026-11-14T16:40:55.629837+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -53,34 +53,50 @@
     "bias": "NEUTRAL",
     "bias_label": "Neutral / sideways",
     "confidence": "MEDIUM",
-    "score": 2.0,
-    "band_low": 12462.0,
-    "band_high": 12718.0,
+    "score": 7.0,
+    "band_low": 12489.0,
+    "band_high": 12741.0,
     "usd_inr_rate": 94.25,
     "usd_inr_as_of": "2026-11-13",
     "usd_inr_daily_pct": 0.223,
     "usd_inr_7d_pct": 0.351,
     "factors": [
-      "7-day gold trend down (-4.33%)",
+      "7-day gold trend down (-4.14%)",
       "Near 30D low (0%) — possible stabilisation/bounce",
       "USD/INR 94.25 (+0.22% today)",
       "Rupee weaker ₹ vs USD over 7D (+0.35%)",
-      "Global headlines lean bearish (2/5) · 1 from recognised sources"
+      "Global headlines lean bearish (1/5) · 3 from recognised sources"
     ],
     "news": [
       {
-        "title": "India gold demand stays firm as lower prices draw festive buying - Kitco",
+        "title": "Gold's drop below $4,000 offers long-term value as WisdomTree sees potential for $4,800 by 2027 - Kitco",
         "source": "Kitco",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSVlMTTd1TU12ZXFIT1ZOQ0VQaS1rZlF3bWd2cXpEMnFfcllRSzNtNVNEWHdzLXduVENXX1V1ZmZqVFQxZHJWaXRob3g1d1BlanRib1NUNC1TaGh1dlQ3bFdhSkV3c0VGaXNUQkFVazBVS3YzcTRFd1B4cDZXYjFtbDNkSEoyQ05xTGhMRmJiM1V0UkFCYWJNcDJmOGlKcjZPS0V3ZDd5clJLeDRWSVBFNTh3?oc=5",
-        "published": "Fri, 13 Nov 2026 16:08:28 GMT",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTTBfZngzcHEwdE1RQ3hVcWI2Rndhb2c1MUVxVElnN1RQb3l6NzNrazk5X0VwVWk2cko5M1VmZzVOYVNfc2tJcGtjYnVVdktuaHZYSzFsU2xPZUM4d1RlRHJ2bWZuZHZaLWFCaU83WmN4bW8xTXlQQk1HdTNkNEdnZ3FMMXdwWWlzLXhZRnNjRFFvenlVTFY0OFNvWG8tNVVPNjlMbU1FOWVPY2g4UWllV2o0dUNsaWQ4NlluYm9R?oc=5",
+        "published": "Fri, 13 Nov 2026 21:11:56 GMT",
         "tone": "bearish",
         "reliable": true
       },
       {
-        "title": "Barlow’s Research Roundup: Price targets cut on gold stocks and Goldman Sachs’s tentative market outlook for 2027 - The Globe and Mail",
-        "source": "The Globe and Mail",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbkY5bXBGUDNreDBLcTZDM3RFTmRqbnpUNHdMaTh2TUxWXzBVY0ktTjVrQ21RcnZxOVJhMFVJc1dRdDBnd1VaWkhIRG9iS3pwSVRIcS1ZMkhfRlVUdUJXTTU1N2FzWkpDX09QVGduZFFTdDlva2IyMWJ1UW1reDZuVjBhTWRyUWdLQ25sVjZMWl9BQ0NqYkpWTTlLR29XamJwelRRX2lodjkzalY4VFNrY1I3VFVlM2NqNlZVSUxEMU45ZmZVTjFNOWR6aEU1M2NVcjA4ZE5ZUkkzYlBEcU0w?oc=5",
-        "published": "Fri, 13 Nov 2026 13:43:40 GMT",
+        "title": "Gold, silver prices today, 14 November: Check retail rates of 24K, 22K, 18K gold, 999 silver in Delhi, Mumbai, Bangalore - Livemint",
+        "source": "Livemint",
+        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQdzd4TU1yQUQtakl0QjRMVDRrbUlEaU1vVUNfcGx5YjBmZW84al9USDlsUFY1UGMzejdTWlJJbGdZWnVrOUJHSlREZ21uYi1odkRIUEktMnBNdllHVHNwb0NLS0tKbVZMN0RlZ2tZOFY5YVc1bVMzWi1UaG1vMDNsZi1XclRXbjdmajJJVm1nWG1CUWFMSk1lYTZJMUNOamROb0VGcUhhdTlDSXhKWmZfMmh0b081NFZzUU1IZElvaU5wbDJsdjhzcTNuMkFrb3VGUmxYTFUyelBySElJcl9Oa3dTZ2lscjBERGdKbmc1QXRDd3Z6eFBOMmRjS0NQRnhk0gGGAkFVX3lxTFBmVEhVdmwxZWducW5ST3IxcTQ1aVI4UG1pVHJadld0ZUZyRE16Vm85MjRtNlllTDNaYmV2ZUxrby1MYTRDeHNQcGR5eXNnalpqUDFSTEwzaTBhZEJfZFBhUnRpd094dEtKS2tXNWY4QUxYVWhDUjYyNU9rWUxJalNFSEgwb3AyWHk2VzdKYWIzdEJhcTZSaUxDLTFHekx3UUJ4dUpBTXVtZU90cGhwUzdNa3NxX2dVR3R6VE8wclJRY2lOSUZZM21WT1Zlem5wYUdCVFJKYlpTalFoankwTTlwbHdVQk44VndhRC03dTFYRXZlSWNjbklOSjVHSS1VMG1wd2dlMkE?oc=5",
+        "published": "Sat, 14 Nov 2026 03:58:08 GMT",
+        "tone": "neutral",
+        "reliable": true
+      },
+      {
+        "title": "Tech rout drives gold to one-year low, white metals sink deep into oversold zone - Reuters",
+        "source": "Reuters",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMFY2WEZOWHhyVDVPMkM2ZVUxM01TR09lcUZ0RlBWNF96QkJzWXhUZWpIbmlRSUlxN3FiZ0pEYWVXOW1YcVBQcHQ4cjU1NFpCQVlnS3pneWlKeTZIRjJzWkJuek9OeDhNSGxTU1ozV1g0czltbldNNkJORWRWS0ZBU25WdURjNWNpREdpdmZoV1c2ZzBnUmM5cm5HTG16OFpEdVhLWC13RkxHM3IxX1E?oc=5",
+        "published": "Fri, 30 Oct 2026 07:00:00 GMT",
+        "tone": "neutral",
+        "reliable": true
+      },
+      {
+        "title": "A Gold Mine Closed at US$300 an Ounce. What's Below It? - Streetwise Reports",
+        "source": "Streetwise Reports",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPb0RscFkyZEthVXptMlRna1cwSjlOODVMQjZReWR3ZzE3U2RQc2F0Tk9UazdnNUtOMXRsN0ZFSDdiR18zZTl5UTQ3MmtOdEdlYmFVVHpsem5OUGNIaXV2TDZ5T0oyeVp5dUphWnR4UFZPYk0xTlhiTG8wMEViTFR1SC1jZHo5V3M0azUzWEtCMHZMa2hDMkVOLWp3ZzhkNEtpT2RCdWs1WGtBVG5YdG9N?oc=5",
+        "published": "Sat, 14 Nov 2026 10:30:00 GMT",
         "tone": "neutral",
         "reliable": false
       },
@@ -89,22 +105,6 @@
         "source": "Fortune",
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Lb0w5YjBGUUdsRzg4VE9BeUlsYnhBOUs5QkNPVnZCbDJUcC1TXy01ZmRqR2s0NUtPOHMtMEhmNnhNZ2c0TF80QWNSaGJGUjlUZjl1dGhSTDhJQk5ISkIxX1lsb09kSEhLRFF6enRR?oc=5",
         "published": "Fri, 13 Nov 2026 14:23:00 GMT",
-        "tone": "neutral",
-        "reliable": false
-      },
-      {
-        "title": "Gold Makes Worst Losing Run in 4 Decades, Silver Plunge Tests $50 Again - BullionVault",
-        "source": "BullionVault",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNV3pPdHZWTGJvazFWazE1VnEzZlR3OXpmYUZhYXozOHlTcW1YR1JsWnRGTkNkSzJiOFpueTdjcjhJQ1A4RXI4b0x2NzZWSlVaTWVrWEtyRGFPcGZJTDVObENIYXpiNjRic0k4NFRiNG5SYnF3ZnlEdEEycmc5SG1hcFM4LTN5Vk5GYmtQTGJ4Wjk?oc=5",
-        "published": "Fri, 13 Nov 2026 17:02:17 GMT",
-        "tone": "bearish",
-        "reliable": false
-      },
-      {
-        "title": "Gold Price Forecast – Prices Must Hold $3,800 Next Week - FXEmpire",
-        "source": "FXEmpire",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdE1HMEd5Z0N6ZWJob21wcTVzRFFYMG4tdlJVZXkwOE16RzlENHpTN0pkS2pkUWw5bXBYOUNRTGN6UHNZZ09SM21VS3ZrYlVMVTdfRlRfYUNyMV9yRGYyS3pxOFZGOEE1TVVaSzQ0Z1ctSHBOMTBOQnowNUMyaEw4RDRVVmUwY0Fna3pXRFRTRmcwYWNscWYxcGFnTHlibDJzZ0FCdg?oc=5",
-        "published": "Fri, 13 Nov 2026 12:57:29 GMT",
         "tone": "neutral",
         "reliable": false
       }
