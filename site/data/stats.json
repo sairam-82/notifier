@@ -9,16 +9,16 @@
   "classification_label": "30D LOW",
   "period_7d": {
     "low": 12615.0,
-    "high": 13255.0,
-    "average": 12870.0,
-    "change": -640.0,
-    "change_percent": -4.83,
+    "high": 13080.0,
+    "average": 12778.57,
+    "change": -465.0,
+    "change_percent": -3.56,
     "count": 7
   },
   "period_30d": {
     "low": 12615.0,
     "high": 13570.0,
-    "average": 13085.83,
+    "average": 13055.17,
     "change": -920.0,
     "change_percent": -6.8,
     "count": 30
@@ -26,7 +26,7 @@
   "period_90d": {
     "low": 12615.0,
     "high": 15030.0,
-    "average": 13783.78,
+    "average": 13765.17,
     "change": null,
     "change_percent": null,
     "count": 90
@@ -34,14 +34,14 @@
   "period_365d": {
     "low": 11191.7,
     "high": 16061.1,
-    "average": 13527.19,
+    "average": 13523.79,
     "change": null,
     "change_percent": null,
-    "count": 268
+    "count": 269
   },
-  "history_days": 296,
-  "as_of_date": "2026-11-15",
-  "last_updated": "2026-11-15T17:13:54.274339+05:30",
+  "history_days": 297,
+  "as_of_date": "2026-11-16",
+  "last_updated": "2026-11-16T00:32:28.599575+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -53,21 +53,29 @@
     "bias": "NEUTRAL",
     "bias_label": "Neutral / sideways",
     "confidence": "MEDIUM",
-    "score": 7.0,
-    "band_low": 12493.0,
-    "band_high": 12737.0,
+    "score": 12.0,
+    "band_low": 12495.0,
+    "band_high": 12735.0,
     "usd_inr_rate": 94.25,
     "usd_inr_as_of": "2026-11-13",
     "usd_inr_daily_pct": 0.223,
     "usd_inr_7d_pct": 0.351,
     "factors": [
-      "7-day gold trend down (-4.83%)",
+      "7-day gold trend down (-3.56%)",
       "Near 30D low (0%) — possible stabilisation/bounce",
       "USD/INR 94.25 (+0.22% today)",
       "Rupee weaker ₹ vs USD over 7D (+0.35%)",
-      "Global headlines lean bearish (1/5) · 3 from recognised sources"
+      "Global headlines mixed/neutral · 4 from recognised sources"
     ],
     "news": [
+      {
+        "title": "Gold and silver are supposed to protect against inflation. So why are both metals tumbling instead? - MarketWatch",
+        "source": "MarketWatch",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSWFYVlBzemdQeHFIRFlFWUQ3ZEYwY2F5VDFELWxqVzUtalUtamVfUHNVSS1kNTJ5QXR4LUlKR2VZMHJkb1FYSlMwRGUyOVNLZW9WblByODVxeFZadFdaMWFId0hEX01CS3pPdlhWemZfd2pyaUtBLUVEbGRPdHp1RFZreGFybGFWdkNhNE9IQ2FSOFU2OWROb1hMeVVKUFFJVWxvOXlvWnVWeFdPLTV2ZlJHTmFvWDI1SnkwVi1zNURWaUo5WmJLSGdCX1dXYzUxbVRpSmVuaw?oc=5",
+        "published": "Sun, 15 Nov 2026 12:30:00 GMT",
+        "tone": "bullish",
+        "reliable": true
+      },
       {
         "title": "Gold's drop below $4,000 offers long-term value as WisdomTree sees potential for $4,800 by 2027 - Kitco",
         "source": "Kitco",
@@ -93,18 +101,10 @@
         "reliable": true
       },
       {
-        "title": "Current price of gold as of November 13, 2026 - Fortune",
-        "source": "Fortune",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Lb0w5YjBGUUdsRzg4VE9BeUlsYnhBOUs5QkNPVnZCbDJUcC1TXy01ZmRqR2s0NUtPOHMtMEhmNnhNZ2c0TF80QWNSaGJGUjlUZjl1dGhSTDhJQk5ISkIxX1lsb09kSEhLRFF6enRR?oc=5",
-        "published": "Fri, 13 Nov 2026 14:23:00 GMT",
-        "tone": "neutral",
-        "reliable": false
-      },
-      {
-        "title": "Gold Market Commentary: Go with the flow - World Gold Council",
-        "source": "World Gold Council",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNkFrY1RiRkRCTjdiclpSeExocUdnNm42SUJITlBvUzBVaThSNGNEN1l6dk80clY4QW5lU2NidHVxTC1HbjNIOFQxdnlVSmNQN2ZKSjVjNjhqVlh0cTd6Z1dhTEl6UXBvcm5mNHc1d1hNVGlFcEFpS0ZlYkFpb1R6OA?oc=5",
-        "published": "Wed, 07 Oct 2026 07:00:00 GMT",
+        "title": "A closer look at the Sunshine Mint Gold Bar from Money Metals. This 1 troy oz .9999 fine gold bar comes sealed in an assay package and features a unique serial number and MintMark SI security feature.",
+        "source": "LinkedIn",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOGREZXM0STE0VjhsVEl5NTY3N0VfY3o2dnFhVXVYV1lHYWhHb3RKYkNwUGdqbjduSzhFT29WMW5feF90MDl5TVFVa0xWTjZHVDRZVUZya09JcFdNd2swTW9USXNzTHdsZVFaMkI3RWUzb3dvd1JHSHJjNzhFdE55LVhUWDUtZHhiR09CWTJ6aDRjSV9rY1ZEb2lUSU9lN3RvZGZEMXVBejE3MUJDR0QtbQ?oc=5",
+        "published": "Sun, 15 Nov 2026 15:00:22 GMT",
         "tone": "neutral",
         "reliable": false
       }
