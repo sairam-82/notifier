@@ -1,32 +1,32 @@
 {
   "today_price": 12615.0,
-  "yesterday_price": 12695.0,
-  "daily_change": -80.0,
-  "daily_change_percent": -0.63,
-  "daily_direction": "down",
+  "yesterday_price": 12615.0,
+  "daily_change": 0.0,
+  "daily_change_percent": 0.0,
+  "daily_direction": "flat",
   "position_30d": 0.0,
   "classification": "D30_LOW",
   "classification_label": "30D LOW",
   "period_7d": {
     "low": 12615.0,
     "high": 13255.0,
-    "average": 12947.86,
-    "change": -545.0,
-    "change_percent": -4.14,
+    "average": 12870.0,
+    "change": -640.0,
+    "change_percent": -4.83,
     "count": 7
   },
   "period_30d": {
     "low": 12615.0,
     "high": 13570.0,
-    "average": 13115.83,
-    "change": -900.0,
-    "change_percent": -6.66,
+    "average": 13085.83,
+    "change": -920.0,
+    "change_percent": -6.8,
     "count": 30
   },
   "period_90d": {
     "low": 12615.0,
     "high": 15030.0,
-    "average": 13802.17,
+    "average": 13783.78,
     "change": null,
     "change_percent": null,
     "count": 90
@@ -34,14 +34,14 @@
   "period_365d": {
     "low": 11191.7,
     "high": 16061.1,
-    "average": 13530.6,
+    "average": 13527.19,
     "change": null,
     "change_percent": null,
-    "count": 267
+    "count": 268
   },
-  "history_days": 295,
-  "as_of_date": "2026-11-14",
-  "last_updated": "2026-11-14T23:55:24.794746+05:30",
+  "history_days": 296,
+  "as_of_date": "2026-11-15",
+  "last_updated": "2026-11-15T17:13:54.274339+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -54,14 +54,14 @@
     "bias_label": "Neutral / sideways",
     "confidence": "MEDIUM",
     "score": 7.0,
-    "band_low": 12489.0,
-    "band_high": 12741.0,
+    "band_low": 12493.0,
+    "band_high": 12737.0,
     "usd_inr_rate": 94.25,
     "usd_inr_as_of": "2026-11-13",
     "usd_inr_daily_pct": 0.223,
     "usd_inr_7d_pct": 0.351,
     "factors": [
-      "7-day gold trend down (-4.14%)",
+      "7-day gold trend down (-4.83%)",
       "Near 30D low (0%) — possible stabilisation/bounce",
       "USD/INR 94.25 (+0.22% today)",
       "Rupee weaker ₹ vs USD over 7D (+0.35%)",
@@ -77,10 +77,10 @@
         "reliable": true
       },
       {
-        "title": "Gold, silver prices today, 14 November: Check retail rates of 24K, 22K, 18K gold, 999 silver in Delhi, Mumbai, Bangalore - Livemint",
+        "title": "Gold, silver prices today, 15 November: Check retail rates of 24K, 22K, 18K gold, 999 silver in Delhi, Mumbai, Bangalore - Livemint",
         "source": "Livemint",
-        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQdzd4TU1yQUQtakl0QjRMVDRrbUlEaU1vVUNfcGx5YjBmZW84al9USDlsUFY1UGMzejdTWlJJbGdZWnVrOUJHSlREZ21uYi1odkRIUEktMnBNdllHVHNwb0NLS0tKbVZMN0RlZ2tZOFY5YVc1bVMzWi1UaG1vMDNsZi1XclRXbjdmajJJVm1nWG1CUWFMSk1lYTZJMUNOamROb0VGcUhhdTlDSXhKWmZfMmh0b081NFZzUU1IZElvaU5wbDJsdjhzcTNuMkFrb3VGUmxYTFUyelBySElJcl9Oa3dTZ2lscjBERGdKbmc1QXRDd3Z6eFBOMmRjS0NQRnhk0gGGAkFVX3lxTFBmVEhVdmwxZWducW5ST3IxcTQ1aVI4UG1pVHJadld0ZUZyRE16Vm85MjRtNlllTDNaYmV2ZUxrby1MYTRDeHNQcGR5eXNnalpqUDFSTEwzaTBhZEJfZFBhUnRpd094dEtKS2tXNWY4QUxYVWhDUjYyNU9rWUxJalNFSEgwb3AyWHk2VzdKYWIzdEJhcTZSaUxDLTFHekx3UUJ4dUpBTXVtZU90cGhwUzdNa3NxX2dVR3R6VE8wclJRY2lOSUZZM21WT1Zlem5wYUdCVFJKYlpTalFoankwTTlwbHdVQk44VndhRC03dTFYRXZlSWNjbklOSjVHSS1VMG1wd2dlMkE?oc=5",
-        "published": "Sat, 14 Nov 2026 03:58:08 GMT",
+        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNNkZ2aHNGMURpQUpIXzNzVFFkbHFSOXFXNVJvaTNneUc1Vnl2Z0JRMXlhY1E1LUpBMGhSQ3NReFpLV3g0OC1uX1AxNnFWZ00zaWU2bUlmS1JCNGFiTDIzZ09ieXVDUk11eldWbkcwbDNpTm5WVzR2Y3JmaWFRdHN2MXJjMmhjeG9tWHRJQ2JIbEl1dDlsVmVobWJ0TTRXMS1BTWxid2RhRTFOMFN1M0FKR01UcEJ5U2piT3NzOHNLQ1ZZR2NzSFJlSlg5ei1kd3JZQXlBUE1kNGcyelh1eWZiWkxSaExKTEFwUWdZMndoZ2VNYlNHY0xDRV9vTVM3WHhH0gGGAkFVX3lxTE16Q25hZjdlaVRhMXdaWmxhZVgta0lsRTVRdHdqVU5GMG52MlFxbVNuUjN3LXhGMDlhTlNLTjZ0blBpX3EwZ0QyLXphSE9ud21KRFloSllWYkd1R2pIRkluQmdXYVNpMjBWczVuQjd4alVSV196RTFSam9iNFVRQkVHc05zQ0hOYkRrQVN2RG1fY19ic19rV1ZsOUNfM05oOTB3UndGcUYyekNycFVlVl9vbTJtWjdaNVFKTjQtZkFDdjh1bi1SOERfRkFOQ0VqNThVanRWNVMwWU55RlNKNWhpWkh2V3JLVDJmQ1RSWlhFVFdicjBiQlhFaUYzLWxucnNibFI5ZlE?oc=5",
+        "published": "Sun, 15 Nov 2026 03:34:53 GMT",
         "tone": "neutral",
         "reliable": true
       },
@@ -93,18 +93,18 @@
         "reliable": true
       },
       {
-        "title": "A Gold Mine Closed at US$300 an Ounce. What's Below It? - Streetwise Reports",
-        "source": "Streetwise Reports",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPb0RscFkyZEthVXptMlRna1cwSjlOODVMQjZReWR3ZzE3U2RQc2F0Tk9UazdnNUtOMXRsN0ZFSDdiR18zZTl5UTQ3MmtOdEdlYmFVVHpsem5OUGNIaXV2TDZ5T0oyeVp5dUphWnR4UFZPYk0xTlhiTG8wMEViTFR1SC1jZHo5V3M0azUzWEtCMHZMa2hDMkVOLWp3ZzhkNEtpT2RCdWs1WGtBVG5YdG9N?oc=5",
-        "published": "Sat, 14 Nov 2026 10:30:36 GMT",
-        "tone": "neutral",
-        "reliable": false
-      },
-      {
         "title": "Current price of gold as of November 13, 2026 - Fortune",
         "source": "Fortune",
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Lb0w5YjBGUUdsRzg4VE9BeUlsYnhBOUs5QkNPVnZCbDJUcC1TXy01ZmRqR2s0NUtPOHMtMEhmNnhNZ2c0TF80QWNSaGJGUjlUZjl1dGhSTDhJQk5ISkIxX1lsb09kSEhLRFF6enRR?oc=5",
         "published": "Fri, 13 Nov 2026 14:23:00 GMT",
+        "tone": "neutral",
+        "reliable": false
+      },
+      {
+        "title": "Gold Market Commentary: Go with the flow - World Gold Council",
+        "source": "World Gold Council",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNkFrY1RiRkRCTjdiclpSeExocUdnNm42SUJITlBvUzBVaThSNGNEN1l6dk80clY4QW5lU2NidHVxTC1HbjNIOFQxdnlVSmNQN2ZKSjVjNjhqVlh0cTd6Z1dhTEl6UXBvcm5mNHc1d1hNVGlFcEFpS0ZlYkFpb1R6OA?oc=5",
+        "published": "Wed, 07 Oct 2026 07:00:00 GMT",
         "tone": "neutral",
         "reliable": false
       }
