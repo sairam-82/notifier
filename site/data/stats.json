@@ -1,24 +1,24 @@
 {
   "today_price": 12215.0,
-  "yesterday_price": 12470.0,
-  "daily_change": -255.0,
-  "daily_change_percent": -2.04,
-  "daily_direction": "down",
+  "yesterday_price": 12215.0,
+  "daily_change": 0.0,
+  "daily_change_percent": 0.0,
+  "daily_direction": "flat",
   "position_30d": 0.0,
   "classification": "D30_LOW",
   "classification_label": "30D LOW",
   "period_7d": {
     "low": 12215.0,
-    "high": 12815.0,
-    "average": 12566.43,
-    "change": -600.0,
-    "change_percent": -4.68,
+    "high": 12695.0,
+    "average": 12480.71,
+    "change": -480.0,
+    "change_percent": -3.78,
     "count": 7
   },
   "period_30d": {
     "low": 12215.0,
     "high": 13390.0,
-    "average": 12972.0,
+    "average": 12932.83,
     "change": -1175.0,
     "change_percent": -8.78,
     "count": 30
@@ -26,22 +26,22 @@
   "period_90d": {
     "low": 12215.0,
     "high": 15030.0,
-    "average": 13718.56,
+    "average": 13689.72,
     "change": null,
     "change_percent": null,
     "count": 90
   },
   "period_365d": {
-    "low": 11191.7,
+    "low": 11226.6,
     "high": 16061.1,
-    "average": 13530.93,
+    "average": 13534.73,
     "change": null,
     "change_percent": null,
     "count": 269
   },
-  "history_days": 299,
-  "as_of_date": "2026-11-18",
-  "last_updated": "2026-11-18T18:06:21.837666+05:30",
+  "history_days": 300,
+  "as_of_date": "2026-11-19",
+  "last_updated": "2026-11-19T02:20:11.202839+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -53,26 +53,34 @@
     "bias": "SLIGHTLY_DOWN",
     "bias_label": "Slightly downward bias",
     "confidence": "MEDIUM",
-    "score": -68.0,
-    "band_low": 12109.0,
-    "band_high": 12321.0,
-    "usd_inr_rate": 93.48,
-    "usd_inr_as_of": "2026-11-17",
-    "usd_inr_daily_pct": -0.479,
-    "usd_inr_7d_pct": -0.479,
+    "score": -47.5,
+    "band_low": 12127.0,
+    "band_high": 12303.0,
+    "usd_inr_rate": 93.44,
+    "usd_inr_as_of": "2026-11-18",
+    "usd_inr_daily_pct": -0.043,
+    "usd_inr_7d_pct": -0.267,
     "factors": [
-      "7-day gold trend down (-4.68%)",
+      "7-day gold trend down (-3.78%)",
       "Near 30D low (0%) — possible stabilisation/bounce",
-      "USD/INR 93.48 (-0.48% today)",
-      "Rupee stronger ₹ vs USD over 7D (-0.48%)",
-      "Global headlines lean bearish (2/5) · 4 from recognised sources"
+      "USD/INR 93.44 (-0.04% today)",
+      "Rupee stronger ₹ vs USD over 7D (-0.27%)",
+      "Global headlines lean bearish (1/5) · 3 from recognised sources"
     ],
     "news": [
       {
-        "title": "Gold drops below $3,800 as Fed hike bets deepen bullion selloff - Investing.com",
+        "title": "Gold Price Today | Price of Gold Per Ounce | 24 Hour Spot Chart - Kitco",
+        "source": "Kitco",
+        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnU2dTNUduLWh4WmxVQy1ndS1jN01abVlCeTNTMnFMbFdmS1d6TnFCekxTZVlXNGtKdnNRN3plT00yZm5LQmh6Rg?oc=5",
+        "published": "Wed, 18 Nov 2026 12:19:00 GMT",
+        "tone": "neutral",
+        "reliable": true
+      },
+      {
+        "title": "Gold extends losses as Fed minutes fuel bets on larger December rate hike - Investing.com",
         "source": "Investing.com",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdV9IVnZLcFhYNmM5d3UyYzVXV19hTE5GYUxSOXYxNDNZbHZJRWtkcVZQQl9MTVQ5Tl96cmhYNTVJX3FMNG9pMVF6bUphTUxaRXBwV3dBcTZzclBZb0I2QXFKNl9LbFJHTHc0WVRYM3MyREFzT1VXZ0w4VXFJcjlUV1ZhWmloZk9MeUd5ZTJUbW9yT2RXeWtpY0pJdk5ROVhXRG83Qk5wZ2EtVlVwY2hEQ1Rza0J2bmFqckE?oc=5",
-        "published": "Wed, 18 Nov 2026 10:50:05 GMT",
+        "published": "Wed, 18 Nov 2026 01:15:15 GMT",
         "tone": "bearish",
         "reliable": true
       },
@@ -85,26 +93,18 @@
         "reliable": true
       },
       {
-        "title": "Gold sinks to 1-year low as Treasury yields and dollar bite, set for worst year since 2015 - Reuters",
-        "source": "Reuters",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVkNEMWt0MEpVV2U4c0tCZEQ0N3FJRnBMWEFJRktVNVpBNGZ4RWFjVXA0TnR0VE8yam5OenZaaF9KWVhuc3RCQkZXWGlwb0pPRElEM0JoU0Rsb3BpX2ZTUjBLUG52SUM1V2RkcHRKLVdLR1ZmeXFISlplcTRQU0xJMzZHcFBFbUZPVWtYeGpqbWxKU1gtQjMxZXBMZU5rdldKOTRaWXpNSkZqd3MwajRHUzVvSVI2QTBOb1dJMGc3U3VzdTFP?oc=5",
-        "published": "Mon, 16 Nov 2026 17:47:00 GMT",
+        "title": "China Gold Market Update: Robust Demand In October - Seeking Alpha",
+        "source": "Seeking Alpha",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTzUxa011cm1pQ0RtdHEyWlJhSHRXTGlOclp2LXc3dFNyaUE3SWtmRnphOVN1bTh5clFBUERvYVIzRDBGSGxHWkVCeVg4MC1IWEhnalVIZFowLUE0UF9MTVlHS2c5UENTUnVGb1lPVW93Um9WbXkyMDR3SGZXM0hxczhBUXhwYUdfUUZmaVRocUY?oc=5",
+        "published": "Wed, 18 Nov 2026 12:50:00 GMT",
         "tone": "neutral",
-        "reliable": true
+        "reliable": false
       },
       {
-        "title": "Gold struggles near one-year lows, silver rebounds as stocks slide, Fed hike bets persist - Kitco PM Report - Kitco",
-        "source": "Kitco",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV1BJTVFELVMzTzdSNWZydElEbzRtUDFsQ2RET0dab0lTM3VNZDVSVHgxeVdDbDhENmktSk5IbVlXVHkwSjZaOURlTUkza0dVSXBISTV4eTFUbmZyR3JwcU9aTE9jbDFKdnphSkdLbkdndjg0eUctNUI4MGczTEJEV1I4ZUduWWVIY1FZeEpfMVB2SzJILXJqcGFvazVLY29ZU2JSLWJKWWdCRGp1OUZ0QlBGSHhQSlM5?oc=5",
-        "published": "Tue, 17 Nov 2026 22:06:24 GMT",
-        "tone": "bearish",
-        "reliable": true
-      },
-      {
-        "title": "'Plenty of Reasons to Sell' as Gold Sinks 15% in 12 Weeks - BullionVault",
-        "source": "BullionVault",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbjEyUjNLdmI1TkRFNkQ0dWFWc3BMUnFyc2F1SDBkYXRUXzg0Zk5vS2VaQUQzTnB6UWx5X2MybHJWT2dhQ0NDNkxDdXUzWXhLdVBRMFVPYkMxbzhieWd1Q1FycjVEOGtxRVJORTFQRjVXeU9TUFFmaTVpd1dkaHdyQS1vUHFNMUVfRjhOZDdyME85UQ?oc=5",
-        "published": "Mon, 16 Nov 2026 13:29:28 GMT",
+        "title": "Gold Breaks Down but is This a Sign of What’s to Come? - StoneX",
+        "source": "StoneX",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVEVJZDNBZS1OLW92S0hGaURiVTUxZkNicmhHYjZxN3VQbnZhQlgyVEFTb2hGQTFPZUtmYVg1Sk5aRXU2UU1aYUN2ZjBZRUxMeUFGRWx6c2w1dVB0SmQ3ck4wVE92aDNhQXBZNnNCcXN4MGxPS2JZd1NkS1MxWmN6NlRjc2Jra0RlWTlickROVVBpS0t6dW44eFdCOUhKMEd2Yk1z?oc=5",
+        "published": "Wed, 18 Nov 2026 18:13:47 GMT",
         "tone": "neutral",
         "reliable": false
       }
