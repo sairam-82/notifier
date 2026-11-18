@@ -1,32 +1,32 @@
 {
-  "today_price": 12470.0,
+  "today_price": 12215.0,
   "yesterday_price": 12470.0,
-  "daily_change": 0.0,
-  "daily_change_percent": 0.0,
-  "daily_direction": "flat",
+  "daily_change": -255.0,
+  "daily_change_percent": -2.04,
+  "daily_direction": "down",
   "position_30d": 0.0,
   "classification": "D30_LOW",
   "classification_label": "30D LOW",
   "period_7d": {
-    "low": 12470.0,
+    "low": 12215.0,
     "high": 12815.0,
-    "average": 12602.86,
-    "change": -345.0,
-    "change_percent": -2.69,
+    "average": 12566.43,
+    "change": -600.0,
+    "change_percent": -4.68,
     "count": 7
   },
   "period_30d": {
-    "low": 12470.0,
+    "low": 12215.0,
     "high": 13390.0,
-    "average": 12980.5,
-    "change": -920.0,
-    "change_percent": -6.87,
+    "average": 12972.0,
+    "change": -1175.0,
+    "change_percent": -8.78,
     "count": 30
   },
   "period_90d": {
-    "low": 12470.0,
+    "low": 12215.0,
     "high": 15030.0,
-    "average": 13721.39,
+    "average": 13718.56,
     "change": null,
     "change_percent": null,
     "count": 90
@@ -34,14 +34,14 @@
   "period_365d": {
     "low": 11191.7,
     "high": 16061.1,
-    "average": 13531.88,
+    "average": 13530.93,
     "change": null,
     "change_percent": null,
     "count": 269
   },
   "history_days": 299,
   "as_of_date": "2026-11-18",
-  "last_updated": "2026-11-18T02:45:30.055773+05:30",
+  "last_updated": "2026-11-18T18:06:21.837666+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -53,34 +53,34 @@
     "bias": "SLIGHTLY_DOWN",
     "bias_label": "Slightly downward bias",
     "confidence": "MEDIUM",
-    "score": -49.9,
-    "band_low": 12383.0,
-    "band_high": 12557.0,
+    "score": -68.0,
+    "band_low": 12109.0,
+    "band_high": 12321.0,
     "usd_inr_rate": 93.48,
     "usd_inr_as_of": "2026-11-17",
     "usd_inr_daily_pct": -0.479,
     "usd_inr_7d_pct": -0.479,
     "factors": [
-      "7-day gold trend down (-2.69%)",
+      "7-day gold trend down (-4.68%)",
       "Near 30D low (0%) — possible stabilisation/bounce",
       "USD/INR 93.48 (-0.48% today)",
       "Rupee stronger ₹ vs USD over 7D (-0.48%)",
-      "Global headlines mixed/neutral · 3 from recognised sources"
+      "Global headlines lean bearish (2/5) · 4 from recognised sources"
     ],
     "news": [
       {
-        "title": "Gold is in a bear market — and hackproof in an increasingly digital world. Is this a good time to buy? - MarketWatch",
-        "source": "MarketWatch",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQnhwTzRwMElYdkZ1VDRYeXVLcGJLTzhqaTNEMFZXQmN6VHVQZkVzS3B4dGVnd1Zzc0dCRnhIdGc2R3NrV0RsOFgxYjN2M0xlbWtfNV81a3FnZmJGZElLLUczNFdpSnoyQzh5NTRPdXN3WWhCNlk0VGdSZVprRjNINHJBYk9LWUtsZklBWkJPRGlWLXFpVG5ERWJaNkNHZzhBVTM1eDV4ZUdQS0ljZGRmanduZ2x3dzB3N0s5MWtaTkIxOGtRU0lrTWt0eXRZVzVma28yMHJNRWk?oc=5",
-        "published": "Tue, 17 Nov 2026 20:24:00 GMT",
-        "tone": "neutral",
+        "title": "Gold drops below $3,800 as Fed hike bets deepen bullion selloff - Investing.com",
+        "source": "Investing.com",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdV9IVnZLcFhYNmM5d3UyYzVXV19hTE5GYUxSOXYxNDNZbHZJRWtkcVZQQl9MTVQ5Tl96cmhYNTVJX3FMNG9pMVF6bUphTUxaRXBwV3dBcTZzclBZb0I2QXFKNl9LbFJHTHc0WVRYM3MyREFzT1VXZ0w4VXFJcjlUV1ZhWmloZk9MeUd5ZTJUbW9yT2RXeWtpY0pJdk5ROVhXRG83Qk5wZ2EtVlVwY2hEQ1Rza0J2bmFqckE?oc=5",
+        "published": "Wed, 18 Nov 2026 10:50:05 GMT",
+        "tone": "bearish",
         "reliable": true
       },
       {
-        "title": "Gold price drops to $3,848/oz after October retail sales rise 0.2%, core rises 0.6% - Kitco",
-        "source": "Kitco",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdXNLbU1TNG8wbkdSLXhsV3I1N0ZBUjdzdGc0M2l5RW5qRzFodjRjX0MxX0kxQlVVUVl2YW9UYldCYVZUUHpSRzI2OGN2Rm1TdGV5YnE1RXJFZWpfZ1VveEVMblduTm8xY1dOUXB1VnZ6RWM4S3hTb3VablduVnNJODRBWktHcmhPUFh4Vk92cmxPU0NxNWx6ZHEzOU9laTBFSGJiWHRkRUQ1MkpDZEFEdXBnYm4tUlFZS1E?oc=5",
-        "published": "Tue, 17 Nov 2026 13:30:22 GMT",
+        "title": "Gold is in a bear market — and hackproof in an increasingly digital world. Is now a good time to buy? - MarketWatch",
+        "source": "MarketWatch",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQnhwTzRwMElYdkZ1VDRYeXVLcGJLTzhqaTNEMFZXQmN6VHVQZkVzS3B4dGVnd1Zzc0dCRnhIdGc2R3NrV0RsOFgxYjN2M0xlbWtfNV81a3FnZmJGZElLLUczNFdpSnoyQzh5NTRPdXN3WWhCNlk0VGdSZVprRjNINHJBYk9LWUtsZklBWkJPRGlWLXFpVG5ERWJaNkNHZzhBVTM1eDV4ZUdQS0ljZGRmanduZ2x3dzB3N0s5MWtaTkIxOGtRU0lrTWt0eXRZVzVma28yMHJNRWk?oc=5",
+        "published": "Tue, 17 Nov 2026 20:24:00 GMT",
         "tone": "neutral",
         "reliable": true
       },
@@ -93,18 +93,18 @@
         "reliable": true
       },
       {
-        "title": "China gold market update: Robust demand in October | Post by Ray Jia | Insights - World Gold Council",
-        "source": "World Gold Council",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOX01TX2R4cG4wLTNVNTBJcWI5UWdhTDdXRi12cVA5N2NoZHJFbkpmZ3d0Smx2WHdMVHozR2NTQUwwYkRLVjVpdVZrZ1NQQ0VlRzNTSm5GX2hCeGhBRlE5eVJCS2xEcTl2dC1GQXZJZlNUbHJxZ09BVkh1bWlUZ05PNndSN2dWLXZUQjNFLUZTRXFtYmktWnpnWl9n?oc=5",
-        "published": "Tue, 17 Nov 2026 13:34:10 GMT",
-        "tone": "neutral",
-        "reliable": false
+        "title": "Gold struggles near one-year lows, silver rebounds as stocks slide, Fed hike bets persist - Kitco PM Report - Kitco",
+        "source": "Kitco",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV1BJTVFELVMzTzdSNWZydElEbzRtUDFsQ2RET0dab0lTM3VNZDVSVHgxeVdDbDhENmktSk5IbVlXVHkwSjZaOURlTUkza0dVSXBISTV4eTFUbmZyR3JwcU9aTE9jbDFKdnphSkdLbkdndjg0eUctNUI4MGczTEJEV1I4ZUduWWVIY1FZeEpfMVB2SzJILXJqcGFvazVLY29ZU2JSLWJKWWdCRGp1OUZ0QlBGSHhQSlM5?oc=5",
+        "published": "Tue, 17 Nov 2026 22:06:24 GMT",
+        "tone": "bearish",
+        "reliable": true
       },
       {
-        "title": "Current price of gold as of November 17, 2026 - Fortune",
-        "source": "Fortune",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00VDN1NmE2Y2Z4b0RmS2JWdlkzdTE1dlI2QkRMaXExSmxPV18xVDMwRWRtZ1FpUVNlV1V3Vl9wT2dfZVZ2SDZtdEYyY2YxYzZHZjNDSFZrUjFpMVFuRjlBS1N6UjIteGlSYTJ0c1Nn?oc=5",
-        "published": "Tue, 17 Nov 2026 14:08:00 GMT",
+        "title": "'Plenty of Reasons to Sell' as Gold Sinks 15% in 12 Weeks - BullionVault",
+        "source": "BullionVault",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbjEyUjNLdmI1TkRFNkQ0dWFWc3BMUnFyc2F1SDBkYXRUXzg0Zk5vS2VaQUQzTnB6UWx5X2MybHJWT2dhQ0NDNkxDdXUzWXhLdVBRMFVPYkMxbzhieWd1Q1FycjVEOGtxRVJORTFQRjVXeU9TUFFmaTVpd1dkaHdyQS1vUHFNMUVfRjhOZDdyME85UQ?oc=5",
+        "published": "Mon, 16 Nov 2026 13:29:28 GMT",
         "tone": "neutral",
         "reliable": false
       }
