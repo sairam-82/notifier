@@ -1804,5 +1804,11 @@
     "price": 11510.0,
     "source": "goodreturns",
     "fetched_at": "2026-11-20T17:57:55.351299+05:30"
+  },
+  {
+    "date": "2026-11-21",
+    "price": 11510.0,
+    "source": "goodreturns",
+    "fetched_at": "2026-11-21T02:09:17.769597+05:30"
   }
 ]
