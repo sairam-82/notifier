@@ -1,32 +1,32 @@
 {
-  "today_price": 11980.0,
+  "today_price": 11510.0,
   "yesterday_price": 11980.0,
-  "daily_change": 0.0,
-  "daily_change_percent": 0.0,
-  "daily_direction": "flat",
+  "daily_change": -470.0,
+  "daily_change_percent": -3.92,
+  "daily_direction": "down",
   "position_30d": 0.0,
   "classification": "D30_LOW",
   "classification_label": "30D LOW",
   "period_7d": {
-    "low": 11980.0,
+    "low": 11510.0,
     "high": 12615.0,
-    "average": 12345.0,
-    "change": -635.0,
-    "change_percent": -5.03,
+    "average": 12277.86,
+    "change": -1105.0,
+    "change_percent": -8.76,
     "count": 7
   },
   "period_30d": {
-    "low": 11980.0,
+    "low": 11510.0,
     "high": 13385.0,
-    "average": 12878.0,
-    "change": -1255.0,
-    "change_percent": -9.48,
+    "average": 12862.33,
+    "change": -1725.0,
+    "change_percent": -13.03,
     "count": 30
   },
   "period_90d": {
-    "low": 11980.0,
+    "low": 11510.0,
     "high": 15030.0,
-    "average": 13654.11,
+    "average": 13648.89,
     "change": null,
     "change_percent": null,
     "count": 90
@@ -34,14 +34,14 @@
   "period_365d": {
     "low": 11226.6,
     "high": 16061.1,
-    "average": 13536.21,
+    "average": 13534.46,
     "change": null,
     "change_percent": null,
     "count": 269
   },
   "history_days": 301,
   "as_of_date": "2026-11-20",
-  "last_updated": "2026-11-20T02:24:15.583380+05:30",
+  "last_updated": "2026-11-20T17:57:55.351299+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -54,20 +54,28 @@
     "bias_label": "Slightly downward bias",
     "confidence": "MEDIUM",
     "score": -60.0,
-    "band_low": 11875.0,
-    "band_high": 12085.0,
+    "band_low": 11368.0,
+    "band_high": 11652.0,
     "usd_inr_rate": 93.3,
     "usd_inr_as_of": "2026-11-19",
     "usd_inr_daily_pct": -0.15,
     "usd_inr_7d_pct": -0.787,
     "factors": [
-      "7-day gold trend down (-5.03%)",
+      "7-day gold trend down (-8.76%)",
       "Near 30D low (0%) — possible stabilisation/bounce",
       "USD/INR 93.30 (-0.15% today)",
       "Rupee stronger ₹ vs USD over 7D (-0.79%)",
-      "Global headlines lean bearish (1/5) · 2 from recognised sources"
+      "Global headlines lean bearish (1/5) · 3 from recognised sources"
     ],
     "news": [
+      {
+        "title": "Gold futures sink below $3,700 as 5% yields pull money out of bullion - Kitco",
+        "source": "Kitco",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSlJNYXNXZkw3b1RUbHlCY0hkVHF0OEFjQnpaMDlNc2dYREpHTUpVSHdiVTFsMHlYbXFjX3RhX0VFN3Z5WFZSUFBtRUplVUs3TWx3SWk1UmJYTDk0LWxQOFhIaU1JNS1hQm9QaDlSalNLU1JkRDd5QU9YUHZyTEsxalNySWo0YVUwVkNjZE55SXplYkJMOVJHQkIySk5YM05rV1Bj?oc=5",
+        "published": "Fri, 20 Nov 2026 02:05:02 GMT",
+        "tone": "neutral",
+        "reliable": true
+      },
       {
         "title": "Gold hits 14-month low as strong dollar, rate bets weigh - Reuters",
         "source": "Reuters",
@@ -85,27 +93,19 @@
         "reliable": true
       },
       {
-        "title": "Africa Report: London Bullion Market clamps down on illicit gold trade - https://thesentry.org/",
-        "source": "https://thesentry.org/",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPX2dhckJKX2hZX2JjU1lYVFhLbHdPb29hMHpkbkxheUVPOXNjYkdldXpjX29lSFZlUVlDb19kZXBueXVtdHpwcXV3MDdib2dmdjBLdWIzRktMUlVDLWpwaEtlYmJyUzdtWm5xNFJPazhRN3FzeGFaemZKUFVVbHdrN0FKZVhQYUZtbkJJWUM5ZXcyMUU?oc=5",
-        "published": "Thu, 19 Nov 2026 12:19:48 GMT",
-        "tone": "neutral",
-        "reliable": false
-      },
-      {
-        "title": "Gold Breaks Down but is This a Sign of What’s to Come? - StoneX",
-        "source": "StoneX",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVEVJZDNBZS1OLW92S0hGaURiVTUxZkNicmhHYjZxN3VQbnZhQlgyVEFTb2hGQTFPZUtmYVg1Sk5aRXU2UU1aYUN2ZjBZRUxMeUFGRWx6c2w1dVB0SmQ3ck4wVE92aDNhQXBZNnNCcXN4MGxPS2JZd1NkS1MxWmN6NlRjc2Jra0RlWTlickROVVBpS0t6dW44eFdCOUhKMEd2Yk1z?oc=5",
-        "published": "Wed, 18 Nov 2026 17:37:12 GMT",
-        "tone": "neutral",
-        "reliable": false
-      },
-      {
-        "title": "Gold Hits 14-Month Low as Fed Rate Hike Looms - Investing News Network",
+        "title": "Gold Price Hits 14 Month Low as Fed Rate Hike Fears Strengthen US Dollar - Investing News Network",
         "source": "Investing News Network",
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE11NzllaXVoVklUY3hXdWNpNGZYNUh1Q2NsMVpPdGxGWDBHOEZJTEdmdlZ6V1JhY3hSbXVlN3ZIbDYyMEgwNk9ISldEdlFwbzRwZXZMN09rNjBsaFlCMlkw?oc=5",
-        "published": "Thu, 19 Nov 2026 20:45:00 GMT",
+        "published": "Thu, 19 Nov 2026 20:50:00 GMT",
         "tone": "bearish",
+        "reliable": false
+      },
+      {
+        "title": "Gold Price Today on November 20, 2026 - USA Today",
+        "source": "USA Today",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSUtnZGVIdmJYekQ1VmF3aWRJREx5aGNEcVpiOEhNc3U5bFNHeUd5eGl4MV9iZXI0dEdhd0tRTV91WkpQdzA0ZVlZVDc5LXViZlZnVXFJczhnTFBmYTZ2QUxiTDhyWXpQRk1wbUZ6aUlKN0xJeDFYUERyeFJ4T3FvSzVfb2twZEg3bjRYTmtOZXV4U2xRVmNEUHc1Z0N3d21zaUx3?oc=5",
+        "published": "Fri, 20 Nov 2026 11:10:58 GMT",
+        "tone": "neutral",
         "reliable": false
       }
     ],
