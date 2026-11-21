@@ -1,32 +1,32 @@
 {
   "today_price": 11465.0,
-  "yesterday_price": 11510.0,
-  "daily_change": -45.0,
-  "daily_change_percent": -0.39,
-  "daily_direction": "down",
+  "yesterday_price": 11465.0,
+  "daily_change": 0.0,
+  "daily_change_percent": 0.0,
+  "daily_direction": "flat",
   "position_30d": 0.0,
   "classification": "D30_LOW",
   "classification_label": "30D LOW",
   "period_7d": {
     "low": 11465.0,
-    "high": 12615.0,
-    "average": 12113.57,
-    "change": -1150.0,
-    "change_percent": -9.12,
+    "high": 12540.0,
+    "average": 11949.29,
+    "change": -1075.0,
+    "change_percent": -8.57,
     "count": 7
   },
   "period_30d": {
     "low": 11465.0,
     "high": 13385.0,
-    "average": 12803.33,
-    "change": -1595.0,
-    "change_percent": -12.21,
+    "average": 12750.17,
+    "change": -1605.0,
+    "change_percent": -12.28,
     "count": 30
   },
   "period_90d": {
     "low": 11465.0,
-    "high": 15030.0,
-    "average": 13610.17,
+    "high": 15010.0,
+    "average": 13570.56,
     "change": null,
     "change_percent": null,
     "count": 90
@@ -34,14 +34,14 @@
   "period_365d": {
     "low": 11280.2,
     "high": 16061.1,
-    "average": 13535.35,
+    "average": 13527.68,
     "change": null,
     "change_percent": null,
-    "count": 269
+    "count": 270
   },
-  "history_days": 302,
-  "as_of_date": "2026-11-21",
-  "last_updated": "2026-11-21T17:32:58.118710+05:30",
+  "history_days": 303,
+  "as_of_date": "2026-11-22",
+  "last_updated": "2026-11-22T01:10:42.893751+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -53,27 +53,27 @@
     "bias": "SLIGHTLY_DOWN",
     "bias_label": "Slightly downward bias",
     "confidence": "MEDIUM",
-    "score": -73.0,
-    "band_low": 11320.0,
-    "band_high": 11610.0,
+    "score": -68.0,
+    "band_low": 11327.0,
+    "band_high": 11603.0,
     "usd_inr_rate": 92.68,
     "usd_inr_as_of": "2026-11-20",
     "usd_inr_daily_pct": -0.665,
     "usd_inr_7d_pct": -1.666,
     "factors": [
-      "7-day gold trend down (-9.12%)",
+      "7-day gold trend down (-8.57%)",
       "Near 30D low (0%) — possible stabilisation/bounce",
       "USD/INR 92.68 (-0.67% today)",
       "Rupee stronger ₹ vs USD over 7D (-1.67%)",
-      "Global headlines lean bearish (3/5) · 4 from recognised sources"
+      "Global headlines lean bearish (2/5) · 4 from recognised sources"
     ],
     "news": [
       {
-        "title": "Gold falls toward $3,500, silver slides as stock markets enter correction territory - Kitco PM Report - Kitco",
+        "title": "Gold Price Today | Price of Gold Per Ounce | 24 Hour Spot Chart - Kitco",
         "source": "Kitco",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOWVLN2w5UTZadnN4a2JLYzRka3dZUlB2U3pzdm1SQTJQOHZmZU9KaVhyMjNKQTdnTm1yOUFIT2RHU0dpN19mYkJGYmVqZVhWNXctLTZ5MEhyempMTWFwZm1Yang3TlZMR1dPa2pPNGwwa0dqQlY0S2VpM0RqSEV4Y243VVZxTXJrZFByN1pva0M1T2FjSzlNOFpNdkdLQi1kOWVzSmwzM2xrV0p3VlV1NXBodw?oc=5",
-        "published": "Fri, 20 Nov 2026 22:53:30 GMT",
-        "tone": "bearish",
+        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnU2dTNUduLWh4WmxVQy1ndS1jN01abVlCeTNTMnFMbFdmS1d6TnFCekxTZVlXNGtKdnNRN3plT00yZm5LQmh6Rg?oc=5",
+        "published": "Sat, 21 Nov 2026 15:58:11 GMT",
+        "tone": "neutral",
         "reliable": true
       },
       {
