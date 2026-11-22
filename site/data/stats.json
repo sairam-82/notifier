@@ -41,7 +41,7 @@
   },
   "history_days": 303,
   "as_of_date": "2026-11-22",
-  "last_updated": "2026-11-22T01:10:42.893751+05:30",
+  "last_updated": "2026-11-22T17:45:25.244002+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -53,7 +53,7 @@
     "bias": "SLIGHTLY_DOWN",
     "bias_label": "Slightly downward bias",
     "confidence": "MEDIUM",
-    "score": -68.0,
+    "score": -58.0,
     "band_low": 11327.0,
     "band_high": 11603.0,
     "usd_inr_rate": 92.68,
@@ -64,51 +64,9 @@
       "7-day gold trend down (-8.57%)",
       "Near 30D low (0%) — possible stabilisation/bounce",
       "USD/INR 92.68 (-0.67% today)",
-      "Rupee stronger ₹ vs USD over 7D (-1.67%)",
-      "Global headlines lean bearish (2/5) · 4 from recognised sources"
+      "Rupee stronger ₹ vs USD over 7D (-1.67%)"
     ],
-    "news": [
-      {
-        "title": "Gold Price Today | Price of Gold Per Ounce | 24 Hour Spot Chart - Kitco",
-        "source": "Kitco",
-        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnU2dTNUduLWh4WmxVQy1ndS1jN01abVlCeTNTMnFMbFdmS1d6TnFCekxTZVlXNGtKdnNRN3plT00yZm5LQmh6Rg?oc=5",
-        "published": "Sat, 21 Nov 2026 15:58:11 GMT",
-        "tone": "neutral",
-        "reliable": true
-      },
-      {
-        "title": "Gold prices crash nearly 10% in a week: Mega reasons behind massive yellow metal rate fall – List - Livemint",
-        "source": "Livemint",
-        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNdkRNVGdWWEcxbEI2empjUWVmV1NtOGVVRVZJV0Zra0hLMlJXX1NrTHo2U1ctNnRaUTJKNFV5cHBmaWRsRXVXSnpFaXJIUFlNcjdzc1RsWWY2aUUwSDBoYzVEZ2Q2dktsZUtId3k4UkxlMWRkNTFVdC1ObC1pS1BiNmJ1VVd2NXNPLVpaTW9RN0ZOZ1VDUXJUU2ljeURDWFVkWGI1WUlKbmNuVTdVbHZTZExkVmZpTHFyajVQNWswZ0o5Z2Z4Q2VKOFJ4bml2aHpUSWw5bW9iYnVUb1JlekFac01QN0ZZNEpORE9DaW1kTW91X3PSAfgBQVVfeXFMT1JQLWZPS0NLcEE4R2JtSC1lTmNHVFZ6NFhsR0VQcXVBSGRYWFY3M2JSS1ZJNlZ6U3VaWEdvMF9XWlhQa1ZQZnJhWExMN25pTjN6TXpMZ1JvdkliamliSWxja2xZUm1ZVFphbi1BZnRpVS1hU3haYUIxZ0szMV90RXkyZ2VEVjVYRXFuTjMySFRQc0M3SWk5czRvbnR2R1doTTZkS0M0U1Jpb3dIMDZYY09fXzFkRGJaanNfdjlLdjJOOF9oempjRmt2Y0RvUkZ3dWI3U3NNRW1oNjFuaDYtWE5OaVpOTXYzeGd5RUtJVDhORWhnd3E0SUY?oc=5",
-        "published": "Sat, 21 Nov 2026 09:27:30 GMT",
-        "tone": "bearish",
-        "reliable": true
-      },
-      {
-        "title": "Gold's bad year is getting worse. Why its price keeps falling - CNBC",
-        "source": "CNBC",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBzVTZVem9vcm02QmpsTmpncE9tZVV6MUJqMkJyM2lUTUhPNmlFdThJTExTS193aWV2LW9PTmVjQjdaSTZ1eTNYbVF2Q1U5QWtyaHBZX2xQcFBNNjAxVW9zWjlMR2ZQSkcyNWJCNnNTaml6RU9KTUdHYkRn0gF_QVVfeXFMT0pFQVJ0ZWI5Q2xIaXRteFVKMzByRWdYNWRJa2dnOXVnOU4zUzgxd0JGRzdkTkxIMlJhUm5GXzZVcVM5enluNXhFQjdheUlkbzdITjI0U3A4N3lMZEJZcDdrdndzSmRjYTFjbDQ3a2FVUTAyd3dzODQ1YTdnM3dfbw?oc=5",
-        "published": "Thu, 19 Nov 2026 13:37:52 GMT",
-        "tone": "neutral",
-        "reliable": true
-      },
-      {
-        "title": "Gold's slide deepens as AI rout, rate-hike bets hurt bullion - Reuters",
-        "source": "Reuters",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMFFjdnZJUDZiUXhKNUdPUWMtQ2tkd0ZKdmN4TTZ3bnQyb09SQ3cxSS1hNVYtcmF5WGpNSlJzS1dWYkdBUzBJZ2s5TnhLQ29mNWNIUy10MGJkN294UndsTmRmOF9GelkyVkdWRl8wcVJQNnRaRGp0a3NIMWNHT1dJSHhZRk1BT3FRV2pFcHVGa3ozS1ZCdjJXenJvSXlBOEdxLUp2MVVVTVBDY0NGX3ZRRUN3?oc=5",
-        "published": "Fri, 20 Nov 2026 03:24:00 GMT",
-        "tone": "bearish",
-        "reliable": true
-      },
-      {
-        "title": "'Everything Crash' Sees Gold Price Extend Longest Slump Since 1970 - BullionVault",
-        "source": "BullionVault",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY0Qwdm5RRlNVeVhxUnY5aHFwQWxTT1A2MzhzanZidl9Ed29NeU1YLVpIYl9oLWhXUGxGRFFZekFucEhZVC1qVzFpM3JWYjNsck5BaEZ5MFBLdmJXSnZjN1J6LWw0S1E2QjQzYk1pbDRXelJhVnNTU3NtSVZadHN3a1Y1cGE1VzQ3RW5hRzRHaTU?oc=5",
-        "published": "Fri, 20 Nov 2026 17:34:15 GMT",
-        "tone": "neutral",
-        "reliable": false
-      }
-    ],
+    "news": [],
     "disclaimer": "Indicative outlook only — not financial advice. Gold prices depend on many factors; this can be wrong."
   }
 }
