@@ -1,47 +1,47 @@
 {
-  "today_price": 11600.0,
-  "yesterday_price": 11465.0,
-  "daily_change": 135.0,
-  "daily_change_percent": 1.18,
+  "today_price": 11601.0,
+  "yesterday_price": 11600.0,
+  "daily_change": 1.0,
+  "daily_change_percent": 0.01,
   "daily_direction": "up",
-  "position_30d": 7.03,
+  "position_30d": 7.08,
   "classification": "NEAR_30D_LOW",
   "classification_label": "NEAR 30D LOW",
   "period_7d": {
     "low": 11465.0,
-    "high": 12470.0,
-    "average": 11815.0,
-    "change": -870.0,
-    "change_percent": -6.98,
+    "high": 12215.0,
+    "average": 11690.86,
+    "change": -614.0,
+    "change_percent": -5.03,
     "count": 7
   },
   "period_30d": {
     "low": 11465.0,
     "high": 13385.0,
-    "average": 12701.17,
-    "change": -1470.0,
-    "change_percent": -11.25,
+    "average": 12652.2,
+    "change": -1484.0,
+    "change_percent": -11.34,
     "count": 30
   },
   "period_90d": {
     "low": 11465.0,
-    "high": 15010.0,
-    "average": 13532.67,
+    "high": 14940.0,
+    "average": 13494.79,
     "change": null,
     "change_percent": null,
     "count": 90
   },
   "period_365d": {
-    "low": 11280.2,
+    "low": 11295.0,
     "high": 16061.1,
-    "average": 13520.57,
+    "average": 13521.75,
     "change": null,
     "change_percent": null,
     "count": 271
   },
-  "history_days": 304,
-  "as_of_date": "2026-11-23",
-  "last_updated": "2026-11-23T19:28:53.801744+05:30",
+  "history_days": 305,
+  "as_of_date": "2026-11-24",
+  "last_updated": "2026-11-24T05:44:58.177361+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -53,43 +53,43 @@
     "bias": "SLIGHTLY_DOWN",
     "bias_label": "Slightly downward bias",
     "confidence": "MEDIUM",
-    "score": -58.0,
-    "band_low": 11465.0,
-    "band_high": 11735.0,
-    "usd_inr_rate": 92.68,
-    "usd_inr_as_of": "2026-11-20",
-    "usd_inr_daily_pct": -0.665,
-    "usd_inr_7d_pct": -1.666,
+    "score": -33.0,
+    "band_low": 11471.0,
+    "band_high": 11731.0,
+    "usd_inr_rate": 92.92,
+    "usd_inr_as_of": "2026-11-23",
+    "usd_inr_daily_pct": 0.259,
+    "usd_inr_7d_pct": -1.075,
     "factors": [
-      "7-day gold trend down (-6.98%)",
+      "7-day gold trend down (-5.03%)",
       "Near 30D low (7%) — possible stabilisation/bounce",
-      "USD/INR 92.68 (-0.67% today)",
-      "Rupee stronger ₹ vs USD over 7D (-1.67%)",
-      "Global headlines mixed/neutral · 3 from recognised sources"
+      "USD/INR 92.92 (+0.26% today)",
+      "Rupee stronger ₹ vs USD over 7D (-1.07%)",
+      "Global headlines lean bearish (1/5) · 3 from recognised sources"
     ],
     "news": [
       {
-        "title": "Gold climbs more than 2% as dollar rally pauses - Reuters",
+        "title": "Gold price forecast: Goldman Sachs sees $4,650 by 2027 despite US rate pressures — what investors should do - Livemint",
+        "source": "Livemint",
+        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQSlN0V3VUeW5aTFNRRzRvamprQVRoUGZhUmNyQm90R29kdW5WeDc0cjZrVUV1XzZXbTJ1U1lFNUVQNGlYWWszMlVzbzdOMkxjaTM3THVxRFdmRDFZNDJVaXhSYzFwcUhmRkVYdjMzcDh1aE1tdHZFekxBazhTWFJKVTdPQ25odmNBQ2lJSHBzY1FlM2lILWFneV9DeXgwaGhrTU9BRU5KWXo4U3B0MkdEemctcS1teDRycmJtVGE3OWdkcVhSak1DczBEdkN1UHlkRVZsXzJId1pCaGF5YnhiWUYxQmRZMjRqMENXcTJNUnROb2VKcmVEYTc4bUFNXzdS0gGGAkFVX3lxTE10WGFDamlZNG5yTEk0QmtQeFUzMXBNQ0pKelhVYjRQUlJiUkJIWEtYWWYyM1RSb3p0WW9GRHpqOWhubmpkRWNQRE1ScC1NVTJEQXdvUG0xa0FMYVVSTmRFaXJMQWdxbU9FbDVMcDZkdXlWREY2MXIyRldYYnNzWnhnVkdwR0ZBTV9VaU1hWlNzMEFjcFB0R0tEVF96VWJZTXhXZHNMWURUdFg2R3FqQTg4U0JmQlh2OGlNd2FXSU5TVjB0MHhDRE04bDduV2ZxUm1KMmEtbnQyRG9oTHVkXzRZOXQ5cng2dnBBc3pvQ3FDS0t2OVdwZVBZUF9rTTBuSXRXN3U0MVE?oc=5",
+        "published": "Mon, 23 Nov 2026 09:31:47 GMT",
+        "tone": "neutral",
+        "reliable": true
+      },
+      {
+        "title": "Gold price rallies above $3,600 as AI selloff reshapes Fed outlook - Kitco AM Report - Kitco",
+        "source": "Kitco",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPenF6LTV0TWdncXg5WDBQNS1Dc2lSVEUwNmpsRzR0UGg4a0VOM21NN2hTNnN1Mk1fZDhmcWs1WU41UW9qcUFieEJnemYyRTdhZy1hakhLbHRXemltSTFVTnBFaEhLdDR5LTYyeElnTjBKdEVNeUFXRnFEQlh5bWllNU1vOEw3eHlaRXZBZzV1WlNXUWd6R3BHdmlTajdyZUJueU5vNTlCUmhvclZtLVRlamJyel9USGM?oc=5",
+        "published": "Mon, 23 Nov 2026 14:18:04 GMT",
+        "tone": "neutral",
+        "reliable": true
+      },
+      {
+        "title": "Gold rises as bargain hunters step in after steep weekly drop - Reuters",
         "source": "Reuters",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcnBFWkZLYUFtZG40ejNhc0xINGhEOGZWSnl2M1RabDhRbUstel9yOEtXTTczcW44cEw3b2lvbEMyaExOeDRLNnRWVFdOMU4xZDQ5bkd2YlJaUklBTWNMSDlFWDVZd2VxUEtpbXBqVUlMY3dDM0dmWXVfOW1CWG9oUVJIZ3BhWWltclFMZVF5ck1oZ2pUVUMwVWZVMVhlU1FrbmZuWGpLSW5jMUU?oc=5",
         "published": "Mon, 23 Nov 2026 05:49:00 GMT",
-        "tone": "bullish",
-        "reliable": true
-      },
-      {
-        "title": "Gold price crash with 31% correction: Why investors should wait for November 25, December 4 and 9 - What’s special? - Livemint",
-        "source": "Livemint",
-        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxObTVVQ09hYUtlTjdESktxVC0tUktiQ3NEUy1FUFMybTlmNzRaM1ZnaHpZS3VfMDEwRkVCTmE2aVlocktRVTVxNWlldEk1MS04Vl9sNkdualJRdlBMSHpkek9uMVB5ekM5Q0FDcndMRDdtYzBMcFdWTDlfR1BmV3FQWmZRR2cxTUQycXctWk9wYi1ISkNxcWhrZ2h0WXFnelJaOUUtX3plSk01UklZU0VqTFRvdHJWLXRCMXVxZzJYU0NvVmo5VWJRbVZidzRKeC01Y1A5VFNXM3ZvSzREZ1hPWWsyM0pFOWhtX3BzdGlGOUxNckNMRHdSM0IwQkFHNHVsMnE5TlZjaVXSAY4CQVVfeXFMT0FMVEo0YlQ2TGlhT3VDQjVvd3hyTjFjR25IM09YeUhjQnM4YmotTE9iTHFRODJpN3UyWWljTlkxMUNCQnRIeV9paWJXZzg0V25Zb3NvT0czei1zaUVFUzVJbkozQkRvZVFaSHZqN3otZ1hBOWlfWUYtVGhNTzVSUEtZVWN0OGltNGZ0ZzgzODFkd05Sd1BBdHZXalRha0xtVF9zYmdORnpxYkIyVkxzZjEzeEltNU1DdjJEa0hPQkNyN0RWR1N4Y25SWWJpVHhQU2lSUGxHQW9oNEloOVRHWDNhX3JDUWNnTUQxc3dWbnl5U2M1STRhZ2hKRlVmQXVuSWFDekZHYXMzRV82cFB3?oc=5",
-        "published": "Mon, 23 Nov 2026 07:30:38 GMT",
         "tone": "bearish",
-        "reliable": true
-      },
-      {
-        "title": "MoneyControl.com: LBMA comes up with new norms on gold sourcing, irks Indian bullion sector - https://thesentry.org/",
-        "source": "https://thesentry.org/",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWF9MMDkxQUpqYkVjVnB0TS1uYm9XeUZYUnpQYWdkUzBwMHBHc3hucHNMbW1yaTBxdkxsSWNPbGdiZm0tYjRiUTRCbjVJOGpIVnRCSlRIdldNQm5QWkRMQ1FtRjY0UEVneUJCeGFUbUplRTI0M3JaeWFtcmNIU09GZGhhamRIR0xiaWNiZklJS05ER0R4RVlGUlpFejNwLWxQWEtBLVllbWFyUQ?oc=5",
-        "published": "Mon, 23 Nov 2026 08:32:24 GMT",
-        "tone": "neutral",
         "reliable": true
       },
       {
@@ -101,10 +101,10 @@
         "reliable": false
       },
       {
-        "title": "Gold Price Returns Above $3,600 as U.S. Debt Ceiling Could Become a $5 Trillion Catalyst - BigGo Finance",
-        "source": "BigGo Finance",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE40TDlHb2dGaFY3cHBKNmJSRG0wWW5fS1hhallSWnF3Z005ekFYWEc1eHZQaWVrUXhkdVlCMV9qbm9vbzQzMEZOblk3d3pSMEJEMGVHZkRzYzlkbzRlT2hfX2xjOFFwYmRGUFVpMTNXVGVaSnl2bmc?oc=5",
-        "published": "Mon, 23 Nov 2026 09:35:00 GMT",
+        "title": "Current price of gold as of November 23, 2026 - Fortune",
+        "source": "Fortune",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9jSXg1NnZPb2Q4ZWlxMG9abUt4VC16clFTWWNzMTJaY2pxNkFyWlpyOEVIcDJCckVXQUtwSTloLUJMUVRxX1ZMNmd5N1FmMl9DS3J3enF5U19ZYndteTYxSnhzUW5tZzZiQWZVQ0VB?oc=5",
+        "published": "Mon, 23 Nov 2026 14:05:00 GMT",
         "tone": "neutral",
         "reliable": false
       }
