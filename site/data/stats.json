@@ -1,32 +1,32 @@
 {
-  "today_price": 11601.0,
+  "today_price": 11715.0,
   "yesterday_price": 11600.0,
-  "daily_change": 1.0,
-  "daily_change_percent": 0.01,
+  "daily_change": 115.0,
+  "daily_change_percent": 0.99,
   "daily_direction": "up",
-  "position_30d": 7.08,
-  "classification": "NEAR_30D_LOW",
-  "classification_label": "NEAR 30D LOW",
+  "position_30d": 13.02,
+  "classification": "LOW_RANGE",
+  "classification_label": "LOW RANGE",
   "period_7d": {
     "low": 11465.0,
     "high": 12215.0,
-    "average": 11690.86,
-    "change": -614.0,
-    "change_percent": -5.03,
+    "average": 11707.14,
+    "change": -500.0,
+    "change_percent": -4.09,
     "count": 7
   },
   "period_30d": {
     "low": 11465.0,
     "high": 13385.0,
-    "average": 12652.2,
-    "change": -1484.0,
-    "change_percent": -11.34,
+    "average": 12656.0,
+    "change": -1370.0,
+    "change_percent": -10.47,
     "count": 30
   },
   "period_90d": {
     "low": 11465.0,
     "high": 14940.0,
-    "average": 13494.79,
+    "average": 13496.06,
     "change": null,
     "change_percent": null,
     "count": 90
@@ -34,14 +34,14 @@
   "period_365d": {
     "low": 11295.0,
     "high": 16061.1,
-    "average": 13521.75,
+    "average": 13522.17,
     "change": null,
     "change_percent": null,
     "count": 271
   },
   "history_days": 305,
   "as_of_date": "2026-11-24",
-  "last_updated": "2026-11-24T05:44:58.177361+05:30",
+  "last_updated": "2026-11-24T20:00:10.960674+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -53,29 +53,21 @@
     "bias": "SLIGHTLY_DOWN",
     "bias_label": "Slightly downward bias",
     "confidence": "MEDIUM",
-    "score": -33.0,
-    "band_low": 11471.0,
-    "band_high": 11731.0,
+    "score": -28.0,
+    "band_low": 11577.0,
+    "band_high": 11853.0,
     "usd_inr_rate": 92.92,
     "usd_inr_as_of": "2026-11-23",
     "usd_inr_daily_pct": 0.259,
     "usd_inr_7d_pct": -1.075,
     "factors": [
-      "7-day gold trend down (-5.03%)",
-      "Near 30D low (7%) — possible stabilisation/bounce",
+      "7-day gold trend down (-4.09%)",
+      "Near 30D low (13%) — possible stabilisation/bounce",
       "USD/INR 92.92 (+0.26% today)",
       "Rupee stronger ₹ vs USD over 7D (-1.07%)",
-      "Global headlines lean bearish (1/5) · 3 from recognised sources"
+      "Global headlines mixed/neutral · 1 from recognised sources"
     ],
     "news": [
-      {
-        "title": "Gold price forecast: Goldman Sachs sees $4,650 by 2027 despite US rate pressures — what investors should do - Livemint",
-        "source": "Livemint",
-        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQSlN0V3VUeW5aTFNRRzRvamprQVRoUGZhUmNyQm90R29kdW5WeDc0cjZrVUV1XzZXbTJ1U1lFNUVQNGlYWWszMlVzbzdOMkxjaTM3THVxRFdmRDFZNDJVaXhSYzFwcUhmRkVYdjMzcDh1aE1tdHZFekxBazhTWFJKVTdPQ25odmNBQ2lJSHBzY1FlM2lILWFneV9DeXgwaGhrTU9BRU5KWXo4U3B0MkdEemctcS1teDRycmJtVGE3OWdkcVhSak1DczBEdkN1UHlkRVZsXzJId1pCaGF5YnhiWUYxQmRZMjRqMENXcTJNUnROb2VKcmVEYTc4bUFNXzdS0gGGAkFVX3lxTE10WGFDamlZNG5yTEk0QmtQeFUzMXBNQ0pKelhVYjRQUlJiUkJIWEtYWWYyM1RSb3p0WW9GRHpqOWhubmpkRWNQRE1ScC1NVTJEQXdvUG0xa0FMYVVSTmRFaXJMQWdxbU9FbDVMcDZkdXlWREY2MXIyRldYYnNzWnhnVkdwR0ZBTV9VaU1hWlNzMEFjcFB0R0tEVF96VWJZTXhXZHNMWURUdFg2R3FqQTg4U0JmQlh2OGlNd2FXSU5TVjB0MHhDRE04bDduV2ZxUm1KMmEtbnQyRG9oTHVkXzRZOXQ5cng2dnBBc3pvQ3FDS0t2OVdwZVBZUF9rTTBuSXRXN3U0MVE?oc=5",
-        "published": "Mon, 23 Nov 2026 09:31:47 GMT",
-        "tone": "neutral",
-        "reliable": true
-      },
       {
         "title": "Gold price rallies above $3,600 as AI selloff reshapes Fed outlook - Kitco AM Report - Kitco",
         "source": "Kitco",
@@ -85,26 +77,34 @@
         "reliable": true
       },
       {
-        "title": "Gold rises as bargain hunters step in after steep weekly drop - Reuters",
-        "source": "Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcnBFWkZLYUFtZG40ejNhc0xINGhEOGZWSnl2M1RabDhRbUstel9yOEtXTTczcW44cEw3b2lvbEMyaExOeDRLNnRWVFdOMU4xZDQ5bkd2YlJaUklBTWNMSDlFWDVZd2VxUEtpbXBqVUlMY3dDM0dmWXVfOW1CWG9oUVJIZ3BhWWltclFMZVF5ck1oZ2pUVUMwVWZVMVhlU1FrbmZuWGpLSW5jMUU?oc=5",
-        "published": "Mon, 23 Nov 2026 05:49:00 GMT",
-        "tone": "bearish",
-        "reliable": true
-      },
-      {
-        "title": "'Everything Crash' Sees Gold Price Extend Longest Slump Since 1970 - BullionVault",
-        "source": "BullionVault",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY0Qwdm5RRlNVeVhxUnY5aHFwQWxTT1A2MzhzanZidl9Ed29NeU1YLVpIYl9oLWhXUGxGRFFZekFucEhZVC1qVzFpM3JWYjNsck5BaEZ5MFBLdmJXSnZjN1J6LWw0S1E2QjQzYk1pbDRXelJhVnNTU3NtSVZadHN3a1Y1cGE1VzQ3RW5hRzRHaTU?oc=5",
-        "published": "Fri, 20 Nov 2026 17:34:15 GMT",
-        "tone": "neutral",
-        "reliable": false
-      },
-      {
         "title": "Current price of gold as of November 23, 2026 - Fortune",
         "source": "Fortune",
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9jSXg1NnZPb2Q4ZWlxMG9abUt4VC16clFTWWNzMTJaY2pxNkFyWlpyOEVIcDJCckVXQUtwSTloLUJMUVRxX1ZMNmd5N1FmMl9DS3J3enF5U19ZYndteTYxSnhzUW5tZzZiQWZVQ0VB?oc=5",
         "published": "Mon, 23 Nov 2026 14:05:00 GMT",
+        "tone": "neutral",
+        "reliable": false
+      },
+      {
+        "title": "Gold Price Today on November 24, 2026 - USA Today",
+        "source": "USA Today",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdGV2LUZjZ21fUTFpcmtid3FCeXkxS3V5WXNZZ3lBdE1ZZ1hlaXhsdVJMVWZhdVhYeEdTVDFaOVJ2R3RPVG9Lb0tHWGIwWFhvcVo2U2FvX3l2NFdIVEdnMjJkWG9EX0pGa25LR0l2cWlYZ3hqVFJpQ1F6MU11bTAweGtZU1pXaUVWeGlXUHMyWjF1b1VGazAwZ2M3OEp5NVZHbUww?oc=5",
+        "published": "Tue, 24 Nov 2026 11:10:13 GMT",
+        "tone": "neutral",
+        "reliable": false
+      },
+      {
+        "title": "Gold price today, Tuesday, November 24, 2026: Gold prices improve, lift from 14-month lows - Yahoo Finance",
+        "source": "Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUm1WdnRQTjdyY2N0S3VsSmR1WTliSS1xdXV1eTh1VUdHaURrcWVjcmw1bTVXNElvUkdFcDhEVjdBdnh2cnFSQ3ZERWFqUWI2bDBlZFBabWp6TFJFMVlHRzFYRnlUU3NudE4wbmRCREJLWUpjVWpGbEg3S1cyOExfUld0cWVldWktcU5SQ2RPSWhEbDV5WVlLNVA0Z0dIN05ocHJWS0hfMWF3c1RwWGJPejRaLTAzZVpBN1E2cmtYVlhkcG93Vl9wc2VydllMa29aNEk4cHZvQk42SXFtTXFfd05XS3lydG9ZN0xjU2xCdGg2bVE?oc=5",
+        "published": "Tue, 24 Nov 2026 12:18:21 GMT",
+        "tone": "neutral",
+        "reliable": false
+      },
+      {
+        "title": "Gold price today: XAU/USD rebounds as banks assess 2027 outlook - Beinsure",
+        "source": "Beinsure",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9nRnY3U3BWSGlpcXVMckdxVC03RHppZU1fdlU5MlNna19ZbmVqQjVfZEN5d0FodFM1VHdkcGV3b2dGVUdrVlhnZFZsYUZlR19XbjgwY0NmNTFuYVVHTk9zVURhLUY?oc=5",
+        "published": "Mon, 23 Nov 2026 21:38:19 GMT",
         "tone": "neutral",
         "reliable": false
       }
