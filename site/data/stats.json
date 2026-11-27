@@ -1,16 +1,16 @@
 {
   "today_price": 11770.0,
-  "yesterday_price": 11300.0,
-  "daily_change": 470.0,
-  "daily_change_percent": 4.16,
-  "daily_direction": "up",
+  "yesterday_price": 11770.0,
+  "daily_change": 0.0,
+  "daily_change_percent": 0.0,
+  "daily_direction": "flat",
   "position_30d": 22.54,
   "classification": "LOW_RANGE",
   "classification_label": "LOW RANGE",
   "period_7d": {
     "low": 11300.0,
     "high": 11770.0,
-    "average": 11533.57,
+    "average": 11577.14,
     "change": 305.0,
     "change_percent": 2.66,
     "count": 7
@@ -18,15 +18,15 @@
   "period_30d": {
     "low": 11300.0,
     "high": 13385.0,
-    "average": 12491.83,
-    "change": -1425.0,
-    "change_percent": -10.8,
+    "average": 12444.33,
+    "change": -1270.0,
+    "change_percent": -9.74,
     "count": 30
   },
   "period_90d": {
     "low": 11300.0,
-    "high": 14505.0,
-    "average": 13388.0,
+    "high": 14370.0,
+    "average": 13357.61,
     "change": null,
     "change_percent": null,
     "count": 90
@@ -34,14 +34,14 @@
   "period_365d": {
     "low": 11300.0,
     "high": 16061.1,
-    "average": 13522.85,
+    "average": 13516.41,
     "change": null,
     "change_percent": null,
-    "count": 271
+    "count": 272
   },
-  "history_days": 308,
-  "as_of_date": "2026-11-27",
-  "last_updated": "2026-11-27T18:57:10.857019+05:30",
+  "history_days": 309,
+  "as_of_date": "2026-11-28",
+  "last_updated": "2026-11-28T03:03:38.209470+05:30",
   "city": "Hyderabad",
   "karat": "22K",
   "source": "goodreturns",
@@ -53,22 +53,30 @@
     "bias": "SLIGHTLY_UP",
     "bias_label": "Slightly upward bias",
     "confidence": "MEDIUM",
-    "score": 26.6,
+    "score": 66.6,
     "band_low": 11594.0,
     "band_high": 11946.0,
-    "usd_inr_rate": 92.45,
-    "usd_inr_as_of": "2026-11-26",
-    "usd_inr_daily_pct": 0.228,
-    "usd_inr_7d_pct": -0.911,
+    "usd_inr_rate": 93.0,
+    "usd_inr_as_of": "2026-11-27",
+    "usd_inr_daily_pct": 0.595,
+    "usd_inr_7d_pct": 0.345,
     "factors": [
       "7-day gold trend up (+2.66%)",
-      "USD/INR 92.45 (+0.23% today)",
-      "Rupee stronger ₹ vs USD over 7D (-0.91%)",
-      "Global headlines lean bullish (1/5) · 2 from recognised sources"
+      "USD/INR 93.00 (+0.59% today)",
+      "Rupee weaker ₹ vs USD over 7D (+0.34%)",
+      "Global headlines lean bullish (1/5) · 4 from recognised sources"
     ],
     "news": [
       {
-        "title": "Gold gains more than 3% as dollar rally stalls, equities stabilise - Reuters",
+        "title": "Gold Steadies as Fed Rate Path and AI Stocks Frame Volatile Week - Bloomberg",
+        "source": "Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdjBId0RKMFpkWFQ3R3VMeVV3T0VOMEI5dzRuWWZaMGNLVFBtRXZoWjJlWHhsdXVqdGNYT2NNc3ctSU9zdXpCR3ZaSXFENDhwQ1BQa1RqV01palJ3LWcxOWFnRXZFRm40NGRTaU9XYU9yOGF2WXAtV0lxOEdDcWZmSUxfYlZfZENjV3JUX0k5YmstSkk3V1ZWVWpkR1VjdDNzdkF6ZGxSNXpOZ1AxZmlGNThJTE0zUQ?oc=5",
+        "published": "Fri, 27 Nov 2026 19:21:40 GMT",
+        "tone": "neutral",
+        "reliable": true
+      },
+      {
+        "title": "Gold pares gains as Fed-hike risks linger, eyes first weekly rise in three weeks - Reuters",
         "source": "Reuters",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYW55b1BZTkM4emFaZmljMEIzZlBhd2duLWJnRlpMaVA1UnBMaXpEQTdYU0JQUF93QWRkMEV0ZHlaUFhJM3JwTkVLSFNQcDhJSW43VEJ3ME9uQmVvaXpaVkV6eG1CWnBISXFncTVTQjI0NElBcUZDTXlNZEw0S0RCSGxFa25EX29sYzJVZHJmREFnckNW?oc=5",
         "published": "Fri, 27 Nov 2026 03:28:00 GMT",
@@ -84,20 +92,12 @@
         "reliable": true
       },
       {
-        "title": "'Everything Crash' Sees Gold Price Extend Longest Slump Since 1970 - BullionVault",
-        "source": "BullionVault",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY0Qwdm5RRlNVeVhxUnY5aHFwQWxTT1A2MzhzanZidl9Ed29NeU1YLVpIYl9oLWhXUGxGRFFZekFucEhZVC1qVzFpM3JWYjNsck5BaEZ5MFBLdmJXSnZjN1J6LWw0S1E2QjQzYk1pbDRXelJhVnNTU3NtSVZadHN3a1Y1cGE1VzQ3RW5hRzRHaTU?oc=5",
-        "published": "Fri, 20 Nov 2026 17:34:15 GMT",
+        "title": "Gold ticks up after hitting 15-month low; Fed outlook in focus - CNBC",
+        "source": "CNBC",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQa09uY3NZWGJVa0FOd00ya182THRYVmFWS2ppaTliYmpTNmdaMWFUN3hXcldXUF9xVU5JTXRRV2lXejRvTk9yOW1lMURsekM2TVdzS3FjRzFwaEVmWnRfMjlRNF9CS3FzYm96RFB4NVM2bk5WOWJsaHlEbWthTmlsZzJlYlB1QdIBiwFBVV95cUxOZUdkWjFqVjd4S1R0MmExS19oYzljeGFPRk5QS2gzaUNiWndHRl9tNEdqemxNNGphajZXdVB0RGltb0dUN2tibjNObUwwMTgwT000Mk1LbWpETFhjRkw1TVp0ZTdLMmk2VDJNd3lMcUpwaWcwd2hyeVJmRVVPTW1qekdKVEhFVkdyZ1Rj?oc=5",
+        "published": "Fri, 27 Nov 2026 03:50:00 GMT",
         "tone": "neutral",
-        "reliable": false
-      },
-      {
-        "title": "Gold Futures - CME Group",
-        "source": "CME Group",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBQZE1xS1lpN29RNGg5aTVpZDg3aUNRY2JneWhWb092Ympzbk11X1hKX25XcmFzY0tKb3M5RlJPc05GbWpjSkMtMUM0TDBxWmdHMnJGOTNGOXVqc2M3b0pPZUVuOA?oc=5",
-        "published": "Wed, 25 Nov 2026 08:00:00 GMT",
-        "tone": "neutral",
-        "reliable": false
+        "reliable": true
       },
       {
         "title": "Gold Price Crash: Could the 2026 Sell-Off Trigger a Prolonged Recovery? - Coinpedia",
